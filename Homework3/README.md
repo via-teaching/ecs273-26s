@@ -2,8 +2,8 @@
 
 This repository contains multiple templates:
 
-- `react-js-example`: A template based on react and javascript.
-- `react-ts-example`: A template based on react and typescript.
+- `react-js-example`: A template based on React and JavaScript.
+- `react-ts-example`: A template based on React and TypeScript.
 
 ## Usage
 
