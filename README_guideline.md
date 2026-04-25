@@ -2,28 +2,28 @@
 
 ## Introduction
 
-As we have already been asking you to submit your work along with a `README.md`, until now it is almost the final submission for this course. However, I have noticed that most of you are not familiar with what a README file in your project should include. Thus, I decided to share this guideline to tell you what is README and what a good README should contain.
+As we have already been asking you to submit your work along with a `README.md`. However, I have noticed that most of you are not familiar with what a README file in your project should include. Thus, I decided to share this guideline to tell you what a README is and what a good README should contain.
 
-A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about, how to set it up and how to use it.
+A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about, how to set it up, and how to use it.
 
 ## README Format
 
-`README.md` follows markdown syntax, which you can find the details at [this guidelines on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) or [here](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/).
+`README.md` follows markdown syntax; you can find the details at [guidelines on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) or [here](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/).
 
 ## Setup Instruction
 
-This section is crucial. It should clearly describe how someone can run your project from scratch — assuming they:
+This section is crucial. It should clearly describe how someone can run your project from scratch - assuming they:
 
-- Knows basics of web development
+- Know the basics of web development
 - Can use the terminal command line
 - Do not know the details of your specific project or setup
 - Expect the app to run easily if they follow instructions step by step, not guessing any missing steps or configuration
-- Asking them open random IDE WITHOUT any setup is totally unapplicable
+- Asking them to open a random IDE WITHOUT any setup is not a good practice
 
 Thus, you should write your instructions as if someone not familiar with your code at all is reading it.
 
-This part should include installing dependencies, starting services and how to run the code (including backend and frontend).
-Please do not state something like "run the code" **without any command line instructions**. Below is some example you can follow(modify according to your own structure).
+This part should include installing dependencies, starting services, and how to run the code (including backend and frontend).
+Please do not state something like "run the code" **without any command line instructions**. Below is an example you can follow (modify according to your own preference).
 
 ### A backend instruction example:
 
