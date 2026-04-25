@@ -1,4 +1,4 @@
-# How to write a Good README
+# How to Write a Good README
 
 ## Introduction
 
