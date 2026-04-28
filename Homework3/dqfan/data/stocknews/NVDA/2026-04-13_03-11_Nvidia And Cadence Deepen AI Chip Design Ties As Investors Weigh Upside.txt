@@ -1,0 +1,79 @@
+Title: Nvidia And Cadence Deepen AI Chip Design Ties As Investors Weigh Upside
+Date: 2026-04-13 03:11
+URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-cadence-deepen-ai-chip-031111277.html?.tsrc=rss
+
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+The stock market's latest rally is reviving a familiar trade — but not all of the Magnificent Seven are coming along for the ride.
+Gen Z is driving IRA contributions to record highs. Here's how to get started.
+Wall Street strategists say it's time to 'jump in' with tech stocks
+Trump says US will blockade Strait of Hormuz after Iran talks fail (Bloomberg)
+Bank earnings, US-Iran talks, and signs of stability for stocks: What to watch this week
+Shaq, in NYC discussing his new investment with retailer tm:rw, said the NBA dunk contest isn't what it used to be.
+Used car prices hit highest levels since 2023 and could push higher
+Why Starlink is so important to SpaceX's IPO
+What to know about X Money, Elon Musk's fintech app that claims to pay 6% on savings
+The housing market is shifting toward buyers. Just not in New Jersey.
+Wall Street's biggest banks are riding into the first quarter earnings season on far less certain ground than where they began 2026.
+Watch: OpenAI CEO Sam Altman's house was reportedly the target of a Molotov cocktail attack on Friday. Yahoo Finance's Dan Howley explains.
+Stocks post second straight winning week amid fragile US-Iran ceasefire
+US tariff revenue dropped by over $4 billion in March. It's down almost 30% since October.
+US stocks open higher after March CPI inflation data shows energy surge
+Inflation soars by most since 2022 as gas prices bite
+Americans close to retirement are saving for later, but they're worried about getting by right now
+Government data out Friday will show how much consumer prices rose in March — and forecasts point to soaring inflation.
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+Never miss an important update on your stock portfolioand cut through the noise. Over 7 million investors trust Simply Wall St to stay informed where it matters for FREE.
+Cadence Design Systems and Nvidia have expanded their collaboration to launch new agentic AI and AI accelerated semiconductor design solutions.
+The offerings are optimized for Nvidia Grace CPUs and Blackwell GPUs and are already adopted by major global customers, including Honda and Micron.
+The move reflects Nvidia’s push to extend its role beyond hardware into automated chip design workflows and broader AI infrastructure.
+For anyone tracking NasdaqGS:NVDA, this update sits at the intersection of AI compute and how chips actually get designed. By tying Cadence’s design tools more closely to Grace CPUs and Blackwell GPUs, Nvidia is aiming to make its platform central not only to running AI models but also to creating the next generation of semiconductors. Adoption by companies such as Honda and Micron points to usage across both automotive and memory manufacturing.
+For investors, the collaboration highlights how Nvidia is focusing on its ecosystem, where software, tools, and partners are positioned to reinforce hardware demand. As AI workflows become more automated and compute intensive, platforms that combine design and acceleration may attract more attention from chipmakers and large industrial customers that are evaluating their long term AI infrastructure choices.
+Stay updated on the most important news stories forNVIDIAby adding it to yourwatchlistorportfolio. Alternatively, explore ourCommunityto discover new perspectives on NVIDIA.
+4 things going right for NVIDIA that this headline doesn't cover.
+✅ Price vs Analyst Target: At US$188.63 versus a consensus target of about US$268.22, the current price is roughly 30% below the analyst average.
+⚖️ Simply Wall St Valuation: Shares are described as trading close to estimated fair value, so the price lines up with Simply Wall St's model.
+✅ Recent Momentum: The 30 day return of about 4.6% shows positive short term momentum.
+To decide whether to buy, sell or hold NVIDIA, you can review Simply Wall St'scompany report for the latest analysis of NVIDIA's Fair Value.
+📊 The Cadence partnership ties Nvidia's Grace CPUs and Blackwell GPUs more tightly into automated chip design, which may deepen customer reliance on its AI platform.
+📊 It can be helpful to track how many new design wins and AI workloads reference these joint solutions, and whether data center or automotive customers such as Honda and Micron expand use cases.
+⚠️ Simply Wall St highlights two key risks, including high non cash earnings, so investors may want to check how much of reported profit is backed by cash flow.
+For the full picture including more risks and potential rewards, you can read thecomplete NVIDIA analysis. You can also visit thecommunity page for NVIDIAto see how other investors believe this latest news influences the company's narrative.
+This article by Simply Wall St is general in nature.We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice.It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article includeNVDA.
+Have feedback on this article? Concerned about the content?Get in touchwith us directly.Alternatively, emaileditorial-team@simplywallst.com
+Weʼre unable to load stories right now.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

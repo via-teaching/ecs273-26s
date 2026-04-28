@@ -1,0 +1,49 @@
+Title: Prediction: This Beaten-Down Tech Stock Will Outperform the S&P 500 by 2027
+Date: 2026-04-13 02:20
+URL: https://www.fool.com/investing/2026/04/12/prediction-this-beaten-down-tech-stock-will-outper/?.tsrc=rss
+
+Content:
+Investors dumped this stock along with most others waist-deep in the artificial intelligence business. Now they're seeing the mistake.
+Last week,AmazonCEO Andy Jassy somewhat shocked investors. Extending the technological developmental work the company's already done to serve its cloud computing customers, in his recentannual letter to shareholders, Jassy floated the prospect of outright selling its home-grown artificial intelligence (AI) processor chips to third parties, potentially pitting it against industry-leadingNvidia.
+It's just an idea, of course. It's not happened yet. And maybe it never will.
+If it does end up happening, though, there's an indirect and often-overlooked beneficiary of Amazon's new opportunity. That'sArm Holdings(ARM0.68%), which largely designed several of Amazon's processing chips.
+It's often categorized as asemiconductor company, and understandably so. Arm isn't a chipmaker, however (except, it now technically is -- more on that in a moment). Rather, Arm Holdings designs microchip architecture, then licenses this know-how out to third-party developers or users, and collects licensing fees and/or royalties on this intellectual property.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Amazon is one of these licensees. Although its Trainium and Nitro processing chips were designed entirely in-house by Amazon's wholly owned Annapurna Labs, Amazon's Graviton processors are Arm-based. Amazon pays to utilize this know-how, and if it sells this silicon, it would almost certainly owe Arm a cut of this revenue.
+Image source: Getty Images.
+It's not just Amazon.Alphabet's flagship Google's Axiom processors are Arm-based as well, as areQualcomm'sSnapdragon chipsand others, includingApple's iPhone processors.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name.
+All of these companies are looking for the same thing: That's plenty of computing power with a minimal amount of power consumption. Arm's tech offers exactly that.
+It's not the only processing chip architecture out there, to be clear. Amazon's impressive Trainium chips, as a reminder, were designed by Annapurna Labs. Google's Tensor Processors are largely custom built from the ground up in-house as well.
+Broadly speaking, demand for licenses of Arm's intellectual property is heating up far more than most investors appreciate. Analysts expect the company's revenue to nearly double over the course of the coming three years and then nearly double again by 2030, more than tripling its net income as a result as players like Amazon turn into hardware sellers.
+Data source: Morningstar. Chart by author.
+See, margins in the IP licensing business are very high.
+Of course, just as Amazon and Alphabet are maneuvering away from reliance on Arm's chip architecture, just last month Arm Holdings confirmed that it's expanding its business from beyond mere licensing to include manufacturing and directly selling its own silicon. Although it's probably not quite ready to stand toe-to-toe with Nvidia on this front, it has already inked a deal with Facebook parentMeta Platforms, while several other prospects are showing interest in this new processing option.
+It does appear some investors are starting to connect the dots. What at one point was more than a 40% pullback from October's peak price has since been pared back to only a 16% setback.
+Yet there's still lots of room for this stock to keep running. Even ifartificial intelligenceisn't quite the panacea it was supposed to be, it's clear that the world's still going to need plenty of Arm's power-efficient processing chips well into the foreseeable future.
+Before you buy stock inArm Holdings, consider this:
+The Motley FoolStock Advisoranalyst team just identified what they believe are the10 best stocksfor investors to buy now… andArm Holdingswasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider whenNetflixmade this list on December 17, 2004... if you invested $1,000 at the time of our recommendation,you’d have $555,526!*Or whenNvidiamade this list on April 15, 2005... if you invested $1,000 at the time of our recommendation,you’d have $1,156,403!*
+Now, it’s worth notingStock Advisor’s total average return is968% — a market-crushing outperformance compared to191%for the S&P 500. Don't miss the latest top 10 list, available withStock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 13, 2026.
+James Brumleyhas positions in Alphabet. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, Meta Platforms, Nvidia, and Qualcomm and is short shares of Apple. The Motley Fool has adisclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+©1995-2026The Motley Fool. All rights reserved.
+Market data powered byXigniteandPolygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Top 10 Stocks to Buy Now&OurLimited-Time4-StockRule BreakersReport
+*$199 for two years is a promotional price for new members only. 67% discount based on the current list price of Stock Advisor of $199/yr. Membership will renew annually at the then current list price. Offer expires on April 13, 2026 at 11:59 pm PST.**Stock Advisor returns as of April 13, 2026.

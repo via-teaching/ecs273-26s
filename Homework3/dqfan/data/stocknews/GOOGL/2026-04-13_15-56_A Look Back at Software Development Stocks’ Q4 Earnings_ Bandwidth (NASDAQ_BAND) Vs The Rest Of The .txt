@@ -1,0 +1,91 @@
+Title: A Look Back at Software Development Stocks’ Q4 Earnings: Bandwidth (NASDAQ:BAND) Vs The Rest Of The Pack
+Date: 2026-04-13 15:56
+URL: https://finance.yahoo.com/markets/stocks/articles/look-back-software-development-stocks-155601223.html?.tsrc=rss
+
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+US stocks sink after Trump orders Hormuz blockade against Iran
+Goldman Sachs Q1 profits climb thanks to jumps in M&A dealmaking and record equity trading
+The stock market's latest rally is reviving a familiar trade — but not all of the Magnificent Seven are coming along for the ride.
+Gen Z is driving IRA contributions to record highs. Here's how to get started.
+Wall Street strategists say it's time to 'jump in' with tech stocks
+Trump says US will blockade Strait of Hormuz after Iran talks fail (Bloomberg)
+Bank earnings, US-Iran talks, and signs of stability for stocks: What to watch this week
+Shaq, in NYC discussing his new investment with retailer tm:rw, said the NBA dunk contest isn't what it used to be.
+Used car prices hit highest levels since 2023 and could push higher
+Why Starlink is so important to SpaceX's IPO
+What to know about X Money, Elon Musk's fintech app that claims to pay 6% on savings
+The housing market is shifting toward buyers. Just not in New Jersey.
+Wall Street's biggest banks are riding into the first quarter earnings season on far less certain ground than where they began 2026.
+Watch: OpenAI CEO Sam Altman's house was reportedly the target of a Molotov cocktail attack on Friday. Yahoo Finance's Dan Howley explains.
+Stocks post second straight winning week amid fragile US-Iran ceasefire
+US tariff revenue dropped by over $4 billion in March. It's down almost 30% since October.
+US stocks open higher after March CPI inflation data shows energy surge
+Inflation soars by most since 2022 as gas prices bite
+Americans close to retirement are saving for later, but they're worried about getting by right now
+Government data out Friday will show how much consumer prices rose in March — and forecasts point to soaring inflation.
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+As the Q4 earnings season wraps, let’s dig into this quarter’s best and worst performers in the software development industry, including Bandwidth (NASDAQ:BAND) and its peers.
+As legendary VC investor Marc Andreessen says, "Software is eating the world", and it touches virtually every industry. That drives increasing demand for tools helping software developers do their jobs, whether it be monitoring critical cloud infrastructure, integrating audio and video functionality, or ensuring smooth content streaming.
+What drove Fastly's impressive 146% stock surge?
+How did software development stocks perform in Q4?
+Why did some companies like GitLab decline post-earnings?
+What market concerns are affecting software companies?
+The 12 software development stocks we track reported a strong Q4. As a group, revenues beat analysts’ consensus estimates by 3.5% while next quarter’s revenue guidance was in line.
+Thankfully, share prices of the companies have been resilient as they are up 6.1% on average since the latest earnings results.
+Powering communications for tech giants like Microsoft, Google, and Zoom, Bandwidth (NASDAQ:BAND) provides cloud-based communications software and APIs that enable businesses to embed voice, messaging, and emergency services into their applications and platforms.
+Bandwidth reported revenues of $207.7 million, down 1.1% year on year. This print was in line with analysts’ expectations, and overall, it was a very strong quarter for the company with EBITDA guidance for next quarter exceeding analysts’ expectations and a solid beat of analysts’ EBITDA estimates.
+Bandwidth scored the highest full-year guidance raise but had the weakest performance against analyst estimates and weakest performance against analyst estimates of the whole group. Unsurprisingly, the stock is up 24.3% since reporting and currently trades at $16.15.
+Is now the time to buy Bandwidth?Access our full analysis of the earnings results here, it’s free.
+Taking its name from the core advantage it delivers to customers, Fastly (NASDAQ:FSLY) operates an edge cloud platform that processes, secures, and delivers web content as close to end users as possible, enabling faster digital experiences.
+Fastly reported revenues of $172.6 million, up 22.8% year on year, outperforming analysts’ expectations by 6.9%. The business had a stunning quarter with EPS guidance for next quarter exceeding analysts’ expectations and an impressive beat of analysts’ EBITDA estimates.
+The market seems happy with the results as the stock is up 146% since reporting. It currently trades at $22.89.
+Is now the time to buy Fastly?Access our full analysis of the earnings results here, it’s free.
+Originally pioneering hyperconverged infrastructure to break down traditional data center silos, Nutanix (NASDAQ:NTNX) provides a unified software platform that enables organizations to run applications and manage data across private, public, and hybrid cloud environments.
+Nutanix reported revenues of $722.8 million, up 10.4% year on year, exceeding analysts’ expectations by 1.8%. Still, it was a slower quarter as it posted revenue guidance for next quarter missing analysts’ expectations significantly and a significant miss of analysts’ billings estimates.
+As expected, the stock is down 10.4% since the results and currently trades at $34.45.
+Read our full analysis of Nutanix’s results here.
+With a massive distributed network spanning 4,100+ points of presence in nearly 130 countries, Akamai Technologies (NASDAQ:AKAM) provides a global distributed cloud platform that helps businesses deliver, secure, and optimize their digital experiences online.
+Akamai Technologies reported revenues of $1.09 billion, up 7.4% year on year. This number surpassed analysts’ expectations by 1.6%. However, it was a slower quarter as it recorded full-year EPS guidance missing analysts’ expectations significantly and EPS guidance for next quarter missing analysts’ expectations significantly.
+The stock is down 16.5% since reporting and currently trades at $91.49.
+Read our full, actionable report on Akamai Technologies here, it’s free.
+With its all-remote workforce pioneering a new approach to software development, GitLab (NASDAQ:GTLB) provides a single-application DevSecOps platform that helps development, operations, and security teams collaborate to build, secure, and deploy software faster.
+GitLab reported revenues of $260.4 million, up 23.2% year on year. This result topped analysts’ expectations by 3.4%. Zooming out, it was a mixed quarter as it also recorded an impressive beat of analysts’ EBITDA estimates but full-year guidance of slowing revenue growth.
+The stock is down 27.9% since reporting and currently trades at $19.26.
+Read our full, actionable report on GitLab here, it’s free.
+Late in 2025 into early 2026, there was hand wringing around artificial intelligence. For software companies, the fear was that AI would erode pricing power and compress margins as new tools made it easier to replicate what once required expensive enterprise platforms. Crypto investors had their own version of the same anxiety: if AI agents could trade, allocate capital, and manage wallets autonomously, what exactly was the long-term value of today’s crypto infrastructure?
+These concerns triggered a noticeable rotation away from these sectors and into safer havens. But markets rarely dwell on one narrative for long. Spring 2026 came, and the focus shifted abruptly from technological disruption to geopolitical risk. The US’ conflict with Iran became the dominant driver of market psychology, and when geopolitics takes center stage, the script changes quickly. Investors stop debating growth rates and start worrying about oil supply, inflation, and global stability.
+Want to invest in winners with rock-solid fundamentals? Check out ourTop 5 Growth Stocksand add them to your watchlist. These companies are poised for growth regardless of the political or macroeconomic climate.
+StockStory’s analyst team — all seasoned professional investors — uses quantitative analysis and automation to deliver market-beating insights faster and with higher quality.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
