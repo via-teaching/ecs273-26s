@@ -1,16 +1,23 @@
-
-import { BarChart } from "./component/example";
+import { useState } from "react";
+import { LineChart } from "./component/LineChart";
 import RenderOptions from "./component/options";
 // A "extends" B means A inherits the properties and methods from B.
 
 
 export default function App() {
+  const [selectedTicker, setSelectedTicker] = useState("AAPL");
+
   return (
     <div className="flex flex-col h-full w-full">
       <header className="bg-zinc-400 text-white p-2 flex flex-row align-center">
         <h2 className="text-left text-2xl">Homework 3</h2>
         <label htmlFor="bar-select" className="mx-2">Select a category:
-          <select id = 'bar-select' className="bg-white text-black p-2 rounded mx-2">
+          <select
+            id='bar-select'
+            className="bg-white text-black p-2 rounded mx-2"
+            value={selectedTicker}
+            onChange={(event) => setSelectedTicker(event.target.value)}
+          >
               <RenderOptions />
           </select>
         </label>
@@ -19,9 +26,9 @@ export default function App() {
         <div className="flex flex-col w-2/3">
 
           <div className="h-1/4 p-2">
-            <h3 className="text-left text-xl">View 1 to be replaced by the view title</h3>
-            <div className="border-2 border-gray-300 rounded-xl">
-              <BarChart />
+            <h3 className="text-left text-xl">Stock Overview Line Chart</h3>
+            <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
+              <LineChart selectedTicker={selectedTicker} />
             </div>
           </div>
           <div className="h-3/4 p-2">
