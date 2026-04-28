@@ -1,0 +1,14 @@
+Title: CoreWeave’s Expanded Meta Deal Shows How Fast the Market for AI Compute Is Scaling
+Date: 2026-04-09 22:33
+URL: https://www.cryptoprowl.com/releases/coreweaves-expanded-meta-deal-shows-how-fast-the-market-for-ai-compute-is-scaling-4115?.tsrc=rss
+
+Content:
+CoreWeave is getting a larger seat in one of the biggest infrastructure races in tech. The company said Thursday it has expanded its long-term agreement with Meta (NASDAQ:$META), with the new arrangement expected to provide about $21 billion in AI cloud capacity through December 2032.
+The deal builds on an existing relationship and is aimed at supporting Meta’s AI development and deployment, particularly around inference workloads.
+The size of the agreement says a lot about where this market is heading. As AI products move from launch cycles into constant deployment, demand is showing up less as one-off excitement and more as long-dated commitments for the compute required to keep those systems running at scale.
+For cloud providers like CoreWeave, that starts to make the business look less like opportunistic capacity selling and more like a core layer of the AI stack.
+CoreWeave said the dedicated capacity will be deployed across multiple locations and will include some of the initial deployments of NVIDIA’s Vera Rubin platform. The company said that distributed setup is designed to improve performance, resilience and scalability for Meta’s AI operations.
+That gives the expansion a bit more weight than a standard cloud headline, since it links next-generation infrastructure directly to one of the largest AI buyers in the market.
+“This is another example that leading companies are choosing CoreWeave’s AI cloud to run their most demanding workloads,” Co-founder and CEO Michael Intrator said in the release.
+If this pace continues, the more lasting shift may be how quickly AI infrastructure spending starts to resemble a longer-cycle capacity race, with dedicated cloud providers becoming more central to the story each quarter.
+CoreWeave Inc. (NASDAQ:$CRWV) stock is currently trading at $92.00 U.S. per share.

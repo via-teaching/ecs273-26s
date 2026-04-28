@@ -1,0 +1,86 @@
+Title: AI is supercharging the cybersecurity fight
+Date: 2026-04-09 15:08
+URL: https://finance.yahoo.com/sectors/technology/article/ai-is-supercharging-the-cybersecurity-fight-140831946.html?.tsrc=rss
+
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+The steady advance of artificial intelligence models continues to raise serious concerns about the cybersecurity threats the technology poses to companies and institutions worldwide.
+The latest example came Tuesday, when Anthropic (ANTH.PVT)announced a new cybersecurity initiative called Project Glasswing, meant to help companies find holes in their software by using the startup’s newest AI model, Claude Mythos Preview.
+There’s just one problem: Anthropic launched the initiative only because, during testing, it discovered that Claude Mythos Preview was surprisingly good at hacking software. Anthropic didn’t develop Claude Mythos Preview to hack software, either. It just turned out to be shockingly good at it.
+That’s also why Anthropic isn’t releasing the Claude Mythos Preview to the public. The company needs to develop cybersecurity safeguards to “block the model’s most dangerous outputs.”
+Now, the company is working with partners including Amazon (AMZN), Apple (AAPL), Microsoft (MSFT), and Nvidia (NVDA) through Project Glasswing to help them identify vulnerabilities in their software before similarly powerful models hit the market.
+Claude Mythos Preview, Anthropic says, has already discovered thousands of flaws in existing programs and applications, including all of the popular operating systems and web browsers.
+In one particular example of the model’s abilities, Anthropic said Mythos was able to chain together several software vulnerabilities in Linux. This popular operating system underpins much of the web and enables ordinary users to gain complete control of a computer.
+It’s not just cutting-edge models like Mythos that represent a potential cybersecurity threat, though. According to experts, the industry’s move toward AI generally represents a new opportunity for hackers to breach systems worldwide.
+“The level of opening that this provides attackers is dramatic,” Charles Harry, a research professor at the University of Maryland who leads theCenter for Governance of Technology and Systems, told Yahoo Finance.
+The good news? The same technologies can be used to prevent cyberattacks as long as defenders can catch up.
+Hackers have existed for decades, finding and exploiting software errors to steal data, take control of systems, and more.
+Humans are, well, only human, and when they write code, they occasionally make mistakes. Despite strenuous testing, those errors get overlooked and eventually ship with the final piece of software. Hackers spend their time scouring programs and applications for bugs in the hopes of using them to break into a piece of software. And tossing AI into the mix only further complicates things.
+“AI is just yet another layer of complexity on an already complex technical ecosystem,” Harry said. Attackers can exploit that complexity by finding more ways into software.
+Andrew Lohn, a senior fellow at Georgetown University’s Center for Security and Emerging Technology (CSET), said that AI coding isn’t helping either.
+“One thing that I worry about a little bit with AI, and [large language models] in general, is you can produce more code … so there’s more vulnerabilities,” he told Yahoo Finance.
+“As more code gets written by AI, and more of the code gets inspected or certified by AI, then it raises more questions about where the vulnerabilities are,” Lohn said.
+The massive push across the tech industry to take advantage of AI as quickly as possible could prompt some workers to cut corners, potentially exposing more companies to cyberattacks.
+We’ve already seen it on the offensive side. Security researcher Callum McMahon discovered a piece of malware that ricocheted from an open-source project called LightLLM to an AI training company, Mercor, last month.
+That in and of itself isn’t Earth-shattering.But according to TechCrunch,McMahonand AI researcherAndrej Karpathyfound that the malware was “vibe coded,” meaning the attacker created it using AI. The reason McMahon found it? The malware itself contained an error that crashed his computer.
+And if those errors are happening on the offensive side, they’re certainly happening on the defensive side.
+Anthropic also suffered a cybersecurity incident last week, though the company said the leak of some of its source code was the result of human error, not a cyberattack. Still, Lohn said the push to go faster makes similar instances more likely.
+It’s not all negative news, though. Just as AI can be used to attack different pieces of software, it can be used to defend against attacks as well. Companies across the spectrum are implementing AI into their cybersecurity systems to detect attacks early and address them promptly.
+Harry, however, cautioned that as organizations lean further into AI defense, malicious actors will look for increasingly clever ways to hide their attacks. And the fighting will continue.
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at@DanielHowley.
+For the latest earnings reports and analysis, earnings whispers and expectations, and company earnings news, click here
+Read the latest financial and business news from Yahoo Finance
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
