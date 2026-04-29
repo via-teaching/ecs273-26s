@@ -1,0 +1,50 @@
+Title: Tech Sell-Off: 2 "Magnificent Seven" Stocks to Buy With $500 and Hold Forever
+Date: 2026-04-09 14:25
+URL: https://www.fool.com/investing/2026/04/09/tech-sell-off-magnificent-seven-stocks-buy-hold/?.tsrc=rss
+Content:
+The recent stock market sell-off is presenting investors with an opportunity to buy some of America's highest-quality stocks at a discount.
+In 2023, Wall Street analyst Michael Hartnett nicknamed a group of America's largest companies the "Magnificent Seven" because of their dominance in various areas of the technology industry and their tendency to generate faster revenue and earnings growth than the rest of the market. The companies (in no particular order) are:
+The Magnificent Seven consistently deliver higher returns than the rest of the stock market, but they are suffering a rare period of underperformance right now. The Nasdaq-100 index is down 4.8% in 2026 so far because of the ongoing geopolitical tensions in the Middle East, whereas the average Magnificent Seven stock has suffered a much sharper year-to-date decline of 11.5%. 
+
+Data by YCharts.
+High-growth stocks tend to experience more volatility during times of uncertainty, but this also creates buying opportunities. There is a legitimate case for owning each of the Magnificent Seven stocks, but I want to highlight Amazon and Alphabet, which look particularly attractive right now. Investors with $500 available to invest can pick up a single share in each company; here's why it might be a smart move.
+Image source: Getty Images.
+Amazon was a pioneer of the e-commerce industry in the late 1990s, and the Amazon.com retail platform is still its single largest source of revenue. However, the company has leveraged its success to enter other markets, like streaming, digital advertising, and cloud computing, over the last 20 years. The expansion is paying off, particularly in the cloud industry, where Amazon Web Services (AWS) is now the undisputed leader.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+AWS offers hundreds of solutions to help businesses thrive in the digital age, from simple data storage to complex software development tools, but the platform has also become the center of Amazon's artificial intelligence (AI) strategy. AWS now operates hundreds of specialized data centers all over the world, and it rents the computing capacity to businesses so they can develop and deploy AI software.
+These data centers are fitted with specialized AI chips from suppliers like Nvidia, but Amazon also designed its own. Its latest Trainium2 chip delivers 40% better price performance than competing hardware, and Trainium3, which launched recently, offers a further improvement of 40%. Amazon ended 2025 with a $244 billion order backlog for computing capacity from its cloud customers, and designing its own chips in-house will help the company bring data centers online much faster than relying on third-party suppliers. 
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor’s total average return is 946%* — a market-crushing outperformance compared to 190% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of April 9, 2026. 
+AWS generated $128.7 billion in total revenue in 2025, and its fourth-quarter growth rate of 24% was the fastest since the third quarter of 2022, which highlights the platform's incredible AI-driven momentum. AWS is also Amazon's most profitable business unit, accounting for more than half of the company's operating income in 2025. 
+While Amazon stock is down 9% in 2026, it's also down 17% from last year's record high. It now trades at a price-to-earnings (P/E) ratio of just 29.2, which is close to the cheapest level since it went public almost 30 years ago. In my opinion, this presents long-term investors with a very attractive entry point.
+
+Data by YCharts.
+Alphabet is the parent company of Google, YouTube, Waymo, DeepMind, and more. It's one of Amazon's biggest competitors in the cloud space through its Google Cloud platform, which offers many of the same services as AWS.
+Google Cloud is one of Nvidia's biggest data center customers, but Alphabet also designed its own chips, called Tensor Processing Units (TPUs), which are even more specialized for AI workloads than traditional graphics processing units (GPUs). In fact, Alphabet used its latest Ironwood TPUs to train its Gemini 3 family of large language models (LLMs), which are among the most powerful in the AI industry.
+More than 120,000 enterprises around the world tap into the Gemini models through Google Cloud, which they use as a foundation for their own custom AI software. This is important because the more AI applications companies build on Gemini, the more tokens they consume, and the more money Google Cloud makes.
+The cloud platform generated a record $58.8 billion in revenue during 2025. Its revenue growth accelerated in each of the last three quarters, and came in at a whopping 48% in the final quarter of the year. 
+But Google Search, which remains Alphabet's largest source of revenue, also ended 2025 with accelerating growth. New features like AI Overviews and AI Mode have blended the traditional internet search experience with the convenience of AI, giving users much faster access to information. As a result, Alphabet says Google Search is experiencing higher usage than ever before, which is attracting more advertisers. 
+Alphabet stock is trading at a P/E ratio of 27.2 as I write this, so not only is it even cheaper than Amazon, but it's also cheaper than the Nasdaq-100 technology index, which has a P/E of 29.3. The recent stock market sell-off might be giving long-term investors a great entry point.
+Nvidia’s CEO just revealed that one breakthrough could create more millionaires in the next five years than the internet did in two decades.
+Amazon’s Jeff Bezos says it is “hard to overstate the impact.” And Cathie Wood projects AI could be an $80 trillion opportunity by 2030. That is the equivalent of 18 Nvidias, 29 Microsofts, or 35 Amazons.
+But here’s what most investors miss: almost all that growth runs through a single choke point. One little-known company, called an “Indispensable Monopoly,” provides the critical technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size. We just released a brand-new report with the full story and the company’s name.
+Continue ›
+Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia, and Tesla and is short shares of Apple. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 18 Nvidias.
+What in the world could be worth 18 Nvidias? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

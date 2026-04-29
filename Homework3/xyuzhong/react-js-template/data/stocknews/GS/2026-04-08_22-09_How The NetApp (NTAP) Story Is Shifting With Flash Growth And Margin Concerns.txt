@@ -1,0 +1,85 @@
+Title: How The NetApp (NTAP) Story Is Shifting With Flash Growth And Margin Concerns
+Date: 2026-04-08 22:09
+URL: https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-story-shifting-flash-220940651.html?.tsrc=rss
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian. 
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Nike set the stage for a turnaround, but global events keep getting in its way
+Bank of America rips up its economic forecasts as it braces for $100 oil all year on Iran war disruptions
+Never miss an important update on your stock portfolio and cut through the noise. Over 7 million investors trust Simply Wall St to stay informed where it matters for FREE.
+NetApp’s latest valuation work keeps the core fair value estimate steady at US$117.93, while recent Street price targets span roughly US$88 to US$120 and include a fresh initiation at US$128. That spread lines up with current analyst debate, where some see long term upside tied to flash and public cloud growth and others focus on margin pressure and higher memory costs when trimming targets toward the high US$80s to low US$110s. As you read on, you will see how to track these shifting targets and what they may mean for your own view on NetApp.
+Analyst Price Targets don't always capture the full story. Head over to our Company Report to find new ways to value NetApp.
+Goldman Sachs set one of the higher targets at US$128 when it initiated coverage with a Buy rating, highlighting NetApp's position in all flash storage and exposure to faster growing media and data types.
+Barclays kept an Overweight rating even after trimming its target to US$120 from US$134, indicating confidence in the equity case despite pointing to weaker product margins in the latest quarter.
+BofA, with a Neutral rating and a reduced target of US$115 from US$129, pointed to mix shift toward flash and public cloud revenue as a supportive long term element against current cost pressures.
+Morgan Stanley cut its target to US$88 from US$89 and maintains an Underweight rating, flagging higher memory costs and limited pre purchase activity as risks to product gross margins and demand in FY27.
+Citi and UBS both sit at Neutral with targets of US$114 and US$113 respectively, reflecting mixed end demand commentary and a more balanced view on execution versus margin and component cost risks.
+Do your thoughts align with the Bull or Bear Analysts? Perhaps you think there's more to the story. Head to the Simply Wall St Community to discover more perspectives!
+See how NetApp's fair value stacks up across multiple valuation models — not just analyst targets.
+NetApp and Commvault formed a data protection alliance that combines NetApp’s AI driven ransomware detection with Commvault’s protection and recovery tools to support automated, large scale cyber recovery across on premises and cloud environments.
+NetApp is adding Elastio’s Provable Recovery Control to its Ransomware Resilience Service to inspect ONTAP snapshots, aiming to identify clean recovery points and address ransomware that may sit in backups and snapshots.
+NetApp launched next generation EF50 and EF80 EF Series storage systems, targeting AI, high performance computing and transactional database workloads, with stated read throughput over 110 GBps, write throughput of 55 GBps and 1.5 PB of storage in a 2U form factor.
+NetApp announced the NetApp AI Data Engine, a unified AI data platform stack co engineered with NVIDIA, with an initial rollout to lighthouse customers and broader availability expected in early summer.
+Fair Value: Core fair value estimate remains at US$117.93 with no change in the latest update.
+Revenue Growth: Long term revenue growth assumption is steady at 5.29%.
+Net Profit Margin: Net profit margin assumption holds at 19.61%.
+P/E Ratio: Future P/E multiple shifts slightly from 18.50x to 18.49x.
+Discount Rate: The discount rate edges down from 8.62% to 8.59%.
+Narratives connect a company's business story with analyst forecasts and a fair value framework, so you can see how headlines, guidance, and earnings all fit together. They refresh as new data and commentary come through, giving you a living view of the thesis.
+Head over to the Simply Wall St Community and follow the Narrative on NetApp to stay up to date on:
+How AI, analytics, and hybrid cloud demand feed into NetApp's flash and cloud storage growth story, including wins in AI workloads and Storage as a Service.
+The role of hyperscaler partnerships with AWS, Azure, and Google Cloud in supporting recurring, subscription based revenue and gross margin stability.
+Key risks like pressure on traditional on premises product revenue, dependence on cloud partners, geographic concentration, and tougher pricing competition in storage.
+ This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include NTAP.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
