@@ -34,7 +34,7 @@ function App() {
             </div>
           </div>
           <div className="h-3/4 p-2">
-            <h3 className="text-left text-xl h-8 mt-8">
+            <h3 className="text-left text-xl h-8">
               T-SNE Scatter Plot — {selectedStock}
             </h3>
             <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
