@@ -1,0 +1,59 @@
+Title: 2 Ridiculously Cheap AI Stocks That Could Turn $1,000 Into at Least $5,000 by 2028
+Date: 2026-04-09 17:43
+URL: https://www.fool.com/investing/2026/04/09/2-ridiculously-cheap-artificial-intelligence-ai-st/?.tsrc=rss
+Content:
+These AI infrastructure stocks have multibagger potential.
+Artificial intelligence (AI) stocks continue to post outstanding revenue and earnings growth quarter after quarter, but stock prices in the sector have been under pressure of late due to an array of macroeconomic and geopolitical factors. Investors, therefore, can now buy some top AI stocks at really attractive valuations, as the strong top- and bottom-line growth that they have been achieving has not yet been fully factored into their prices.
+If you have $1,000 in investible cash right now, I'd suggest putting that money into Micron Technology (MU +1.52%) and CoreWeave (CRWV +5.25%). Both stocks are trading at extremely attractive valuations, and they could increase your investment by at least fivefold in the next couple of years. 
+Image source: Getty Images.
+Micron Technology has made its shareholders significantly richer over the past year, and it can keep doing so, as its latest quarterly results show. The memory specialist reported blowout numbers for its fiscal Q2 2026 on March 18, annihilating Wall Street's expectations. Management also offered phenomenal guidance for the current quarter.
+However, Micron's stock has retreated 30% since it delivered that quarterly report. Concerns about management's increasing capital expenditures (capex) and its ability to further improve its margins have been headwinds for the stock, but that's good news for savvy investors looking to buy a fast-growing company on the cheap.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+The stock trades at a sales multiple of 8.2 and just under 20 times earnings. Its forward earnings multiple of just 7.6 screams "value." For a company whose revenue almost tripled in the previous quarter and whose earnings shot up by 682% year over year, those multiples are too cheap to ignore.
+Investors would probably be making a mistake by not buying this memory stock right now because the commodity it sells is in short supply, primarily due to high demand from AI data centers. Last year, Micron peer SK Hynix said it anticipated demand for AI data center memory chips, known as high-bandwidth memory (HBM), would increase at a compound annual rate of 30% through 2030.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+A single gigabyte (GB) of HBM consumes three times the wafer capacity that's needed to manufacture 1 GB of the latest generation of traditional dynamic random access memory (DRAM). So, the strong jump in HBM demand explains why manufacturers are anticipating that supply will remain tight for the next three to five years.
+As a result, Micron is likely to continue benefiting from favorable memory pricing, which is why its earnings are expected to surge.
+
+MU EPS Estimates for Current Fiscal Year data by YCharts.
+Assuming Micron does achieve $98.91 per share in earnings in the next fiscal year, and that its forward earnings multiple adjusts to 23 -- in line with that of the tech-laden Nasdaq 100 index -- its stock price could jump to $2,275. That would be a sixfold jump from current levels.
+And as the memory supply deficit is estimated to last until 2030, this semiconductor stock could post even bigger gains by the end of the decade, which is why buying it at its current valuation is a no-brainer.
+CoreWeave stock is down 39% over the past six months, and trading at just 7 times sales. That's a very attractive valuation for a company that is growing its revenues exponentially.
+Hyperscalers and AI companies have been using CoreWeave's dedicated AI data centers to run their workloads. It has huge contracts with the likes of OpenAI, Meta Platforms, and Microsoft. And it has been diversifying its customer base by adding new customers such as IBM and Mistral AI.
+The growing demand for the company's data centers is why it is aggressively building more. Its capex is poised to jump from $14.9 billion in 2025 to between $30 billion and $35 billion this year. Those rapidly rising outlays are probably spooking some investors, but those who are concerned should note that CoreWeave's revenue backlog jumped by 342% year over year in the fourth quarter to $66.8 billion.
+Its annual revenue, for comparison, rose 168% to $5.1 billion. Given that CoreWeave continues to add customers amid growing demand for data center computing capacity, it needs to aggressively expand its infrastructure. The company aims to increase its active data center capacity to 3,100 megawatts by the end of 2027, an almost fourfold jump from the 850 megawatts it operated last year.
+The aggressive expansion explains the rapid growth that analysts expect in the business' top line.
+
+CRWV Revenue Estimates for Current Fiscal Year data by YCharts.
+Their consensus forecasts are for revenue to increase by a multiple of 7 in just three years. That's why this tech stock deserves a higher price-to-sales multiple. Currently, it trades at a P/S of 7, a slight discount to the U.S. tech sector's average multiple of 7.7. But even if CoreWeave is still trading at 7 times sales in 2028, if it achieves $34.5 billion in revenue that year (as per the chart), its market cap could reach $241.5 billion.
+That's almost 5.6 times its current figure. Moreover, CoreWeave stock could sustain its red-hot momentum beyond the next couple of years since data center demand is anticipated to remain robust until 2030, which means investors can buy this potential long-term winner at a ridiculously cheap valuation right now.
+
+ 
+
+
+Before you buy stock in CoreWeave, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and CoreWeave wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $536,003!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,116,248!*
+Now, it’s worth noting Stock Advisor’s total average return is 946% — a market-crushing outperformance compared to 190% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 9, 2026. 
+
+Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends International Business Machines, Meta Platforms, Micron Technology, and Microsoft. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
