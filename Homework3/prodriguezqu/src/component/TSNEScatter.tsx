@@ -34,6 +34,7 @@ export function TSNEScatter({ selectedTicker }: TSNEScatterProps) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [rows, setRows] = useState<TSNERow[]>([]);
   const [containerWidth, setContainerWidth] = useState(0);
+  const [containerHeight, setContainerHeight] = useState(0);
 
   useEffect(() => {
     const csvText = tsneFiles["../../data/tsne.csv"];
@@ -59,7 +60,9 @@ export function TSNEScatter({ selectedTicker }: TSNEScatterProps) {
 
     const updateSize = () => {
       const width = containerRef.current?.clientWidth ?? 0;
+      const height = containerRef.current?.clientHeight ?? 0;
       setContainerWidth(width);
+      setContainerHeight(height);
     };
 
     updateSize();
@@ -73,13 +76,13 @@ export function TSNEScatter({ selectedTicker }: TSNEScatterProps) {
   }, []);
 
   useEffect(() => {
-    if (!svgRef.current || rows.length === 0 || containerWidth === 0) return;
+    if (!svgRef.current || rows.length === 0 || containerWidth === 0 || containerHeight === 0) return;
 
     const svg = d3.select(svgRef.current);
     svg.selectAll("*").remove();
 
     const width = containerWidth;
-    const height = 460;
+    const height = Math.max(containerHeight, 260);
 
     svg.attr("width", width).attr("height", height);
 
@@ -181,7 +184,7 @@ export function TSNEScatter({ selectedTicker }: TSNEScatterProps) {
       });
 
     svg.call(zoom);
-  }, [rows, containerWidth, selectedTicker]);
+  }, [rows, containerWidth, containerHeight, selectedTicker]);
 
   const legendEntries = Object.entries(categoryColors);
 
@@ -209,7 +212,7 @@ export function TSNEScatter({ selectedTicker }: TSNEScatterProps) {
         <div className="flex items-center justify-center h-full text-gray-500">
           No t-SNE data found.
         </div>
-      ) : containerWidth === 0 ? (
+      ) : containerWidth === 0 || containerHeight === 0 ? (
         <div className="flex items-center justify-center h-full text-gray-500">
           Loading scatter plot...
         </div>

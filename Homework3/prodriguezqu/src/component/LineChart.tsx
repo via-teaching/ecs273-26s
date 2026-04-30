@@ -32,6 +32,7 @@ export function LineChart({ selectedTicker }: LineChartProps) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [rows, setRows] = useState<StockRow[]>([]);
   const [containerWidth, setContainerWidth] = useState(0);
+  const [containerHeight, setContainerHeight] = useState(0);
   const [zoomMode, setZoomMode] = useState<"x" | "xy">("x");
 
   useEffect(() => {
@@ -59,7 +60,9 @@ export function LineChart({ selectedTicker }: LineChartProps) {
 
     const updateSize = () => {
       const width = containerRef.current?.clientWidth ?? 0;
+      const height = containerRef.current?.clientHeight ?? 0;
       setContainerWidth(width);
+      setContainerHeight(height);
     };
 
     updateSize();
@@ -73,13 +76,13 @@ export function LineChart({ selectedTicker }: LineChartProps) {
   }, []);
 
   useEffect(() => {
-    if (!svgRef.current || rows.length === 0 || containerWidth === 0) return;
+    if (!svgRef.current || rows.length === 0 || containerWidth === 0 || containerHeight === 0) return;
 
     const svg = d3.select(svgRef.current);
     svg.selectAll("*").remove();
 
     const width = containerWidth;
-    const height = 320;
+    const height = Math.max(containerHeight, 220);
 
     svg.attr("width", width).attr("height", height);
 
@@ -193,7 +196,7 @@ export function LineChart({ selectedTicker }: LineChartProps) {
       });
 
     svg.call(zoom);
-  }, [rows, containerWidth, selectedTicker, zoomMode]);
+  }, [rows, containerWidth, containerHeight, selectedTicker, zoomMode]);
 
   return (
     <div ref={containerRef} className="relative w-full h-full overflow-hidden">
@@ -218,7 +221,7 @@ export function LineChart({ selectedTicker }: LineChartProps) {
         <div className="mt-2 text-xs text-gray-600">
           drag to pan after zooming
         </div>
-        <div className="mt-2 space-y-1">
+        <div className="mt-2 grid grid-cols-2 gap-x-4 gap-y-1">
           <div className="flex items-center gap-2">
             <span className="inline-block h-1 w-5" style={{ backgroundColor: lineColors.open }}></span>
             <span>Open</span>
@@ -241,7 +244,7 @@ export function LineChart({ selectedTicker }: LineChartProps) {
         <div className="flex items-center justify-center h-full text-gray-500">
           No stock data found.
         </div>
-      ) : containerWidth === 0 ? (
+      ) : containerWidth === 0 || containerHeight === 0 ? (
         <div className="flex items-center justify-center h-full text-gray-500">
           Loading chart...
         </div>
