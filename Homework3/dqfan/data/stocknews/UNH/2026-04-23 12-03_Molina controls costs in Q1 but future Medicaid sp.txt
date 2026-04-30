@@ -1,0 +1,74 @@
+Title: Molina controls costs in Q1 but future Medicaid spending in doubt
+Date: 2026-04-23 12:03
+URL: https://www.healthcaredive.com/news/molina-moh-q1-2026-cost-control-medicaid-doubt/818236/?.tsrc=rss
+
+Let Healthcare Dive’s free newsletter keep you informed, straight from your inbox.
+                    
+                
+            
+The insurer beat analyst expectations for adjusted earnings in the first quarter. But steeper Medicaid membership losses than expected could saddle Molina with higher costs.
+Molina benefited from better controlled Medicaid spending in the first quarter, though steeper membership losses than expected raise questions about whether the insurer can keep costs in hand for the remainder of 2026.
+Molina posted better-than-expected first quarter earnings on Wednesday afternoon, sending the insurer’s stock up more than 10% in Thursday morning’s trade.
+Yet, unlike its peers UnitedHealth and Elevance, which both raised 2026 guidance after keeping medical spending in check, Molina elected to reaffirm its outlook.
+Executives said retaining the current 2026 guidance is prudent given it’s early in the year and the cost environment remains challenging. Still, they hinted Molina might update the outlook after the second quarter.
+But a lot remains up in the air despite Molina’s relatively buoyant start to 2026.
+The Trump administration’s efforts to curtail what it views as overly permissive Medicaid enrollment, especially for undocumented immigrants, have caused Molina to lose more Medicaid members than expected.
+That membership decline could coincide with an increase in spending if the members who remain are sicker than those who left — a worry Molina executives attempted to convince investors was overblown on a Thursday morning call.
+Washington is also creating challenges for Molina’s Affordable Care Act plans, while Molina’s decision to prune its underperforming Medicare Advantage business is also eating into the company’s bottom line.
+Overall, Molina brought in just $14 million in profit in the quarter, compared to a profit of $298 million in the first quarter last year.
+Slipping profits reflected higher administrative spending, along with a $93 million impairment charge related to Molina’s planned exit of certain MA plans, according to financial documents.
+Molina’s revenue also dipped by 3% year over year to $10.8 billion as membership losses ate into the insurer’s premiums.
+Insurers like Molina with a heavy presence in government programs, where they have less direct control over reimbursement, have struggled to contain rising costs as members consume more medical care that becomes more expensive.
+Keep up with the story. Subscribe to the Healthcare Dive free daily newsletter
+Earlier this year, Molina, which covers 5 million members mostly in Medicaid, posted a significant fourth-quarter miss and forecast its 2026 earnings would be less than half of what analysts expected, sending shares in the company plummeting.
+Molina’s dour earnings outlook illustrates that insurers think it’ll remain difficult to turn a profit in programs like Medicaid and the ACA this year.
+In Medicaid, states’ payment rates haven’t kept pace with elevated costs of care, despite insurers lobbying heavily for rate hikes.
+Acuity has also been rising in ACA plans. And sharp premium increases for coverage this year have set off turmoil in the exchanges, with some enrollees exiting the ACA markets entirely and many of those remaining electing for cheaper but less comprehensive plans.
+The privatized MA program has also been pressured by higher spending, leading Molina to say it would stop offering MA plans with drug coverage for 2027, given the business was dragging down its earnings potential.
+But things appear to be looking up in the first quarter, with Molina beating analyst expectations for adjusted earnings on better controlled medical costs.
+“We are pleased with our solid first quarter results and continued disciplined approach to medical cost management,” CEO Joe Zubretsky said on the call.
+The insurer notched a medical loss ratio, an important marker of spending on patient care, of 91.1% in the quarter, about a percentage point below analyst expectations. (Lower is better for MLR, though the metric has to stay above a certain threshold in government programs.)
+Importantly, the profitability of Molina’s Medicaid business — the company’s bread and butter — improved, recording an MLR of 92%, also better than analysts’ consensus expectations.
+Medical costs in the safety-net program came in below what Molina had expected, executives said.
+Last year, Molina’s Medicaid medical cost trend was 7.5%, as the insurer absorbed higher costs from states booting more members off the program after a pandemic-era pause on eligibility checks.
+The effect from that process, called redeterminations, appears to be over. Molina expects lower cost trend of about 5% this year — and trend in the first quarter was even lower than that, executives said.
+Lower utilization is a reason for optimism for Molina’s financial recovery. However, Molina is still facing uncertainty in its Medicaid business, after experiencing a steeper membership drop in the first quarter than anticipated.
+Molina’s Medicaid membership has fallen almost 2% since the end of 2025 — the insurer’s entire disenrollment expectations for all of 2026.
+Molina’s membership losses were as expected in the majority of states where it offers Medicaid coverage. But the payer underestimated losses in California, Illinois, New York and Texas, Zubretsky said.
+In California, the state’s Medicaid enrollment has been falling especially drastically among immigrants without legal status, a trend experts chalk up to Trump administration’s efforts to restrict immigrants’ access to federal health and welfare programs.
+Molina’s membership losses in the quarter were “certainly influenced by the undocumented immigrant population,” Zubretsky said.
+Overall, Molina is now forecasting a Medicaid membership drop of 6% this year, which may not bode well for the insurer’s efforts to predict and control medical spending.
+“Disenrollment beyond the -2% guidance could produce an acuity issue,” Jefferies analyst David Windley wrote in a note on Molina’s results.
+However, executives argued that Molina won’t see higher acuity, given it already lost most of its more lower utilizing members during redeterminations. Right now, that population, which Molina terms “low or no utilizers,” is at its lowest level ever in Molina’s Medicaid book, according to CFO Mark Keim.
+And people leaving Medicaid have average health needs, Keim added.
+The data suggests “any of this pent-up acuity shift is largely behind us,” the CFO said. “So yes, lower on Medicaid membership but we don’t really see an acuity impact here.”
+Molina’s Medicare business also posted a better MLR than Wall Street had expected, at 89.9%. Like many of its peers, Molina cut benefits and raised premiums for MA plans this year in order to boost margins, sacrificing membership growth as a result.
+Still, Molina’s overhaul of its MA business isn’t expected to generate positive margins this year. And the insurer’s decision to terminate its MA prescription drug business — while generating the whopping impairment charge in the quarter — might not even bring money through the doors, given a sale of the business isn’t a sure thing.
+Molina is still on the hunt for a buyer for the plans. But the company will wind down its MA prescription drug plans next year, even if a buyer can’t be found, Zubretsky said.
+Molina’s ACA business was the spending outlier in the quarter, with a worse-than-expected MLR of 84%, compared to 81.7% the same time last year.
+Molina chalked up the worsening MLR in part to the Trump administration’s effort to crack down on fraud and abuse in the exchanges. Along with preventing fraudulent enrollment, the policies also prevent valid applicants from getting coverage, health policy experts say.
+Molina has been more affected than its peers by program integrity efforts, according to Jefferies’ Windley.
+But unlike in Medicaid, Molina actually retained more ACA members than expected in the quarter, with 305,000 enrollees, compared to its expectation of 280,000 members. It’s another indicator that ACA membership is holding up better than expected, despite sky-high premiums after the loss of the COVID-era subsidies.
+Still, more members could drop off throughout the year as they elect not to pay higher premiums.
+Molina now expects to end 2026 with 250,000 ACA enrollees.
+Get the free daily newsletter read by industry experts
+The FDA said it’s sending letters to drugmakers demanding they take down or modify ads that don’t comply with federal guidelines, out of concern consumers aren’t seeing a “fair balance” of risks and benefits in drug ads.
+The agency said it would increase the number of MA plan audits and complete its backlog of reviews by investing in technology and growing its medical coding workforce.
+Subscribe to Healthcare Dive for top news, trends & analysis
+Sign up for the free  newsletter. 
+
+                Interested? Explore more of what  has to offer.
+            
+
+            Thanks for signing up!
+            Please keep an eye out for a confirmation email from
+            newsletter@ittnewsletter.com
+            To ensure we make it into your inbox regularly,
+            add us to your allow list, mark us as a safe sender, or add us to your address book.
+            Check out more from
+            
+
+Get the free daily newsletter read by industry experts
+The FDA said it’s sending letters to drugmakers demanding they take down or modify ads that don’t comply with federal guidelines, out of concern consumers aren’t seeing a “fair balance” of risks and benefits in drug ads.
+The agency said it would increase the number of MA plan audits and complete its backlog of reviews by investing in technology and growing its medical coding workforce.
+The free newsletter covering the top industry headlines
