@@ -1,0 +1,62 @@
+Title: A Claude Agent Bought These 2 Trillion-Dollar Artificial Intelligence (AI) Stocks Before the Ceasefire With Iran. Now They Are Both Rallying -- Is It Too Late to Buy?
+Date: 2026-04-14 02:50
+URL: https://www.fool.com/investing/2026/04/13/a-claude-agent-bought-these-2-trillion-dollar-arti/?.tsrc=rss
+Content:
+A developer built an artificial intelligence (AI) investing agent in Anthropic's Claude model, which decided to buy the dip on two members of the trillion-dollar club.
+When geopolitical tremors rocked the stock market ahead of the Iran ceasefire, most investors pounded the sell button. But an artificial intelligence (AI) agent built onAnthropic's Claude modelsdid the opposite -- quietly loading up onMicrosoft(MSFT+3.64%)and makingBroadcom(AVGO+2.23%)its single largest position.
+Now, both stocks are surging. The AI agent's move wasn't a lucky guess. It was the product of a system unburdened by fear -- one that analyzes balance sheets, validates backlog pipelines, and assesses adoption curves. While Wall Street scanned the same data and saw outsize risk, Claude identified asymmetry.
+Image source: Getty Images.
+Claude's portfolio isn't influenced by headlines or rhetoric that drive stock momentum. Rather, the algorithm runs on ruthless optimization: locating the widest gaps between valuation and intrinsic compounding power.
+In late March, an account on X (formerly Twitter) known as The Claude Portfolio revealed that a custom agent allocated 10% of the fund to Broadcom and swapped 8% of its turnover budget into Microsoft. Positions of this size are not incremental tweaks. They represent high-conviction ideas within the broader portfolio because Claude's models calculatedexpected returnsnorth of 20% while the next-best names hovered around low single digits.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+The difference between a Claude agent and a real-life analyst isn't an ability to process data faster. It's simply that bots lack the emotions driving sentiment and psychology. Therefore, it behaves differently compared to a human. Humans have a habit of fixating on the latest headline, rumor, or one specific figure from an earnings report.
+Claude, by contrast, treats these variables as inputs to its model rather than as definitive conclusions. In essence, AI dilutes potential concerns into simple questions:
+When our analyst team has a stock tip, it can pay to listen. After all,Stock Advisor’stotal average return is968%*— a market-crushing outperformance compared to191%for the S&P 500.
+They just revealed what they believe are the10 best stocksfor investors to buy right now,available when you joinStock Advisor.
+*Stock Advisor returns as of April 13, 2026.
+The ceasefire in Iran was, frankly, just noise rattling the technology sector. The ongoing structural buildout of AI is what's most relevant to the storyline.
+Prior to its bounce back post-ceasefire, Microsoft stock had fallen roughly 28% from its highs -- itsworst start to the year since 2008. The company was trading at a forward price-to-earnings (P/E) multiple of 20 -- 34% below the software sector average and the cheapest valuation in five years.
+To Claude, this valuation compression wasn't a signal of weakness or fracture in Microsoft's business. The selling pressure was merely a mispricing of one of the world's largest enterprise cloud platforms at a moment when its fortress was widening.
+Claude identified two vectors colliding simultaneously. First, Azure is guiding for 38% growth next quarter, supported by a staggering $625 billion revenue backlog. Second, Copilot crossed 4.7 million paid subscribers, proving thatgenerative AIis not a science experiment but a legitimate revenue engine embedding itself inside Office -- one of the most sticky enterprise software suites on the planet.
+The risk to Microsoft's growth seems obvious: Over $100 billion in AI capital expenditures will compress free cash flow in the near term. But Claude views this spending far differently than Wall Street.
+The AI trading model sees Microsoft's infrastructure budget not as a capital drain but more as the required price of scaling operating systems for the AI era. If Azure continues to grow and Copilot keeps embedding across Microsoft's vast ecosystem, the current multiple compression should be temporary as the company's earnings power becomes a staple.
+Wall Street is pricing Microsoft for fear, whereas Claude is pricing the internet giant as a long-term compounder.
+While Microsoft supplies cloud infrastructure, Broadcom supplies the silicon that fuels cloud intelligence. In late March, the Claude agent made Broadcom 10% of the portfolio -- its largest single position.
+Why was Claude so bullish on Broadcom? Because the AI recognizes that Broadcom has built a near-monopoly in the custom AI chip landscape -- controlling60% to 80% of the custom silicon market. These chips, known as application-specific integrated circuits (ASICs), are specialized accelerators that hyperscalers use to train and run next-generation models.
+During the first quarter, AI semiconductor revenue grew 106% year over year to $8.4 billion, while Broadcom's order book is on pace to reach$100 billion through 2027. Notably, Broadcom boasts hyperscalers includingAlphabet,Meta Platforms, and OpenAI as part of its growing backlog.
+Shortly after the earnings report, the thesis around Broadcom was validated as Google extended its TPU partnership through 2031. Moreover, Anthropic has committed to 3.5 gigawatts of Broadcom-powered AI TPUs starting next year. Analyst Vijay Rakesh fromMizuhoestimates that the Anthropic relationship alone could add $21 billion in revenue for Broadcom this year and reach $42 billion by 2027.
+While Wall Street discounts semiconductor stocks for cyclical risk amid macro uncertainty, Claude sees structural inevitability: AI hyperscalers are racing to build their own silicon because clusters of general-purpose chips are no longer enough to keep pace with new applications across agentic AI, robotics, and autonomous systems.
+Broadcom isn't selling commoditized shovels. The company is designing the custom-forged steel from which the shovels are made. When the ceasefire was announced and sentiment flipped, Broadcom stock simply rerated to the backlog that's been supporting the company's growth trajectory all along.
+Claude didn't buy Microsoft and Broadcom asswing trades. The agent understands that the next decade of AI will run on their rails, and those rails are only beginning to be laid. For human investors willing to adopt a similar disciplined approach to an AI-optimized portfolio, the opportunities Claude spotted are still very much alive.
+
+
+
+
+Before you buy stock inBroadcom, consider this:
+The Motley FoolStock Advisoranalyst team just identified what they believe are the10 best stocksfor investors to buy now… andBroadcomwasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider whenNetflixmade this list on December 17, 2004... if you invested $1,000 at the time of our recommendation,you’d have $555,526!*Or whenNvidiamade this list on April 15, 2005... if you invested $1,000 at the time of our recommendation,you’d have $1,156,403!*
+Now, it’s worth notingStock Advisor’s total average return is968% — a market-crushing outperformance compared to191%for the S&P 500. Don't miss the latest top 10 list, available withStock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 13, 2026.
+
+Adam Spataccohas positions in Alphabet, Meta Platforms, and Microsoft. The Motley Fool has positions in and recommends Alphabet, Broadcom, Meta Platforms, and Microsoft. The Motley Fool has adisclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+©1995-2026The Motley Fool. All rights reserved.
+Market data powered byXigniteandPolygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Top 10 Stocks to Buy Now&OurLimited-Time4-StockRule BreakersReport
+*$199 for two years is a promotional price for new members only. 67% discount based on the current list price of Stock Advisor of $199/yr. Membership will renew annually at the then current list price. Offer expires on April 13, 2026 at 11:59 pm PST.**Stock Advisor returns as of April 13, 2026.
+
