@@ -1,54 +1,51 @@
-# React + TypeScript + Vite
+# Homework 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My HW3 folder is:
+`prodriguezqu/`
 
-Currently, two official plugins are available:
+I used the React + TypeScript template.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to run
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+Go into my folder:
+```
+cd Homework3/prodriguezqu
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+Install packages:
 ```
+npm install
+```
+
+Run the app:
+```
+npm run dev
+```
+
+Then open the Vite link in the browser. Usually it is on port `5173`.
+If you just want to make sure it builds:
+```
+npm run build
+```
+
+## Notes
+
+- The stock csv files are in `data/stockdata/`
+- The stock news text files are in `data/stocknews/`
+- The t-SNE data is in `data/tsne.csv`
+
+- For the news view, I kept the original `.txt` files from the complete answer example
+- I ran into an issue with some of the stocknews filenames when trying to load them directly in the app, so I used a small Vite-side helper to read those files without renaming the dataset.
+- Because of that, I added the Node type package for TypeScript support. There should not be any extra setup besides normal `npm install`.
+
+- Some of the HW1 news files, including the TA answer version, have article text that starts with `Oops, something went wrong` or the Yahoo symbol tip message.
+- I filtered those out in the app because I thought it made the news panel cleaner and easier to read.
+
+## Files I changed
+
+- `src/App.tsx`
+- `src/component/options.tsx`
+- `src/component/LineChart.tsx`
+- `src/component/TSNEScatter.tsx`
+- `src/component/NewsList.tsx`
+- `vite.config.ts`

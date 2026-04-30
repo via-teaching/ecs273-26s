@@ -2,6 +2,7 @@ import { useState } from "react";
 import { LineChart } from "./component/LineChart";
 import RenderOptions from "./component/options";
 import { TSNEScatter } from "./component/TSNEScatter";
+import { NewsList } from "./component/NewsList";
 // A "extends" B means A inherits the properties and methods from B.
 
 
@@ -41,9 +42,9 @@ export default function App() {
           
         </div>
         <div className="w-1/3 h-full p-2">
-            <h3 className="text-left text-xl h-[2rem]">View 3 to be replaced by the view title</h3>
+            <h3 className="text-left text-xl h-[2rem]">List of News</h3>
             <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <p className="text-center text-gray-500 mt-20">Empty View 3</p>
+              <NewsList selectedTicker={selectedTicker} />
             </div>
           </div>
         
