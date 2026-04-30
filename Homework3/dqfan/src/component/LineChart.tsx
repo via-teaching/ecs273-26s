@@ -7,7 +7,7 @@ import bacCsv from "../../data/stockdata/BAC.csv?raw";
 import catCsv from "../../data/stockdata/CAT.csv?raw";
 import cvxCsv from "../../data/stockdata/CVX.csv?raw";
 import dalCsv from "../../data/stockdata/DAL.csv?raw";
-import googlCsv from "../../data/stockdata/GOOGL.csv?raw";
+import googlCsv from "../../data/stockdata/GOOG.csv?raw";
 import gsCsv from "../../data/stockdata/GS.csv?raw";
 import halCsv from "../../data/stockdata/HAL.csv?raw";
 import jnjCsv from "../../data/stockdata/JNJ.csv?raw";

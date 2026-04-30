@@ -1,0 +1,118 @@
+Title: Is Qualcomm The Next AI Stock To Surge_
+Date: 2026-04-24 13:29
+URL: https://www.trefis.com/articles/597369/is-qualcomm-the-next-ai-stock-to-surge/2026-04-24?source=yahoo&from=QCOM-2026-04-24&.tsrc=rss
+
+Qualcomm (QCOM) is down nearly 23% year-to-date, weighed down by a pair of well-documented headwinds – Apple’s (AAPL) shift away from Qualcomm modems and the smartphone memory shortage.
+While those pressures are real, the market may be missing a larger story that could re-rate the stock developing underneath them: edge AI, the shift toward running artificial intelligence directly on devices rather than in the cloud. A deeper look at Qualcomm’s cash generation and AI reinforces this view.
+That kind of overlooked repositioning has a recent precedent. Marvell Technology’s (MRVL) stock has risen roughly 85% year-to-date after spending most of the AI investment cycle largely ignored. Marvell makes chips that handle connections between servers inside data centers, and demand surged as AI workloads shifted toward inference. The market took time to see it.
+For those who rode that 85% wave, the immediate challenge is locking in those concentrated gains without surrendering 23.8% to the IRS. But for those looking for the next overlooked cycle, Qualcomm may be setting up for a similar rerating
+What Edge AI Is and Why It Matters
+Most AI today runs in the cloud. User queries travel to large data centers that run chips from the likes of Nvidia (NVDA) and Broadcom (AVGO), get processed, and return an answer. Every interaction consumes significant energy and bandwidth, and as AI becomes embedded in billions of devices and vehicles, routing everything through centralized servers becomes impractical and costly.
+“Edge AI” refers to running that computation locally. Local processing is faster, more private, and does not require a continuous Internet connection.
+As AI capabilities become more embedded in physical hardware, the economics increasingly favor on-device computation over cloud dependence.
+Why Qualcomm Is Well Positioned
+Qualcomm has spent decades perfecting two things: communication technology and power-efficient compute. These capabilities happen to be exactly what some of the hottest trends in tech today, including autonomous cars, robots, and AI-enabled devices, need.
+Its Snapdragon processors already power a large share of the world’s premium Android phones, and the company has extended that architecture into automobiles, personal computers, and robotics. Automotive revenue reached $1.1 billion in its most recent quarter, up 15% year over year, with a $45 billion design-win pipeline. IoT and automotive combined are projected to represent nearly half of Qualcomm’s chip revenue by 2030, underscoring this shift.
+The robotics and industrial AI push is potentially at an earlier stage. The Dragonwing IQ10 is a chip purpose-built for humanoid robots, while the acquisition of Arduino adds a different kind of leverage: Arduino is the development platform used by roughly 32 million engineers worldwide, and by embedding Qualcomm silicon into it, the company ensures the next generation of industrial designers builds on its architecture from the start.
+How the Stock Gets Rerated
+Qualcomm trades at roughly 12x forward earnings, compared to about 36x for AVGO and over 40x for Marvell. Sure, this is partly down to the low to no growth scenarios the overall business is likely to witness over the next year due to smartphone headwinds. Still, the fundamentals are strong, with the company generating 32% operating cash flow margins. See How Qualcomm margins compare to peers.
+In March, the board authorized a $20 billion share repurchase program, equal to about 15% of its market capitalization, a signal that management views the current price as undervalued. As edge AI adoption becomes more visible in financial results, and the Apple transition gets fully absorbed by the market, analysts are likely to revisit growth assumptions.
+The conditions for a re-rating appear to be in place.
+
+ON Semiconductor Stock Rockets 33% With 10-Day Winning Streak
+
+
+Canadian Imperial Bank of Commerce Stock Rockets 19% With 13-Day Winning Streak
+
+
+Vicor Stock On Fire: Up 40% With 10-Day Winning Streak
+
+
+Ubiquiti Stock 8-Day Winning Spree: Stock Climbs 30%
+
+
+Broadcom Stock 9-Day Winning Spree: Stock Climbs 29%
+
+
+Stocks Trading At 52-Week Low
+
+
+S&P 500 Stocks Trading At 52-Week High
+
+
+Small Cap Stocks Trading At 52-Week High
+
+
+Mid Cap Stocks Trading At 52-Week High
+
+
+Large Cap Stocks Trading At 52-Week High
+
+
+
+						Is Qualcomm Stock A Cheap Cash Machine With Big AI Potential?
+					
+
+
+
+						With Strong Cash Flow, Qualcomm Stock Poised to Rise?
+					
+
+
+
+						Qualcomm Stock Hands $42 Bil Back – Worth a Look?
+					
+
+
+
+						With Strong Cash Flow, Qualcomm Stock Poised to Rise?
+					
+
+
+
+						With Strong Cash Flow, Qualcomm Stock Poised to Rise?
+					
+
+
+
+						Is Qualcomm Stock Heading for a Fall?
+					
+
+
+
+						Strong Cash Yield: Is Qualcomm Stock A Buy?
+					
+
+
+
+						Qualcomm Stock To $184?
+					
+
+
+
+						Qualcomm Stock Delivers Strong Cash Yield – Upside Ahead?
+					
+
+
+
+						Is Qualcomm Stock Built to Withstand More Downside?
+					
+
+
+
+						Is Qualcomm Stock’s 24% Drop A Bargain?
+					
+
+
+
+						A Money Making Strategy for Qualcomm’s Memory Crisis
+					
+
+©Copyright 2026 Insight Guru Inc. All Rights Reserved.
+By using the Site, you agree to be bound by our Terms of
+		Use.  Financial market data powered by Quotemedia.com.
+		Consensus EPS estimates are from QuoteMedia and are updated every weekday.
+		All rights reserved.
+
+		NYSE/AMEX data delayed 20 minutes.  NASDAQ and other
+		data delayed 15 minutes unless indicated.
