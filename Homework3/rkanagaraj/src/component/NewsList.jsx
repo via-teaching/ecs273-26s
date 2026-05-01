@@ -1,5 +1,23 @@
 import { useEffect, useState } from 'react';
 
+const BOILERPLATE = [
+  'Oops something went wrong',
+  'Try a valid ticker',
+  'Something went wrong',
+  'Please try again',
+  'Enable JavaScript',
+  'You need to enable JavaScript',
+];
+
+function cleanContent(text) {
+  if (!text) return '';
+  const lines = text.split('\n').filter(line => {
+    const l = line.trim();
+    return l.length > 0 && !BOILERPLATE.some(b => l.includes(b));
+  });
+  return lines.join('\n').trim();
+}
+
 export default function NewsList({ selectedStock }) {
   const [news, setNews] = useState([]);
   const [expanded, setExpanded] = useState(null);
@@ -28,9 +46,9 @@ export default function NewsList({ selectedStock }) {
         >
           <div className="text-sm font-medium leading-snug text-gray-800">{item.title}</div>
           <div className="text-xs text-gray-400 mt-0.5">{item.date}</div>
-          {expanded === i && item.content && (
+          {expanded === i && (
             <div className="mt-2 text-xs text-gray-600 leading-relaxed whitespace-pre-wrap border-t pt-2">
-              {item.content.slice(0, 2000)}{item.content.length > 2000 ? '…' : ''}
+              {cleanContent(item.content) || <span className="italic text-gray-400">No content available.</span>}
             </div>
           )}
         </div>

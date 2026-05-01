@@ -171,7 +171,5 @@ function draw(svgEl, data, selectedStock, onSelectStock, zoomRef, width, height)
       });
   });
 
-  g.append('rect').attr('width', W).attr('height', H)
-    .attr('fill', 'none').attr('pointer-events', 'all')
-    .call(zoom);
+  svg.call(zoom);
 }
