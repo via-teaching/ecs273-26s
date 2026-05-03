@@ -1,0 +1,77 @@
+Title: Is Anthropic's Claude Mythos an AI nightmare waiting to happen?
+Date: 2026-04-09 21:30
+URL: https://finance.yahoo.com/video/is-anthropics-claude-mythos-an-ai-nightmare-waiting-to-happen-203000700.html?.tsrc=rss
+
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Anthropic (ANTH.PVT) is claiming that itsnew Claude Mythos AI modelmay be too powerful and is limiting its release after it reportedly “found thousands of high-severity vulnerabilities, including some in every major operating system and web browser," and could be used to hack software.
+Yahoo Finance Tech Editor Dan Howley outlines how Claude Mythos may be one of the AI landscape's biggest fears.
+Final story of the day, Anthropic. So, we were talking about project Glasswing uh yesterday or the day before and that's where their Claude model is so powerful. It's going through all this code of existing code, like operating systems and big world-class enterprise systems. It's finding all kinds of bugs. And so they were not releasing their Claude Mythos. I'm not sure if I'm pronouncing it Mythos.
+I think it's Mythos.
+All right. They did not uh release that to the public because it was so good at finding these bugs and you know, there's a whole big market out there on the black market for zero day vulnerabilities, et cetera. So tell us what we're what we're learning here.
+Yeah, I mean, this is just kind of a a scary look into where we're headed when it comes to AI. and basically, you know, as you said, this this mythos was able to go in, find bugs that are 26 years old that, you know,
+Everybody missed, but now, now suddenly they're
+Software that's around for 26 years. And it's not as though you just release software and you're like, oh, that's it, you know, people are constantly trying to, you know, find bugs, patch them and despite all of that over the years, this was able to go through and say, oh, found it. And it it was able to uh find other exploits throughout all the operating systems out there as well as all the web browsers out there. This was not trained for cyber attacks. This was a general purpose model.
+Just emerged.
+It's yes, they just said, oh no, that's not great. So they are kind of only releasing it to their partners and saying, look, uh you guys use this to find bugs, fix them before other big models like this come out. And you know, eventually we may see a a stripped down version hit the market, but you know, I was speaking to experts even before Mythos was announced and their takeaway was, look, you know, there's a number of issues that AI uh introduces to cybersecurity. There's the ability like we've we're seeing here with Mythos that it can scan for vulnerabilities much faster than hackers and then they can just implement that.
+The flip side is everybody's moving a lot faster, so that also adds vulnerabilities.
+Yes.
+It's not just regular folks though. Attackers are also moving a lot faster. Uh there was one uh there was the uh uh project Light LLM. Uh and uh that ended up uh part of a supply chain attack on Mercor. The reason why that was found was a security researcher, uh their computer crashed when it when uh they accidentally downloaded this this uh uh malware and they looked at it and they said, oh, this was vibe coded. So somebody just made a piece of malware using
+that was vibe coded which had additional errors inside it. Okay, that's great.
+And so that's that's where they caught it. Yeah. And so this is going to be, think about how, you know, malware already. Exactly. But it's now it's like everybody's drinking too much Red Bull or whatever or Celsius, I guess if you're Brian Sozzi and it now it's just going to be so much faster and hitting so much quicker. And so it's up to companies like, you know, uh Anthropic, Open AI, Microsoft is big in the space, obviously, then the big the big uh companies uh CrowdStrike, uh Palo Alto Network to be on top of this and include AI in their own offerings as part of the defense mechanism.
+It's not this isn't something that I think we're just going to be able to outsource to software. You need people involved as well to be able to say, okay, we need to do this, we should be watching this.
+And it's already hitting Palo Alto stock and a number of others in the cybersecurity space.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

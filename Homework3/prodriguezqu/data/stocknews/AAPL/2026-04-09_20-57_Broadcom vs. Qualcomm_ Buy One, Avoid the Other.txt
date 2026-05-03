@@ -1,0 +1,41 @@
+Title: Broadcom vs. Qualcomm: Buy One, Avoid the Other
+Date: 2026-04-09 20:57
+URL: https://247wallst.com/investing/2026/04/09/broadcom-vs-qualcomm-buy-one-avoid-the-other/?.tsrc=rss
+
+Content:
+Investing
+Broadcom (AVGO) posted Q1 revenue of $19.31B (up 29.5% YoY) with custom AI accelerator and networking revenue surging 106% to $8.4B and free cash flow reaching $8.01B.
+Qualcomm (QCOM) reported $12.25B in revenue (up 5% YoY) with only 3% handset growth despite record $10.61B in semiconductor segment revenue and automotive reaching $1.10B.
+Broadcom’s long-term Google TPU deal through 2031 and path to $100B in AI sales by 2027 provides visibility that Qualcomm lacks while its handset dependence and Apple modem replacement risk remain structural headwinds that won’t resolve until fiscal 2029.
+Are you ahead, or behind on retirement?SmartAsset's free toolcan match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don't waste another minute;learn more here.(Sponsor)
+Sending You to Google News in3
+© DC Studio / Shutterstock.com
+Broadcom(NASDAQ:AVGO|AVGO Price Prediction) andQualcomm(NASDAQ:QCOM) both reported earnings recently, revealing a sharp divergence. Broadcom is riding a hyperscaler AI wave that keeps accelerating whereas Qualcomm is managing a slower pivot away from handset dependence while a memory supply crunch clouds the near term.
+Broadcom posted$19.31 billion in Q1 revenue, up 29.5% year over year, powered by a semiconductor segment that grew 52% to $12.52 billion. The real engine was AI:custom AI accelerator and networking revenuehit $8.4 billion, up 106% and above the company’s own forecast. Free cash flow reached $8.01 billion, representing 41% of revenue.
+Qualcomm’s quarter was solid but quieter.Total revenue came in at $12.25 billion, up 5% year over year, with the QCT semiconductor segment delivering a record $10.61 billion. Automotive stood out, hitting $1.10 billion for the second consecutive quarter above $1 billion, up 15%. But handsets, still the core at $7.82 billion, grew only 3%.
+Broadcom’s strategic advantage is visibility. The company secured along-term TPU and networking supply agreement with Google through 2031, and Anthropic’s ARR hitting $30 billion signals aggressive spending from Broadcom’s hyperscaler customers.
+Tan set a bold target: exceeding $100 billion in AI sales by 2027. The VMware infrastructure software segment offers recurring revenue ballast, though at only 1% growth it is not a growth driver currently.
+Qualcomm is building a broader business, but the timeline is long. The Alphawave Semi acquisition opens a data center segment, and automotive ADAS and IoT are growing.
+Still, handsets represent the majority of QCT revenue, and the risk ofApple(NASDAQ:AAPL|AAPL Price Prediction) replacing Snapdragon modems with in-house silicon remains a structural overhang. Amon pointed investors toward fiscal 2029 revenue goals as the measuring stick.
+Are you ahead, or behind on retirement?SmartAsset's free toolcan match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don't waste another minute;learn more here.(Sponsor)
+Broadcom trades at a forward P/E of 28x with 47 of 49 analysts rating it buy or strong buy and a consensus target of $471.55.
+Qualcomm sits at a much cheaper forward P/E of 11x, with a consensus target of $154.93 but 22 of 36 analysts rating it hold or worse. Year to date, Broadcom is down 3.31% while Qualcomm has dropped 26.99%.
+The valuation gap is real, but Broadcom’s contract visibility and margin profile justify the premium. An adjusted EBITDA margin of 68% with accelerating AI revenue is rare.
+Qualcomm is not a bad business, and at 11x forward earnings it looks cheap on paper. But cheap multiples rarely save a stock when near-term guidance is soft and diversification still needs years to prove out.
+Broadcom’s momentum is simply harder to argue with right now. Broadcom’s contract visibility and AI revenue trajectory give it a stronger near-term growth profile. Qualcomm’s automotive and edge AI segments could close the gap over time, but the timeline extends to fiscal 2029 by management’s own framing.
+Retirement planning doesn’t have to feel overwhelming. The key is finding expert guidance, and SmartAsset’s simple quiz makes it easier than ever for you to connect with a vetted financial advisor. Here’s how:
+Answer a few simple questions
+Get Matched with Vetted Advisors
+Choose Your  Fit
+Why wait? Start building the retirement you’ve always dreamed of.Get started today!(sponsor)
+Vandita Jadeja is a financial copywriter who loves to read and write about stocks. She believes in buying and holding for long term gains. Her knowledge of words and numbers helps her write clear stock analysis. She has contributed to several publications, including the Joy Wallet, Benzinga, The Motley Fool and InvestorPlace.
+Our top personal finance-related articles today. Your wallet will thank you later.
+Live Updates Three Things We Learned From Qualcomm’s Q4 2025 Earnings Call Nov 5, 2025 at 5:11 PM EST Qualcomm’s…
+Chip maker Taiwan Semiconductor Manufacturing (NYSE:TSM) reported its Q4 2025 results in January, while Broadcom (NASDAQ:AVGO | AVGO Price Prediction)…
+Broadcom (NASDAQ:AVGO | AVGO Price Prediction) shares are up 6% in midday trading on Tuesday, rising from $314.43 to nearly…
+Tech giant Nvidia (NASDAQ:NVDA | NVDA Price Prediction) and Broadcom (NASDAQ:AVGO) both just reported blockbuster AI-driven quarters. Nvidia posted Q4…
+Jim Cramer made his position clear on AVGO the morning after Broadcom’s Q1 fiscal 2026 earnings hit the tape: “This…
+Qualcomm (NASDAQ:QCOM | QCOM Price Prediction) has had a difficult stretch heading into spring 2026. Shares are flat over the…
+Live Updates More on Memory Shortage Feb 4, 2026 at 4:18 PM EST The Phrase That Spooked Investors Feb 4,…
+A Stellar Q3 Sets the StageBroadcom (NASDAQ:AVGO | AVGO Price Prediction) delivered a blockbuster fiscal third-quarter earnings report yesterday that…
+Broadcom (NASDAQ:AVGO | AVGO Price Prediction) has transformed from a smartphone chip stalwart to a formidable AI powerhouse rivaling giants…

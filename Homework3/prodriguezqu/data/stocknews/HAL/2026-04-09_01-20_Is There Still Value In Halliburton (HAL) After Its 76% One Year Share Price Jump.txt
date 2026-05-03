@@ -1,0 +1,49 @@
+Title: Is There Still Value In Halliburton (HAL) After Its 76% One Year Share Price Jump
+Date: 2026-04-09 01:20
+URL: https://finance.yahoo.com/markets/stocks/articles/still-value-halliburton-hal-76-002020870.html?.tsrc=rss
+
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Find your next quality investmentwith Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.
+If you are wondering whether Halliburton at around US$37.80 still offers value, or if most of the opportunity is already reflected in the price, this article breaks down what the current valuation numbers indicate.
+The stock has been relatively flat over the last 7 days with a 0.5% decline, while the 30 day return of 9.1% and year to date return of 27.7% sit alongside a 76.0% return over the past year.
+Recent attention on Halliburton has centered on its role as a major energy services provider in a market where investors closely watch activity levels, capital spending by producers, and contract wins. All of these factors tend to shape expectations for future cash flows. Broader sector sentiment and commodity price moves also contribute to how investors currently frame the risk and reward trade off for the shares.
+Halliburton currently scores 4 out of 6 on Simply Wall St's valuation checks, indicating a value score of4. The next sections will line up the different valuation approaches, followed by a way to interpret these numbers in a more complete, story driven framework.
+Find out why Halliburton's 76.0% return over the last year is lagging behind its peers.
+A Discounted Cash Flow, or DCF, model estimates what a company could be worth today by projecting future cash flows and then discounting those back to a present value. It focuses on the cash that could be available to shareholders rather than accounting earnings.
+For Halliburton, the latest twelve month Free Cash Flow (FCF) is about $1.6b. Using a 2 Stage Free Cash Flow to Equity model, analysts provide explicit FCF estimates out to 2030, such as $1.9b for 2026 and $2.9b for 2030, and Simply Wall St extrapolates further years based on those inputs. All of these projected cash flows, expressed in $, are then discounted back to today and summed.
+On this basis, the DCF model arrives at an estimated intrinsic value of $79.43 per share. Compared with the recent share price around $37.80, the model implies Halliburton trades at a 52.4% discount to this estimate. This outcome indicates the shares may be meaningfully undervalued according to these cash flow assumptions.
+Result: UNDERVALUED
+Our Discounted Cash Flow (DCF) analysis suggests Halliburton is undervalued by 52.4%. Track this in yourwatchlistorportfolio, or discover63 more high quality undervalued stocks.
+Head to the Valuation section of our Company Report for more details on how we arrive at this Fair Value for Halliburton.
+For profitable companies, the price to earnings, or P/E, ratio is a straightforward way to think about valuation, because it links what you pay for each share directly to the earnings that support that share. Investors usually expect a higher P/E when they see stronger earnings growth potential or lower business risk, and a lower P/E when growth expectations are more modest or risks feel higher.
+Halliburton currently trades on a P/E of 24.6x. This sits below the Energy Services industry average of 26.8x and is slightly above the peer group average of 23.5x. Simply Wall St’s Fair Ratio for Halliburton is 26.4x. This is a proprietary estimate of what the P/E might be given factors such as earnings growth, profit margins, industry, market cap and company specific risks.
+The Fair Ratio is more tailored than a simple comparison with peers or the broad industry, because it adjusts for the company’s own characteristics instead of assuming that all energy services names should trade on the same multiple. With the current P/E of 24.6x sitting below the Fair Ratio of 26.4x, this framework suggests the shares screen as undervalued on an earnings multiple basis.
+Result: UNDERVALUED
+P/E ratios tell one story, but what if the real opportunity lies elsewhere?Start investing in legacies, not executives. Discover our 19 top founder-led companies.
+Earlier it was mentioned that there is an even better way to understand valuation. On Simply Wall St that takes the form of Narratives, which let you attach a clear story about Halliburton to specific numbers such as your assumed fair value and expectations for future revenue, earnings and margins. The platform then automatically links that story to a forecast and a fair value that you can compare with the current price to assess whether the stock appears attractive or stretched, all inside the Community page that millions of investors already use.
+Because Narratives on the platform update when new information like news or earnings arrives, you can see in real time how different viewpoints translate into numbers. For example, one Halliburton Narrative currently anchors to a bullish fair value of about US$46.03, while another more cautious view anchors to about US$28.17. That spread shows how two investors looking at the same company can reasonably arrive at very different conclusions once they write down their assumptions and let the tool do the math.
+For Halliburton however we'll make it really easy for you with previews of two leading Halliburton Narratives:
+🐂 Halliburton Bull Case
+Fair value in this bullish narrative: US$46.03 per share
+Implied discount to this fair value at US$37.80: about 17.9% undervalued
+Assumed annual revenue growth: 5.17%
+Assumes faster adoption of Halliburton's digital tools, automation and international services, which supports higher margins and a larger recurring revenue base.
+Builds in higher long term earnings, with analysts in this camp expecting both revenue and profit margins to be stronger than the wider consensus.
+Values the shares at a future P/E of 15.1x on 2029 earnings, which is below the current industry P/E, so the case rests on earnings growth doing more of the work than a lofty multiple.
+🐻 Halliburton Bear Case
+Fair value in this bearish narrative: US$28.17 per share
+Implied premium to this fair value at US$37.80: about 34.2% overvalued
+Assumed annual revenue growth: 34.49% decline
+Assumes long term pressure on oil and gas activity from decarbonization trends, regulation and ESG driven capital shifts, which limits Halliburton's revenue opportunity set.
+Builds in flat near term revenue, rising margins, but a lower future P/E of 11.1x, so expectations for both growth and the valuation multiple are more conservative.
+Highlights risks from regional concentration, pricing pressure and competition, with the view that current market expectations may already be ahead of what these assumptions support.
+If you want to see how other investors are framing Halliburton's story, including more versions between these two bookends, the full range of community views is only a click away on the company page.
+To see how these results tie into long-term growth, risks, and valuation, check out the full range ofcommunity narrativesfor Halliburton on Simply Wall St. Add the company to yourwatchlistorportfolioso you'll be alerted when the story evolves.
+Do you think there's more to the story for Halliburton?Head over to our Community to see what others are saying!
+This article by Simply Wall St is general in nature.We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice.It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article includeHAL.
+Have feedback on this article? Concerned about the content?Get in touchwith us directly.Alternatively, emaileditorial-team@simplywallst.com
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

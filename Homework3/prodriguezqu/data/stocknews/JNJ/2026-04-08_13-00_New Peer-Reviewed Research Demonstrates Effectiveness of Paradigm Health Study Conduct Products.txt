@@ -1,0 +1,79 @@
+Title: New Peer-Reviewed Research Demonstrates Effectiveness of Paradigm Health Study Conduct Products
+Date: 2026-04-08 13:00
+URL: https://finance.yahoo.com/sectors/healthcare/articles/peer-reviewed-research-demonstrates-effectiveness-120000888.html?.tsrc=rss
+
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Nike set the stage for a turnaround, but global events keep getting in its way
+COLUMBUS, Ohio and NEW YORK,April 8, 2026/PRNewswire/ -- Newpeer-reviewed researchdemonstrates the feasibility and effectiveness of Paradigm Health's EHR-integrated eSource platform to support late-stage clinical research in community oncology settings.
+The article reported on a prospective observational study using an EHR-integrated platform to evaluate its feasibility for streamlining data collection in community oncology. The study was sponsored by Johnson & Johnson, and conducted across four community oncology sites, including New York Cancer and Blood Specialists in Babylon, NY, and Clearview Cancer Institute in Huntsville, AL. The clinical context for this study is collection of infusion-related AEs in patients with multiple myeloma who are treated with daratumumab.
+The authors piloted an EHR-integrated research platform designed to streamline patient identification, enrollment, and data collection within routine clinical workflows. This pilot study sought to assess the quality of data on infusion-related reactions in patients receiving daratumumab when captured through an EHR-integrated research platform. The research team included Flatiron Health's Clinical Research business unit prior to its acquisition by Paradigm Health, and the platform underlying this pilot is now fully integrated into Paradigm Health's end-to-end clinical development solutions.
+Key Study Statistics
+82 patients enrolled in the study within 11 months, reaching enrollment and diversity targets three months ahead of schedule
+Across four U.S. community oncology centers, researchers collected more than 4,500 data elements
+Over 90% of those data elements were eligible for automated transfer, directly from electronic health records into the study database for researcher review
+Over 99% of those data elements were collected through automated transfer
+The median time for the transfer of structured data through the EHR-to-data capture connector was rapid–1.7 days
+Sponsor query frequency was <2% (compared to a 5.2% query rate for manually entered data)
+The findings demonstrate that an EHR-integrated product can be implemented in community oncology settings to streamline prospective clinical trials, achieve high data completeness, and enable rapid, diverse enrollment, leading to expanding access to clinical trials beyond traditional research centers. Importantly, this approach has the potential to streamline data extraction and verification, so that sponsors can get analysis-ready data faster.
+"Trials that are pragmatically designed and technology-enabled have the potential to fundamentally change how we conduct cancer research," said Dr. Richard Zuniga, study author and medical oncologist at New York Cancer & Blood Specialists, Babylon, NY. "Automation of patient identification and eSource technology for data flow can reduce the burden on our research staff while still delivering near-complete, high quality data."
+"This research is demonstrable proof that our technology can make clinical research more accessible to community providers and the patients they serve," said Kent Thoelke, Founder and CEO of Paradigm Health. "eSource Casebook builds on Clinical Pipe and can expand the pool of trial-ready health centers by reducing data transcription for clinical research teams and expediting data transmission to trial sponsors. With more researchers equipped to conduct trials, more patients can benefit from potentially life-saving innovation."
+Traditional clinical research models rely on complex and duplicative data entry across siloed systems, all of which operate outside of the providers' routine practice. Any added work for overburdened healthcare providers can make the prospect of participating in clinical trials seem unfeasible. Paradigm Health's eSource Casebook addresses these challenges by embedding research directly into the electronic health record environment and aligning study processes with existing clinical workflows. By reducing manual data entry, centralizing research activities, and leveraging automated data transfer, the platform enables evidence generation while preserving data integrity.
+Paradigm Health has integrated Clinical Pipe into eSource Casebook, and combined this enhanced technology platform with a research-ready provider network and centralized operational support structure. Paradigm Health's full-stack clinical development solutions enable sponsors and providers to execute a portfolio of studies on a common, efficient infrastructure.
+These findings demonstrate the utility of the EHR-integrated technology that Paradigm Health has acquired and embedded into its end-to-end offering to increase efficiency and deliver high-quality clinical data from the point of care.
+About Paradigm Health
+Paradigm Health has engineered an AI-powered platform to make clinical trials more accessible and efficient, so that patients, researchers, and study sponsors can maximize the impact of clinical research. Incubated by ARCH Venture Partners and backed by leading healthcare and life sciences investors, Paradigm Health aims to break down barriers across the trial ecosystem through one seamless infrastructure implemented at healthcare provider organizations, bringing potentially life-saving therapies to patients faster. For more information, visithttps://www.paradigmhealth.ai.
+View original content to download multimedia:https://www.prnewswire.com/news-releases/new-peer-reviewed-research-demonstrates-effectiveness-of-paradigm-health-study-conduct-products-302736475.html
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
