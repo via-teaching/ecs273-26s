@@ -1,18 +1,15 @@
-import Data from "../../data/demo.json";
+import { STOCK_TICKERS } from "../data";
 
-import { Bar } from "../types";
-
-// A "extends" B means A inherits the properties and methods from B.
-interface CategoricalBar extends Bar{
-    category: string;
+interface RenderOptionsProps {
+  tickers?: string[];
 }
 
+export default function RenderOptions({ tickers }: RenderOptionsProps) {
+  const optionTickers = tickers ?? STOCK_TICKERS;
 
-export default function RenderOptions() {
-  const bars: CategoricalBar[] = Data.data;
-  return bars.map((bar, index) => (
-    <option key={index} value={bar.category}>
-      {bar.category}
+  return optionTickers.map((ticker) => (
+    <option key={ticker} value={ticker}>
+      {ticker}
     </option>
   ));
-  }
+}
