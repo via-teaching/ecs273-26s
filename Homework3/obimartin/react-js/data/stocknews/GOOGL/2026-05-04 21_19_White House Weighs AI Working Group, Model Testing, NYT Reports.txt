@@ -1,0 +1,27 @@
+Title: White House Weighs AI Working Group, Model Testing, NYT Reports
+Date: 2026-05-04 21:19
+URL: https://finance.yahoo.com/sectors/technology/articles/white-house-eyes-vetting-ai-193136483.html?.tsrc=rss
+Content: The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+(Bloomberg) -- The Trump administration is considering an executive order to create a working group on artificial intelligence, according to the New York Times, among a series of steps to boost oversight of the emerging technology.
+Most Read from Bloomberg
+China’s Unprecedented Defiance of US Sanctions Triggers Showdown
+Former NYC Mayor Giuliani in Critical Condition, Trump Says
+Beijing Tells China Firms to Ignore US Sanctions on Refiners
+US and Iran Trade Fire in Gulf, Shaking Four-Week Ceasefire
+US Denies Iran Report That Naval Ship Was Hit by Missiles
+One proposal would include a government review process for new models, the Times reported, citing US officials and people briefed on the talks. White House officials told executives from Anthropic PBC, Alphabet Inc.’s Google and OpenAI about some of the plans under consideration during meetings last week, the newspaper said.
+Any announcement would come directly from the president, according to a White House official who discussed the matter on condition of anonymity to provide insight into policymaking. The official cast any discussion about potential executive orders as speculation.
+Requiring a formal review of new models would mark a shift in President Donald Trump’s approach to AI, a technology he has championed with efforts to help boost construction of data centers and to provide them with power. It’s unclear from the Times report how such reviews would work and which government agencies would carry them out.
+The Times said the approach could resemble one followed in the UK via the British AI Security Institute, which researches and makes recommendations on safe uses of leading models. In the US, a number of AI labs already test cutting-edge models on a voluntary basis before release with the federal Center for AI Standards and Innovation.
+Trump administration efforts to shape AI policy have accelerated since Anthropic announced last month that its breakthrough Mythos model has a knack for finding network weaknesses and could pose a global cybersecurity risk. The company has limited Mythos access for now to a handful of financial and tech companies to vet their systems, and US officials are working to make the model more widely available to federal agencies for testing.
+At the same time, the Pentagon is locked in a bitter dispute with Anthropic over the company’s insistence on extra guardrails for military use of its technology. After contract talks broke down in February, the Defense Department declared the company a threat to the supply-chain and outlined a six-month period to stop using Anthropic’s Claude product, until early this year the only AI tools cleared for use on classified networks.
+White House Chief of Staff Susie Wiles and other administration officials met on April 17 with Anthropic Chief Executive Officer Dario Amodei, where topics discussed included Mythos. US officials are also preparing a memo for national security agencies’ adoption of AI that encourages their use of multiple vendors to minimize supply-chain vulnerabilities and requires contractors who work with the Pentagon to abide by the military’s chain of command.
+--With assistance from Michelle Jamrisko.
+(Updates with additional context starting in fourth paragraph.)
+Most Read from Bloomberg Businessweek
+America’s Go-To Autism Therapy Is Also the Most Controversial
+Whatnot Has Americans Hooked on Livestream Shopping
+It’s Boating Season, But Only If You Can Afford Fuel
+The NBA Draft Is Bad for Business
+Ready or Not, the AI Phones Are Coming
+©2026 Bloomberg L.P.

@@ -1,0 +1,11 @@
+Title: Big Tech pulled into growing AI capacity concerns
+Date: 2026-05-04 16:58
+URL: https://finance.yahoo.com/sectors/technology/articles/big-tech-pulled-growing-ai-165832927.html?.tsrc=rss
+Content: The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+This article first appeared on GuruFocus.
+Alphabet (NASDAQ:GOOG) is finding itself right in the middle of a much bigger conversation in Washington, as concerns grow that the U.S. may not have enough computing power to keep up in the AI race.
+CEO Sundar Pichai met with Trump administration officials last week. On paper, the discussion was about cybersecurity, but the real issue underneath was AI capacity. There is rising worry that the government does not have reliable access to the kind of processing power needed to run advanced AI systems, especially in high pressure situations. That concern picked up after Anthropic rolled out its Claude Mythos Preview model in a very limited way, restricting access due to compute constraints.
+Warning! GuruFocus has detected 5 Warning Signs with NVDA.
+Is NVDA fairly valued? Test your thesis with our free DCF calculator.
+That is starting to shift how the government is thinking. While Anthropic is still part of the mix, tensions around access and control have pushed officials to look more seriously at alternatives. Companies like Google, OpenAI, Microsoft (NASDAQ:MSFT), Amazon (NASDAQ:AMZN), Nvidia (NASDAQ:NVDA) and Oracle (NYSE:ORCL) are all being pulled into the conversation.
+In fact, the Department of Defense has already signed agreements with several of them to bring AI tools into classified systems, though it is not all smooth yet. For Google, one challenge is that some of its TPUs are not cleared for highly secure environments.

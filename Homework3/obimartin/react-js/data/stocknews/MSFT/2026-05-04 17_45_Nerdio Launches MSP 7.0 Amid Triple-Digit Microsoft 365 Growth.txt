@@ -1,0 +1,23 @@
+Title: Nerdio Launches MSP 7.0 Amid Triple-Digit Microsoft 365 Growth
+Date: 2026-05-04 17:45
+URL: https://finance.yahoo.com/sectors/technology/articles/nerdio-launches-msp-7-0-174500011.html?.tsrc=rss
+Content: The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+More MSPs are adopting Nerdio Manager to help rapidly scale their Microsoft Cloud technologies and deliver better outcomes for their clients
+CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- Nerdio, the only multi-tenant management solution for Microsoft 365, Windows 365, and Azure Virtual Desktop, today announced record MSP growth alongside the launch of Nerdio Manager for MSP 7.0. In 2025, the company grew its MSP user base over 100%, spanning Microsoft 365, Windows 365, and Azure Virtual Desktop. Nerdio’s impressive growth was driven by growing demand from MSPs looking to consolidate their entire Microsoft practices onto a single, scalable platform.
+In addition, Nerdio today introduced Nerdio Manager for MSP 7.0, making it easier for MSPs to deliver, manage, and grow their Microsoft Cloud practices across every customer, all from a single platform.
+“MSPs are at an inflection point. They’re no longer just managing environments; they’re building scalable, cloud-first businesses, and they need a platform that can grow with them across their entire Microsoft stack,” said Vadim Vladimirskiy, CEO and Co-Founder, Nerdio. “Nerdio is the only solution that gives MSPs true multi-tenant management across Microsoft 365, Windows 365, and Azure Virtual Desktop from a single pane of glass. That’s not just a product advantage; it’s a strategic one. Our record growth tells us MSPs recognize that—and we built 7.0 to take them even further.”
+Nerdio Manager for MSP saw Microsoft 365 users surge more than 300% year-over-year, reflecting rapid adoption as MSPs expand their Microsoft Cloud practices beyond traditional virtual desktop environments.
+“Our main challenge managing Microsoft 365 was that with so many tenants involved, we found that our technicians had to manually move from tenant to tenant, using a confusing mix of browsers,” said Ben Estephan, President, Inhouse-Support. “By using Nerdio Manager, we were able to centralize everything under one window. [Our technicians] increased their efficiency many times over because now we're under one window and one tab, and all of our tenants are in one place.”
+Building on its strong growth, Nerdio Manager for MSP 7.0 introduces several key features to support MSPs on their Microsoft journeys. First, it helps MSPs get their Microsoft practice up and running quickly. Then, version 7.0 turns insights into new business, standardizes deployments at scale, and secures it all with streamlined policies and compliance. The platform allows MSPs to quickly prove the value of their services to clients.
+Nerdio Manager for MSP 7.0’s key new capabilities include:
+Prospect Tenant Assessment Wizard: Scan a prospect’s Microsoft 365 environment, surface security gaps and inefficiencies, and generate a client-ready assessment report.
+PSA integration: Directly connect Nerdio Manager with leading MSP platforms, including Datto Autotask PSA, ConnectWise PSA, and Halo PSA.
+Purview Solution Baselines: Manage Microsoft Purview policies directly in Nerdio, and apply compliance baselines across Microsoft 365 environments.
+Reporting Engine: Create custom, white labelled reports across Azure Virtual Desktop, Microsoft 365, and Azure, covering cost, usage, performance, and compliance.
+Nerdio Manager for MSP 7.0 is available in public preview starting May 4th. To learn more about how it can help transform your MSP’s Microsoft practice, visit our blog.
+About Nerdio
+Nerdio is a leading provider of powerful, simplified cloud management solutions for businesses of all sizes. Trusted by enterprise IT departments and managed service providers (MSPs) alike, Nerdio equips organizations with seamless, cost-effective management tools for Windows 365, Azure Virtual Desktop, and comprehensive Microsoft 365 solutions.
+With over 23,000 customers worldwide, Nerdio accelerates cloud adoption, enabling companies to thrive in an era of hybrid work by providing modern, future-proof technology that adapts to evolving workplace needs.
+For more information, please visit www.getnerdio.com.
+CONTACT: Kaitlyn Ethier Nerdio 978-578-0480 media@getnerdio.com
+

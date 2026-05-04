@@ -1,0 +1,17 @@
+Title: Anthropic and Wall Street titans form $1.5 billion consulting joint venture - FT
+Date: 2026-05-04 13:28
+URL: https://finance.yahoo.com/sectors/technology/articles/anthropic-wall-street-titans-form-132828842.html?.tsrc=rss
+Content: The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Investing.com -- Anthropic has secured $1.5 billion in backing for a new joint venture alongside a heavy-hitting consortium of Wall Street institutions. Blackstone Inc (NYSE:BX) and Hellman & Friedman are leading the initiative to deploy artificial intelligence across their expansive global investment portfolios, according to a report from the Financial Times, citing people briefed on the matter.
+The new consulting entity will receive an initial $300 million investment from each of the three lead firms. Investment bank Goldman Sachs Group Inc (NYSE:GS) and private equity group General Atlantic will also commit $150 million apiece to the project, the report stated.
+The joint venture, which is expected to be officially announced on Monday, remains unnamed for the time being. Its primary objective is to open new commercial markets for Anthropic’s suite of powerful artificial intelligence technologies.
+These technologies include Claude Code, a software tool that has significantly impacted the business world throughout the current year. The tool’s rapid adoption has triggered a selloff in several listed software companies and raised concerns regarding the long-term viability of several enterprise software firms.
+Anthropic is seeking to generate fresh revenue streams through this partnership to justify its massive capital expenditure on data center infrastructure, the FT said. The move comes as the company prepares for a potential public listing that could occur as early as this year.
+The investors involved in the joint venture represent some of the most significant owners of technology assets on a global scale. Their diverse holdings span the infrastructure, professional services, and industrial sectors, where AI is expected to drive substantial operational efficiencies.
+Blackstone, currently the world’s largest private investment firm, reportedly led many of the initial discussions regarding the formation of the venture. It is recognized as a founding partner of the entity alongside Goldman Sachs and Hellman & Friedman.
+Shortly after these details emerged, Bloomberg reported that OpenAI has raised more than $4 billion for its own joint venture focused on corporate AI adoption. This rival entity, named The Deployment Company, has reportedly drawn backing from 19 investors including TPG Inc (NASDAQ:TPG), Brookfield Asset Management Inc (NYSE:BAM), Advent, and Bain Capital Specialty Finance Inc (NYSE:BCSF).
+The deal for The Deployment Company reportedly values the new venture at $10 billion, excluding the newly raised capital. OpenAI will maintain a majority ownership stake and exercise control over the new organization.
+Related articles
+Anthropic and Wall Street titans form $1.5 billion consulting joint venture - FT
+Goldman expects lower but still attractive stock market returns in 2026
+Morgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets
