@@ -1,0 +1,35 @@
+Title: Oklo Is Interesting, but This Nuclear Stock Is a Better Buy
+Date: 2026-04-26 11:02
+URL: https://www.fool.com/investing/2026/04/26/oklo-is-interesting-but-this-nuclear-stock-is-a-be/?.tsrc=rss
+
+Oklo's liquid-metal cooled SMR technology is impressive, but you can invest in that technology without anywhere near as much risk.
+The world has entered into a nuclear renaissance in the past few years, with countries and companies taking renewed interest in the technology.
+In the United States, the Department of Energy is aiming to triple the country's nuclear output by 2050, and Microsoft is partnering with Constellation Energy to resurrect the Three Mile Island nuclear plant to power its data centers in the area.
+And one of the most interesting developments of this nuclear renaissance is the small modular reactor (SMR). They function the same way as full-scale nuclear power plants used around the world, but in a much more compact and scalable form. And they are a potential solution to the energy needs of data centers .
+The idea is that you plop an SMR in the middle of a cluster of data centers, and it can generate power for them, independent of the local grid.
+Image source: Getty Images.
+There are no SMRs in operation yet, but several companies are developing the technology. One of the most visible over the past year has been Oklo ( OKLO 7.14% ) , and that likely has something to do with its incredible bull run last year, which saw its share price surge 704% from January to October.
+Oklo's price has since come back down to earth, but is it worth adding to your portfolio now?
+Most nuclear reactors, be they full-size or SMR, use pressurized water to cool themselves. But Oklo's prototype Aurora reactor uses liquid sodium to cool its reaction.
+Liquid metal reactors like Oklo's are more fuel efficient than conventional reactors and produce less waste; they can also operate more safely at higher temperatures. However, the technology isn't as proven as conventional reactors.
+Oklo shows serious promise, and its reactor is gaining some attention. The Eielson Air Force Base in Alaska issued a contract to Oklo to build an Aurora reactor to power its facilities.
+What's more, Oklo is the only American company looking into nuclear fuel recycling. When a fuel rod is removed from a nuclear reactor, 95% of its energy is still unused. Oklo has been awarded over $15 million by the Department of Energy to build a fuel recycling facility in Tennessee.
+If successful, the project would mean America's nuclear waste would transform into a gold mine with enough energy to power America for the next 150 years.
+That's all well and good, but Oklo has one very serious problem that prevents me from considering it worthy of addition to my and your portfolio. It generates no revenue whatsoever, which means it's entirely dependent upon grants from the government and dollars from investors to operate. For 2025, Oklo's operating loss totaled $139.3 million.
+Oklo's problem is that it has no revenue stream aside from its SMRs and fuel recycling plant, neither of which is in operation yet. But that's not true of every company in this space.
+BWX Technologies ( BWXT 0.87% ) is another company working on SMR technology. But unlike Oklo, that's not the only thing it's focused on. BWX worked on the reactor components for the USS Nautilus , the world's first nuclear-powered submarine.
+Since then, it has built over 400 naval nuclear reactors. So, it has considerable experience making nuclear reactors work in tight spaces. That remains the core of the company's business, which allows it to develop its own "BWXT Advanced Nuclear Reactor" or BANR.
+Like most SMR prototypes in development, the BANR can be built in parts in a factory, shipped out on a truck or a train, and constructed at its final location, where it can generate 75 megawatts of electricity.
+And BWX can develop its SMR with much less risk because it generates plenty of revenue and is profitable. For 2025, the company grew its revenue 18% over 2024 to $3.19 billion, it grew its earnings per share by 20% over 2025, and it managed a net profit margin of 10.3%.
+If you're looking for a way to play SMR technology, BWX Technologies is a much safer bet than Oklo. It should help your portfolio avoid the meltdown that would occur if Oklo's investors lost faith in the company.
+James Hires has positions in BWX Technologies. The Motley Fool has positions in and recommends BWX Technologies, Constellation Energy, and Microsoft. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

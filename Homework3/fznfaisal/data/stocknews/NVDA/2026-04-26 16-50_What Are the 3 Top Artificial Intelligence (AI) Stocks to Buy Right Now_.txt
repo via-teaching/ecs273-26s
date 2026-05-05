@@ -1,0 +1,38 @@
+Title: What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?
+Date: 2026-04-26 16:50
+URL: https://www.fool.com/investing/2026/04/26/what-are-the-3-top-artificial-intelligence-ai-stoc/?.tsrc=rss
+
+These companies are flourishing, and their shares are at attractive price levels.
+Technology stocks have been on a roller coaster in 2026. The rise of artificial intelligence (AI) delivered big gains, but this year, Wall Street's "Great Rotation" away from the tech sector caused share prices to plunge for many successful companies.
+The market seemed to seesaw back toward tech in April, although you can still find many top artificial intelligence stocks with compelling valuations. Some of these include Oracle ( ORCL 1.70% ) , Atlassian ( TEAM +5.80% ) , and ServiceNow ( NOW +6.36% ) .
+These three are benefiting from booming businesses thanks to artificial intelligence. Here's a deeper look into each company.
+Image source: Getty Images.
+Wall Street soured on Oracle in 2026, with shares tumbling well below their 52-week high of $345.72 reached last September. The reaction is understandable. The tech veteran is among the cloud computing hyperscalers pouring enormous sums into infrastructure to support AI, and investors were concerned the spending will not pay off.
+The reality is that AI needs tremendous computing capacity to crunch through the billions of data parameters required to deliver its insights. Moreover, only a handful of organizations can afford the massive costs in hardware, electricity, cooling, and maintenance associated with operating the data centers housing AI systems. Oracle is one of these, giving it an economic moat that brings customers to its door as AI adoption accelerates.
+The company is already experiencing substantial customer demand for its AI infrastructure. In its fiscal third quarter (Q3) of 2026, ended Feb. 28, revenue in Oracle's cloud computing division skyrocketed 44% year over year to $8.9 billion, helping to drive overall Q3 sales to $17.2 billion, a 22% year-over-year increase.
+In addition, its remaining performance obligations (RPO) rose an astounding 325% year over year in Q3. The spectacular growth here underscores the strong customer appetite for Oracle's AI data centers.
+In fact, the company's co-CEO Clay Magouyrk stated, "Demand for AI infrastructure... continues to exceed supply." This situation validates Oracle's capex spending , which is necessary to unlock additional revenue growth.
+ServiceNow shares were hit particularly hard this year, dropping over 30% through April 22. Wall Street believed AI would cause its business to become redundant.
+That sentiment is based on AI's ability to execute tasks independently, which Wall Street feared would lead customers to replace ServiceNow's workflow management platform. That's unlikely to happen for several reasons.
+As mentioned above, AI requires data to execute tasks. ServiceNow possesses troves of the requisite data, 85 billion workflows to be exact, and it's specific to the customers it serves. This allows the company to tailor its AI services to meet each client's business requirements, and competitors without this info will be hard pressed to match this capability.
+An example is ServiceNow's new Context Engine product, launched in April, which uses an organization's policies, approval processes, and vendor relationships for its AI agents to make the right decisions.
+ServiceNow's business shows no signs of slowing down. In the first quarter of 2026, sales soared 22% year over year to $3.8 billion, with $3.7 billion of that in subscription income, a predictable, recurring revenue source. It also expects 22% subscription sales growth in Q2 2026.
+Atlassian provides various software apps to help teams manage and collaborate on projects. I used their Jira platform for years to oversee multi-million dollar initiatives. I previously didn't buy the stock because it looked too pricey -- that is, until 2026's "Great Rotation."
+Atlassian was another stock caught up in the sell-off, with shares plummeting more than 50% in 2026 through April 22. Despite the steep price drop, the company is doing well.
+In its second quarter of fiscal-year 2026 (ended Dec. 31, 2025), revenue was up 23% year over year to $1.6 billion. Its fiscal Q2 RPO of $3.8 billion represented strong 44% year-over-year growth.
+Its AI product, Rovo, had five million monthly active users in Q2, and AI is spurring increased usage of Atlassian products, strengthening the company's market position. For example, software developers are using Atlassian's AI tools to generate code. According to CEO Michael Cannon-Brookes, "AI is the best thing to happen to Atlassian."
+The company's stock is at an attractive level as evidenced by the steep fall in its forward price-to-earnings ratio. Oracle and ServiceNow also experienced significant drops in valuation this year.
+Data by YCharts .
+As the chart reveals, all three tech stocks are at forward earnings multiples near low points for the past year. Atlassian saw the largest decline from a year ago.
+Given their share price drops and successful businesses, Oracle, Atlassian, and ServiceNow are worthwhile AI growth stocks to buy now and hold for the long term.
+Robert Izquierdo has positions in Atlassian, Oracle, and ServiceNow. The Motley Fool has positions in and recommends Atlassian, Oracle, and ServiceNow. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
