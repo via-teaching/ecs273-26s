@@ -7,5 +7,10 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  publicDir: 'data',
+  publicDir:'data',
+  server: {
+    hmr: {
+      overlay: false,
+    },
+  },
 })

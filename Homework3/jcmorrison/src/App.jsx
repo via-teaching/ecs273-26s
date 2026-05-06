@@ -1,45 +1,60 @@
 import RenderOptions from "./component/options";
-import { BarChart } from "./component/example";
+import {useState} from "react";
+import LineChart from "./component/lineChart.jsx";
+import TSNEScatter from "./component/TSNEScatter";
+import NewsList from "./component/newsList.jsx";
+
 function App() {
+  // set default to AAPL since first in previous assignments
+  const [selectedStock, setSelectedStock] = useState("AAPL");
+
   return (
+    // changed some of this for my layout preferences
     <div className="flex flex-col h-full w-full">
-      <header className="bg-zinc-400 text-white p-2 flex flex-row align-center">
-        <h2 className="text-left text-2xl">Homework 3</h2>
-        <label htmlFor="bar-select" className="mx-2">
-          Select a category:
+      <header className="bg-zinc-700 text-white p-2 flex flex-row align-center">
+        <h2 className="text-left text-2xl">ECS 273 - HW3 Morrison</h2>
+        <label htmlFor="stock-select" className="mx-2 flex items-center gap-2">
+          Select a stock:
           <select
-            id="bar-select"
+           // have stock selection top left
+            id="stock-select"
             className="bg-white text-black p-2 rounded mx-2"
+            value={selectedStock}
+            onChange={(e) => setSelectedStock(e.target.value)}
           >
             <RenderOptions />
           </select>
         </label>
       </header>
-      <div className="flex flex-row h-full w-full">
-        <div className="flex flex-col w-2/3">
-          <div className="h-1/4 p-2">
-            <h3 className="text-left text-xl">
-              View 1 to be replaced by the view title
+      <div className="flex flex-row h-full w-full overflow-hidden">
+        <div className="flex flex-col w-2/3 h-full">
+          <div className="flex flex-col p-2" style={{ height: "45%" }}>
+            <h3 className="text-left text-lg font-semibold mb-1">
+              Stock Price Overview - {selectedStock}
             </h3>
-            <div className="border-2 border-gray-300 rounded-xl">
-              <BarChart />
+            <div className="border-2 border-gray-300 rounded-xl flex-1 overflow-hidden bg-white">
+              <LineChart selectedStock={selectedStock} />
             </div>
           </div>
-          <div className="h-3/4 p-2">
-            <h3 className="text-left text-xl h-8">
-              View 2 to be replaced by the view title
+          <div className="flex flex-col p-2" style={{ height: "55%" }}>
+            <h3 className="text-left text-lg font-semibold mb-1">
+              t-SNE Projection of Stock Latent Representations
             </h3>
-            <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <p className="text-center text-gray-500 mt-20">Empty View 2</p>
+            <div className="border-2 border-gray-300 rounded-xl flex-1 overflow-hidden bg-white">
+              <TSNEScatter
+              selectedStock={selectedStock}
+              onSelectStock={setSelectedStock}
+              />
             </div>
           </div>
+
         </div>
-        <div className="w-1/3 h-full p-2">
-          <h3 className="text-left text-xl h-8">
-            View 3 to be replaced by the view title
+        <div className="w-1/3 h-full p-2 flex flex-col">
+          <h3 className="text-left text-lg font-semibold mb-1">
+            News - {selectedStock}
           </h3>
-          <div className="border-2 border-gray-300 rounded-xl h-[calc(100%-2rem)]">
-            <p className="text-center text-gray-500 mt-20">Empty View 3</p>
+          <div className="border-2 border-gray-300 rounded-xl flex-1 overflow-hidden bg-white">
+            <NewsList selectedStock={selectedStock} />
           </div>
         </div>
       </div>

@@ -1,0 +1,77 @@
+Title:   The Next Leg Of The AI Trade Is On. Which Stocks To Pick?
+Date:    2026-05-05 16-27
+URL:     https://www.trefis.com/articles/598319/the-next-leg-of-the-ai-trade-is-on-which-stocks-to-pick/2026-05-05?.tsrc=rss
+Content: Markets price the obvious AI winners first. Names like Nvidia (NVDA) and Broadcom (AVGO) led the initial part of the AI wave, surging 12x and 7x, respectively, since early 2023, as investors rushed into the clearest beneficiaries of the build-out. Then the re-rating broadens. Adjacent infrastructure starts to catch up. Marvell (MRVL) stock lagged for years before investors woke up to its custom ASIC and high-speed interconnect story. Qualcomm sat out the initial AI frenzy, then picked up when the edge AI on-device story got more real. Intel (INTC), long written off, finally has fresh legs on CPU upside and foundry optionality. See: How Intel Is Finally Grabbing A Slice Of The AI Bonanza. Capital crowds into the obvious. Valuations stretch. Then smarter money goes looking for the same trade, one layer down the stack. This is how these cycles work. So what could come next? We see a few stocks that could potentially benefit. Skyworks Solutions  Skyworks (SWKS) has gained just about 7% over the past year, a period in which the S&P 500 gained roughly 27% and the broader semiconductor sector significantly outperformed. The stock sits about 60% below its 2021 highs. The underperformance is linked to the company’s heavy dependence on Apple for radio frequency content. That said, the AI thesis for the stock centers on connectivity. Every AI-capable device requires more sophisticated wireless chips than its predecessor. Smartphones, laptops, vehicles, and factory sensors are all adding faster WiFi, always-on voice, and real-time data links. Skyworks manufactures the radio frequency components that make all of that work. Its Broad Markets segment, which covers automotive, industrial, and IoT customers, expanded 11% year over year in the most recent quarter. A pending merger with Qorvo would create a larger and more diversified RF supplier, directly addressing the customer concentration issue the market has penalized for years. The stock trades at roughly 14.5x forward earnings with a dividend yield over 4%. That is value-stock pricing for a company with direct exposure to core connectivity requirements in the AI device market. Microchip Technology Microchip (MCHP) has returned approximately 100% over the past year from a deeply depressed base but has moved only about 30% since 2023, the early period of the AI rally, compared to the Nasdaq-100, which has more than doubled. The company spent 2023 and 2024 in a severe inventory correction. Revenue fell nearly 27% year-over-year at its worst. During that stretch, AI spending went almost entirely to GPU and memory suppliers. The AI thesis is infrastructure, not compute. Microchip makes the timing chips and embedded controllers inside server chassis, power management units, and rack management systems. Timing chips synchronize data flow across thousands of processors. Without them, AI training workloads fail. Embedded controllers manage power and temperature in every rack. More racks mean more of these chips at every data center. As facilities upgrade to faster internal connection standards, Microchip parts are required at multiple points. The stock has recovered from its lows and trades at about 35x next year’s earnings. While that may seem lofty, the AI infrastructure revenue contribution remains a small fraction of what it could eventually become. NXP Semiconductors  NXP (NXPI) reported a 3% revenue decline in 2025 and has underperformed most semiconductor peers in recent years, with analysts holding back on recommending the stock due to near-term softness in automotive demand. That weak near-term narrative is precisely what has kept the stock at roughly 19x times forward earnings, which is below the semiconductor sector average. The AI thesis is automotive edge intelligence. NXP supplies the microcontrollers inside most modern vehicles, and it is building out the chips that power driver assistance systems and vehicle-to-infrastructure communication. The amount of semiconductor content per vehicle is rising with every new model generation. NXP is positioned to capture a growing share of that content. These are long design cycles, and the revenue builds gradually, which is why the market is not pricing it today. Overall, the near-term numbers are soft, but the longer-term product cycle is underappreciated. The valuation reflects the current weakness more than the product roadmap. However, identifying the next layer of AI winners is only half the equation. Managing downside as narratives shift is just as critical, and single-stock risk can turn quickly. True capital preservation and compounding come from structural quality and diversification. The Trefis High Quality Portfolio (HQ) focuses on 30 fundamentally vetted stocks, systematically mitigating idiosyncratic risks. It has returned over 105% since inception, outperforming its benchmark, without any meaningful exposure to ‘Magnificent 7’ stocks. 
+How Will Aflac Stock React To Its Upcoming Earnings?
+ 
+How Will KLA Stock React To Its Upcoming Earnings?
+ 
+How Will Amphenol Stock React To Its Upcoming Earnings?
+ 
+How Will O’Reilly Automotive Stock React To Its Upcoming Earnings?
+ 
+How Will Automatic Data Processing Stock React To Its Upcoming Earnings?
+ 
+How Will Alphabet Stock React To Its Upcoming Earnings?
+ 
+How Will Microsoft Stock React To Its Upcoming Earnings?
+ 
+How Will Qualcomm Stock React To Its Upcoming Earnings?
+ 
+How Will AbbVie Stock React To Its Upcoming Earnings?
+ 
+How Will Meta Platforms Stock React To Its Upcoming Earnings?
+ 
+
+						Up 5x In A Year, How Risky Is Intel Stock?
+					
+ 
+
+						Is UPS Stock A Buy Or A Value Trap Under $100?
+					
+ 
+
+						How IONQ Stock Rises 10x To $500
+					
+ 
+
+						How Much Upside Can MU Stock Deliver?
+					
+ 
+
+						ExxonMobil Earnings: Core Operational Strength Obscured By Transitory Headwinds
+					
+ 
+
+						Is Sprouts Farmers Market Stock an Under-Analyzed Capital Compounder Opportunity?
+					
+ 
+
+						V Stock: 3 Impending Events That Could Invalidate the Thesis
+					
+ 
+
+						Can Apple Stock Withstand These Pressures?
+					
+ 
+
+						NVIDIA Stock Surged 70%, Here’s Why
+					
+ 
+
+						Cash Machine Trading Cheap – EPAM Systems Stock Set to Run?
+					
+ 
+
+						AppLovin Stock Pulls Back to Support – Smart Entry?
+					
+ 
+
+						Coinbase Global Stock at Support Zone – Bargain or Trap?
+					
+ ©Copyright 2026 Insight Guru Inc. All Rights Reserved. By using the Site, you agree to be bound by our Terms of
+		Use.  Financial market data powered by Quotemedia.com.
+		Consensus EPS estimates are from QuoteMedia and are updated every weekday.
+		All rights reserved. 
+		NYSE/AMEX data delayed 20 minutes.  NASDAQ and other
+		data delayed 15 minutes unless indicated.
