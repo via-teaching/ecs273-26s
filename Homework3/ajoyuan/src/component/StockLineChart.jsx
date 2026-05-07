@@ -57,29 +57,36 @@ function drawChart(svgElement, data, width, height) {
 
   const g = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`);
   
+
+  const chartArea = g.append("svg")
+    .attr("width", iw)
+    .attr("height", ih);
+
   const xAxis = d3.axisBottom(x), yAxis = d3.axisLeft(y);
   const gx = g.append('g').attr('transform', `translate(0,${ih})`).call(xAxis);
   const gy = g.append('g').call(yAxis);
 
-
   g.append("text")
     .attr("x", iw / 2).attr("y", ih + 40)
-    .attr("text-anchor", "middle").text("Date");
+    .attr("text-anchor", "middle").style("font-weight", "bold").text("Date");
 
   g.append("text")
     .attr("transform", "rotate(-90)")
     .attr("y", -70)
     .attr("x", -ih / 2)
     .attr("text-anchor", "middle")
+    .style("font-weight", "bold")
     .text("Price (USD)");
-    const lineGen = (k, sc) => d3.line().x(d => sc(d.Date)).y(d => y(d[k]));
+
+  const lineGen = (k, sc) => d3.line().x(d => sc(d.Date)).y(d => y(d[k]));
     
-  const paths = CONFIG.map(conf => g.append("path")
-    .datum(data)
-    .attr("fill", "none")
-    .attr("stroke", conf.c)
-    .attr("stroke-width", 2)
-    .attr("d", lineGen(conf.k, x))
+  const paths = CONFIG.map(conf => 
+    chartArea.append("path")
+      .datum(data)
+      .attr("fill", "none")
+      .attr("stroke", conf.c)
+      .attr("stroke-width", 2)
+      .attr("d", lineGen(conf.k, x))
   );
 
   const legend = svg.append("g").attr("transform", `translate(${width - margin.right + 20}, ${margin.top})`);
