@@ -1,7 +1,7 @@
 import * as d3 from "d3";
 import { useEffect, useRef, useState } from "react";
 import { debounce } from "lodash";
-import { stocks, Ticker } from "../stocks";
+import { Ticker } from "../stocks";
 import { ComponentSize, Margin } from "../types";
 
 interface Point {
@@ -11,28 +11,6 @@ interface Point {
   sector: string;
 }
 
-const sectorMap: Record<Ticker, string> = {
-  AAPL: "Technology",
-  BAC:  "Financials",
-  CAT:  "Industrials",
-  CVX:  "Energy",
-  DAL:  "Industrials",
-  GOOG: "Communication Services",
-  GS:   "Financials",
-  HAL:  "Energy",
-  JNJ:  "Healthcare",
-  JPM:  "Financials",
-  KO:   "Consumer Staples",
-  MCD:  "Consumer Discretionary",
-  META: "Communication Services",
-  MMM:  "Industrials",
-  MSFT: "Technology",
-  NKE:  "Consumer Discretionary",
-  NVDA: "Technology",
-  PFE:  "Healthcare",
-  UNH:  "Healthcare",
-  XOM:  "Energy",
-};
 
 const margin: Margin = { top: 24, right: 140, bottom: 40, left: 48 };
 
@@ -49,11 +27,11 @@ export default function TSNEScatter({
 
   useEffect(() => {
     d3.csv("/data/tsne.csv").then((raw) => {
-      const parsed: Point[] = raw.map((r, i) => ({
-        ticker: stocks[i],
+      const parsed: Point[] = raw.map((r) => ({
+        ticker: r.ticker as Ticker,
         x: +(r.tsne_dim_1 ?? "0"),
         y: +(r.tsne_dim_2 ?? "0"),
-        sector: sectorMap[stocks[i]],
+        sector: r.sector ?? "",
       }));
       setData(parsed);
     });

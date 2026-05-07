@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
-import { readdirSync } from 'node:fs'
+import { readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 export default defineConfig({
@@ -22,6 +22,21 @@ export default defineConfig({
           } catch {
             res.statusCode = 404
             res.end('[]')
+          }
+        })
+
+        server.middlewares.use('/api/news-body', (req, res) => {
+          const [ticker, ...rest] = (req.url?.replace(/^\//, '') ?? '').split('/')
+          const filename = decodeURIComponent(rest.join('/'))
+          if (!ticker || !filename) { res.statusCode = 400; res.end(''); return; }
+
+          try {
+            const body = readFileSync(join('public/data/stocknews', ticker, filename), 'utf-8')
+            res.setHeader('Content-Type', 'text/plain; charset=utf-8')
+            res.end(body)
+          } catch {
+            res.statusCode = 404
+            res.end('')
           }
         })
       }

@@ -35,7 +35,7 @@ export default function App() {
           <div className="h-1/2 p-2">
             <h3 className="text-left text-xl h-[2rem]">View 2: T-SNE Projection</h3>
             <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <TSNEScatter selected={selected} />
+              <TSNEScatter selected={selected} onSelect={setSelected} />
             </div>
           </div>
 

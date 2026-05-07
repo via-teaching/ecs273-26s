@@ -8,7 +8,6 @@ function parseFilename(file: string): { title: string; date: string } {
   const datePart = file.slice(0, underscoreIdx);
   const titlePart = file.slice(underscoreIdx + 1, -4);
   const date = datePart.replace(/(\d{2})-(\d{2})$/, "$1:$2");
-
   return { title: titlePart, date };
 }
 
@@ -17,28 +16,33 @@ export default function NewsList({ ticker }: { ticker: Ticker }) {
   const [openIdx, setOpenIdx] = useState<number | null>(null);
   const [bodies, setBodies] = useState<Record<string, string>>({});
 
-  useEffect(() => {
-    setOpenIdx(null);
+  async function fetchBody(file: string, t: Ticker) {
+    if (bodyCache[file]) {
+      setBodies(prev => ({ ...prev, [file]: bodyCache[file] }));
+      return;
+    }
+    const txt = await fetch(`/api/news-body/${t}/${encodeURIComponent(file)}`).then(r => r.text());
+    const body = txt.replace(/^[\s\S]*?\n\n/, "");
+    bodyCache[file] = body;
+    setBodies(prev => ({ ...prev, [file]: body }));
+  }
 
+  useEffect(() => {
     fetch(`/api/news-files/${ticker}`)
       .then(r => r.json())
-      .then((list: string[]) => setFiles([...list].reverse()));
+      .then((list: string[]) => {
+        const sorted = [...list].reverse();
+        setFiles(sorted);
+        setOpenIdx(0);
+        if (sorted[0]) fetchBody(sorted[0], ticker);
+      });
   }, [ticker]);
 
   async function toggle(i: number) {
     const file = files[i];
     if (openIdx === i) { setOpenIdx(null); return; }
     setOpenIdx(i);
-
-    if (bodies[file] || bodyCache[file]) {
-      if (bodyCache[file]) setBodies(prev => ({ ...prev, [file]: bodyCache[file] }));
-      return;
-    }
-
-    const txt = await fetch(`/data/stocknews/${ticker}/${encodeURIComponent(file)}`).then(r => r.text());
-    const body = txt.replace(/^[\s\S]*?\n\n/, "");
-    bodyCache[file] = body;
-    setBodies(prev => ({ ...prev, [file]: body }));
+    await fetchBody(file, ticker);
   }
 
   return (
