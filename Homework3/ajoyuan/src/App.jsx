@@ -8,15 +8,14 @@ function App() {
   const [selectedStock, setSelectedStock] = useState("AAPL");
 
   return (
-    <div className="flex flex-col h-full w-full">
-      <header className="bg-zinc-400 text-white p-2 flex flex-row align-center">
-
-        <h2 className="text-left text-2xl font-bold mr-6">Homework 3</h2>
-        <div className="flex items-center">
-          <label htmlFor="bar-select" className="mx-2">Select a stock:</label>
+    <div className="flex flex-col h-screen w-full overflow-hidden bg-gray-100">
+      <header className="bg-zinc-500 text-white p-1 px-3 flex flex-row items-center shadow-sm">
+        <h2 className="text-left text-lg font-bold mr-6">HW3</h2>
+        <div className="flex items-center text-sm">
+          <label htmlFor="bar-select" className="mx-2">Stock:</label>
           <select
             id="bar-select"
-            className="bg-white text-black p-1 rounded mx-2 border border-zinc-500"
+            className="bg-white text-black p-0.5 rounded border border-zinc-400 outline-none"
             value={selectedStock}
             onChange={(e) => setSelectedStock(e.target.value)}
           >
@@ -25,34 +24,36 @@ function App() {
         </div>
       </header>
       
-      <div className="flex flex-row h-full w-full">
+      {/* Main Container - Added p-1 and gap-1 */}
+      <div className="flex flex-row flex-1 w-full overflow-hidden p-1 gap-1">
         
-        <div className="flex flex-col w-2/3">
+        {/* Left Column (Charts) */}
+        <div className="flex flex-col w-2/3 h-full">
           
-          <div className="h-1/2 p-3 flex flex-col">
-            <h3 className="text-left text-xl">
+          <div className="h-1/2 p-1 flex flex-col overflow-hidden">
+            <h3 className="text-left text-sm font-bold text-zinc-600 ml-1">
               Stock Overview: {selectedStock}
             </h3>
-            <div className="flex-1 border-2 border-gray-300 rounded-xl bg-white overflow-hidden">
+            <div className="flex-1 border border-gray-300 rounded-lg bg-white overflow-hidden shadow-sm">
               <StockLineChart selectedStock={selectedStock} />
             </div>
           </div>
 
-          <div className="h-1/2 p-3 flex flex-col">
-            <h3 className="text-left text-xl">
-              T-SNE Cluster Analysis
+          <div className="h-1/2 p-1 flex flex-col overflow-hidden">
+            <h3 className="text-left text-sm font-bold text-zinc-600 ml-1">
+              T-SNE Analysis
             </h3>
-            <div className="flex-1 border-2 border-gray-300 rounded-xl bg-white overflow-hidden">
+            <div className="flex-1 border border-gray-300 rounded-lg bg-white overflow-hidden shadow-sm">
               <TsnePlot selectedStock={selectedStock} />
             </div>
           </div>
         </div>
 
-        <div className="w-1/3 h-full p-3 flex flex-col">
-          <h3 className="text-left text-lg font-semibold mb-1">
+        <div className="w-1/3 h-full p-1 flex flex-col overflow-hidden">
+          <h3 className="text-left text-sm font-bold text-zinc-600 ml-1">
             News Feed: {selectedStock}
           </h3>
-          <div className="flex-1 border-2 border-gray-300 rounded-xl bg-white overflow-y-auto">
+          <div className="flex-1 border border-gray-300 rounded-lg bg-white overflow-y-auto shadow-sm">
             <NewsList selectedStock={selectedStock} />
           </div>
         </div>
