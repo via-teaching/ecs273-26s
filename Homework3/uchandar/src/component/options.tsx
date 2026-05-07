@@ -1,5 +1,5 @@
-import { STOCKS } from "../stocks";
+import { stocks } from "../stocks";
 
 export default function RenderOptions() {
-  return STOCKS.map(t => <option key={t} value={t}>{t}</option>);
+  return stocks.map(t => <option key={t} value={t}>{t}</option>);
 }

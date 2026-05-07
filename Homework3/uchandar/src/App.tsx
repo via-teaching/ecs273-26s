@@ -1,10 +1,11 @@
 import { useState } from "react";
 import LineChart from "./component/LineChart";
+import TSNEScatter from "./component/TSNEScatter";
 import RenderOptions from "./component/options";
-import { STOCKS, Ticker } from "./stocks";
+import { stocks, Ticker } from "./stocks";
 
 export default function App() {
-  const [selectedStock, setSelectedStock] = useState<Ticker>(STOCKS[0]);
+  const [selected, setSelected] = useState<Ticker>(stocks[0]);
 
   return (
     <div className="flex flex-col h-full w-full">
@@ -14,8 +15,8 @@ export default function App() {
           <select
             id="stock-select"
             className="bg-white text-black p-2 rounded mx-2"
-            value={selectedStock}
-            onChange={(e) => setSelectedStock(e.target.value as Ticker)}
+            value={selected}
+            onChange={(e) => setSelected(e.target.value as Ticker)}
           >
             <RenderOptions />
           </select>
@@ -27,15 +28,13 @@ export default function App() {
           <div className="h-1/2 p-2">
             <h3 className="text-left text-xl h-[2rem]">View 1: Stock Overview</h3>
             <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <LineChart ticker={selectedStock} />
+              <LineChart ticker={selected} />
             </div>
           </div>
           <div className="h-1/2 p-2">
             <h3 className="text-left text-xl h-[2rem]">View 2: T-SNE Projection</h3>
             <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <p className="text-center text-gray-500 mt-20">
-                Empty View 2 — selected: {selectedStock}
-              </p>
+              <TSNEScatter selected={selected} />
             </div>
           </div>
 
@@ -44,7 +43,7 @@ export default function App() {
           <h3 className="text-left text-xl h-[2rem]">View 3: News</h3>
           <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
             <p className="text-center text-gray-500 mt-20">
-              Empty View 3 — selected: {selectedStock}
+              Empty View 3 — selected: {selected}
             </p>
           </div>
         </div>

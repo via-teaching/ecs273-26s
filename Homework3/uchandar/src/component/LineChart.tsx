@@ -14,9 +14,9 @@ interface Row {
 
 type Series = { label: string; color: string; accessor: (r: Row) => number };
 
-const MARGIN: Margin = { top: 20, right: 20, bottom: 40, left: 56 };
+const margin: Margin = { top: 20, right: 20, bottom: 40, left: 56 };
 
-const SERIES: Series[] = [
+const series: Series[] = [
   { label: "Open",  color: "#1f77b4", accessor: r => r.open  },
   { label: "High",  color: "#2ca02c", accessor: r => r.high  },
   { label: "Low",   color: "#d62728", accessor: r => r.low   },
@@ -29,15 +29,15 @@ export default function LineChart({ ticker }: { ticker: Ticker }) {
 
   useEffect(() => {
     if (!containerRef.current || !svgRef.current) return;
-    let cancelled = false;
-    let latestRows: Row[] = [];
+    let stale = false;
+    let data: Row[] = [];
 
     const redraw = (w: number, h: number) => {
-      if (!svgRef.current || !latestRows.length) return;
-      renderChart(svgRef.current, latestRows, w, h, ticker);
+      if (!svgRef.current || !data.length) return;
+      drawChart(svgRef.current, data, w, h, ticker);
     };
 
-    const observer = new ResizeObserver(
+    const resizeObserver = new ResizeObserver(
       debounce((entries: ResizeObserverEntry[]) => {
         for (const entry of entries) {
           if (entry.target !== containerRef.current) continue;
@@ -47,11 +47,11 @@ export default function LineChart({ ticker }: { ticker: Ticker }) {
       }, 100)
     );
 
-    observer.observe(containerRef.current);
+    resizeObserver.observe(containerRef.current);
 
     d3.csv(`/data/stockdata/${ticker}.csv`).then((raw) => {
-      if (cancelled) return;
-      latestRows = raw.map((r: any) => ({
+      if (stale) return;
+      data = raw.map((r: any) => ({
         date: new Date(r.Date.split(" ")[0]),
         open: +r.Open,
         high: +r.High,
@@ -63,8 +63,8 @@ export default function LineChart({ ticker }: { ticker: Ticker }) {
     });
 
     return () => {
-      cancelled = true;
-      observer.disconnect();
+      stale = true;
+      resizeObserver.disconnect();
     };
   }, [ticker]);
 
@@ -75,91 +75,85 @@ export default function LineChart({ ticker }: { ticker: Ticker }) {
   );
 }
 
-function renderChart(
-  svgEl: SVGSVGElement,
-  rows: Row[],
-  width: number,
-  height: number,
-  ticker: string,
-) {
+function drawChart(svgEl: SVGSVGElement, data: Row[], width: number, height: number, ticker: string) {
   const svg = d3.select(svgEl);
   svg.selectAll("*").remove();
 
-  const innerWidth = width - MARGIN.left - MARGIN.right;
-  const innerHeight = height - MARGIN.top - MARGIN.bottom;
+  const innerWidth = width - margin.left - margin.right;
+  const innerHeight = height - margin.top - margin.bottom;
 
   svg.append("defs").append("clipPath")
     .attr("id", "line-clip")
     .append("rect")
-    .attr("x", MARGIN.left)
-    .attr("y", MARGIN.top)
+    .attr("x", margin.left)
+    .attr("y", margin.top)
     .attr("width", innerWidth)
     .attr("height", innerHeight);
 
   const xScale = d3.scaleTime()
-    .domain(d3.extent(rows, r => r.date) as [Date, Date])
-    .range([MARGIN.left, innerWidth + MARGIN.left]);
+    .domain(d3.extent(data, r => r.date) as [Date, Date])
+    .range([margin.left, innerWidth + margin.left]);
 
   const yScale = d3.scaleLinear()
-    .domain([d3.min(rows, r => r.low)! * 0.98, d3.max(rows, r => r.high)! * 1.02])
+    .domain([d3.min(data, r => r.low)! * 0.98, d3.max(data, r => r.high)! * 1.02])
     .nice()
-    .range([height - MARGIN.bottom, MARGIN.top]);
+    .range([height - margin.bottom, margin.top]);
 
-  const xAxisG = svg.append("g")
-    .attr("transform", `translate(0, ${height - MARGIN.bottom})`)
+  const xAxis = svg.append("g")
+    .attr("transform", `translate(0, ${height - margin.bottom})`)
     .call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%b %Y") as any));
 
   svg.append("g")
-    .attr("transform", `translate(${MARGIN.left}, 0)`)
+    .attr("transform", `translate(${margin.left}, 0)`)
     .call(d3.axisLeft(yScale).tickFormat(d => "$" + d3.format(",.0f")(d as number)));
 
   svg.append("text")
-    .attr("x", MARGIN.left + innerWidth / 2)
+    .attr("x", margin.left + innerWidth / 2)
     .attr("y", height - 2)
     .attr("text-anchor", "middle")
     .style("font-size", "0.75rem")
     .text("Date");
 
   svg.append("text")
-    .attr("transform", `translate(12, ${MARGIN.top + innerHeight / 2}) rotate(-90)`)
+    .attr("transform", `translate(12, ${margin.top + innerHeight / 2}) rotate(-90)`)
     .attr("text-anchor", "middle")
     .style("font-size", "0.75rem")
     .text("Price (USD)");
 
   svg.append("text")
-    .attr("x", MARGIN.left + innerWidth / 2)
-    .attr("y", MARGIN.top - 4)
+    .attr("x", margin.left + innerWidth / 2)
+    .attr("y", margin.top - 4)
     .attr("text-anchor", "middle")
     .style("font-size", "0.875rem")
     .style("font-weight", "bold")
     .text(`${ticker} — Open / High / Low / Close`);
 
-  const pathsG = svg.append("g").attr("clip-path", "url(#line-clip)");
-  const paths = pathsG.selectAll<SVGPathElement, Series>("path")
-    .data(SERIES)
+  const lineGroup = svg.append("g").attr("clip-path", "url(#line-clip)");
+  const lines = lineGroup.selectAll<SVGPathElement, Series>("path")
+    .data(series)
     .join("path")
     .attr("fill", "none")
     .attr("stroke", s => s.color)
     .attr("stroke-width", 1.5)
-    .attr("d", s => d3.line<Row>().x(r => xScale(r.date)).y(r => yScale(s.accessor(r)))(rows));
+    .attr("d", s => d3.line<Row>().x(r => xScale(r.date)).y(r => yScale(s.accessor(r)))(data));
 
-  const legendG = svg.append("g")
-    .attr("transform", `translate(${MARGIN.left + innerWidth - 64}, ${MARGIN.top + 4})`);
+  const legend = svg.append("g")
+    .attr("transform", `translate(${margin.left + innerWidth - 64}, ${margin.top + 4})`);
 
-  SERIES.forEach((s, i) => {
-    const g = legendG.append("g").attr("transform", `translate(0, ${i * 18})`);
+  series.forEach((s, i) => {
+    const g = legend.append("g").attr("transform", `translate(0, ${i * 18})`);
     g.append("rect").attr("width", 12).attr("height", 3).attr("y", 3).attr("fill", s.color);
     g.append("text").attr("x", 16).attr("y", 9).style("font-size", "0.7rem").text(s.label);
   });
 
   const zoom = d3.zoom<SVGSVGElement, unknown>()
     .scaleExtent([1, 20])
-    .translateExtent([[MARGIN.left, 0], [width - MARGIN.right, height]])
-    .extent([[MARGIN.left, 0], [width - MARGIN.right, height]])
+    .translateExtent([[margin.left, 0], [width - margin.right, height]])
+    .extent([[margin.left, 0], [width - margin.right, height]])
     .on("zoom", (e) => {
       const zx = e.transform.rescaleX(xScale);
-      xAxisG.call(d3.axisBottom(zx).tickFormat(d3.timeFormat("%b %Y") as any));
-      paths.attr("d", s => d3.line<Row>().x(r => zx(r.date)).y(r => yScale(s.accessor(r)))(rows));
+      xAxis.call(d3.axisBottom(zx).tickFormat(d3.timeFormat("%b %Y") as any));
+      lines.attr("d", s => d3.line<Row>().x(r => zx(r.date)).y(r => yScale(s.accessor(r)))(data));
     });
 
   svg.call(zoom);
