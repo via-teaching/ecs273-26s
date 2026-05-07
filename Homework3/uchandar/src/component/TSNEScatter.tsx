@@ -47,7 +47,6 @@ export default function TSNEScatter({
   const svgRef = useRef<SVGSVGElement>(null);
   const [data, setData] = useState<Point[]>([]);
 
-  // fetch once
   useEffect(() => {
     d3.csv("/data/tsne.csv").then((raw) => {
       const parsed: Point[] = raw.map((r, i) => ({
@@ -60,7 +59,6 @@ export default function TSNEScatter({
     });
   }, []);
 
-  // redraw when data, selection, or container size changes
   useEffect(() => {
     if (!containerRef.current || !svgRef.current || !data.length) return;
 

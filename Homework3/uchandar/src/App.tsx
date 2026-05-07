@@ -1,6 +1,7 @@
 import { useState } from "react";
 import LineChart from "./component/LineChart";
 import TSNEScatter from "./component/TSNEScatter";
+import NewsList from "./component/NewsList";
 import RenderOptions from "./component/options";
 import { stocks, Ticker } from "./stocks";
 
@@ -40,11 +41,9 @@ export default function App() {
 
         </div>
         <div className="w-1/3 h-full p-2">
-          <h3 className="text-left text-xl h-[2rem]">View 3: News</h3>
-          <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-            <p className="text-center text-gray-500 mt-20">
-              Empty View 3 — selected: {selected}
-            </p>
+          <h3 className="text-left text-xl h-[2rem]">View 3: News — {selected}</h3>
+          <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)] overflow-hidden">
+            <NewsList ticker={selected} />
           </div>
         </div>
 
