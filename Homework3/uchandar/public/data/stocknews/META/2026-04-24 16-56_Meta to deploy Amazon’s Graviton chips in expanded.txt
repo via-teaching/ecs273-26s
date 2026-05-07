@@ -1,0 +1,36 @@
+Title: Meta to deploy Amazon’s Graviton chips in expanded multiyear AWS agreement
+Date: 2026-04-24 16:56
+URL: https://www.proactiveinvestors.com/companies/news/1091175/meta-to-deploy-amazon-s-graviton-chips-in-expanded-multiyear-aws-agreement-1091175.html?.tsrc=rss
+
+Pharma & Biotech
+Gold & Silver
+Crypto
+Battery Metals
+Artificial Intelligence
+The content on this Site is provided for information purposes only and does not constitute investment advice, a personal recommendation, an offer or solicitation to buy or sell securities, or any other regulated activity. It should not be relied upon as the basis for any investment decision.
+Before making any investment decision, you should:
+Past performance is not a reliable indicator of future results. The value of investments can fall as well as rise. You may not recover the amount you invest, and in some cases you may be required to pay more.
+Emily began her career as a political journalist for Australian Community Media in Hobart, Tasmania. After she relocated to Toronto, Canada, she reported on business, legal, and scientific developments in the emerging psychedelics sector before joining Proactive in 2022. She brings a strong journalism background with her work featured in newspapers, magazines, and digital publications across Australia, Europe, and North America, including The Examiner, The Advocate, The Canberra Times, and... Read more
+Proactive financial news and online broadcast teams provide fast, accessible, informative and actionable business and finance news content to a global investment audience. All our content is produced independently by our experienced and qualified teams of news journalists.
+Proactive news team spans the world’s key finance and investing hubs with bureaus and studios in London, New York, Toronto, Vancouver, Sydney and Perth. 
+We are experts in medium and small-cap markets, we also keep our community up to date with blue-chip companies, commodities and broader investment stories. This is content that excites and engages motivated private investors.
+The team delivers news and unique insights across the market including but not confined to: biotech and pharma, mining and natural resources, battery metals, oil and gas, crypto and emerging digital and EV technologies.
+Proactive has always been a forward looking and enthusiastic technology adopter.
+Our human content creators are equipped with many decades of valuable expertise and experience. The team also has access to and use technologies to assist and enhance workflows.
+Proactive will on occasion use automation and software tools, including generative AI. Nevertheless, all content published by Proactive is edited and authored by humans, in line with best practice in regard to content production and search engine optimisation.
+
+Published: 12:56 24 Apr 2026 EDT
+  
+Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB) has signed a multiyear agreement with Amazon Web Services (AWS) to deploy tens of millions of AWS Graviton cores, strengthening its compute capacity for artificial intelligence systems.
+The rollout will make Meta one of the largest users of AWS Graviton5 chips, which are designed for high-efficiency CPU performance in cloud environments. The chips will support growing demand for processing power tied to agentic AI, systems that can reason, plan, and execute tasks autonomously.
+Meta said the agreement reflects a shift toward more diversified infrastructure as AI workloads become more CPU-intensive. The company already invests in its own data centers and custom hardware, and said the AWS partnership adds flexibility for scaling different types of compute.
+“AWS has been a trusted cloud partner for years, and expanding to Graviton allows us to run the CPU-intensive workloads behind agentic AI with the performance and efficiency we need at our scale,” said Santosh Janardhan, head of infrastructure at Meta.
+AWS, part of Amazon.com Inc (NASDAQ:AMZN), said Graviton chips are built to improve performance and efficiency for cloud-based applications. The company said the collaboration builds on its long-standing relationship with Meta and reflects broader adoption of custom silicon in AI infrastructure.
+“This isn't just about chips; it's about giving customers the infrastructure foundation, as well as data and inference services, to build AI that understands, anticipates, and scales efficiently to billions of people worldwide," said Nafea Bshara, vice president and distinguished engineer, Amazon.
+“Meta's expanded partnership, deploying tens of millions of Graviton cores, shows what happens when you combine purpose-built silicon with the full AWS AI stack to power the next generation of agentic AI.”
+Following the announcement, shares of Meta and Amazon both added about 2.5%.
+Sign up to receive alerts and news direct to your inbox
+Fox Tungsten CEO Steve Gray joined Steve Darling from Proactive to discuss the successful completion of a bought deal financing, raising just over $12 million to fund the company’s next phase of exploration. Gray described the raise as a “transformational deal,” marking the largest financing in...
+Copyright © Proactive Group Holdings Inc, 2026
+All Rights Reserved - Proactive North America Inc., Proactive Investors LLC.
+Market Indices, Commodities and Regulatory News Headlines copyright © Morningstar. Data delayed 15 minutes unless otherwise indicated. Terms of use.
