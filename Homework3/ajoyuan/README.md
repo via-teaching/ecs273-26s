@@ -26,20 +26,19 @@ example link: http://localhost:5173/
 Copy paste the link into your browser or use crtl + click to directly open the link.
 
 ### Folder Structure
+
+```text
 /
-ajoyuan
-|
-|
 ├── public/
 │   └── data/
-│       ├── stockdata/       # Individual CSV files for each ticker
-│       ├── stocknews/       # Folders containing news.json for each ticker
-│       └── tsne.csv         # Global coordinates for the cluster plot
+│       ├── stockdata/         # Individual CSV files for each ticker
+│       ├── stocknews/         # Folders containing news.json for each ticker
+│       └── tsne.csv           # Global coordinates for the cluster plot
 ├── src/
 │   ├── component/
-│   │   ├── NewsList.jsx        # News feed component
-│   │   ├── options.jsx         # Dropdown menu stock component
-│   │   ├── StockLineChart.jsx  # Stlockline plot component
-│   │   └── TsnePlot.jsx        # T-SNE plot component
-│   └── App.jsx                 # Main dashboard layout
-└── README.md                   # Project documentation
+│   │   ├── NewsList.jsx       # News feed component
+│   │   ├── options.jsx        # Dropdown menu stock component
+│   │   ├── StockLineChart.jsx # Stockline plot component
+│   │   └── TsnePlot.jsx       # T-SNE plot component
+│   └── App.jsx               # Main dashboard layout
+└── README.md                 # Project documentation
