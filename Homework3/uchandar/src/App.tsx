@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BarChart } from "./component/example";
+import LineChart from "./component/LineChart";
 import RenderOptions from "./component/options";
 import { STOCKS, Ticker } from "./stocks";
 
@@ -24,13 +24,13 @@ export default function App() {
       <div className="flex flex-row h-full w-full">
         <div className="flex flex-col w-2/3">
 
-          <div className="h-1/4 p-2">
-            <h3 className="text-left text-xl">View 1: Stock Overview</h3>
-            <div className="border-2 border-gray-300 rounded-xl">
-              <BarChart />
+          <div className="h-1/2 p-2">
+            <h3 className="text-left text-xl h-[2rem]">View 1: Stock Overview</h3>
+            <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
+              <LineChart ticker={selectedStock} />
             </div>
           </div>
-          <div className="h-3/4 p-2">
+          <div className="h-1/2 p-2">
             <h3 className="text-left text-xl h-[2rem]">View 2: T-SNE Projection</h3>
             <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
               <p className="text-center text-gray-500 mt-20">
