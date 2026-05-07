@@ -82,9 +82,9 @@ function drawChart(svgElement, data, width, height) {
     .attr("d", lineGen(conf.k, x))
   );
 
-  const leg = svg.append("g").attr("transform", `translate(${width - margin.right + 20}, ${margin.top})`);
+  const legend = svg.append("g").attr("transform", `translate(${width - margin.right + 20}, ${margin.top})`);
   CONFIG.forEach((conf, i) => {
-    const row = leg.append("g").attr("transform", `translate(0,${i * 25})`);
+    const row = legend.append("g").attr("transform", `translate(0,${i * 25})`);
     row.append("rect").attr("width", 15).attr("height", 15).attr("fill", conf.c);
     row.append("text").attr("x", 22).attr("y", 12).style("font-size", "14px").text(conf.k);
   });

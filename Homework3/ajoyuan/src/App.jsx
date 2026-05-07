@@ -39,7 +39,7 @@ function App() {
           </div>
 
           <div className="h-1/2 p-3 flex flex-col">
-            <h3 className="text-left text-lg font-semibold mb-1">
+            <h3 className="text-left text-xl">
               T-SNE Cluster Analysis
             </h3>
             <div className="flex-1 border-2 border-gray-300 rounded-xl bg-white overflow-hidden">

@@ -105,9 +105,9 @@ function drawPlot(svgElement, data, width, height, selectedStock) {
     .attr("transform", `translate(${width - margin.right + 15}, ${margin.top})`);
 
   sectors.forEach((sector, i) => {
-    const row = legend.append("g").attr("transform", `translate(0, ${i * 20})`);
-    row.append("rect").attr("width", 12).attr("height", 12).attr("fill", color(sector));
-    row.append("text").attr("x", 18).attr("y", 10).style("font-size", "12px").text(sector);
+    const row = legend.append("g").attr("transform", `translate(0,${i * 25})`);
+    row.append("rect").attr("width", 15).attr("height", 15).attr("fill", color(sector));
+    row.append("text").attr("x", 22).attr("y", 12).style("font-size", "14px").text(sector);
   });
 
   const zoom = d3.zoom().on("zoom", (event) => {
