@@ -1,0 +1,54 @@
+@import "tailwindcss";
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(24, 22, 22, 0.87);
+  background-color: #e2e8f0;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+
+.view {
+  background-color: #e2e8f0;
+}
+
+.app-container { height: 100vh; display: flex; flex-direction: column; }
+.app-header { padding: 0.5rem 1rem; border-bottom: 1px solid #ccc; }
+
+.grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  min-height: 0;
+}
+.view { border: 1px solid #ddd; border-radius: 4px; overflow: hidden; min-height: 0; }
+.view-1 { grid-column: 1; grid-row: 1; }
+.view-2 { grid-column: 1; grid-row: 2; }
+.view-3 { grid-column: 2; grid-row: 1 / span 2; }

@@ -1,0 +1,22 @@
+Title: Bernstein Analyst_ AI Agents Drive Chip Demand ‘Off the Charts,’ Supply Can’t Keep Up
+Date: 2026-05-04 21:07
+URL: https://247wallst.com/investing/2026/05/04/bernstein-analyst-ai-agents-drive-chip-demand-off-the-charts-supply-cant-keep-up/?.tsrc=rss
+Content: 
+
+Bernstein Research’s Stacy Rasgon has been making the rounds with a deceptively simple thesis: stop arguing about market share. On a recent Marketplace Morning Report segment titled Chipping away at Nvidia’s chip dominance, Rasgon offered a line that should reframe how retirement investors think about the AI buildout. “There’s no such thing as too many chips,” he said. “We just need more.”
+His follow-up was the kicker. “I don’t really care who’s winning or losing right now. I think it’s the wrong question.” The right question, in his view, is whether the industry can physically scale capacity fast enough to meet demand from AI agents, which has pushed compute requirements “off the charts.”
+
+
+
+NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) is the clearest scoreboard. Q4 FY2026 revenue hit $68.13 billion, up 73.2% year over year, with Data Center alone at $62.31 billion. CEO Jensen Huang said in the prior quarter that “Blackwell sales are off the charts, and cloud GPUs are sold out.” Total supply commitments now stand at $95.2 billion, a number that exists because demand visibility has outrun the company’s ability to produce.
+
+
+
+
+
+
+Rasgon’s point is that the binding constraint sits below NVIDIA. Taiwan Semiconductor Manufacturing (NYSE:TSM) posted Q1 2026 revenue of $35.90 billion, up 35.13% year-over-year, with advanced nodes (7nm and below) at 74% of wafer revenue and HPC at 61%. Management reaffirmed above 30% USD revenue growth for 2026. That is a foundry running flat out.
+Capacity does not appear by itself. ASML (NASDAQ:ASML) ended 2025 with a $45.06 billion order backlog after a record Q4 intake. CEO Christophe Fouquet stated plainly: “Demand for chips is outpacing supply. In response, our customers are accelerating their capacity expansion plans for 2026 and beyond.” See the Q1 2026 ASML release for context.
+Lam Research (NASDAQ:LRCX) just reported record results, with CEO Tim Archer noting “AI-driven demand reshapes the semiconductor industry.” Lam guided the June quarter to roughly $6.60 billion in revenue. Process control specialist KLA Corporation (NASDAQ:KLAC) reported Q3 FY2026 revenue of $3.42 billion and guided Q4 to roughly $3.575 billion at the midpoint, with management calling out the AI infrastructure buildout across foundry/logic, memory, advanced packaging, and services.
+The market has rewarded this view. Year-to-date, NVIDIA is up 12.2%, TSMC 29.95%, ASML 30.77%, Lam 45.48%, and KLA 49.67%. The equipment names are leading because that is where the next gigawatt of capacity has to come from. For long-horizon investors, the metric to track is wafer starts, EUV shipments, and equipment backlog. Rasgon’s contrarian framing is that the whole pie is the trade.
+ 

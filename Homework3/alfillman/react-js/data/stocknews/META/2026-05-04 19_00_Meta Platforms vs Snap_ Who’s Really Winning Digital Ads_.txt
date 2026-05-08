@@ -1,0 +1,21 @@
+Title: Meta Platforms vs Snap_ Who’s Really Winning Digital Ads_
+Date: 2026-05-04 19:00
+URL: https://247wallst.com/investing/2026/05/04/meta-platforms-vs-snap-whos-really-winning-digital-ads/?.tsrc=rss
+Content: 
+
+Meta Platforms (NASDAQ:META | META Price Prediction) and Snap (NYSE:SNAP) just delivered earnings that frame two opposite paths through the digital ad market. Meta posted a 33.08% revenue surge powered by AI-driven ad pricing. Snap finally swung to a $45.21 million quarterly profit by leaning on subscriptions and small advertisers. Same industry, very different business stories.
+Meta’s quarter was a flex on advertiser demand. Ad impressions across Facebook, Instagram, WhatsApp and Threads rose 19% YoY, while average price per ad climbed 12% YoY. That combination is rare. It tells you brands are paying more even as Meta serves more inventory. Family daily active people reached 3.56 billion, and advertising revenue alone hit $55.024 billion.
+The headline $10.44 EPS deserves an asterisk. An $8.03 billion tax benefit added $3.13 per share. Strip that out and the quarter still looked strong, but not historic.
+Snap’s story is different in texture. Q4 advertising revenue grew just 5% to $1.48 billion, and total eCPMs fell 8% YoY. The bright spot is Snapchat+, where subscribers jumped 71% YoY to 24 million and other revenue rose 62%. CEO Evan Spiegel called the result a sign of Snap’s “strategic pivot toward profitable growth.” Translation: pricing power is weak, so margin came from operational discipline.
+Meta is going all in on AI infrastructure. Capex guidance for 2026 was raised to $125 to $145 billion, citing higher component pricing and data center costs. Mark Zuckerberg framed the spend bluntly: “We’re on track to deliver personal superintelligence to billions of people.” Reality Labs still bled $4.03 billion in operating losses, a reminder that ambition is expensive.
+
+
+Snap is doing the opposite. Management authorized a $500 million buyback, capped infrastructure spend at $1.6 to $1.65 billion, and is betting on a Specs AR glasses launch and a $400 million Perplexity partnership. Market reactions diverged sharply. Meta shares slid 9.02% in the two trading sessions after results, while Snap rallied 28.37% in the past month.
+
+The analyst who called NVIDIA in 2010 just named his top 10 stocks and Meta wasn't one of them. Get them here FREE.
+
+For Meta, I am watching whether ad pricing can keep absorbing capex. Polymarket traders cluster around a $600 May close at 0.86 probability.
+For Snap, the May 6 Q1 earnings report is the moment of truth. Guidance of $1.50 to $1.53 billion in revenue and a 60%+ gross margin target leaves no room for slippage if eCPMs keep falling.
+
+Personally, I think Meta is the more durable business. The $22.87 billion in operating income and pricing power give it a margin cushion Snap simply does not have. But the 35% YoY expense growth and capex spiral worry me. Capex digestion is the key signal to watch before the thesis firms up.
+Snap is the riskier ticket, suited for a turnaround investor. If Specs and Perplexity reaccelerate ad pricing, the $6.29 share price reflects an asymmetric setup relative to the turnaround thesis. If eCPMs keep slipping, that buyback will not save the multiple. For me, Meta wins on quality. Snap wins only if you have conviction on AR.
