@@ -153,8 +153,8 @@ function drawLineChart(
   });
 
   renderAxes(xAxisGroup, yAxisGroup, xScale, yScale, width, height);
-  renderLabels(svg, width, height, tickerFromSeries(series));
-  renderLegend(svg, width);
+  renderLabels(svg, width, tickerFromSeries(series));
+  renderLegend(svg);
 
   const zoom = d3
     .zoom<SVGSVGElement, unknown>()
@@ -175,6 +175,7 @@ function drawLineChart(
         d3.axisBottom<Date>(zoomedXScale).ticks(Math.max(4, Math.floor(innerWidth / 140))).tickFormat(timeTickFormatter),
       );
       xAxisGroup.selectAll<SVGTextElement, Date>(".tick text").attr("transform", "rotate(-25)").style("text-anchor", "end");
+      styleAxis(xAxisGroup);
 
       metrics.forEach((metric) => {
         linePaths.get(metric)?.attr("d", lineGenerator(metric, zoomedXScale) ?? "");
@@ -202,12 +203,14 @@ function renderAxes(
     .style("text-anchor", "end");
 
   yAxisGroup.call(d3.axisLeft(yScale).ticks(6));
+  styleAxis(xAxisGroup);
+  styleAxis(yAxisGroup);
 
   xAxisGroup
     .append("text")
     .attr("x", width / 2)
     .attr("y", margin.bottom - 8)
-    .attr("fill", "currentColor")
+    .attr("fill", "#ffffff")
     .attr("text-anchor", "middle")
     .style("font-size", "0.9rem")
     .text("Trading Date");
@@ -217,21 +220,19 @@ function renderAxes(
     .attr("transform", "rotate(-90)")
     .attr("x", -(height / 2))
     .attr("y", -50)
-    .attr("fill", "currentColor")
+    .attr("fill", "#ffffff")
     .attr("text-anchor", "middle")
     .style("font-size", "0.9rem")
     .text("Price (USD)");
 }
 
-function renderLabels(svg: d3.Selection<SVGSVGElement, unknown, null, undefined>, width: number, height: number, ticker: string) {
-  svg
-    .append("text")
-    .attr("x", margin.left)
-    .attr("y", height - 12)
-    .attr("fill", "#475569")
-    .style("font-size", "0.8rem")
-    .text("Use mouse wheel or trackpad to zoom horizontally.");
+function styleAxis(axisGroup: d3.Selection<SVGGElement, unknown, null, undefined>) {
+  axisGroup.selectAll<SVGPathElement, unknown>(".domain").attr("stroke", "#ffffff");
+  axisGroup.selectAll<SVGLineElement, unknown>(".tick line").attr("stroke", "#ffffff");
+  axisGroup.selectAll<SVGTextElement, unknown>(".tick text").attr("fill", "#ffffff");
+}
 
+function renderLabels(svg: d3.Selection<SVGSVGElement, unknown, null, undefined>, width: number, ticker: string) {
   svg
     .append("text")
     .attr("x", width - margin.right)
@@ -243,10 +244,10 @@ function renderLabels(svg: d3.Selection<SVGSVGElement, unknown, null, undefined>
     .text(`${ticker} OHLC Price History`);
 }
 
-function renderLegend(svg: d3.Selection<SVGSVGElement, unknown, null, undefined>, width: number) {
+function renderLegend(svg: d3.Selection<SVGSVGElement, unknown, null, undefined>) {
   const legend = svg
     .append("g")
-    .attr("transform", `translate(${width - margin.right + 20}, ${margin.top + 10})`);
+    .attr("transform", `translate(${margin.left + 12}, ${margin.top + 10})`);
 
   metrics.forEach((metric, index) => {
     const row = legend.append("g").attr("transform", `translate(0, ${index * 22})`);

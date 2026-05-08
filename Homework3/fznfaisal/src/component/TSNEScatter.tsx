@@ -153,6 +153,8 @@ function drawScatterPlot(
 
       xAxisGroup.call(d3.axisBottom(zoomedXScale).ticks(6));
       yAxisGroup.call(d3.axisLeft(zoomedYScale).ticks(6));
+      styleAxis(xAxisGroup);
+      styleAxis(yAxisGroup);
 
       circles
         .attr("cx", (point) => zoomedXScale(point.x))
@@ -176,12 +178,14 @@ function renderAxes(
 ) {
   xAxisGroup.call(d3.axisBottom(xScale).ticks(6));
   yAxisGroup.call(d3.axisLeft(yScale).ticks(6));
+  styleAxis(xAxisGroup);
+  styleAxis(yAxisGroup);
 
   xAxisGroup
     .append("text")
     .attr("x", width / 2)
     .attr("y", margin.bottom - 8)
-    .attr("fill", "currentColor")
+    .attr("fill", "#ffffff")
     .attr("text-anchor", "middle")
     .style("font-size", "0.9rem")
     .text("t-SNE Dimension 1");
@@ -191,10 +195,16 @@ function renderAxes(
     .attr("transform", "rotate(-90)")
     .attr("x", -(height / 2))
     .attr("y", -48)
-    .attr("fill", "currentColor")
+    .attr("fill", "#ffffff")
     .attr("text-anchor", "middle")
     .style("font-size", "0.9rem")
     .text("t-SNE Dimension 2");
+}
+
+function styleAxis(axisGroup: d3.Selection<SVGGElement, unknown, null, undefined>) {
+  axisGroup.selectAll<SVGPathElement, unknown>(".domain").attr("stroke", "#ffffff");
+  axisGroup.selectAll<SVGLineElement, unknown>(".tick line").attr("stroke", "#ffffff");
+  axisGroup.selectAll<SVGTextElement, unknown>(".tick text").attr("fill", "#ffffff");
 }
 
 function renderLegend(
