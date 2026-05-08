@@ -27,11 +27,10 @@ export default function LineChart({ selectedStock }: Props) {
     svg.attr("width", width).attr("height", height);
 
     d3.csv(`./data/stockdata/${selectedStock}.csv`).then((data) => {
-      const parseDate = d3.timeParse("%Y-%m-%d");
-
+      
       const formatted: StockRow[] = data
         .map((d: any) => ({
-          date: parseDate(d.Date),
+          date: new Date(d.Date),
           Open: +d.Open,
           High: +d.High,
           Low: +d.Low,
@@ -61,7 +60,7 @@ export default function LineChart({ selectedStock }: Props) {
 
       const color = d3
         .scaleOrdinal<string>()
-        .domain(keys)
+        .domain(keys as string[])
         .range(["blue", "red", "green", "purple"]);
 
       const xAxisGroup = svg
@@ -169,7 +168,7 @@ export default function LineChart({ selectedStock }: Props) {
           });
         });
 
-      svg.call(zoom);
+      svg.call(zoom as any);;
     });
   }, [selectedStock]);
 

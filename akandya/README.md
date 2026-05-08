@@ -1,54 +1,82 @@
-# React + TypeScript + Vite
+# ECS 273 Homework 3 — Interactive Stock Visual Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
 
-Currently, two official plugins are available:
+This project is an interactive stock visualization dashboard built using React, TypeScript, and D3.js for ECS 273: Visual Analytics at UC Davis by AVNI KANDYA.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The dashboard visualizes:
+- Historical stock price trends
+- t-SNE latent-space relationships between stocks
+- Recent stock news articles
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+# Features
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## View 1 — Interactive Stock Line Chart
+- Displays Open, High, Low, and Close stock prices
+- Dynamic update based on selected stock
+- Zoomable time-series visualization
+- Axis labels and legends
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## View 2 — t-SNE Scatter Plot
+- Visualizes stock similarity using latent representations
+- Color-coded by sector
+- Interactive zooming and panning
+- Clicking a point updates all linked views
+- Selected stock is highlighted
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## View 3 — News Panel
+- Displays recent stock-related news
+- Expandable news content
+- Dynamically updates based on selected stock
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+---
+
+# Technologies Used
+
+- React
+- TypeScript
+- D3.js
+- Vite
+- Tailwind CSS
+
+---
+# Setup Instructions :
+# 1. Clone Repository
+git clone https://github.com/Avni-K/ecs273-26s
+cd ecs273-26s/akandya
+
+# 2. Install Dependencies
+npm install
+npm install d3
+npm install -D @types/d3
+
+# 3. Run the Project and Open in Browser
+npm run dev
+- Usually available at : http://localhost:5173
+
+---
+
+# Project Structure
+
+```txt
+akandya/
+├── data/
+│   ├── stockdata/
+│   ├── stocknews/
+│   └── tsne.csv
+│
+├── src/
+│   ├── component/
+│   │   ├── LineChart.tsx
+│   │   ├── TSNEScatter.tsx
+│   │   ├── NewsList.tsx
+│   │   └── options.ts
+│   │
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── package.json
+└── README.md
+
