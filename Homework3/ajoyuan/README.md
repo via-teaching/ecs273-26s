@@ -1,12 +1,12 @@
 ## Getting Started
 
 ### 1. Open the Project
-Open the project folder in your preferred code editor (I used Visual Studio Code).
+Open the ajoyuan project folder in your preferred code editor (I used Visual Studio Code).
 
 ### 2. Open the Terminal
 Open an integrated Bash terminal at the root of the project directory (ajoyuan). 
 
-To do so, create a new terminal and ensure "bash" is selected in the terminal dropdown.*
+To do so, create a new terminal and ensure "bash" is selected in the terminal dropdown.
 
 ### 3. Ensure all necessary packages are installed
 Enter the following command into the bash terminal:
