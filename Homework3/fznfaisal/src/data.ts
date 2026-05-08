@@ -2,14 +2,9 @@ import * as d3 from "d3";
 import tsneRaw from "../data/tsne.csv?raw";
 
 import { NewsItem, StockPriceRow, TSNEPoint } from "./types";
+import { rawNewsEntries } from "./generated/newsData";
 
 const stockFileContents = import.meta.glob("../data/stockdata/*.csv", {
-  eager: true,
-  import: "default",
-  query: "?raw",
-}) as Record<string, string>;
-
-const newsFileContents = import.meta.glob("../data/stocknews/**/*.txt", {
   eager: true,
   import: "default",
   query: "?raw",
@@ -93,7 +88,7 @@ const tsnePoints = d3
 
 const newsItemsByTicker = new Map<string, NewsItem[]>();
 
-for (const [path, raw] of Object.entries(newsFileContents)) {
+for (const { path, raw } of rawNewsEntries) {
   const ticker = extractNewsTickerFromPath(path);
   const item = parseNewsItem(path, raw);
   const existingItems = newsItemsByTicker.get(ticker) ?? [];
