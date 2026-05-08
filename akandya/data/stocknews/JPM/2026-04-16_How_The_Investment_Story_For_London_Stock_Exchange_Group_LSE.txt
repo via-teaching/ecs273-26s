@@ -1,0 +1,31 @@
+Title: How The Investment Story For London Stock Exchange Group (LSE:LSEG) Is Quietly Shifting
+Ticker: JPM
+Published: 2026-04-16T23:06:34
+URL: https://finance.yahoo.com/markets/stocks/articles/investment-story-london-stock-exchange-220634201.html?.tsrc=rss
+
+Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St.
+The latest analyst work on London Stock Exchange Group includes a small shift in the modelled fair value, with the price target moving from £122.32 to £122.54. JPMorgan's £1.00 increase reflects refreshed assumptions that analysts are using to frame both the optimism and caution currently surrounding the stock. Read on to see what is driving this evolving narrative and how you can track it over time.
+Stay updated as the Fair Value for London Stock Exchange Group shifts by adding it to your watchlist or portfolio. Alternatively, explore our Community to discover new perspectives on London Stock Exchange Group.
+JPMorgan has adjusted its model for London Stock Exchange Group, lifting the price target by £1.00 to £122.54. This signals refreshed conviction in the current valuation framework rather than a wholesale change in view.
+The revised target reflects updated analyst assumptions on how the business may execute on its plans. In JPMorgan's view, the existing share price still has room to reflect those assumptions more fully.
+The relatively small size of the JPMorgan revision hints at ongoing caution, with the bank fine tuning numbers instead of making a large shift that would imply a stronger change in expectations.
+JPMorgan's careful adjustment underlines that, while the stock is supported by its current investment case, there are still questions around execution and how quickly potential drivers may be reflected in earnings.
+Do your thoughts align with the Bull or Bear Analysts? Perhaps you think there's more to the story. Head to the Simply Wall St Community to discover more perspectives!
+See how London Stock Exchange Group's fair value stacks up across multiple valuation models — not just analyst targets.
+Elliott Investment Management has built a significant stake in London Stock Exchange Group and is pressing for a full portfolio review, including the data business, exchange operations and the 51% stake in Tradeweb Markets, as well as a potential sale of the bond trading arm.
+Elliott is calling for £5b of share buybacks over the next 12 months following a 33% share price fall over the past year, and has issued statements around LSEG’s 2025 full year results suggesting there is scope for additional actions to narrow the valuation gap with peers.
+LSEG has partnered with Anthropic and others as part of 10 new plug ins aimed at business customers, with LSEG contributing capabilities for AI powered workflows in areas such as investment banking and wealth management.
+The group launched Model as a Service, a governed marketplace for financial institutions to host, distribute and analyse models, with Societe Generale providing fixed income, FX, ESG and equities datasets and integration into partners’ AI ecosystems via Model Context Protocol connectors.
+Fair value moved from £122.32 to £122.54, representing a very small upward adjustment in the modelled estimate.
+The revenue growth assumption shifted from 6.11% to 6.29% for long-term pound sterling based sales.
+The net profit margin assumption moved from 16.65% to 17.03% for expected profitability on pound sterling earnings.
+The future P/E multiple moved from 36.74x to 35.84x on projected earnings.
+The discount rate increased from 8.69% to 8.73% in the required return used in the analysis.
+Narratives link a company's story to a financial forecast and fair value, tying together product developments, competitive pressures and capital allocation. They update automatically as new research, guidance and risk factors emerge so you can see how the investment case is evolving in real time.
+Head over to the Simply Wall St Community and follow the Narrative on London Stock Exchange Group to stay up to date on:
+How LSEG is using AI driven analytics, cloud based delivery and partnerships with firms like Microsoft, UBS and StepStone to support recurring data and workflow revenues.
+The role of compliance, risk intelligence and digital asset platforms in broadening LSEG's product set and supporting margin efficiency after the Refinitiv integration and cost work.
+Key threats such as DeFi and alternative trading venues, tougher data competition and pricing pressure, regulatory uncertainty, and revenue volatility from usage based contracts.
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include LSEG.L.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com

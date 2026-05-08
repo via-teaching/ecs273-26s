@@ -1,0 +1,10 @@
+Title: EU Proposes Opening Google Search Data To Rivals Under DMA
+Ticker: GOOGL
+Published: 2026-04-16T20:03:05
+URL: https://finance.yahoo.com/sectors/technology/articles/eu-proposes-opening-google-search-190305597.html?.tsrc=rss
+
+This article first appeared on GuruFocus.
+The European Commission is signaling a more assertive stance on platform dominance, proposing measures that could require Alphabet Inc.'s Google (NASDAQ:GOOG) to share core search data with competitors under the Digital Markets Act. In its preliminary findings, the regulator outlined potential obligations that would grant access to ranking, query, click, and view data, with the stated aim of enabling rival search engines to better optimize their services and challenge Google's position. A final decision is expected by July 27, suggesting a defined timeline that investors may begin to monitor more closely.
+Is GOOG fairly valued? Test your thesis with our free DCF calculator.
+The implications could extend beyond traditional search and into the rapidly evolving AI landscape. If implemented, the proposal may allow companies such as OpenAI and Anthropic PBC to access datasets that have historically been central to Google's advantage. That shift could influence how quickly competing platforms refine their models and search capabilities, potentially narrowing gaps that have persisted due to data scale. The Commission will gather feedback before finalizing its position, leaving room for adjustments as stakeholders respond.
+Google has indicated it will push back, with its Senior Competition Counsel stating the measures could risk user privacy and security. This development comes alongside a broader wave of EU scrutiny, including ongoing probes into search practices and app store policies, as well as prior fines totaling 9.5 billion. At the same time, tensions between European regulators and US President Donald Trump continue to frame the policy backdrop, which could add another layer of uncertainty for Alphabet as enforcement under the DMA progresses.

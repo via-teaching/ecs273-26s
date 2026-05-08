@@ -1,0 +1,7 @@
+Title: Alphabet Explores Pentagon Deal for Gemini AI
+Ticker: GOOGL
+Published: 2026-04-16T19:09:41
+URL: https://finance.yahoo.com/sectors/technology/articles/alphabet-explores-pentagon-deal-gemini-180941352.html?.tsrc=rss
+
+This article first appeared on GuruFocus.
+Alphabet Inc. (GOOG, Financials) may be edging closer to a wider role in government AI. Reports claim the company is talking to the Pentagon about having its Gemini models be used in secret places.That would be a big step forward for Google. It already works with federal agencies on less sensitive duties, but using it for classified work would change the relationship in a big way. It would also indicate how swiftly AI tools are being used in important government and defense activities.The conversations are interesting since Google is said to be trying to limit how the technology can be used. The corporation has suggested language that would restrict things like bulk surveillance of homes or weapons that work on their own without human control. That makes it seem like Google is trying to find a middle ground between making money and dealing with the political and moral issues that come with these contracts.The overall picture is that the competition for government AI jobs is getting tougher. OpenAI already has a defense deal, and other companies are also seeking to get a footing. This isn't simply another customer for Alphabet. It's about whether people will trust Gemini in one of the most sensitive parts of the AI market.

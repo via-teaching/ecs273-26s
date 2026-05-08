@@ -1,0 +1,509 @@
+Title: CFTC's Selig Credits AI Efficiency Amid Staffing Crunch
+Ticker: MSFT
+Published: 2026-04-16T19:00:04
+URL: https://www.bankless.com/read/news/cftcs-selig-credits-ai-efficiency-amid-staffing-crunch?.tsrc=rss
+
+BTC                            
+$74,677.00
+-0.36%
+
+
+$74,677.00
+
+
+
+                            ETH                            
+$2,324.83
+-1.17%
+
+
+$2,324.83
+
+
+
+                            BNB                            
+$629.93
+1.04%
+
+
+$629.93
+
+
+
+                            SOL                            
+$87.76
+2.93%
+
+
+$87.76
+
+
+
+                            XRP                            
+$1.43
+2.27%
+
+
+$1.43
+
+
+
+                            DOGE                            
+$0.10
+0.76%
+
+
+$0.10
+
+
+
+                            TRX                            
+$0.33
+-0.13%
+
+
+$0.33
+
+
+
+                            ADA                            
+$0.25
+1.76%
+
+
+$0.25
+
+
+
+                            TON                            
+$3.03
+10.57%
+
+
+$3.03
+
+
+
+                            SHIB                            
+$0.00
+0.99%
+
+
+$0.00
+
+
+
+                            AVAX                            
+$28.30
+-0.69%
+
+
+$28.30
+
+
+
+                            BCH                            
+$448.62
+1.52%
+
+
+$448.62
+
+
+
+                            LINK                            
+$9.36
+0.46%
+
+
+$9.36
+
+
+
+                            LEO                            
+$10.14
+-0.09%
+
+
+$10.14
+
+
+
+                            SUI                            
+$2.65
+-21.81%
+
+
+$2.65
+
+
+
+                            DOT                            
+$7.76
+1.42%
+
+
+$7.76
+
+
+
+                            LTC                            
+$102.89
+-11.81%
+
+
+$102.89
+
+
+
+                            NEAR                            
+$3.75
+1.55%
+
+
+$3.75
+
+
+
+                            APT                            
+$8.30
+-0.02%
+
+
+$8.30
+
+
+
+                            UNI                            
+$7.05
+1.65%
+
+
+$7.05
+
+
+
+                            PEPE                            
+$0.00
+2.04%
+
+
+$0.00
+
+
+
+                            ICP                            
+$7.16
+-1.35%
+
+
+$7.16
+
+
+
+                            DAI                            
+$1.00
+-0.16%
+
+
+$1.00
+
+
+
+                            TAO                            
+$431.30
+-0.26%
+
+
+$431.30
+
+
+
+                            FET                            
+$1.18
+2.73%
+
+
+$1.18
+
+
+
+                            BTC                            
+$74,677.00
+-0.36%
+
+
+$74,677.00
+
+
+
+                            ETH                            
+$2,324.83
+-1.17%
+
+
+$2,324.83
+
+
+
+                            BNB                            
+$629.93
+1.04%
+
+
+$629.93
+
+
+
+                            SOL                            
+$87.76
+2.93%
+
+
+$87.76
+
+
+
+                            XRP                            
+$1.43
+2.27%
+
+
+$1.43
+
+
+
+                            DOGE                            
+$0.10
+0.76%
+
+
+$0.10
+
+
+
+                            TRX                            
+$0.33
+-0.13%
+
+
+$0.33
+
+
+
+                            ADA                            
+$0.25
+1.76%
+
+
+$0.25
+
+
+
+                            TON                            
+$3.03
+10.57%
+
+
+$3.03
+
+
+
+                            SHIB                            
+$0.00
+0.99%
+
+
+$0.00
+
+
+
+                            AVAX                            
+$28.30
+-0.69%
+
+
+$28.30
+
+
+
+                            BCH                            
+$448.62
+1.52%
+
+
+$448.62
+
+
+
+                            LINK                            
+$9.36
+0.46%
+
+
+$9.36
+
+
+
+                            LEO                            
+$10.14
+-0.09%
+
+
+$10.14
+
+
+
+                            SUI                            
+$2.65
+-21.81%
+
+
+$2.65
+
+
+
+                            DOT                            
+$7.76
+1.42%
+
+
+$7.76
+
+
+
+                            LTC                            
+$102.89
+-11.81%
+
+
+$102.89
+
+
+
+                            NEAR                            
+$3.75
+1.55%
+
+
+$3.75
+
+
+
+                            APT                            
+$8.30
+-0.02%
+
+
+$8.30
+
+
+
+                            UNI                            
+$7.05
+1.65%
+
+
+$7.05
+
+
+
+                            PEPE                            
+$0.00
+2.04%
+
+
+$0.00
+
+
+
+                            ICP                            
+$7.16
+-1.35%
+
+
+$7.16
+
+
+
+                            DAI                            
+$1.00
+-0.16%
+
+
+$1.00
+
+
+
+                            TAO                            
+$431.30
+-0.26%
+
+
+$431.30
+
+
+
+                            FET                            
+$1.18
+2.73%
+
+
+$1.18
+Subscribe to Bankless or sign in
+Before the House Agriculture Committee at a Thursday hearing, Commodity Futures Trading Commission (CFTC) Chair Michael Selig claimed his agency is tapping artificial intelligence to plug its growing staffing gap.
+🚨NOW: CFTC Chair @ChairmanSelig is testifying before @HouseAgGOP amid a push for control over prediction markets, a new probe into insider oil trading, and on the heels of launching Project Crypto with @SECGov, all while serving as the sole commissioner.Some spicy exchanges…
+Written by Jack Inabinet
+854 Articles
+                        •
+View all
+Jack Inabinet is a Senior Analyst with a passion for exploring the bleeding edge of crypto and finance. Prior to joining Bankless, Jack worked as an analyst at HAL Real Estate where he conducted market research and financial analysis for commercial real estate development and acquisition activities in the Seattle region. He graduated from the University of Washington’s Michael G. Foster School of Business.
+Listening to Bankless articles is just the beginning of what you'll unlock with Citizenship...
+Ad-Free Podcast Feed
+100+ Airdrop Hunter Guides
+Exclusive Newsletter Analysis
+Daily Token Hub Ratings
+Private Discord w/ Bankless team
+Exclusive Alpha
+Bonus Citizen-Only Episodes
+Support Crypto-Native Media!
+I agree to the Bankless Terms and Privacy statements
+Front run the day in 3 mins
+1st looks at NFTs, games & culture
+The frontier of AI x Crypto
+Not financial or tax advice. Bankless content is strictly educational and is not investment advice or a solicitation to buy or sell any assets or to make any financial decisions. This newsletter is not tax advice. Talk to your accountant. Do your own research.
+Disclosure. From time-to-time we may add links in this newsletter to products we use. We may receive commission if you make a purchase through one of these links. Additionally, the Bankless team hold crypto assets. See our investment disclosures here.
+This site is protected by reCAPTCHA.
+Read Bankless in:                            
+                                English
+                            
+                                                            -
+                                
+                                    Spanish                                
+                                                                -
+                                
+                                    German                                
+                                                                -
+                                
+                                    French
+Not financial or tax advice. Bankless content is strictly educational and is not investment advice or a solicitation to buy or sell any assets or to make any financial decisions. This newsletter is not tax advice. Talk to your accountant. Do your own research.
+Disclosure. From time-to-time we may add links in this newsletter to products we use. We may receive commission if you make a purchase through one of these links. Additionally, the Bankless team hold crypto assets. See our investment disclosures here.
+This site is protected by reCAPTCHA.
+Trending
+Latest Episodes
+Latest News & Analysis
+Use password instead                                
+
+
+
+                                    Login with an email link                                
+
+
+
+                                    Forgot password?
+New to Bankless? Join
+
+
+                        I agree to the Bankless Terms and Privacy statements
+I agree to the Bankless Terms and Privacy statements
+Already have an account? Sign In

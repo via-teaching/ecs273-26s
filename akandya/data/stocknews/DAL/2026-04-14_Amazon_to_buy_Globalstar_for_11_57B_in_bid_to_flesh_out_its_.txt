@@ -1,0 +1,13 @@
+Title: Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz
+Ticker: DAL
+Published: 2026-04-14T14:55:42
+URL: https://finance.yahoo.com/sectors/technology/articles/amazon-buy-globalstar-11-57b-135542664.html?.tsrc=rss
+
+Amazon is moving in on the orbital mobile connectivity market that’s currently dominated by Elon Musk’s Starlink. The company on Tuesday said it had agreed to buy satellite company Globalstar, known for powering Apple’s “Emergency SOS” feature, for $11.57 billion in cash.
+The $90-per-share deal will net Amazon all of Globalstar’s satellite operations, infrastructure, and mobile satellite services spectrum licenses, enabling the larger company to flesh out its young satellite business, Amazon Leo, with direct-to-device services ahead of its launch later this year.
+The announcement comes just days after Amazon CEO Andy Jassy touted Amazon Leo’s roster of customers, which includes Delta Airlines, AT&T, Vodafone, Australia’s National Broadband Network, and NASA. The company on Monday also showed off a new satellite internet antenna meant for commercial jets that promises high-speed internet during flights.
+The business is slated to launch with more than 3,200 satellites in low-Earth orbit, though it has faced delays and has so far launched only about 200 satellites. Amazon eventually had to ask the Federal Communications Commission to extend a deadline that requires having about 1,600 satellites in orbit by July this year.
+In comparison, the much larger Starlink currently operates more than 10,000 satellites, with which it offers internet services in about 150 countries to retail users as well as businesses, including the maritime and aviation industries.
+Globalstar has more than 24 satellites in low-Earth orbit, and has agreements in place to acquire more than 50 new satellites. The company also has an agreement with SpaceX to launch replacement satellites for its current constellation this year.
+Alongside this deal, Amazon said it had struck an agreement with Apple to continue providing satellite connectivity services for the iPhone and Apple Watch. Globalstar currently provides satellite services like emergency text messaging, requesting roadside assistance, and location sharing, available on Apple’s iPhone 14 and later devices in certain regions.
+Amazon Leo is also slated to deploy its own direct-to-device satellite system from 2028, which would integrate with its current broadband and satellite systems. The company said it is aiming to develop a network of “thousands of advanced satellites in low-Earth orbit” that would “support hundreds of millions of customer endpoints around the world.”

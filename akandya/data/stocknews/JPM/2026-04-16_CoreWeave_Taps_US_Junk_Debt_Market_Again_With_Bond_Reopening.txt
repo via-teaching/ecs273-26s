@@ -1,0 +1,16 @@
+Title: CoreWeave Taps US Junk-Debt Market Again With Bond Reopening
+Ticker: JPM
+Published: 2026-04-16T16:42:42
+URL: https://finance.yahoo.com/markets/stocks/articles/coreweave-taps-us-junk-debt-124425239.html?.tsrc=rss
+
+(Bloomberg) -- CoreWeave Inc. tapped the US junk-bond market for a second time in a week as the cloud infrastructure firm seizes on strong investor demand for AI-related debt.
+The Livingston, New Jersey-based company sold $1 billion of additional 9.75% senior notes due 2031, according to a person with direct knowledge of the matter. The debt priced at 102 cents on dollar, the person added, asking not to be identified because details are private.
+The offering was run by JPMorgan Chase & Co., Morgan Stanley and Goldman Sachs Group Inc.
+The move comes a week after CoreWeave raised $1.75 billion in its initial 2031 notes offering, amid relentless investor appetite for debt tied to the artificial intelligence boom. Those bonds have since rallied to more than 102 cents, according to Trace pricing data, having priced at par.
+CoreWeave, which rents access to high-end AI processors, has been tapping different corners of credit markets to help finance an aggressive expansion of its cloud computing capacity. Its capital needs have increased after signing a $21 billion deal last week to supply AI cloud capacity to Meta Platforms Inc., adding to an earlier $14.2 billion agreement.
+Wall Street has been able to successfully stitch together tens of billions of dollars in funding to underpin the AI boom in recent weeks, even as the conflict in the Middle East led some borrowers to pause debt sales.
+As optimism about a longer-term peace deal rises, borrowing costs have eased broadly for companies of all types — bringing with it a revival in issuance.
+Data centers linked to Alphabet Inc.’s Google are also seeking to raise $5.7 billion from a junk-bond transaction, in what would be the largest deal of its kind to finance the AI buildout frenzy. That deal, led by Morgan Stanley, is offered at a yield of 6.25% to 6.375% and may also price Thursday, according to a different person with knowledge of the matter.
+(Updates with pricing details in second paragraph)
+More stories like this are available on bloomberg.com
+©2026 Bloomberg L.P.

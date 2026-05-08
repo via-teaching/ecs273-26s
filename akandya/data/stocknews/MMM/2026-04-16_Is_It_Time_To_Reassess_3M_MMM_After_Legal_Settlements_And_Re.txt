@@ -1,0 +1,44 @@
+Title: Is It Time To Reassess 3M (MMM) After Legal Settlements And Restructuring Efforts?
+Ticker: MMM
+Published: 2026-04-16T11:04:32
+URL: https://finance.yahoo.com/markets/stocks/articles/time-reassess-3m-mmm-legal-100432401.html?.tsrc=rss
+
+Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.
+Investors may be wondering whether 3M is genuinely good value at its current price, or if the recent optimism has already been fully reflected in the share price.
+The stock last closed at US$151.24, with returns of 1.4% over the past week, 0.9% over the past month, a 6.5% decline year to date, 18.1% over the past year, and 89.0% over three years.
+Recent headlines have focused on 3M's restructuring efforts and ongoing legal settlements, which continue to shape how investors assess both risk and potential resilience. There has also been attention on portfolio simplification and cost initiatives, providing further context for recent share price moves.
+3M currently has a valuation score of 4 out of 6. This invites a closer look at how different valuation methods view the stock and points to a potentially more helpful way to think about value that will be covered at the end of this article.
+Find out why 3M's 18.1% return over the last year is lagging behind its peers.
+A Discounted Cash Flow, or DCF, model projects a company’s future cash flows and then discounts them back to today’s dollars to estimate what the business might be worth right now.
+For 3M, the model used is a 2 Stage Free Cash Flow to Equity approach based on cash flow projections. The latest twelve month free cash flow is about $1.06b. Analyst estimates and extrapolated figures suggest free cash flow reaching about $5.16b in 2030, with a series of projected annual cash flows between 2026 and 2035. Each of these cash flows is discounted back to today using Simply Wall St’s methodology.
+Bringing all these discounted cash flows together gives an estimated intrinsic value of about $212.80 per share. Compared with the recent share price of $151.24, the model points to an implied discount of 28.9%, which indicates that the stock screens as undervalued on this DCF view.
+Result: UNDERVALUED
+Our Discounted Cash Flow (DCF) analysis suggests 3M is undervalued by 28.9%. Track this in your watchlist or portfolio, or discover 60 more high quality undervalued stocks.
+Head to the Valuation section of our Company Report for more details on how we arrive at this Fair Value for 3M.
+For profitable companies, the P/E ratio is a useful way to relate what you pay for a share to the earnings it currently generates. It also gives a quick sense of how the market is weighing growth expectations and risk, since higher growth or lower perceived risk often supports a higher “normal” P/E, while higher risk or weaker growth tends to justify a lower one.
+3M currently trades on a P/E of 24.3x. That sits above the wider Industrials sector average of about 14.0x, but below the peer group average of 32.3x. Simply Wall St’s Fair Ratio framework estimates what a more tailored P/E might look like, based on factors such as earnings growth profile, profit margins, industry characteristics, market cap and company specific risks.
+For 3M, the Fair Ratio is 30.9x, which is higher than the current 24.3x P/E. On this metric, the shares screen as trading below the level implied by those fundamentals oriented inputs.
+Result: UNDERVALUED
+P/E ratios tell one story, but what if the real opportunity lies elsewhere? Start investing in legacies, not executives. Discover our 19 top founder-led companies.
+Earlier it was mentioned that there is an even better way to understand valuation, so Narratives are introduced here as your way of attaching a clear story about 3M to the numbers you care about, such as fair value, future revenue, earnings and margins. You can then see how that story translates into a valuation you can compare with the current price.
+On Simply Wall St, Narratives sit inside the Community page and give you a simple framework to connect what you think is happening at 3M, for example a focus on operational discipline and legal resolution, to a forecast and an implied fair value that updates automatically when new earnings, news or legal developments are factored in.
+For 3M, one investor might align with a more optimistic Narrative that uses a fair value of about US$225.94, while another might lean toward a more cautious view closer to US$113.59. By setting up or choosing a Narrative that matches your own expectations, you can more easily decide whether the current price looks high or low relative to your assumptions rather than relying only on headline multiples.
+For 3M, here are previews of two leading 3M Narratives:
+🐂 3M Bull Case
+Fair value used in this bullish Narrative: about US$177.32 per share.
+Current price discount to that fair value: roughly 14.7%.
+Revenue growth assumption in this Narrative: about 2.24% a year.
+Assumes steady revenue growth, slightly higher profit margins, and a P/E of around 21x by 2028 to support a fair value above the current price.
+Identifies operational efficiency work, new product launches, and a focused portfolio as key supports for earnings and cash flow.
+Views PFAS and other legal exposures as ongoing risks, but ones that can be managed within current earnings and balance sheet capacity.
+🐻 3M Bear Case
+Fair value used in this bearish Narrative: about US$125.70 per share.
+Current price premium to that fair value: roughly 20.9%.
+Revenue growth assumption in this Narrative: about 1.16% a year.
+Assumes slower revenue growth, litigation and regulatory costs that weigh on cash flow, and a lower future P/E of about 15x.
+Flags PFAS liabilities, restructuring execution, and supply chain complexity as factors that could limit margin progress.
+Views the recent share price as embedding optimistic expectations that may be hard to meet if these risks play out.
+Do you think there's more to the story for 3M? Head over to our Community to see what others are saying!
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include MMM.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
