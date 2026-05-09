@@ -1,0 +1,21 @@
+ticker,x,y,sector
+AAPL,-22.94793,9.152002,Technology
+AMD,3.9364185,6.3208313,Technology
+GOOGL,11.744729,-28.874313,Technology
+INTC,11.640662,-3.2872946,Technology
+META,17.069548,-26.433382,Technology
+MSFT,-0.52625823,-5.6950526,Technology
+NVDA,-24.651398,-5.2343273,Technology
+AMZN,-24.68155,-0.6696915,Consumer Discretionary
+NFLX,15.1764555,-32.765255,Consumer Discretionary
+SPOT,10.785589,-23.438606,Consumer Discretionary
+TSLA,-29.513876,11.231238,Consumer Discretionary
+BAC,18.158733,-18.64125,Financials
+JPM,4.797323,-32.15848,Financials
+V,1.246363,0.38845292,Financials
+DIS,-36.754944,3.7125056,Consumer Services
+KO,-29.335783,5.848304,Consumer Staples
+WMT,6.438508,0.86536705,Consumer Staples
+JNJ,-34.15171,13.3883,Healthcare
+UNH,23.288412,-33.47221,Healthcare
+XOM,-26.612665,19.023811,Energy
