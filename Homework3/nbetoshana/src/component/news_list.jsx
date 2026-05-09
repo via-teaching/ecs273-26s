@@ -8,10 +8,12 @@ export default function NewsList({ selectedStock }) {
   useEffect(() => {
 
     // this will load news for the currently selected stock
-    setNews(stockNews[selectedStock] || []);
+    const stockItems = stockNews[selectedStock] || [];
 
-    // this will reset any expanded article when switching stocks
-    setOpenIndex(null);
+    setNews(stockItems);
+
+    // this automatically open first article
+    setOpenIndex(stockItems.length ? 0 : null);
 
   }, [selectedStock]);
 
