@@ -1,12 +1,17 @@
-# React + Vite
+# Homework 3 — Stock Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite dashboard for exploring stock data across 20 tickers.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Stock selector** — dropdown in the header switches all views to the chosen ticker
+- **Line chart** (`LineChart.jsx`) — plots Open, High, Low, Close over time from CSV data; supports horizontal scroll-to-zoom with dynamic y-axis rescaling
+- **t-SNE scatter** (`TSNEScatter.jsx`) — shows 20 stocks clustered by sector; click a dot to select that stock; hover reveals ticker label; supports pan/zoom
+- **News feed** (`NewsList.jsx`) — lists news articles for the selected stock (loaded from `.txt` files); click an article to expand its content
 
-## Expanding the ESLint configuration
+## Running
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
