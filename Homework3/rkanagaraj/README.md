@@ -47,3 +47,6 @@ All data files are pre-generated and served from the `data/` directory (mapped t
 ## Stocks Included
 
 AAPL, BAC, CAT, CVX, DAL, GOOGL, GS, HAL, JNJ, JPM, KO, MCD, META, MMM, MSFT, NKE, NVDA, PFE, UNH, XOM
+
+## AI Disclaimer
+Used Claude to clean up code and test the changes.
