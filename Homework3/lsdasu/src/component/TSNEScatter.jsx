@@ -85,8 +85,7 @@ function draw(svgEl, data, width, height, selectedStock, onStockSelect) {
       .attr('stroke', d => d.ticker === selectedStock ? '#000' : '#fff')
       .attr('stroke-width', d => d.ticker === selectedStock ? 2 : 0.8)
       .attr('opacity', 0.85)
-      .style('cursor', 'pointer')
-      .on('click', (event, d) => onStockSelect && onStockSelect(d.ticker));
+      .style('cursor', 'pointer');
 
     if (selectedStock) {
       const sel = data.find(d => d.ticker === selectedStock);
@@ -113,18 +112,33 @@ function draw(svgEl, data, width, height, selectedStock, onStockSelect) {
     row.append('text').attr('x', 14).attr('y', 9).style('font-size', '11px').text(s);
   });
 
+  let currentX = xBase;
+  let currentY = yBase;
+
   const zoom = d3.zoom()
     .scaleExtent([0.5, 20])
     .on('zoom', (event) => {
-      const newX = event.transform.rescaleX(xBase);
-      const newY = event.transform.rescaleY(yBase);
-      xAxisG.call(d3.axisBottom(newX).ticks(5));
-      yAxisG.call(d3.axisLeft(newY).ticks(5));
-      renderDots(newX, newY);
+      currentX = event.transform.rescaleX(xBase);
+      currentY = event.transform.rescaleY(yBase);
+      xAxisG.call(d3.axisBottom(currentX).ticks(5));
+      yAxisG.call(d3.axisLeft(currentY).ticks(5));
+      renderDots(currentX, currentY);
     });
 
   g.append('rect')
     .attr('width', W).attr('height', H)
     .attr('fill', 'none').attr('pointer-events', 'all')
-    .call(zoom);
+    .call(zoom)
+    .on('click', (event) => {
+      const [mx, my] = d3.pointer(event);
+      let nearest = null;
+      let minDist = 14;
+      data.forEach(d => {
+        const dx = currentX(d.x) - mx;
+        const dy = currentY(d.y) - my;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < minDist) { minDist = dist; nearest = d; }
+      });
+      if (nearest && onStockSelect) onStockSelect(nearest.ticker);
+    });
 }
