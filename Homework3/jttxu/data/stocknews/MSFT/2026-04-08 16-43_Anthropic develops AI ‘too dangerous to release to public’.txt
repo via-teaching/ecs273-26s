@@ -1,0 +1,79 @@
+Anthropic develops AI ‘too dangerous to release to public’
+2026-04-08 16:43
+https://uk.finance.yahoo.com/news/anthropic-develops-ai-too-dangerous-154337637.html?.tsrc=rss
+----------
+Something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Something went wrong
+⚡️Stocks rally 📈 after US and Iran agree two-week ceasefire ⚡️
+⚡️ Stocks waver as Trump's Iran 🇮🇷 deadline looms ⚡️
+Stocks fall 📉 after Trump threatens to hit Iran ‘extremely hard’ 🇮🇷
+💷 Pound jumps 📈 on hopes that Middle East war will end soon
+💰 Nike, Tesla, Nvidia, Oracle and Berkeley 💰
+📈 Stocks rally after Trump says US could leave Iran in a few weeks 📉
+Gold prices 👑 set for worst month since 2008 as Iran war 🇮🇷 continues
+Eurozone inflation 🇪🇺 jumps to 2.5% in March
+Oil prices 🛢️ pull lower following reports of Trump 🇺🇸 considering end to Middle East conflict
+⚡️ Micron, Unilever, Raspberry Pi and AG Barr ⚡️
+Pound ticks higher as UK GDP growth 🇬🇧 confirmed as nearly stagnant in Q4 📊
+Stocks set to rise 📈 as Trump willing to end Iran war 🇮🇷 without Hormuz deal
+Average UK house price 🏡 rises to £277,186 in March 📈
+Mortgage approvals ✔️ jump by most since November, Bank of England 🏦 says
+Brent crude 🛢️ prices up to $115 a barrel 📈 as traders assess Trump peace deal claims
+⚡ Exxon Mobil, Eli Lilly, Rio Tinto and Boohoo ⚡
+Pound 💷 set for biggest monthly loss against dollar 💲 since October
+Stocks set to tumble as Middle East conflict intensifies
+Gold and silver prices rise 📈 with eyes on central banks and Iran war
+💷 UK currency dips amid weaker retail sales while Middle East war ramps up inflation fears 💷
+⚡️ Reddit, Meta, Novartis, Metlen Energy ⚡️
+Stocks muted as Trump delays strikes on Iran power plants 🌍
+Trump memecoin plummets 📉 amid Iran conflict
+Pound 💷 dips against dollar as OECD warns Middle East conflict will drive up UK inflation ⛽🛍️
+Oil prices 🛢️ higher as Trump claims Iran doesn't want to admit they spoke 🗣️
+Bitcoin price struggles near $70K as peace talk hopes falter
+⚡ Meta, Google, AMD, Next and Currys ⚡
+Stocks slip 📉 amid doubts over US-Iran peace deal
+⚡ Arm, Circle, Asos and Crest Nicholson ⚡
+Pound 💷 steady as Bank of England 🏦 interest rate rise bets ease
+Gold 🪙 price jumps ⬆️ 3% as oil slump eases inflation fears amid Trump Iran plan
+Stocks rise 📈 on reports of Trump offering 15-point ceasefire plan to Iran 🗒️
+Oil price ⛽ plunges 📉 as Trump announces plan to end Iran war
+Inflation 💷🍎👗 held at 3% ahead of Iran war
+💷 Pound dips against dollar 💵 as speculation around UK interest rates grow
+⚡️ ASML, Estée Lauder, Bellway, Kingfisher and Fevertree ⚡️
+⚡️ Gold and silver price moves muted amid inflation and interest rate hike risks ⚡️
+⚡️ Stocks lack direction as traders assess Middle East conflict ⚡️
+🛢️Tehran's denial of negotiations clouds prospect of reopening Strait of Hormuz and ending conflict 🛢️
+Pound 💷 dips against dollar 💲 amid mounting expectations of Bank of England 🏦 rate increase
+⚡ Tesla, Alphabet, Synopsys and Endeavour Mining ⚡
+Gold 🪙 and silver erase 2026 gains as Middle East inflation fears stoke bets on higher rates
+London plunges into correction territory as Trump gives Iran ultimatum
+Oil prices ⛽ gain as Trump and Starmer discuss need to reopen Hormuz
+⚡️ UK inflation, BYD, Next, Kingfisher and Bellway ⚡️
+Gold 👑 set for third weekly fall 📉 as strong dollar and Fed stance weigh
+Pound steady 🇬🇧 as investors digest UK borrowing data 📊 and interest rate decisions
+Stocks higher 📈 as Netanyahu 🇮🇱 says he will 'hold off' on gas field attacks
+Oil prices 🛢️ fall as Netanyahu signals pause in Iran strikes 🇮🇷
+Government borrowing rose 📈 by more than expected to £14.3bn in February
+Silicon Valley start-up Anthropic has restricted access to its latest AI system, saying it is currently too dangerous to release to the public.
+The company said its Claude Mythos Preview model was so good at finding critical security flaws in computer systems that it could “reshape cybersecurity”, wreaking havoc if it ended up in the wrong hands.
+The system has already discovered thousands of security vulnerabilities including flaws in all the most popular web browsers and operating systems.
+Anthropic said it was giving a group of the world’s top technology companies – including Amazon, Apple and Microsoft – access to the system under an agreement called Project Glasswing, so that they would be able to fix any security flaws that it discovered.
+The company said it did not plan to make Claude Mythos Preview generally available but hoped to release similarly powerful systems in the future.
+Hacking is seen as a major risk from advanced AI systems because of the technology’s proficiency in writing computer code and its ability to automate attacks.
+Anthropic said Mythos allowed people with no security training to discover major flaws in software.
+It said: “Engineers at Anthropic with no formal security training have asked Mythos Preview to find remote code execution vulnerabilities overnight and [have] woken up the following morning to a complete, working exploit.”
+Engineers also discovered that the model was able to find creative ways of evading the controls the company had put on it.
+In one case, it developed a way to edit files it had been banned from accessing and then took steps to hide this behaviour from human evaluators.
+Sam Bowman, a researcher at Anthropic, said he had received an email from a version of the system that had been blocked from having internet access.
+Logan Graham, the head of Anthropic’s “red team” that works on stress-testing AI systems, said: “Capabilities in a model like this could do harm if in the wrong hands and so we won’t be releasing this model widely.”
+Among the flaws it found was a 27-year-old bug in OpenBSD, an operating system designed for highly secure systems, that it said could let hackers “potentially bring down corporate networks or core internet services”.
+The system is a leap forward in hacking capabilities, partly because it is able to discover several bugs that might be harmless on their own and connect them in a way that can crash or gain access to a system.
+Project Glasswing will allow the world’s top tech companies to run Mythos on their own systems, discovering flaws and fixing them.
+This is to enable the systems that the internet and economies rely on to prepare for the likelihood that AI tools as powerful as Mythos are likely to emerge elsewhere in the future.
+Anthropic said it had been in “ongoing discussions” with the US government about Mythos.
+The company was designated a “supply chain risk” last month in a falling out with Pete Hegseth, the US secretary of defence, because of Anthropic’s refusal to let its technology be used for autonomous weapons.
+Anthropic won a temporary injunction on the order last month.
+Countries including North Korea and Iran have been found using AI systems to conduct cyber attacks.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

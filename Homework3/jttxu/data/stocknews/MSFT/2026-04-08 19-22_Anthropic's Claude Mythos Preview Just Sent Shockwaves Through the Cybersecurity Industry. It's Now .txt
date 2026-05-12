@@ -1,0 +1,48 @@
+Anthropic's Claude Mythos Preview Just Sent Shockwaves Through the Cybersecurity Industry. It's Now Joining Forces with Nvidia, Amazon, Apple, Google, and Microsoft
+2026-04-08 19:22
+https://www.fool.com/investing/2026/04/08/anthropics-claude-mythos-preview-just-sent-shockwa/?.tsrc=rss
+----------
+Anthropics latest frontier model identified vulnerabilities in every major operating system and web browser.
+Experts have long said that artificial intelligence (AI) would change the face of cybersecurity. While many industry leaders have already deployed AI tools to prevent hacks, data breaches, and cyberattacks, the potential for sophisticated intrusions just took a giant leap forward.
+AI start-up Anthropic unveiled the Claude Mythos Preview, its latest frontier AI model. This advanced general-purpose model is "the most capable yet for coding and agentic tasks." The headline, however, was the direct and immediate impact on the cybersecurity industry. Anthropic revealed that the Claude Mythos Preview "has already identified thousands of zero-day vulnerabilities across critical infrastructure." Zero-day vulnerabilities are previously unidentified ways hackers can exploit software, requiring immediate fixes to protect users.
+This revelation sent shockwaves across the industry, sparking a coalition of big tech and cybersecurity to plug these vulnerabilities to prevent a catastrophe.
+Image source: Getty Images.
+In an announcement on its website, Anthropic unveiled Project Glasswing, an initiative to "secure the world's most critical infrastructure" against AI-powered attacks. This collaboration brings together some of the biggest names in technology and cybersecurity to plug the gaps already identified by Claude Mythos.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Tech partners include Nvidia (NVDA +2.06%), Amazon (AMZN +3.42%) Web Services (AWS), Apple (AAPL +1.96%), Alphabet's (GOOGL +3.71%) (GOOG +3.56%) Google, Broadcom (AVGO +4.99%), Microsoft (MSFT +0.48%), and Cisco (CSCO +3.64%). Also joining the alliance are cybersecurity experts CrowdStrike (CRWD +0.75%) and Palo Alto Networks (PANW +2.30%). JPMorgan Chase (JPM +3.55%) and the Linux Foundation are also charter members.
+Anthropic said that (emphasis mine), "Mythos Preview has already found thousands of high-severity vulnerabilities, including some in every major operating system and web browser." The company goes on to say that "Glasswing is an urgent attempt to put these capabilities to work for defensive purposes." The implications of this development are stunning and help highlight the logic behind this broad coalition.
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor’s total average return is 928%* — a market-crushing outperformance compared to 186% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of April 8, 2026.
+Major PC operating systems include Microsoft Windows, Apple's MacOS and Linux. Google's Android and Apple iOS operating systems dominate mobile devices. The biggest web browsers include Google Chrome, Apple Safari, and Microsoft Edge. Nvidia and Broadcom supply semiconductors, hardware, and software that underpin a wide range of tech infrastructure. The biggest cloud operators, including AWS, Microsoft Azure, and Google Cloud, have a vested interest in securing their domains. Cisco's hardware forms the backbone of many corporate networks. JPMorgan Chase has been integrating AI into every aspect of the bank's operations. Palo Alto Networks and CrowdStrike are the world's biggest cybersecurity providers by revenue, so their participation is a no-brainer.
+Access is also being extended to "40 additional organizations that build or maintain critical software infrastructure" to help them secure their software and open-source systems. Anthropic is also backing the project with $100 million in usage credits and has collected $4 million in direct donations to open-source security organizations to support these efforts.
+This broad coalition of competitors and rivals is putting aside their differences to work together for the common good, underscoring the seriousness of this development. It also helps to illustrate that the age of AI is only just getting started.
+
+
+
+
+Before you buy stock in Nvidia, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $532,929!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,091,848!*
+Now, it’s worth noting Stock Advisor’s total average return is 928% — a market-crushing outperformance compared to 186% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 8, 2026.
+
+JPMorgan Chase is an advertising partner of Motley Fool Money. Danny Vena, CPA has positions in Alphabet, Amazon, Apple, Broadcom, CrowdStrike, Microsoft, and Nvidia. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, Cisco Systems, CrowdStrike, JPMorgan Chase, Microsoft, and Nvidia and is short shares of Apple. The Motley Fool recommends Broadcom and Palo Alto Networks. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 55 Metas.
+What in the world could be worth 55 Metas? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

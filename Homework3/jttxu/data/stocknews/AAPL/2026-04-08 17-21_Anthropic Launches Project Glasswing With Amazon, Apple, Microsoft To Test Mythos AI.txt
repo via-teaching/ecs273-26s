@@ -1,0 +1,65 @@
+Anthropic Launches Project Glasswing With Amazon, Apple, Microsoft To Test Mythos AI
+2026-04-08 17:21
+https://finance.yahoo.com/sectors/technology/articles/anthropic-launches-project-glasswing-amazon-162119583.html?.tsrc=rss
+----------
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Nike set the stage for a turnaround, but global events keep getting in its way
+Bank of America rips up its economic forecasts as it braces for $100 oil all year on Iran war disruptions
+Trump says the Strait of Hormuz must be 'open, free and clear' before having ceasefire talks with Iran
+The Dow, S&P 500, and Nasdaq extended their rally for a second day ahead of Trump’s speech on Iran
+The Nasdaq led the Dow and S&P 500 higher on growing optimism the war in Iran may end soon
+SpaceX has confidentially filed for an initial public offering. SpaceX was most recently valued at $1.25 trillion.
+US stocks rise at the open as deescalation talk in Iran extends rally
+The bond market is helping resolve the Fed's interest rate dilemma
+This article first appeared on GuruFocus.
+Anthropic is starting to frame the next phase of AI deployment less around speed and more around control, and that shift could matter for how investors think about the rollout curve of advanced models. The company has introduced Project Glasswing, bringing in partners including Amazon.com (NASDAQ:AMZN), Apple (NASDAQ:AAPL), Microsoft (NASDAQ:MSFT) and Cisco Systems (NASDAQ:CSCO) to access a more powerful, unreleased model called Mythos. Rather than pushing toward a near-term launch, Anthropic appears to be using a tightly controlled environment to surface vulnerabilities early, which could influence how guardrails are built before any broader release.
+Warning! GuruFocus has detected 1 Warning Sign with MSFT.
+Is MSFT fairly valued? Test your thesis with our free DCF calculator.
+The underlying concern is becoming harder to ignore. More capable AI systems could also expand the toolkit available to cybercriminals and state-backed actors, particularly in identifying weaknesses in code and bypassing defenses. Anthropic is positioning Glasswing as a way to give defenders a head start, allowing participating companies to test Mythos, identify flaws, and share findings across the group. The company has also engaged with US officials and pointed to existing work with the Cybersecurity and Infrastructure Security Agency and the National Institute of Standards and Technology, suggesting that coordination could extend beyond the private sector as these systems evolve.
+What may stand out is that Mythos was not built specifically for cybersecurity, yet it has already uncovered issues that had gone undetected for years. According to Anthropic, the model identified a 27-year-old bug in critical internet software and a 16-year-old vulnerability in video game code that automated testing tools had scanned millions of times without detection. Access to the model is being tightly controlled within Glasswing, and feedback from the initiative is expected to shape future safeguards. For investors, the signal could be that frontier AI development is increasingly tied to risk management as much as raw capability, with early-stage partnerships potentially becoming a key part of how leading models are brought to market.
+Weʼre unable to load stories right now.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

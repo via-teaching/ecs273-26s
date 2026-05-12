@@ -1,0 +1,81 @@
+Title: Goldman Sachs Alternatives Invests $50 Million in BLP Digital, Betting on Agentic AI for Core Financ
+Date: 2026-04-23 09:30
+URL: https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-alternatives-invests-50-093000850.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+The Department of Justice is dropping its criminal probe of Federal Reserve Chair Jerome Powell.
+After an earnings beat, Intel’s stock is blasting through a dot-com-era ceiling
+Nasdaq and S&P 500 rise as Intel stock soars, Dow slips amid Hormuz tensions
+Meta to buy Graviton chips from Amazon as CPU sales soar
+Intel stock soars on earnings beat and strong outlook driven by data center demand
+The Dow, S&P 500, and Nasdaq retreated as software stocks plunged, while oil surged on Iran war concerns
+Meta cuts thousands of jobs; Microsoft reportedly offers buyouts to 7% of workers
+US stocks slide as oil rises amid Hormuz standoff, while Tesla slips after earnings
+Why Tesla investors should love this version of CEO Elon Musk
+Tesla shares jumps as earnings, sales top forecasts
+The S&P 500 and Nasdaq hit fresh records as market rally resumes, with Tesla earnings on deck
+US stocks rise after Trump extends the US-Iran ceasefire indefinitely
+Best Buy taps insider Jason Bonfig as new CEO, as Corie Barry steps down
+Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire
+Kevin Warsh just faced a fiery Senate hearing. He still doesn’t have a clear path to becoming Fed chair.
+The Dow, S&P 500, and Nasdaq slid as US-Iran peace talks were put on hold
+Kevin Warsh testifies he never made a deal with Trump to lower interest rates as Fed chair
+Fed nominee Kevin Warsh testified that he won't be Trump's "sock puppet" in contentious Senate hearing. Follow live.
+Kevin Warsh, President Trump's pick to lead the Fed, is set to testify in front of the Senate Banking Committee. Follow along live.
+US stocks climb with Warsh hearing, Iran talks in focus
+Tim Cook is stepping down as Apple CEO. His 15-year run made investors $4 trillion richer.
+Apple CEO Tim Cook steps down, John Ternus to take role
+Dow slips, S&P 500 and Nasdaq retreat from records with Middle East peace talks at risk
+Scott Melker delivers a high-octane, 15-minute crypto briefing every weekday on Yahoo Finance. Check out the first episode
+Stocks edged lower as US-Iran tensions resumed, shuttering the Strait of Hormuz
+A longer-term car loan can lower the barrier to entry for buyers — but these loan terms are not without drawbacks.
+The AI trade has been able to insulate itself from disruptions caused by the Middle East war.
+Gas prices may remain at $3 per gallon or more until next year, US Energy Secretary Chris Wright said Sunday. (Bloomberg)
+As big banks kick off earnings season, strategists say the "dominant theme" for investors is shifting back to Big Tech and energy.
+Ceasefire talks, record highs for the US stock market, and Tesla earnings will be in focus for investors.
+In the rarefied world of luxury automobiles, Rolls-Royce just upped the altitude. 
+Gas prices "rise like a rocket and fall like a feather."  Here's what to know.
+The million dollar retirement planning question: How long will you live?
+The software rebound is real, but not every big name is back
+Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
+Dow leaps 850 points, S&P 500 and Nasdaq notch new records in stunning rally amid US-Iran diplomacy hopes
+Stocks climbed at the open and oil fell as Iran said the Strait of Hormuz is 'completely open'
+The stock market has notched one of its fastest turnarounds in years
+Europe is facing a severe jet fuel shortage, with 'maybe six weeks of jet fuel left'
+Stocks rebound after Trump says Israel, Lebanon agreed to ceasefire
+S&P 500, Dow, Nasdaq rise, with fresh records in view amid hopes for truce
+Tax refunds shoot up as Americans take advantage of new deductions
+S&P 500 closes above 7,000 for the first time, Nasdaq hits record as stocks erase Iran war losses
+The former sneaker company's stock rose over 600% after announcing its rebrand as an AI company
+S&P 500, Nasdaq rise as Dow falls amid hopes for US-Iran talks
+The S&P 500 and Nasdaq rallied toward record highs on hopes of an Iran deal while oil tumbled
+Bitcoin bounced above $74,000, but Wall Street warns it could go lower before it goes higher
+US stocks rise amid Iran deal hopes, earnings rush, cooler-than-expected PPI
+JPMorgan profits rise 13%, Dimon warns of 'increasingly complex set of risks'
+US stocks sink after Trump orders Hormuz blockade against Iran
+The secondary transaction values BLP Digital’s profitable growth, strong customer traction, and leadership in AI-driven enterprise process automation.
+ZURICH, Switzerland, April 23, 2026--(BUSINESS WIRE)--BLP Digital, a leading provider of Agentic AI-based enterprise resource planning (ERP) automation, today announced that Growth Equity at Goldman Sachs Alternatives is investing $50 million in the company. BLP Digital’s technology significantly reduces manual labor in high-volume core finance processes such as Accounts Payable, shortens closing times, and achieves measurable effects on cash flow and working capital – with seamless integration into existing ERP landscapes. In doing so, the company addresses a growing market for AI-supported ERP automation, where companies are seeking scalable alternatives to traditional OCR, RPA, and workflow approaches – particularly in the finance environment, where governance, transparency, and controllability are decisive.
+BLP Digital's does not view ERP automation as an isolated IT project, but rather anchors the governance of AI agents where the process knowledge resides: in the functional department. In this way, substantive process understanding is quickly and continuously translated into relevant context for the AI. BLP Digital does not supplement the existing technology stack with another AI component, but instead replaces the previous mix of OCR, workflow, scripts, and customizing alongside the ERP with a unified execution architecture. Finance workflows are broken down end-to-end into atomic tasks, which are handled by specialized agents and orchestrated by a Digital Twin.
+This atomic approach is crucial: it creates the control, reliability, and auditability required in ERP-related core processes. Instead of relying on difficult-to-control black-box automation, every single step remains clearly defined, verifiable, and controllable. To this end, the Digital Twin bundles the relevant context from ERP, email, and process data and controls throughout the entire workflow when an agent can act autonomously, when a human is involved, and logs in a versioned manner how human input becomes agent context and automation. For CFOs, controllability is thus maintained: exceptions are transparent, responsibilities are clearly assigned, and all steps are traceably auditable.
+Starting Point: Accounts Payable with Clear KPIs
+The entry point into BLP Digital's Agentic AI architecture is deliberately placed where effects are directly measurable: in the Accounts Payable process, as this runs very similarly across many companies despite its high complexity and legal requirements, being highly standardized. There, companies shorten throughput times, reduce error rates, and improve their position in working capital without having to set up their ERP platform anew. From this core, the agents are gradually rolled out into adjacent processes in Finance, Procurement, Logistics, and Sales.
+This immediately measurable effect is made possible by pre-built and pre-trained AI agents that work as "one brain" across many customers and do not first need to be trained on a project-specific basis. The platform is connected within hours via standard integrations into systems such as SAP, proALPHA, or Abas. Instead of investing in multi-year customizing projects, companies test with productive data within a few days whether the desired effects can be demonstrated quantitatively and qualitatively.
+"CFOs today do not need further technology experiments, but rather future-proof solutions that are immediately reflected in the company's bottom line," explains Tim Beck, CEO of BLP Digital. "The entry of Goldman Sachs Alternatives as a growth investor underscores our mission. We help large companies operate their ERP-driven operations with AI agents that function reliably under real-world conditions. Our vision is to have virtually no more manual exceptions in high-volume workflows. AI agents do the work across the entire process, and in the case of genuine special cases, a human expert explains the context to the AI and thus trains it further – with full transparency and clear controls."
+Alexander Lippert, Managing Director at Goldman Sachs Alternatives, adds: "BLP Digital addresses a clearly defined and significant opportunity at the intersection of enterprise modernization and AI-supported automation. We are convinced that BLP Digital is very well positioned to become a category leader and to support companies in modernizing their core processes, increasing operational efficiency, and translating the use of AI into measurable business results."
+From AI Experiments to Controllable Results in the Finance Sector
+In recent years, many companies have experimented with AI pilot projects – often without a clear link to the bottom line, closing quality, or cash flow. In Finance and Operations, however, AI only works sustainably if it is embedded in existing ERP governance: with clear rules, defined thresholds for exceptions, and clear responsibility. BLP Digital is designed to adhere to exactly this framework while simultaneously delivering rapid, measurable impact.
+Roger Niklaus, Head of Accounting at Migros, and client of BLP Digital says: "In order to handle such high volumes daily amidst increasing complexity, a process and automation DNA has always prevailed at Migros." Migros is organized as a cooperative, is the largest private-sector employer in Switzerland, and generates an annual turnover of CHF 32 billion with its more than 90,000 employees. "With BLP Digital, we found the platform right on our doorstep that brings state-of-the-art AI from ETH research into our finance function. Within one year, BLP Digital was successfully introduced across all cooperatives as part of the S4 transformation. The results are so good and the potential so great that we are already in the process of rolling out BLP Digital in further company areas and additional processes."
+About BLP Digital
+BLP Digital is a European AI company headquartered in Zurich. Since its founding in 2019, the company has been developing AI-based technologies that support organizations in making ERP processes more efficient, transparent, and reliable – with the goal of relieving employees and sustainably improving process quality. The platform combines over 30 standard integrations with more than 300 ready-to-use AI agents and enables companies to intelligently automate end-to-end processes. As a result, companies increase transparency and quality in their operations and realize a fast time-to-value – with full governance and data sovereignty.
+Today, more than 450 corporate customers in over 40 countries trust BLP Digital. The company stands for European technology expertise as well as high security and governance standards. Further information at www.blp.digital.
+About Growth Equity at Goldman Sachs Alternatives
+Goldman Sachs (NYSE: GS), with more than $625 billion in assets under management and over 30 years of experience, is one of the world’s leading investors in alternative investments. The business invests across the full spectrum of alternative asset classes, including private equity, growth equity, private credit, real estate, infrastructure, sustainability and hedge funds. Clients access these solutions through direct strategies, customized partnerships and open-architecture programs.
+The business is driven by partnership and shared success with clients, with the goal of delivering long-term investment performance built on a global network and deep expertise across industries and markets.
+Goldman Sachs Alternatives is part of Goldman Sachs Asset Management, which delivers investment and advisory services across public and private markets to leading institutions, financial advisors and individuals worldwide. As of March 31, 2026, Goldman Sachs Asset Management oversaw $3.65 trillion in assets under management globally.
+Since 2003, Growth Equity at Goldman Sachs Alternatives has invested more than $13 billion in companies led by visionary founders and CEOs. The team focuses on investments in high-growth, technology-driven companies across a range of sectors, including enterprise technology, financial technology, consumer and healthcare.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20260423798094/en/
+Contacts
+Press ContactsFor BLP DigitalArnica FreundtBLPde@hotwireglobal.com For Goldman Sachs AlternativesFriederike Resiboisfriederike.resibois@gs.com
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

@@ -1,0 +1,34 @@
+Hyperscalers will own two-thirds of data center capacity by 2031
+2026-04-08 17:08
+https://www.ciodive.com/news/hyperscalers-two-thirds-data-center-capacity-2031/817016/?.tsrc=rss
+----------
+
+Let CIO Dive’s free newsletter keep you informed, straight from your inbox.
+
+Enterprise AI demand has driven leading providers to boost infrastructure investments, according to a Synergy Research Group report.
+As enterprises rush to adopt AI, hyperscalers are building data centers to keep up with demand and navigate capacity crunches while facing rising concerns about electricity costs and community pushback.
+The top three hyperscalers, Microsoft, Google and AWS, plan to invest more than $500 billion in capital expenditures for infrastructure supporting AI deployment in fiscal year 2026. Hyperscalers operated 1,297 large data centers globally in Q3 2025, nearly triple the amount from 2018, according to a separate SRG report. That number rose to 1,360 by the end of 2025.
+“We will increase our total AI capacity by over 80% this year and roughly double our total data center footprint over the next two years, reflecting the demand signals we see,” Microsoft CEO Satya Nadella said during the company’s Q1 2026 earnings call in October.
+It’s not just hyperscalers vying for compute power. Large language model provider Anthropic earlier this week announced an expanded partnership with Google to secure its TPU chips, supplied by Broadcom, adding multiple gigawatts of compute capacity starting in 2027. Meanwhile, LLM provider OpenAI in October partnered with AMD to add six gigawatts of AI compute capacity.
+Despite massive investments to expand compute capacity, the tech industry is already facing shortages. During Microsoft’s Q1 2026 earnings call, EVP and CFO Amy Hood said Microsoft was struggling with a capacity shortage expected to extend throughout the fiscal year.
+Naveen Chhabra, principal analyst at Forrester, previously told CIO Dive in an email that CIOs will need to prepare for compute capacity being a constrained resource.
+In addition to capacity shortages, hyperscalers are grappling with concerns about how data centers will raise electricity costs. The U.S. Energy Information Administration said data center electricity demand could drive price hikes of up to 79% in areas like Texas by 2027.
+The concern has not gone unnoticed. OpenAI in January committed to paying its own way on energy across its Stargate projects, a $500 billion AI infrastructure push announced by President Donald Trump in January 2025.
+Last month, the White House announced the Ratepayer Protection Pledge, a voluntary commitment from tech providers including Google, Oracle, xAI, Meta, Microsoft, OpenAI and Amazon  to help offset electricity costs as data center buildouts continue.
+The tech industry is also facing pushback on data center builds from local and state governments. A city in Wisconsin recently passed an anti-data center referendum, according to Politico reporting. Meanwhile, the Wall Street Journal reported that Maine could freeze data center construction until November 2027.
+Get the free daily newsletter read by industry experts
+The company tied the cuts back to the reorganization push that drove 14,000 layoffs in October.
+Executives at BNY, Bank of America and others who reported Q4 2025 earnings discussed AI investments — and when they’re hoping to see them pay off.
+Subscribe to CIO Dive for top news, trends & analysis
+Sign up for the free  newsletter.
+Interested? Explore more of what  has to offer.
+Thanks for signing up!
+            Please keep an eye out for a confirmation email from
+            newsletter@ittnewsletter.com
+            To ensure we make it into your inbox regularly,
+            add us to your allow list, mark us as a safe sender, or add us to your address book.
+            Check out more from
+Get the free daily newsletter read by industry experts
+The technology outlook for the year suggests CIOs will retain their status within the board of directors. IT chiefs have become essential for enterprise success.
+Investments to fuel the technology will soar over the next four years, but executives fear integration issues will hinder adoption, according to an IBM study.
+The free newsletter covering the top industry headlines

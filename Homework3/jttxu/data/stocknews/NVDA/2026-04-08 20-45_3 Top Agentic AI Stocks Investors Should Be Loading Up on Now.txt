@@ -1,0 +1,48 @@
+3 Top Agentic AI Stocks Investors Should Be Loading Up on Now
+2026-04-08 20:45
+https://www.fool.com/investing/2026/04/08/3-top-agentic-ai-stocks-investors-should-be-loadin/?.tsrc=rss
+----------
+Agentic AI is the next big thing in the AI software race.
+Agentic artificial intelligence (AI) is the next major step in the AI revolution. It allows users to develop AI agents that can perform tasks on their behalf with limited human direction. While the most widely used applications of this technology now involve coding, it could easily expand to other areas over the next few years. Getting in front of trends like this can be a profitable pursuit for investors, so now would be a good time to identify the companies with most the promising chances to capitalize on AI agents before they really hit the mainstream.
+The three stocks I'm most bullish on in this space are Nvidia (NVDA +2.06%), Broadcom (AVGO +4.99%), and Alphabet (GOOG +3.56%) (GOOGL +3.71%). Although these three have been huge winners in the AI race already, winners tend to keep on winning, and I think that's exactly what this trio will do.
+Image source: Getty Images.
+If you've been investing in AI since the accelerated build-out of data centers began in 2023, you're familiar with both Nvidia and Broadcom. Both provide AI computing units, but they're not tackling quite the same segments of the market. Nvidia is clearly the market leader in parallel processing chips, with not only the world's best graphics processing units (GPUs) but also an infrastructure to support them. GPUs can handle a wide variety of computing workloads and are the chips of choice for flexibility and speed.
+While GPUs are incredibly impressive, though, users don't always need all of the features they offer. Sometimes, a computing unit dedicated to a specific type of task (for example, AI inferencing) may see only that one variety of workload throughout its service life. In those cases, the flexibility of a GPU would be wasted.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+This is the corner of the market that Broadcom is targeting with its custom AI chips. Broadcom partners with AI hyperscalers and designs application-specific integrated circuits (ASICs) to precisely meet the narrow set of computing needs the chip is expected to face. ASICs are nothing new, but Broadcom (and a few other companies) have started to adapt this concept to the AI world. What an AI-focused ASIC delivers is superior cost performance versus a GPU, in some scenarios. When the workload is properly configured, a custom AI chip from Broadcom can provide higher performance at a lower cost.
+The best example of a custom AI chip is Google's Tensor Processing Unit (TPU). TPUs offer incredible performance, which is one reason why Google Cloud is growing so rapidly. However, Google Cloud doesn't just give users access to TPUs; it also has servers built around Nvidia's GPUs.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name.
+As AI agents become more mainstream, they will need more computing hardware from both Nvidia and Broadcom to support them. This will allow both companies to keep growing at their already elevated paces. So, just because these two have grown by a ton and become massive companies, that doesn't mean they're done. I think the future is bright for both of them, and they will continue to deliver incredible shareholder returns.
+Alphabet just launched one of the lowest-cost AI agent models: Gemma 4. Its cost? Free. So, how can Alphabet offer a free tool and hope to make money on it? It's all about the future.
+Alphabet has removed the barrier to entry to creating AI agents. Anyone can do it for free using Gemma 4. However, a user may reach a limit to what these free agents can do, which opens the door to paid-for products. If Alphabet can capture a large portion of the curious audience with its free invitation to build an AI agent, it will get people used to using its tool, and likely capture long-term customers for its paid service when they want to go beyond the basics.
+This is a clever approach that sets Alphabet apart from some of its start-up competitors that need their agentic AI offerings to become profitable sooner if they are going to be viable. Alphabet can afford to play a long game here. It's one of the top companies in the AI agent space, and I think it will provide the building blocks that many companies construct their AI agents on.
+
+
+
+
+Before you buy stock in Alphabet, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Alphabet wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $532,929!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,091,848!*
+Now, it’s worth noting Stock Advisor’s total average return is 928% — a market-crushing outperformance compared to 186% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 8, 2026.
+
+Keithen Drury has positions in Alphabet, Broadcom, and Nvidia. The Motley Fool has positions in and recommends Alphabet and Nvidia. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 18 Nvidias.
+What in the world could be worth 18 Nvidias? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

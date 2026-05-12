@@ -1,0 +1,66 @@
+Meta unveils Muse Spark, its first AI model since hiring Alexandr Wang and a bellwether for CEO Mark Zuckerberg’s multibillion-dollar AI push
+2026-04-08 18:05
+https://finance.yahoo.com/sectors/technology/articles/meta-unveils-muse-spark-first-170548543.html?.tsrc=rss
+----------
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Nike set the stage for a turnaround, but global events keep getting in its way
+Bank of America rips up its economic forecasts as it braces for $100 oil all year on Iran war disruptions
+Trump says the Strait of Hormuz must be 'open, free and clear' before having ceasefire talks with Iran
+The Dow, S&P 500, and Nasdaq extended their rally for a second day ahead of Trump’s speech on Iran
+The Nasdaq led the Dow and S&P 500 higher on growing optimism the war in Iran may end soon
+SpaceX has confidentially filed for an initial public offering. SpaceX was most recently valued at $1.25 trillion.
+US stocks rise at the open as deescalation talk in Iran extends rally
+The bond market is helping resolve the Fed's interest rate dilemma
+Meta has unveiled Muse Spark, the first AI model produced by its Meta Superintelligence Labs, the new AI research unit it created last year and has spent billions of dollars to staff and equip.The model is, according to benchmark tests that Meta published, competitive with leading AI models from OpenAI, Anthropic, and Google across many tasks, although it does not surpass them across the board. Still, if the benchmark results hold up when tested by independent experts, Muse Spark seems to put Meta back in the AI race after its last AI model, Llama 4, which was released in April 2025, was widely panned as a dud.In the past, however, Meta has been caught manipulating the published benchmark results of an AI model to make it appear more capable than the version available to most users actually was. This was the case with Meta’s Llama 4 benchmarks, in which the company later admitted to using specialized, unreleased versions of the model, fine-tuned for specific tasks, to boost benchmark scores in those areas, while the general version made available to all users did not perform as well.And there’s another catch. Few people will be able to use the new Meta model outside of the company’s own product ecosystem. Unlike Meta’s previous AI models, which were released as “open weight” models—meaning anyone could download the models for free and run them on their own equipment, as well as modify and fine-tune them as they wished—Muse Spark is, at least for the moment, primarily an in-house tool for Meta.The model currently powers the Meta AI assistant in the company’s stand-alone Meta AI app and on meta.ai. The company said it will be rolling it out to WhatsApp, Instagram, Facebook, Messenger, and Meta’s Ray-Ban AI glasses in the coming weeks. It also said it will offer the model in a “private preview” to select partners through an application programming interface (API). That makes Muse Spark even more proprietary than the paid proprietary models offered by Meta’s rivals. (Meta said in a blog post that it hopes to open-source future versions of the model.)
+Muse Spark is Meta’s first reasoning model, meaning it can work through a process in a step-by-step fashion, using different strategies if its initial approach doesn’t work. The company’s previous models were all designed to produce an instant answer based on the model’s training. Muse Spark is also a multimodal model that can take in and output both text and images. The model also supports the use of other software tools and can help orchestrate the work of multiple subagents, according to a technical blog post released by Meta.In its blog post announcing the new model, Meta describes Muse Spark as “small and fast by design, yet capable enough to reason through complex questions in science, math, and health.” It describes the model as the first in a series of new models, with Muse Spark being used to validate the architecture and training regime Meta is using, before the company scales this up to larger and even more powerful models in the same family.The model also has a “contemplating” or “thinking” mode in which it can spin up subagents to reason about different parts of a task in parallel. Meta said in a technical blog it published on the new model that this mode allows Muse Spark “to compete with the extreme reasoning modes of frontier models such as Gemini Deep Think and GPT Pro.”
+The benchmark results published alongside the launch paint a picture of a model that is competitive but not dominant. For instance, on the GPQA Diamond benchmark, which is supposed to test PhD-level reasoning skill, Muse Spark scored 89.5%, which slightly trailed both Gemini 3.1 Pro’s 94.3% as well as the 92.7% and 92.8% that Anthropic’s Claude Opus 4.6 and OpenAI’s GPT-5.4 scored respectively. On a leading health benchmark, HealthBench Hard, Muse Spark beat all rival models with a score of 42.8%, which was far better than either Opus 4.6 or Gemini 3.1 Pro, and slightly better than GPT-5.4.
+Meta acknowledged the performance gaps. Its technical blog post states that the company continues “to invest in areas with current performance gaps, specifically long-horizon agentic systems and coding workflows.”The Muse Spark launch is the most tangible product yet of the sweeping reorganization Meta undertook after the Llama 4 fiasco. In June 2025, Meta spent $14.3 billion to acquire a 49% nonvoting stake in Scale AI and brought in its cofounder and CEO, Alexandr Wang, as Meta’s first-ever chief AI officer.Wang has been tasked with leading a newly created Meta Superintelligence Labs unit. Wang and Zuckerberg went on a talent acquisition spree, offering AI researchers at rival AI labs pay packages that reportedly climbed into the hundreds of millions of dollars when equity was included. The company has also committed hundreds of billions of dollars to build out AI computing infrastructure to support its new AI drive.
+There has since been further reorganization, even as Muse Spark was in development. In March 2026, Meta created a new applied AI engineering organization led by Maher Saba, a vice president who previously worked in Meta’s Reality Labs virtual and augmented reality unit. Saba reports directly to Meta chief technology officer Andrew Bosworth. Saba’s unit works alongside Wang’s Superintelligence Labs to build what an internal memo described as “the data engine that helps our models get better, faster.” The move was widely interpreted as Zuckerberg hedging his bets—ensuring product-focused AI development continues even as Wang pursues longer-term superintelligence research.In a technical blog post, Meta says that over the past nine months its team rebuilt its AI stack from the ground up, including improvements to model architecture, optimization, and data curation. The company claims these advances allow it to achieve the same capabilities with “over an order of magnitude less compute” than Llama 4 Maverick, Meta’s previous model. Meta also says its reinforcement learning pipeline now delivers “smooth, predictable gains,” and that Muse Spark is the first step on a deliberate “scaling ladder” where each generation validates the last before the company trains larger models.
+On safety, Meta says Muse Spark underwent extensive evaluation before deployment, following the company’s updated safety framework. The model reports impressive results for safety around potential bioweapons engineering—on one benchmark, it refused 98% of requests that the benchmark designers judged as potentially helping someone develop a bioweapon.However, the blog post also said third-party evaluator Apollo Research found that Muse Spark demonstrated the highest rate of “evaluation awareness” of any model Apollo has observed, frequently identifying test scenarios as “alignment traps.” Meta says its own follow-up investigation found initial evidence that this awareness may affect model behavior on a small subset of alignment evaluations, but concluded it was “not a blocking concern for release.”
+This story was originally featured on Fortune.com
+Weʼre unable to load stories right now.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

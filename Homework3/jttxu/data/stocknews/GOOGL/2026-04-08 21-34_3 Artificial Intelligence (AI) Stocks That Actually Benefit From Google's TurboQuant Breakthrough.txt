@@ -1,0 +1,58 @@
+3 Artificial Intelligence (AI) Stocks That Actually Benefit From Google's TurboQuant Breakthrough
+2026-04-08 21:34
+https://www.fool.com/investing/2026/04/08/artificial-intelligence-ai-stocks-googl-turboquant/?.tsrc=rss
+----------
+The market's knee-jerk response is understandable. Now take a step back and look more critically at what this new computing algorithm is likely to lead to.
+It's been a tough past couple of weeks for Micron Technology and Sandisk shareholders. Both computer memory chipmakers have been outright upended. Blame Google parent Alphabet (GOOG +3.56%)(GOOGL +3.71%), mostly. It introduced a set of algorithms it collectively calls TurboQuant back on March 24, that purport to allow artificial intelligence (AI) computing platforms to handle the same amount of work with just one-sixth the amount of (currently very scarce) physical memory usually needed. The news immediately undermined much of the memory pricing power that's been propping up both of these stocks.
+This unveiling, of course, has also worked against several other artificial intelligence infrastructure stocks, many of which were already struggling on concerns that AI in general may not live up to its previously frenzied hype.
+Image source: Getty Images.
+Not every name in the AI business is going to be hit by Google's revolutionary development, though. Some of them may even benefit simply because AI could become more affordable to more enterprises. Here's a closer look at three of these names.
+Qualcomm's (QCOM +2.72%) time may finally have come.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+This is one of those companies that's been on the cusp of AI greatness even before artificial intelligence moved into the mainstream. The latest iterations of its mobile Snapdragon processor are capable of handling AI work. But, so far, the stalwart names in the mobility business -- like Apple and Samsung -- have opted to use their own silicon in their AI-capable mobile devices. Only a handful of laptops purpose-built for on-device AI currently use Snapdragons; interest has been modest. Qualcomm is also working on its own high-efficiency data center processors based on its Snapdragon architecture, although it's trying to break into a business already dominated by Nvidia.
+Power-boosted by TurboQuant, though, interest in Qualcomm's proven high-performance mobile processor could soar in a hurry.
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor’s total average return is 928%* — a market-crushing outperformance compared to 186% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of April 8, 2026.
+TurboQuant should be capable of working on almost any modern computing hardware. But it may well demonstrate its greatest value on mobile devices, which have inherent memory constraints that don't apply to data centers: namely, size and the cost of memory chips themselves. Large AI models that couldn't effectively operate entirely on a mobile device before now should be able to do so quite well. This is particularly true for single-purpose "edge" computing devices that need to be powerful enough to handle the demands of AI inference, but small enough and cost-effective enough to deploy en masse (think "smart" utility meters, connected cars, or wearables).
+The only catch? These processors must still be powerful enough to handle AI workloads autonomously. Qualcomm's Snapdragon fits the bill nicely.
+Data center networking specialist Broadcom (AVGO +4.99%) isn't in any serious jeopardy due to Google's TurboQuant. Regardless of how many memory chips you need or don't need to connect every motherboard within a data center, after all, you still need to connect all of these processors into a massive neural network. Indeed, there's an argument to be made that Google's research will not only not hurt demand for data center networking solutions, but may actually enhance it.
+Bank of America analyst Wamsi Mohan notes of his recent interview with Sandisk CFO Luis Visoso to discuss the unveiling of Google's new solution, "Mr. Visoso pointed out that [TurboQuant] can improve return on investment of hyperscale capex, and this increased efficiency could, in-turn, cause demand [for AI hardware] to rise." Morgan Stanley's Shawn Kim agrees, explaining in a research note: "Models that need cloud clusters can [now] fit on local hardware, effectively lowering the barrier to deploying AI at scale. More applications become viable, more models remain active and utilization of existing infrastructure improves."
+Obviously, Broadcom isn't the only name in the AI hardware business that stands to benefit from any uptick in total demand driven by lower entry and operating costs. Broadcom is leading the assault on the technology's biggest bottleneck, though (aside from a lack of affordable memory chips). That's not processing power. That's the speed at which all of a data center's computer processors can communicate with one another from different motherboards.
+And for what it's worth, Google's flagship Tensor Processing Units (TPUs) are largely designed and manufactured by Broadcom. If would-be AI users specifically want Google's TurboQuant to run on Google hardware, it's ultimately made by Broadcom.
+Finally, add TTM Technologies (TTMI +6.61%) to your list of stocks that could benefit from Google's AI computing breakthrough.
+It's not a household name. In fact, you've probably never even heard of the company. You do, however, likely depend on its products on a regular basis.
+See, TTM makes the printed circuit boards -- the flat, (usually) green plates that connect all of the components required to make computers, routers, mobile phone networking equipment, industrial automation controllers, and more. No modern technology would function without circuit boards first bringing all of the technical components together in the right way.
+No, it's not exactly a sexy business, even if it's one that should do well regardless of what's next for the AI industry. All sorts of stuff has some sort of circuit board in it these days, after all, including home appliances, toys, and even smart light bulbs.
+And that's an important nuance.
+While last year's revenue growth of 19% was impressive, most of 2025's top line of $2.9 billion didn't come from data centers or the networking business; TTM obviously doesn't need the AI industry to continue exploding to do well enough.
+Data centers and networking are TTM's fastest-growing businesses, though, which is arguably the chief reason analysts expect similar revenue growth this year as well as next. The thing is, these projections were made before TurboQuant's availability. If Morgan Stanley's Kim and BofA's Mohan are right about TurboQuant creating rather than crimping demand for more artificial intelligence tech, this already solid growth outlook may be underestimating what's actually in store from TTM.
+
+
+
+
+Before you buy stock in Qualcomm, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Qualcomm wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $532,929!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,091,848!*
+Now, it’s worth noting Stock Advisor’s total average return is 928% — a market-crushing outperformance compared to 186% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 8, 2026.
+
+Bank of America is an advertising partner of Motley Fool Money. James Brumley has positions in Alphabet. The Motley Fool has positions in and recommends Alphabet, Apple, Micron Technology, Nvidia, and Qualcomm and is short shares of Apple. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 55 Metas.
+What in the world could be worth 55 Metas? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
