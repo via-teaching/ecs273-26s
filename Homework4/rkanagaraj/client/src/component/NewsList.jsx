@@ -26,9 +26,9 @@ export default function NewsList({ selectedStock }) {
     if (!selectedStock) return;
     setExpanded(null);
     setNews([]);
-    fetch(`/stocknews/${selectedStock}/news.json`)
-      .then(r => r.ok ? r.json() : [])
-      .then(setNews)
+    fetch(`http://localhost:8000/stocknews/?stock_name=${selectedStock}`)
+      .then(r => r.ok ? r.json() : null)
+      .then(json => setNews(json ? json.news : []))
       .catch(() => setNews([]));
   }, [selectedStock]);
 

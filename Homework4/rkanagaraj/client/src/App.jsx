@@ -1,47 +1,78 @@
-import RenderOptions from "./component/options";
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
+import StockOptions from './component/options';
+import LineChart from './component/LineChart';
+import TSNEScatter from './component/TSNEScatter';
+import NewsList from './component/NewsList';
+
+const DEFAULT_STOCK = 'AAPL';
 
 export default function App() {
   const [stockList, setStockList] = useState([]);
+  const [selectedStock, setSelectedStock] = useState(DEFAULT_STOCK);
 
   useEffect(() => {
-    fetch("http://localhost:8000/stock_list")
-      .then((res) => res.json())
-      .then((data) => setStockList(data.tickers));
+    fetch('http://localhost:8000/stock_list')
+      .then(r => r.json())
+      .then(data => setStockList(data.tickers))
+      .catch(() => setStockList([]));
   }, []);
 
   return (
     <div className="flex flex-col h-full w-full">
-      <header className="bg-zinc-400 text-white p-2 flex flex-row align-center">
-        <h2 className="text-left text-2xl">Homework 4</h2>
-        <label htmlFor="bar-select" className="mx-2">
-          Select a category:
-          <select id="bar-select" className="bg-white text-black p-2 rounded mx-2">
-            <RenderOptions stockList={stockList} />
+      <header className="bg-zinc-700 text-white px-4 py-2 flex flex-row items-center gap-4 shrink-0">
+        <h2 className="text-xl font-bold">Homework 4 — Stock Dashboard</h2>
+        <label htmlFor="stock-select" className="flex items-center gap-2 text-sm">
+          Select stock:
+          <select
+            id="stock-select"
+            value={selectedStock}
+            onChange={e => setSelectedStock(e.target.value)}
+            className="bg-white text-black px-2 py-1 rounded text-sm"
+          >
+            <StockOptions stockList={stockList} />
           </select>
         </label>
       </header>
-      <div className="flex flex-row h-full w-full">
-        <div className="flex flex-col w-2/3">
-          <div className="h-1/4 p-2">
-            <h3 className="text-left text-xl">View 1 to be replaced by the view title</h3>
-            <div className="border-2 border-gray-300 rounded-xl">
-              <p className="text-center text-gray-500 mt-20">Empty View 1</p>
+
+      <div className="flex flex-row flex-1 min-h-0">
+        {/* Left column: View 1 (top) + View 2 (bottom) */}
+        <div className="flex flex-col w-2/3 h-full min-h-0">
+
+          {/* View 1 — Line Chart */}
+          <div className="h-1/3 p-2 min-h-0 flex flex-col">
+            <h3 className="text-base font-semibold shrink-0">
+              View 1: Stock Overview — {selectedStock}
+            </h3>
+            <div className="border-2 border-gray-300 rounded-xl flex-1 min-h-0 overflow-hidden">
+              <LineChart selectedStock={selectedStock} />
             </div>
           </div>
-          <div className="h-3/4 p-2">
-            <h3 className="text-left text-xl h-[2rem]">View 2 to be replaced by the view title</h3>
-            <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <p className="text-center text-gray-500 mt-20">Empty View 2</p>
+
+          {/* View 2 — t-SNE Scatter */}
+          <div className="h-2/3 p-2 min-h-0 flex flex-col">
+            <h3 className="text-base font-semibold shrink-0">
+              View 2: t-SNE Projection (click a dot to select stock)
+            </h3>
+            <div className="border-2 border-gray-300 rounded-xl flex-1 min-h-0 overflow-hidden">
+              <TSNEScatter
+                selectedStock={selectedStock}
+                onSelectStock={setSelectedStock}
+              />
             </div>
           </div>
+
         </div>
-        <div className="w-1/3 h-full p-2">
-          <h3 className="text-left text-xl h-[2rem]">View 3 to be replaced by the view title</h3>
-          <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-            <p className="text-center text-gray-500 mt-20">Empty View 3</p>
+
+        {/* Right column: View 3 — News */}
+        <div className="w-1/3 h-full p-2 min-h-0 flex flex-col">
+          <h3 className="text-base font-semibold shrink-0">
+            View 3: News — {selectedStock}
+          </h3>
+          <div className="border-2 border-gray-300 rounded-xl flex-1 min-h-0 overflow-hidden">
+            <NewsList selectedStock={selectedStock} />
           </div>
         </div>
+
       </div>
     </div>
   );

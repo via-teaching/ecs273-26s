@@ -13,15 +13,20 @@ export default function LineChart({ selectedStock }) {
 
   useEffect(() => {
     if (!selectedStock) return;
-    d3.csv(`/stockdata/${selectedStock}.csv`).then(raw => {
-      setData(raw.map(d => ({
-        date: new Date(d.Date),
-        Open: +d.Open,
-        High: +d.High,
-        Low: +d.Low,
-        Close: +d.Close,
-      })).filter(d => !isNaN(d.date.getTime())));
-    }).catch(() => setData([]));
+    setData([]);
+    fetch(`http://localhost:8000/stock/${selectedStock}`)
+      .then(r => r.ok ? r.json() : null)
+      .then(json => {
+        if (!json) return;
+        setData(json.stock_series.map(d => ({
+          date: new Date(d.date),
+          Open: d.Open,
+          High: d.High,
+          Low: d.Low,
+          Close: d.Close,
+        })).filter(d => !isNaN(d.date.getTime())));
+      })
+      .catch(() => setData([]));
   }, [selectedStock]);
 
   useEffect(() => {

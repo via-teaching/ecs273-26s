@@ -14,9 +14,17 @@ export default function TSNEScatter({ selectedStock, onSelectStock }) {
   const zoomRef = useRef(d3.zoomIdentity);
 
   useEffect(() => {
-    d3.csv('/tsne.csv').then(raw => {
-      setTsneData(raw.map(d => ({ ...d, x: +d.x, y: +d.y })));
-    });
+    fetch('http://localhost:8000/tsne/')
+      .then(r => r.json())
+      .then(json => {
+        setTsneData(json.data.map(d => ({
+          ticker: d.Stock,
+          x: d.x,
+          y: d.y,
+          sector: d.sector,
+        })));
+      })
+      .catch(() => setTsneData([]));
   }, []);
 
   // Full redraw when data loads (or resize)
