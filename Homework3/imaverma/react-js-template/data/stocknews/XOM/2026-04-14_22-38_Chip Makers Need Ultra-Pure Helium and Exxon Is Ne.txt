@@ -1,0 +1,43 @@
+Title: Chip Makers Need Ultra-Pure Helium and Exxon Is Nearly the Sole Source of Six Nines Purity
+Date: 2026-04-14 22:38
+URL: https://247wallst.com/investing/2026/04/14/chip-makers-need-ultra-pure-helium-and-exxon-is-nearly-the-sole-source-of-six-nines-purity/?.tsrc=rss
+
+Investing
+ExxonMobil (XOM) is the primary source of six-nines purity helium (99.9999% pure) required by leading-edge semiconductor manufacturers, positioning the oil giant as a critical materials supplier beyond its traditional energy business.
+The gap between five-nines and six-nines purity represents a single decimal place, but in chip fabrication one stray molecule can ruin an entire wafer, creating intense demand for ExxonMobil’s specialized processing infrastructure.
+ExxonMobil earned $28.84 billion in 2025 net income and has delivered 43 consecutive years of dividend growth, though the helium supply concentration risk to advanced chipmakers remains largely unrecognized by most investors.
+The analyst who called NVIDIA in 2010 just named his top 10 AI stocks. Get them here FREE.
+
+					Sending You to Google News in 3
+
+© 24/7 Wall St.
+
+
+If you haven’t been reading every report on the helium supply chain for the past year, welcome to the club!
+Most investors know ExxonMobil as an oil giant. Few know it sits at the center of a critical semiconductor supply bottleneck.
+The standard grade for liquid helium used across industrial applications is “A grade B” roughly five nines purity, or 99.999% pure. That sounds extraordinarily clean, and for most applications it is. But leading-edge chip fabrication has moved the goalposts.
+Leading-edge semiconductor manufacturers now require six nines purity: 99.9999% pure helium. The difference between five nines and six nines is a single additional decimal place of cleanliness, but in a fab environment where a single stray molecule can ruin a wafer, that gap is enormous.
+
+
+
+An industry expert recently stated: “The leading edge chip manufacturers are now looking for six nines purity and right now that primarily comes from Exxon’s facility. So all of a sudden you’ve got a big issue there.”
+Exxon Mobil (NYSE:XOM | XOM Price Prediction) is not marketing itself as a semiconductor materials company, but that is effectively what its helium operation has become at the premium end. The company’s technology organization has developed a centralized capability set that spans multiple business lines, and its helium processing infrastructure is one of the few in the world capable of reaching six-nines output consistently.
+READ: The analyst who called NVIDIA in 2010 just named his top 10 AI stocks
+Here is where the logistics get genuinely strange. Containers used for six-nines helium cannot be contaminated with five-nines helium. Even one molecule of hydrogen is a disqualifying event. As a result, these containers are kept entirely separate from standard helium containers and fiberoptic manufacturer containers, creating a parallel logistics infrastructure that is expensive to maintain and nearly impossible to scale quickly.
+If demand from chipmakers accelerates, there is no easy valve to turn. You cannot simply redirect existing supply. The containers, handling protocols, and sourcing all have to match.
+New helium liquefaction capacity being built along the Trans-Canada highway is targeting this high-purity premium market and could eventually diversify supply. That is a meaningful development for investors watching single-source concentration risk.
+XOM itself has been executing a broader transformation. Full-year 2025 net income came in at $28.84 billion on revenue of $332 billion, and the stock is up 28% year-to-date as of April 13, 2026, with 43 consecutive years of dividend growth behind it.
+The six-nines helium story does not change the investment thesis on XOM overnight, but it adds a dimension most retail investors are completely missing. The Reddit conversation around XOM is entirely focused on oil prices and geopolitics, while the specialty materials angle sits quietly in the background. That gap between perception and reality is often where the most interesting long-term value lives.
+
+Wall Street is pouring billions into AI, but most investors are buying the wrong stocks. The analyst who first identified NVIDIA as a buy back in 2010 — before its 28,000% run — has just pinpointed 10 new AI companies he believes could deliver outsized returns from here. One dominates a $100 billion equipment market. Another is solving the single biggest bottleneck holding back AI data centers. A third is a pure-play on an optical networking market set to quadruple. Most investors haven't heard of half these names. Get the free list of all 10 stocks here.
+I've been writing about stocks and personal finance for 20+ years. I believe all great companies are tech companies in the long run, and I invest accordingly.
+Our top personal finance-related articles today. Your wallet will thank you later.
+Let’s cut straight to it. A geopolitical shock just knocked roughly one-third of global helium supply offline. Iran’s strike on…
+A Moonshot in the MakingIntuitive Machines (Nasdaq:LUNR) is a Houston-based space exploration company that is pioneering lunar access and infrastructure.…
+The semiconductor capital equipment industry looks poised to continue massive growth this year and next. These four top companies are…
+Is now is the time to start buying some of the top semiconductor capital equipment stocks? These analysts are bullish,…
+On a daily basis, we interact with hundreds or thousands of materials that range in complexity from the water we…
+With the first quarter soon coming to an end, now is the time to move from momentum to strong growth…
+These five top companies all look to benefit from Samsung's continued success, and one analyst suggests aggressive tech investors should…
+In a new research report, Stifel remains very positive on the semiconductor capital equipment stocks, and with good reason.
+Quantum computing is no longer a physics experiment. Google’s Willow chip, IBM’s quantum roadmap expansion, and IonQ’s commercial contracts have…

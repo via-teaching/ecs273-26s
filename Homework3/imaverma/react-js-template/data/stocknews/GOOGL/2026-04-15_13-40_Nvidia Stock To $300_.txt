@@ -1,0 +1,119 @@
+Title: Nvidia Stock To $300?
+Date: 2026-04-15 13:40
+URL: https://www.trefis.com/articles/596610/nvidia-stock-to-300/2026-04-15?.tsrc=rss
+
+Nvidia stock (NVDA) rallied by close to 4% yesterday to roughly $197 per share amid a broader market rally fueled by hopes of de-escalation in the U.S. and Iran conflict. While the stock is up 75% over the last 12 months, investors are asking if a 41x trailing price to earnings multiple is too steep. (See Nvidia’s valuation multiples.)
+We believe it is not.
+In fact we outline a possibility that Nvidia stock could have an upside of as much as 50% in the coming years. Here is how.
+Massive Revenue Growth
+To date, Nvidia’s meteoric rise has been driven by massive capital expenditure from hyperscalers such as Microsoft and Google, focused primarily on building and training large language models.
+Revenue skyrocketed from $27 billion in FY’23 to almost $216 billion in FY’26. Consensus estimates point to $480 billion in revenue by FY’28, reflecting broader market confidence that the shift from experimental training to large-scale deployment is underway.
+If growth holds at approximately 20% into 2029, it would push revenue beyond $575 billion.
+We see two major drivers of this next leg of growth. The first is the shift from training to inference. Training is a periodic cost; inference is continuous, recurring demand. As agentic AI increases tokens required per task, compute demand grows exponentially. Critically, companies that built their training infrastructure on Nvidia are deeply entrenched through CUDA –  Nvidia’s proprietary software ecosystem. Replatforming would mean rewriting years of optimized code, making switching costs prohibitive. Nvidia’s Vera Rubin architecture extends this moat into inference by splitting workloads to reduce latency and delivering higher output per megawatt, lowering cost per token and cementing Nvidia as the dominant platform for the world’s daily AI interactions.
+While Nvidia benefits from agentic AI on the hardware side, Palantir could be a big software winner.
+The second driver is Sovereign AI. Nations are investing in “AI factories” to secure data sovereignty and domestic capability. If hyperscalers alone are projected to spend $690 billion on AI infrastructure this year, sovereign demand – spanning governments, state-backed enterprises, and national security apparatus across dozens of countries – could represent a substantial market in its own right. Nvidia’s full-stack offering built on the CUDA ecosystem positions it as a natural national infrastructure provider. In fiscal year 2026, ended Jan. 2026, Nvidia’s sovereign AI revenue tripled to over $30 billion.
+Margin Dominance
+Nvidia’s net margins reached 54% in FY 2026, up from 31% in 2023, while competitor AMD maintains margins near 20%.
+While the shift toward integrated systems might cause a slight mix shift, we expect margins to remain robust at levels of about 52% plus. Combining $575 billion in revenue with 52% margins results in $300 billion in net income, which is almost 2.5x the $117 billion reported in FY ’26. (See Nvidia margins)
+If net income expands to $300 billion, a stagnant stock price would cause the P/E multiple to collapse. Investors are betting on the opposite. If the trailing P/E stays at 25x, that would translate into a market cap of about $7.5 trillion, a 50% upside. That would make a stock price of $300 a real possibility. For perspective, mature tech companies like Cisco trade at 22x trailing earnings, while Microsoft trades at over 27x. Nvidia’s control over a large part of the AI stack justifies a premium.
+Time To Buy The Stock?
+Nvidia’s fundamentals are compelling. But a stock trading at 41x earnings, subject to geopolitical risk, export controls, and the pace of hyperscaler capex cycles, can swing violently in either direction.
+Real wealth is built by owning these massive shifts without concentrating risk in a single, high-multiple stock. That is the exact principle behind the Trefis High Quality (HQ) Portfolio. We identify the fundamental strength that survives the hype – whether that’s Nvidia, the broader AI infrastructure stack, or the companies quietly compounding beneath the headlines. It’s how we’ve delivered over 105% returns since inception, consistently outperforming the S&P 500 and Russell 2000.
+
+Hut 8 Stock On Fire: Up 44% With 6-Day Winning Streak
+
+
+6-Day Rally Sends Seagate Technology Stock Up 37%
+
+
+Keysight Technologies Stock Surges 18%, With A 6-Day Winning Spree
+
+
+Bank of New York Mellon Stock Surges 12%, With A 7-Day Winning Spree
+
+
+S&P 500 Stocks Trading At 52-Week Low
+
+
+Stocks Trading At 52-Week Low
+
+
+S&P 500 Stocks Trading At 52-Week High
+
+
+Mid Cap Stocks Trading At 52-Week High
+
+
+Large Cap Stocks Trading At 52-Week High
+
+
+Small Cap Stocks Trading At 52-Week High
+
+
+
+						AVGO, NVDA Top Microchip Technology Stock on Price & Potential
+					
+
+
+
+						Why NVDA, MU Could Outperform Rambus Stock
+					
+
+
+
+						Why NVDA, MU Could Outperform ON Semiconductor Stock
+					
+
+
+
+						Triggers That Could Ignite the Next Rally In NVIDIA Stock
+					
+
+
+
+						Why NVIDIA Stock Jumped 60%?
+					
+
+
+
+						NVDA, MU Top Monolithic Power Systems Stock on Price & Potential
+					
+
+
+
+						NVDA, MU Top Broadcom Stock on Price & Potential
+					
+
+
+
+						NVIDIA Stock To $213?
+					
+
+
+
+						NVIDIA Stock Hands $97 Bil Back – Worth a Look?
+					
+
+
+
+						Why NVIDIA Stock May Drop Soon
+					
+
+
+
+						Nvidia’s Secret Metric
+					
+
+
+
+						Nvidia’s Inference Power Play: Outmaneuvering Google And Amazon
+					
+
+©Copyright 2026 Insight Guru Inc. All Rights Reserved.
+By using the Site, you agree to be bound by our Terms of
+		Use.  Financial market data powered by Quotemedia.com.
+		Consensus EPS estimates are from QuoteMedia and are updated every weekday.
+		All rights reserved.
+
+		NYSE/AMEX data delayed 20 minutes.  NASDAQ and other
+		data delayed 15 minutes unless indicated.

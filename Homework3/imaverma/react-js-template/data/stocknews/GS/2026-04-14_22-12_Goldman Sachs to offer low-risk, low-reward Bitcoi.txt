@@ -1,0 +1,20 @@
+Title: Goldman Sachs to offer low-risk, low-reward Bitcoin ETF
+Date: 2026-04-14 22:12
+URL: https://www.dlnews.com/articles/markets/goldman-sachs-to-offer-low-risk-low-reward-bitcoin-etf/?.tsrc=rss
+
+About us
+Copy link
+Another Wall Street giant wants to sell you crypto.
+Goldman Sachs, one of the world’s largest investment banks, filed to launch a Bitcoin exchange-traded fund on Tuesday.
+Unlike most other issuers of Bitcoin ETFs, however, Goldman Sachs’ Bitcoin Premium Income ETF will not invest in Bitcoin itself. Instead, the company will invest in preexisting spot Bitcoin ETFs, options on spot Bitcoin ETFs, and options on indices that track spot Bitcoin ETFs.
+To generate income, Goldman Sachs will sell call options on Bitcoin ETFs. That means the fund can outperform spot Bitcoin investment when the cryptocurrency is falling, flat, or “modestly rising,” according to Goldman Sachs’ filing. But it can underperform when Bitcoin rises quickly.
+Bloomberg Senior ETF Analyst Eric Balchunas described that low-risk, low-reward profile as “Boomer candy.” Still, he expressed surprise at the filing.
+“Can't say I saw this coming,” he wrote on X. “I kinda just thought [JPMorgan] and GS would sit crypto out in favor of competing in other categories.”
+Goldman Sachs CEO David Solomon has long been a crypto sceptic. In February, however, he told a crowd at the World Liberty Forum in Mar-a-Lago that he personally owned a small amount of Bitcoin.
+The filing comes less than a week after Morgan Stanley debuted its own Bitcoin ETF under the ticker MSBT.
+Goldman Sachs did not divulge how much it plans to charge investors. But it jumps into a market poised for a price war: MSBT undercut preexisting US competitors with a 0.14% expense ratio.
+That’s cheaper than the biggest Bitcoin ETF, BlackRock’s iShares Bitcoin Trust, which charges a 0.25% fee, and cheaper than Grayscale’s Bitcoin Mini Trust ETF, which offers clients a 0.15% fee.
+Morgan Stanley’s fund took in $33 million in its first day. If that pace holds, it could amass more than $7 billion in a year, placing it in the top five among Bitcoin ETF issuers.
+BlackRock’s IBIT currently leads the pack with more than $53 billion in assets under management, according to DefiLlama data. Fidelity’s FBTC sits in a distant second, with just under $13 billion in Bitcoin.
+Aleks Gilbert is DL News’ New York-based DeFi correspondent. Have a tip? You can reach him at aleks@dlnews.com.
+By clicking 'accept all cookies', you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts. See our Cookie Policy for more information.

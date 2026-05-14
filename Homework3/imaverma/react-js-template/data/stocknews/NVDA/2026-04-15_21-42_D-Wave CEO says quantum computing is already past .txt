@@ -1,0 +1,78 @@
+Title: D-Wave CEO says quantum computing is already past its ChatGPT moment
+Date: 2026-04-15 21:42
+URL: https://finance.yahoo.com/news/d-wave-ceo-says-quantum-computing-is-already-past-its-chatgpt-moment-214253705.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+S&P 500 closes above 7,000 for the first time, Nasdaq hits record as stocks erase Iran war losses
+The former sneaker company's stock rose over 600% after announcing its rebrand as an AI company
+S&P 500, Nasdaq rise as Dow falls amid hopes for US-Iran talks
+The S&P 500 and Nasdaq rallied toward record highs on hopes of an Iran deal while oil tumbled
+Bitcoin bounced above $74,000, but Wall Street warns it could go lower before it goes higher
+US stocks rise amid Iran deal hopes, earnings rush, cooler-than-expected PPI
+JPMorgan profits rise 13%, Dimon warns of 'increasingly complex set of risks'
+US stocks sink after Trump orders Hormuz blockade against Iran
+Goldman Sachs Q1 profits climb thanks to jumps in M&A dealmaking and record equity trading
+The stock market's latest rally is reviving a familiar trade — but not all of the Magnificent Seven are coming along for the ride.
+Gen Z is driving IRA contributions to record highs. Here's how to get started.
+Wall Street strategists say it's time to 'jump in' with tech stocks
+Trump says US will blockade Strait of Hormuz after Iran talks fail (Bloomberg)
+Bank earnings, US-Iran talks, and signs of stability for stocks: What to watch this week
+Shaq, in NYC discussing his new investment with retailer tm:rw, said the NBA dunk contest isn't what it used to be.
+Used car prices hit highest levels since 2023 and could push higher
+Why Starlink is so important to SpaceX's IPO
+What to know about X Money, Elon Musk's fintech app that claims to pay 6% on savings
+The housing market is shifting toward buyers. Just not in New Jersey.
+Wall Street's biggest banks are riding into the first quarter earnings season on far less certain ground than where they began 2026.
+Watch: OpenAI CEO Sam Altman's house was reportedly the target of a Molotov cocktail attack on Friday. Yahoo Finance's Dan Howley explains.
+Stocks post second straight winning week amid fragile US-Iran ceasefire
+US tariff revenue dropped by over $4 billion in March. It's down almost 30% since October.
+US stocks open higher after March CPI inflation data shows energy surge
+Inflation soars by most since 2022 as gas prices bite
+Americans close to retirement are saving for later, but they're worried about getting by right now
+Government data out Friday will show how much consumer prices rose in March — and forecasts point to soaring inflation.
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+D-Wave Quantum (QBTS) CEO Alan Baratz says his company has already had the splashy moment OpenAI (OPAI.PVT) experienced with the launch of ChatGPT in 2022.
+"We've already passed that in the sense that our quantum computers have been used to solve problems that cannot be solved classically, full stop," Baratz told Yahoo Finance at the Semafor World Economic Summit.
+What breakthrough has D-Wave achieved in quantum computing?
+How does D-Wave's annealing technology differ from gate-model systems?
+Why is quantum computing positioned as Nvidia GPU alternative?
+What recent commercial deals has D-Wave secured?
+Despite the bold "shaking in my boots" rhetoric directed at Nvidia, the market remains in a wait-and-see mode. However, D-Wave has captured Wall Street's attention. Shares of the company have jumped over 22% recently and are up 200% in the last year, signaling that investors are beginning to price in the company's commercial pivot.
+Baratz is positioning quantum as the best alternative, noting that a D-Wave system draws only about 10 kilowatts to solve problems that might otherwise require a massive, energy-hungry data center.
+The push for utility comes as the broader AI industry faces a power crisis. As compute needs for large language models multiply, the energy required to run Nvidia (NVDA) GPU clusters has become a primary bottleneck.
+"For annealing, we've hit that point. For gate model systems. We're still a few years away from it," Baratz said, pointing to technical problems and "some real engineering that needs to be done."
+But there’s a divide in the industry. While Baratz says D-Wave's annealing technology is ready now, the industry is still chasing gate-model systems. Annealing machines are specialist tools for specific tasks, like workforce scheduling, while gate-model systems are designed to be universal computers that can handle any task.
+Since then, D-Wave has continued to sign a string of commercial and federal deals. It recently inked a $20 million agreement with Florida Atlantic University (FAU), plus a collaboration with Anduril Industries and Davidson Technologies on US air and missile defense applications.
+For these kinds of tasks, Baratz notes that Global 2000 companies, including Volkswagen (VOW3.DE) and Lockheed Martin, are integrating quantum into daily operations. Lockheed Martin was the first company to buy a commercial quantum computer back in 2011.
+Baratz credits the breakthrough to quantum annealing, a specialized method designed to find the single most efficient solution among billions of possibilities. While traditional computers struggle with scale, D-Wave's tech is already being used for workforce scheduling, cellular networks, and pharmaceutical supply chains.
+Nvidia isn't standing still. Earlier this week, the chip giant unveiled "Ising," a family of open-source quantum AI models for error correction. The move suggests Nvidia intends to become the operating system of quantum.
+"AI is essential to making quantum computing practical,” Nvidia CEO Jensen Huang said, suggesting that if Wall Street's darling cannot beat quantum efficiency, it intends to own the software that controls it.
+For Baratz, the gate-model dream is still five to seven years away. "We need to do error correction because these systems are very error-prone," he said. "We need to scale them to much larger numbers of qubits [to] be large enough to actually solve problems at scale."
+Francisco Velasquez is a Reporter at Yahoo Finance. Follow him on LinkedIn and X. He can be reached at francisco.velasquez@yahooinc.com.
+Click here for the latest technology news that will impact the stock market
+Read the latest financial and business news from Yahoo Finance
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

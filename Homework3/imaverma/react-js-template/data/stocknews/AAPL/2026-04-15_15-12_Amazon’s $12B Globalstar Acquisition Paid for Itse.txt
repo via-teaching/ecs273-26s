@@ -1,0 +1,38 @@
+Title: Amazon’s $12B Globalstar Acquisition Paid for Itself 10x Over in One Day
+Date: 2026-04-15 15:12
+URL: https://247wallst.com/investing/2026/04/15/amazons-12b-globalstar-acquisition-paid-for-itself-10x-over-in-one-day/?.tsrc=rss
+
+Investing
+Amazon (AMZN) CEO Andy Jassy is acquiring Globalstar (GSAT) for $11.6 billion to directly challenge SpaceX’s Starlink dominance in space-based internet, with Amazon shares rising 5% and gaining $125 billion in market cap on the news.
+Globalstar operates 24 satellites with globally harmonized Band 53/n53 spectrum assets and already powers Apple’s Emergency SOS satellite feature on iPhones, providing Amazon with proven consumer-scale infrastructure and an immediate revenue stream before the 2028 launch of Amazon LEO.
+Legacy telecom operators face structural disruption as satellite infrastructure shifts from ground-based towers to low earth orbit, with Amazon committing approximately $200 billion in 2026 capital expenditures explicitly prioritizing satellites alongside AI and chips.
+The analyst who called NVIDIA in 2010 just named his top 10 AI stocks. Get them here FREE.
+
+					Sending You to Google News in 3
+
+© 24/7 Wall St.
+
+
+Amazon.com (NASDAQ:AMZN | AMZN Price Prediction) announced it is acquiring satellite company Globalstar (NASDAQ:GSAT) for $11.6 billion, and the market delivered an immediate verdict. Amazon shares rose 5% on the news, adding $125 billion in market cap in a single day. That kind of single-session move on a company already valued at $2.667 trillion tells you investors see this as far more than a satellite acquisition. They see a direct challenge to SpaceX’s grip on space-based internet.
+
+
+
+Globalstar, founded in the late 1990s and headquartered in Louisiana, operates 24 satellites in orbit and owns valuable licensed wireless bandwidth. The company’s Band 53/n53 spectrum assets are globally harmonized, a rare and strategically significant attribute in satellite communications. Globalstar already has a foothold in the consumer market through Apple’s Emergency SOS satellite feature on iPhone 14 and newer models. That existing relationship with Apple (NASDAQ:AAPL) proves the infrastructure works at consumer scale, and it comes with an existing revenue stream.
+The deal includes a simultaneous partnership with Apple to expand satellite connectivity beyond emergency texts. Amazon plans to upgrade the service by 2028 to support voice, data, and full messaging capabilities under the name Amazon LEO. Andy Jassy had already signaled this direction, noting in Amazon’s Q4 2025 earnings that the company would face approximately $1 billion higher year-over-year Amazon Leo costs in 2026 as the satellite program scales.
+The competitive benchmark here is Starlink. SpaceX currently operates 10,000 satellites compared to Amazon’s fewer than 300. Starlink generates $10 billion in annual revenue with a 65% profit margin, more than double SpaceX’s rocket business revenue. That margin profile is exactly the opening Amazon needs. As the TBOY podcast hosts framed it: “Your margin is my opportunity.” Amazon’s logistics and infrastructure scale gives it the cost structure to undercut Starlink on pricing while still generating healthy returns.
+The broader implication extends well beyond Amazon versus SpaceX. The 40-year era of traditional telecom dominated by Verizon, AT&T, and T-Mobile is ending as infrastructure shifts from physical towers to satellites in orbit. Globalstar’s XCOM RAN software-defined private wireless platform and its next-generation C-3 satellites reinforce that the company was already building toward this future. Amazon accelerates that timeline considerably.
+Jassy committed to approximately $200 billion in capital expenditures across Amazon in 2026, with low earth orbit satellites named explicitly alongside AI, chips, and robotics as priority areas. The Globalstar deal converts that stated ambition into a real asset base with spectrum rights, operational satellites, and an existing enterprise customer in Apple. Investors watching the legacy carrier space should treat this announcement as a structural signal, not a one-day story.
+
+Wall Street is pouring billions into AI, but most investors are buying the wrong stocks. The analyst who first identified NVIDIA as a buy back in 2010 — before its 28,000% run — has just pinpointed 10 new AI companies he believes could deliver outsized returns from here. One dominates a $100 billion equipment market. Another is solving the single biggest bottleneck holding back AI data centers. A third is a pure-play on an optical networking market set to quadruple. Most investors haven't heard of half these names. Get the free list of all 10 stocks here.
+Joel South has been an avid investor and financial writer for over 15 years, publishing thousands of articles analyzing stocks, markets, and investment strategies across multiple leading financial media platforms. He spent 12 years at The Motley Fool, where he worked as an investment analyst and Bureau Chief before ascending to direct the Fool.com investing news desk, overseeing editorial operations and content strategy. During his tenure, Joel co-hosted an investing podcast and became a recognized voice in financial media through numerous TV and radio appearances discussing stock market trends and investment opportunities.
+Currently serving as General Manager and Managing Editor at 24/7 Wall Street, Joel has published hundreds of in-depth analyses focusing on large-cap stocks, dividend-paying equities, and market-moving developments. His comprehensive coverage spans earnings previews, price predictions, and investment forecasts for major companies across all sectors—from technology giants and semiconductor manufacturers to consumer brands and financial institutions. Joel's expertise encompasses t fundamental analysis, options market interpretation, institutional investor behavior, and translating complex market dynamics into clear, actionable insights for individual investors.
+Our top personal finance-related articles today. Your wallet will thank you later.
+Bloomberg’s Ed Ludlow reported live from Kennedy Space Center that Amazon (NASDAQ:AMZN | AMZN Price Prediction) is in talks to…
+Amazon (NASDAQ:AMZN | AMZN Price Prediction) stock is up 5% today, rising from $239.89 to $252, after the company announced…
+Globalstar (NASDAQ:GSAT) shares are surging 10% in early Thursday trading after the Financial Times reported that Amazon (NASDAQ:AMZN | AMZN Price…
+The satellite connectivity race has shifted into high gear. Billions of people and devices still sit beyond the reach of…
+Amazon.com (NASDAQ: AMZN | AMZN Price Prediction) is reportedly in talks to acquire Globalstar (NASDAQ: GSAT), Apple’s satellite connectivity partner,…
+Amazon (NASDAQ:AMZN | AMZN Price Prediction) shares are up 5% in Thursday’s session, climbing from $221.25 to $232 as of…
+Everyone wants SpaceX exposure. Problem is, you can’t buy it. While retail investors fantasize about Starlink and Mars colonization, the…
+Starlink has turned space-based internet into a major business for SpaceX. What began as prototypes around 2019 has grown into…
+SpaceX is exploring a potential merger with Tesla (NASDAQ:TSLA | TSLA Price Prediction) or xAI as it prepares for an…

@@ -1,0 +1,53 @@
+Title: The data centre next door: How Microsoft aims to feed AI's soaring needs and be a good neighbour
+Date: 2026-04-15 17:10
+URL: https://financialpost.com/technology/microsoft-ontario-data-centre-aims-sustainable?.tsrc=rss
+
+Financial Post's Naimul Karim tours the tech giant's new centre in Ontario for an inside look at a controversy
+You can save this article by registering for free here. Or sign-in if you have an account.
+Standing next to about 50 whirring fans responsible for cooling a vast room of stacked computer servers, a Microsoft Corp. executive highlights how a data centre — almost as big as 15 hockey rinks — being built in Vaughan, Ont., will annually need just about half an Olympic swimming pool’s worth of water to run.
+Subscribe now to read the latest news in your city and across Canada.
+Subscribe now to read the latest news in your city and across Canada.
+Create an account or sign in to continue with your reading experience.
+Create an account or sign in to continue with your reading experience.
+A few steps away in a separate room, Ed Pomerleau, vice-president of data centre operations in the Americas, then explained how a row of dampers lined across the wall is controlled by “sophisticated” software that automatically makes them open and close to control the airflow and the temperature inside the facility.
+Data centres host thousands of supercomputers that conduct complex calculations and are increasingly in demand worldwide as the use of artificial intelligence (AI) accelerates, but critics say they also put immense pressure on electricity grids and use a lot of water, forcing companies to defend their presence rather than just promote their capabilities.
+Get the latest headlines, breaking news and columns.
+By signing up you consent to receive the above newsletter from Postmedia Network Inc.
+A welcome email is on its way. If you don't see it, please check your junk folder.
+The next issue of Top Stories will soon be in your inbox.
+We encountered an issue signing you up. Please try again
+Interested in more newsletters? Browse here.
+An average mid-sized data centre can use about 1.4 million litres of water a day to cool down its infrastructure, according to Verisk Maplecroft, an England-based risk consultant. Centres can also quickly consume more than 100 megawatts of electricity, which is equivalent to the annual consumption of 100,000 households, the International Energy Agency has said.
+We wouldn't build a data centre where the utility provider couldn't sustain
+Microsoft has committed to investing $19 billion in Canada to expand its existing data centres in Ontario and Quebec, and the Vaughan data centre — called YTO 11 — is expected to be fully operational in the second half of this year. But Pomerleau said the data centres will not raise electricity prices for Canadians or adversely impact their water supplies. 
+“We wouldn’t build a data centre where the utility provider couldn’t sustain,” he said during a press conference following a tour of the data centre in April. “We invest in it as well by putting up transformer plants, etc.”
+Microsoft Canada Inc. president Matt Milton said the company’s data centres being built in Canada are not some of the “large gigawatt centres that you may hear about” and that the energy used in the Vaughan facility will be “dramatically lower” since it will not be used to train AI models, but run everyday AI services using already-trained systems, which is referred to as “inference” in the industry.
+But Ebrahim Bagheri, a professor at the University of Toronto whose research area includes AI, said it doesn’t matter whether a data centre is meant for training or inference, “it’s going to put a huge electricity demand” on the grid. 
+He said inference is much less demanding in terms of electricity consumption, but the scale of inference goes far beyond the scale of training.
+“If you have a billion prompts per day, you will be looking in the order of above 50 gigawatts, whereas training a frontier model for three to four months is around 20 to 30 gigawatts,” he said.
+As for water usage, Microsoft said it intends to use Canada’s climate to its advantage by relying more on the cold air outside rather than water for most of the year.
+It intends to rely on cold air until the temperature inside the data centre reaches 29.4 C, at which point it will turn to water, which is run multiple times through its system.
+But Bagheri said data centres also indirectly increase water usage at local power plants as electricity use rises since they also need large amounts of water for cooling and other purposes.
+“If one were to assume a billion inference queries per day … you would very quickly go from half an Olympic swimming pool in direct water footprint to approximately about 200 Olympic swimming pools in indirect water consumption,” he said.
+Despite the criticism of data centres, Bagheri said building more of them can be a “real benefit” in terms of protecting data, reducing latency and providing better services, as well as allow Canada to rely on its own AI supply chain as opposed to infrastructure abroad.
+Alistair Speirs, a general manager with Microsoft Azure’s online computing platform, said building data centres within Canada means Canadian businesses can deploy AI at the same speed as their competitors without “shipping their most important IP to other jurisdictions.”
+Once operational, he said the data centre in Vaughan, in combination with Microsoft’s other facilities in Canada, is expected to support the AI endeavours of almost “everyone” in Canada.
+“Those using Microsoft applications will use these data centres,” said Speirs, who has been to Microsoft’s 400 data centres worldwide. “There are hundreds of thousands of commercial customers in Canada that use the cloud services.”
+There are already a host of large Canadian businesses that rely on Microsoft’s AI technology.
+For example, 25,000 employees of Toronto-Dominion Bank in Canada and the United States use Microsoft Copilot, an AI-powered assistant for their daily work. Microsoft said Bank of Montreal employees run risk calculations faster and at 30 per cent less cost after partnering with Microsoft Azure. And Bank of Nova Scotia used Copilot to build a system of specialized AI agents to create a better way to provide clients with insight.
+In the retail sector, Canadian Tire Corp. Ltd., after recognizing that about 80 per cent of its in-store transactions start online, built an AI system using Microsoft software to help customers make a better connection between the two selling channels. Similarly, Ottawa Hospital used Copilot to reduce its administrative burden, with staff reporting a 70 per cent reduction in burnout as well.
+The reliance on AI is bound to increase further, Microsoft said. About 1.2 billion people have used AI-related technologies in the past three years and AI is also projected to annually add $180 billion to Canada’s economy by 2030.
+To keep up with this “pretty phenomenal adoption curve,” as Speirs puts it, the world needs more data centres. Some of the equipment is designed to simply store data that’s uploaded online, while others may be responsible for hosting the AI apps that people use. Either way, they are built to be disaster-resilient and require hundreds of skilled technicians to be maintained.
+For now, the facility in Vaughan has yet to be fully stacked with servers and is not fully operational, which is a big reason why the noise level there was below 85 decibels during the tour. That’s below the danger level, so visitors don’t need to wear headphones or take other protective measures. But that won’t be the case for long.
+“Trust me, when this room is full, it will be over 85 decibels,” Pomerleau said.
+Bagheri said building more data centres is something that has become inevitable.
+“You have to do it,” he said. “But the big question is do we actually have a plan to build a sustainable, environmentally friendly infrastructure?”
+He said he hasn’t heard of one as yet, but points out the AI boom is something that has happened very quickly and that it would have been difficult to actually forecast the demand even a year or two ago.
+• Email: nkarim@postmedia.com
+Postmedia is committed to maintaining a lively but civil forum for discussion. Please keep comments relevant and respectful. Comments may take up to an hour to appear on the site. You will receive an email if there is a reply to your comment, an update to a thread you follow or if a user you follow comments. Visit our Community Guidelines for more information.
+365 Bloor Street East, Toronto, Ontario, M4W 3L4
+© 2026 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.
+This website uses cookies to personalize your content (including ads), and allows us to analyze our traffic. Read more about cookies here. By continuing to use our site, you agree to our Terms of Use and Privacy Policy.
+You can manage saved articles in your account.
+and save up to 100 articles!
+You can manage your saved articles in your account and clicking the X located at the bottom right of the article.

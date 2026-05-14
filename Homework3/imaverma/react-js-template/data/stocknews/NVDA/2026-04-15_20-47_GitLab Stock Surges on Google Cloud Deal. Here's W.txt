@@ -1,0 +1,47 @@
+Title: GitLab Stock Surges on Google Cloud Deal. Here's What It Means for Investors
+Date: 2026-04-15 20:47
+URL: https://www.fool.com/investing/2026/04/15/gitlab-stock-surges-on-google-cloud-deal-heres-wha/?.tsrc=rss
+
+Users can now run GitLab's AI Gateway directly on Google Cloud.
+The past year has been a tough one for GitLab (GTLB +8.37%) shareholders. The market has had a difficult time understanding where the cloud-based DevSecOps (development, security, and operations) platform fits into the artificial intelligence (AI) boom, and what it all means for investors. That uncertainty has sent shares plunging, and the stock has lost roughly half its value over the past year. However, the company shared a development today that gave investors a much-needed boost of confidence.
+GitLab announced an expanded collaboration with Alphabet's (GOOGL +1.28%) (GOOG +1.21%) Google Cloud to bring its agentic AI tools to cloud customers. 
+Image source: Getty Images.
+In a press release issued late on Tuesday, GitLab announced that Google Cloud customers can now access its Duo Agent Platform directly from Google's Vertex AI models that they already use -- including Gemini. The actions taken by these AI agents are governed by GitLab's built-in compliance and audit controls -- meaning they are unlikely to go rogue or make risky decisions. Moreover, GitLab Duo Agent Platform usage will count toward fulfilling Google Cloud commitments.
+"AI agents are only as good as the context they operate on and the governance around them," according to GitLab chief product and marketing officer Manav Khurana. He went on to say, "This partnership connects [GitLab's Duo Agent Platform] to Vertex AI's strongest models."
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Developers use GitLab's tools to speed up development, helping them build, secure, and deploy new software. The platform's onboard AI functionality helps programmers be more efficient, keeps their creations secure, and deploys them more effectively.
+GitLab has been shifting to a hybrid subscription pricing model that combines a fixed, recurring user fee with variable usage-based charges. Some investors consider that change as a risky one, questioning whether the company has pricing power in the current AI-powered environment. Others view it as a long-term growth driver. 
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+The transition introduced an element of uncertainty, prompting GitLab to issue conservative guidance. Investors dislike uncertainty, even when there is potential for improved results. This prompted several price target reductions and downgrades from Wall Street's finest -- and a corresponding decline in the stock price.
+It remains to be seen if GitLab's Duo Agent Platform, its hybrid pricing model, and its expanded collaboration with Google Cloud will be enough to reignite the company's growth. That said, GitLab is one of only two players that form the DevSecOps duopoly (the other is Microsoft-owned GitHub). The stock is currently selling for roughly 27 times forward earnings, which is an attractive price for a company expected to deliver double-digit revenue growth over the next five years. 
+
+ 
+
+
+Before you buy stock in GitLab, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and GitLab wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $573,160!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,204,712!*
+Now, it’s worth noting Stock Advisor’s total average return is 1,002% — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 15, 2026. 
+
+Danny Vena, CPA has positions in Alphabet and Microsoft. The Motley Fool has positions in and recommends Alphabet, GitLab, and Microsoft. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 55 Metas.
+What in the world could be worth 55 Metas? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+*Returns as of April 15, 2026. **$149 for 2 years is a promotional price for new members only. Renews at current list price of $199 after 2nd year.

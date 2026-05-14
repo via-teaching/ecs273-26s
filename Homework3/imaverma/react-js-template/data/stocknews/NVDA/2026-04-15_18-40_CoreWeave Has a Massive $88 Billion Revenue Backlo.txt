@@ -1,0 +1,60 @@
+Title: CoreWeave Has a Massive $88 Billion Revenue Backlog. Here's Why the Stock Could 10x in 5 Years.
+Date: 2026-04-15 18:40
+URL: https://www.fool.com/investing/2026/04/15/coreweave-has-a-massive-88-billion-revenue-backlog/?.tsrc=rss
+
+The neocloud company's growth is set to accelerate impressively due to the terrific demand for AI computing power.
+Neocloud companies have gained prominence in recent months, thanks mainly to their timely business model of leasing much-needed computing capacity in dedicated artificial intelligence (AI) data centers equipped with graphics processing units (GPUs).
+However, these companies don't just offer GPU-accelerated foundational data center infrastructure. They also offer access to popular large language models (LLMs), enabling customers to build, customize, and deploy AI applications.
+Not surprisingly, the business model has been quite popular, which is precisely why neocloud provider CoreWeave (CRWV +1.30%) has been landing lucrative contracts at a nice clip, including with hyperscalers and leading AI companies. CoreWeave went public just over a year ago. The stock is up 195% since then, despite coming under pressure following a steep climb in its first couple of months on the market.
+The stock is down by 36% from its 52-week high reached in June. However, that slide doesn't seem justified given CoreWeave's massive revenue pipeline, which is likely to make it a multibagger within the next five years.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Image source: The Motley Fool.
+CoreWeave recently announced that it had expanded its contract with Meta Platforms (META +1.37%). The neocloud company will provide Meta with cloud computing capacity through December 2032 in a deal valued at $21 billion. CoreWeave added that "the two companies are continuing their existing relationship, increasing support for Meta's development and deployment of AI." 
+CoreWeave and Meta entered into a $14.2 billion deal in September 2025 that was scheduled to run until December 2031. CoreWeave's filing with the U.S. Securities and Exchange Commission at that time stated that Meta had the option to "materially expand its commitment through 2032 for additional cloud computing capacity."
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+So, Meta's revised agreement with CoreWeave isn't surprising, especially considering that the "Magnificent Seven" company is aggressively expanding its AI infrastructure. Meta Platforms forecast that its 2026 capital expenditures would be between $115 billion and $135 billion, well above its 2025 outlay of $72 billion. Meta points out that this massive capex will support its Superintelligence Labs, a business division through which it aims to develop AI applications for individuals, as well as its core business.
+It is easy to see why Meta is going big on AI. The company's advertising business has received a nice shot in the arm from the technology. Its AI-enabled campaigns are reportedly delivering $4.52 in value for each dollar spent by advertisers. So, there is a strong chance Meta will become a bigger player in the massive digital ad market thanks to AI, which explains why it is spending big on it.
+However, Meta needs more computing power to train AI models and to run inference applications, and this is where CoreWeave comes in. Though Meta has been building its own data centers, it continues to tap CoreWeave and its peers for additional capacity. That's not surprising, as there is a shortage of available AI data center computing capacity, especially because of electricity and component constraints.
+CoreWeave seems to be navigating these challenges. It ended 2025 with 850 megawatts (MW) of active data center capacity. It added 11 new data centers during the year. More importantly, its contracted power capacity jumped by 2 gigawatts (GW) in 2025 to 3.1 GW. This is an important metric, as it refers to the electricity supply it has locked in for the new data centers it intends to build.
+CoreWeave estimates it can bring all its contracted capacity online by the end of next year, bringing its active data center capacity close to 4 GW (including the 850 MW already active). Thus, CoreWeave should be able to turn its huge backlog into revenue.
+CoreWeave reported a revenue backlog of $66.8 billion at the end of 2025, fueled by huge contracts with OpenAI and Meta Platforms. The latest Meta deal brings its potential revenue backlog to almost $88 billion, which is more than 17 times the company's 2025 revenue of $5.1 billion. The actual backlog could be meaningfully higher than that, as Anthropic has also selected CoreWeave's data centers to run its Claude AI models as a part of a multiyear deal. The companies haven't provided any further details to the public.
+All this explains why CoreWeave is spending heavily to add new capacity. It expects its capital expenditures to jump to $30 billion in 2026, double its 2025 outlay. However, these aggressive capacity additions are the reason why its growth is poised to take off.
+
+CRWV Revenue Estimates for Current Fiscal Year data by YCharts.
+CoreWeave's cumulative revenue in 2026, 2027, and 2028 could exceed $70 billion, yet its backlog is larger than that, indicating it can sustain its momentum beyond the next three years. What's more, don't be surprised to see CoreWeave getting more contracts, as Deloitte estimates that data center power demand will increase by 30x over the next decade.
+Moreover, as CoreWeave starts generating revenue from the data centers it builds and its capex growth rate slows, it should become profitable as well.
+
+CRWV EPS Estimates for Current Fiscal Year data by YCharts.
+So, CoreWeave seems to have the makings of a long-term winner. That's why it would be a smart move to buy the stock while it trades at just 8.7 times sales, just above the U.S. tech sector's average sales multiple of 8, despite its stupendous revenue growth. Let's assume the company can clock even 20% revenue growth in 2029 and 2030. If it does, its top line could reach almost $50 billion by the end of the decade (using its projected 2028 revenue as the base).
+If that is the case, and if CoreWeave trades at even 10 times sales at that time -- a slight premium to the industry's average due to its phenomenal growth -- its market cap would hit $500 billion. That's almost 10x its current market cap, suggesting that this AI stock could be a solid long-term buy.
+
+ 
+
+
+Before you buy stock in CoreWeave, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and CoreWeave wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $573,160!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,204,712!*
+Now, it’s worth noting Stock Advisor’s total average return is 1,002% — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 15, 2026. 
+
+Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Meta Platforms. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+*Returns as of April 15, 2026. **$149 for 2 years is a promotional price for new members only. Renews at current list price of $199 after 2nd year.
