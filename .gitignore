@@ -13,4 +13,9 @@ build/
 .DS_Store
 Thumbs.db
 
+# ignore python cache files
+__pycache__/
+*.pyc
+.venv/
+
 package-lock.json

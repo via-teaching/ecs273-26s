@@ -1,0 +1,89 @@
+Title: BDTX: What Silevertinib Data Say About EGFR NSCLC Upside
+Date: 2026-04-09 17:12
+URL: https://finance.yahoo.com/sectors/healthcare/articles/bdtx-silevertinib-data-egfr-nsclc-161200901.html?.tsrc=rss
+
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Black Diamond Therapeutics, Inc.BDTX is building its equity story around a single, high-leverage asset: silevertinib, a brain-penetrant, fourth-generation epidermal growth factor receptor (EGFR) inhibitor being studied in EGFR-mutant non-small cell lung cancer (NSCLC). Early readouts point to broad activity across non-classical EGFR mutations, strong central nervous system (CNS) responses, and class-consistent safety.
+With no approved products, valuation sensitivity is high. Execution on clinical updates, regulatory progress, and late-stage partnership support remains the core swing factor for the stock.
+BDTX is, in practical terms, a one-asset thesis. Silevertinib is the company’s only wholly owned clinical-stage program, and the long-term growth profile is heavily dependent on its ability to advance through development and ultimately reach commercialization.
+That concentration cuts both ways. Continued clinical progress can re-rate expectations, but any clinical, regulatory, or development setback in the ongoing NSCLC work can quickly pressure the investment narrative and valuation.
+Partnership outcomes also matter because the path to late-stage trials and commercialization is capital-intensive. BDTX has highlighted partnership exploration as part of the catalyst stack around the program.
+BDTX’s MasterKey approach is designed to go beyond one-mutation, one-drug targeting. The strategy focuses on “families” of oncogenic driver mutations that share activating conformations, rather than treating each alteration as fully distinct.
+The company’s proprietary Mutation-Allostery-Pharmacology (MAP) engine is used to group mutations by structural effect and drug selectivity profile. In plain terms, the aim is to map how different mutations activate the same target in similar ways, then design inhibitors that can address that shared biology.
+For EGFR, this framing matters because NSCLC includes multiple classical and non-classical mutation subtypes, plus resistance mutations that emerge under treatment pressure. A “family” approach can expand where a single agent might fit across lines of therapy.
+A central claim for silevertinib is mutation breadth. The program is positioned as targeting more than 50 classical and non-classical EGFR mutations, supporting a potential use case set that is wider than the narrow subsets often pursued in early targeted-therapy development.
+Broad activity can matter clinically and commercially. If activity holds across diverse non-classical mutations, it may expand the addressable NSCLC population and reduce dependence on a single, high-prevalence alteration.
+Breadth also ties to resistance. The company highlights silevertinib’s ability to inhibit the C797S resistance mutation, which commonly arises after treatment with third-generation EGFR inhibitors such as Tagrisso. That creates a potential bridge from frontline treatment paradigms to post-progression settings.
+CNS activity is one of the more tangible differentiators in the early dataset. In top-line Phase II first-line results in non-classical EGFR-mutant NSCLC, silevertinib produced a 60% objective response rate and an 86% CNS response rate, with no new safety concerns observed to date.
+That matters because CNS metastases are a major clinical problem in EGFR-mutant NSCLC, affecting up to half of patients and contributing to poor outcomes. A therapy that demonstrates meaningful CNS response can influence physician adoption and payer perception, particularly in a population where brain involvement is common.
+Commercially, CNS performance can help separate a new entrant from therapies with limited intracranial activity. BDTX is explicitly leaning into brain penetration as a program pillar across NSCLC and glioblastoma development planning.
+Regulatory traction is starting to take shape through the FDA’s Fast Track Designation. Silevertinib has Fast Track for treatment of patients with EGFR mutant C797S-positive NSCLC whose disease has progressed on or after a third-generation EGFR tyrosine kinase inhibitor.
+The C797S angle is framed as a clear unmet need, with no approved therapies currently available for this resistance mutation.
+If the clinical profile continues to support activity in this setting, it could open a defined post–third-generation EGFR pathway that is clinically meaningful and commercially attractive.
+Fast Track status can also support development efficiency through more frequent FDA interactions, which becomes important as the program approaches later-stage decision points.
+Near-term catalysts are concentrated in 2026. The company expects updates on progression-free survival in second-quarter 2026, alongside duration of response updates. These readouts are positioned as key valuation drivers because they speak to durability and real-world treatment impact beyond initial tumor shrinkage.
+Separately, partnership developments remain a key catalyst category. Late-stage NSCLC programs typically require scale and infrastructure, and BDTX has signaled continued exploration of strategic options to support later-stage development of silevertinib.
+BDTX remains several years from commercialization and currently has no approved products. Near-term revenue is limited, and the company’s long-term outlook is highly sensitive to clinical and regulatory outcomes for a single program.
+Competition is also a headwind.AstraZenecaAZN has established Tagrisso as a leading third-generation EGFR tyrosine kinase inhibitor with broad approvals as monotherapy across major markets.Johnson & JohnsonJNJ has strengthened its first-line position with Rybrevant plus Lazcluze for EGFR exon 19 deletions or exon 21 L858R substitution mutations.
+In this landscape, BDTX needs continued differentiation, especially on mutation breadth, resistance coverage, and CNS activity. Any erosion in those pillars, or delays in execution and partnering, could break the upside case.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report
+AstraZeneca PLC (AZN) : Free Stock Analysis Report
+Johnson & Johnson (JNJ) : Free Stock Analysis Report
+Black Diamond Therapeutics, Inc. (BDTX) : Free Stock Analysis Report
+This article originally published on Zacks Investment Research (zacks.com).
+Zacks Investment Research
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
