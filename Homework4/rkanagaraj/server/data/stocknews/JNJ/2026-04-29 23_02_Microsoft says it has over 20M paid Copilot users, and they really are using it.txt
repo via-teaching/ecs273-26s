@@ -1,0 +1,71 @@
+Title: Microsoft says it has over 20M paid Copilot users, and they really are using it
+Date: 2026-04-29 23:02
+URL: https://finance.yahoo.com/sectors/technology/articles/microsoft-says-over-20m-paid-230223230.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+AI developers are snapping up Mac minis, sparking a shortage that could drag on for months
+Apple beats earnings estimates on strong iPhone and China sales
+Dow jumps 750 points, S&P 500 and Nasdaq notch record highs to end the best month for stocks since 2020
+The AI earnings bonanza is splitting investors
+Trump bets Hormuz blockade will break Iran before triggering a global crisis
+US stocks climb as economic updates, solid earnings roll in and Big Techs buoy AI hopes
+Nvidia has powered one third of the Mag 7's bull market gains
+Results from four Big Tech companies showed combined AI spending reaching an eye-popping $725 billion this year.
+Microsoft tops earnings estimates, says AI business up 123% year over year
+Meta stock falls despite earnings beat as AI spending plans spook investors
+Alphabet earnings top estimates on strong Google Cloud growth
+The Dow and S&P 500 slipped as oil surged, with Big Tech earnings on deck
+Powell will stay on as governor, says he has no choice amid legal attacks on Fed
+Powell holds what is expected to be his final press conference as chair after the Fed keeps rates steady
+Fed holds interest rates steady with no end to Iran war in sight
+Elon Musk testified again in the OpenAI trial, describing his behavior at the company and its nonprofit 'halo'
+A Senate committee confirmed Kevin Warsh, sending his nomination to be chairman of the Fed to the full Senate
+Stocks slipped at the open as investors awaited a Fed decision and Big Tech earnings
+The Dow, S&P 500, and Nasdaq dropped as chip stocks sank and oil rose
+S&P 500 and Nasdaq sink, Dow rises as OpenAI-linked stocks falter and UAE exits OPEC
+The United Arab Emirates will leave OPEC+ effective May 1
+The only number that matters for 'Magnificent 7' earnings this week
+The S&P 500 and Nasdaq notched fresh records, while oil edged higher as markets weighed Iran peace odds
+Gasoline prices are expected to turn higher as oil holds above $100 per barrel amid uncertainty over the US-Iran war
+US stocks open mixed as markets brace for a big week of Big Tech earnings.
+The rapid run-up in chip stocks has reignited the AI trade as the S&P 500 and Nasdaq sit at record highs.
+Americans are feeling less confident about their retirement savings. Here are some of the best ways to get started early.
+BMW has long treated the 7 Series as its technological proving ground — where its ambitious ideas first find a home. 
+Bank of America's 'sleep like a baby' portfolio is having its best year since 1933
+Warsh confirmation set to advance as GOP holdout Tillis backs vote (Bloomberg)
+Elon Musk's lawsuit against Sam Altman and OpenAI goes to trial Monday, and the company's future may hang in the balance.
+The week ahead sees Jerome Powell's penultimate meeting as Fed chair, and five of the Mag 7 will report earnings.
+With gas prices over $4 a gallon, interest in hybrids and EVs appears to be on the rise among prospective car buyers.
+The best (and worst) time of year to buy a house
+Trump cancels trip by US negotiators for peace talks with Iran (Financial Times)
+The traditional notion of where to move in retirement is getting a shakeup. Here's what to know.
+After a post-pandemic bust, home buying is picking up in Austin.
+Software's comeback bid is fading as chip stocks smash records
+Food prices were already straining Americans’ pocketbooks. The Iran war could make the problem even starker. 
+Big Tech's jobs cuts feel like an economic warning
+Nvidia leaps to new high, pushing market cap above $5 trillion again
+The Nasdaq and S&P 500 jumped to record highs to end an earnings-filled week as Intel topped its 2000 peak
+The Department of Justice is dropping its criminal probe of Federal Reserve Chair Jerome Powell.
+After an earnings beat, Intel’s stock is blasting through a dot-com-era ceiling
+Nasdaq and S&P 500 rise as Intel stock soars, Dow slips amid Hormuz tensions
+Meta to buy Graviton chips from Amazon as CPU sales soar
+Intel stock soars on earnings beat and strong outlook driven by data center demand
+The Dow, S&P 500, and Nasdaq retreated as software stocks plunged, while oil surged on Iran war concerns
+Meta cuts thousands of jobs; Microsoft reportedly offers buyouts to 7% of workers
+US stocks slide as oil rises amid Hormuz standoff, while Tesla slips after earnings
+Despite the lingering perception that no one really uses Copilot, Microsoft said Wednesday that its user base and engagement are growing for the AI tool that’s baked into M365 apps like Word, Excel, and Outlook email.
+M365 Copilot now has 20 million paid enterprise Copilot seats, Microsoft CEO Satya Nadella said during the company’s quarterly earnings call.
+The company has quadrupled the number of companies paying for over 50,000 seats, Nadella said, noting that Bayer, Johnson & Johnson, Mercedes, and Roche have more than 90,000 seats. He pointed to the deal announced earlier this week with Accenture for over 740,000 seats. “Our largest Copilot win to date,” he said.
+Plus, he insists that people are using it, engaging with Copilot as much as they do with email.
+“Copilot queries per user were up nearly 20% quarter-over-quarter. To put this momentum in perspective, weekly engagement is now at the same level as Outlook,” he said. “This is like a daily habit of intense usage.”
+He emphasized that Copilot is not dependent on any one model, like OpenAI.
+“You now have access in chat to multiple models by default, with intelligent auto routing in agents with critique and counsel. You can use multiple models together to generate optimal responses,” he said.
+Microsoft 365 supports Anthropic’s Claude, for instance.
+In fact, Morgan Stanley’s Keith Weiss said on the quarterly earnings call on Wednesday, “Those Microsoft 365 Copilot numbers are super impressive and I think way ahead of most people’s expectations.”
+Agent mode is one area that is driving usage, noting that “as of last week, Agent mode is now the default experience across Copilot and Word Excel and PowerPoint.”
+Microsoft last week made Copilot’s agentic capabilities generally available. This allows Copilot to take multistep actions directly in the documents. “You now have a new way to delegate and complete work using Copilot,” Nadella said.
+
+Weʼre unable to load stories right now.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

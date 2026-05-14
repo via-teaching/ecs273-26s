@@ -1,0 +1,91 @@
+Title: Netomi Raises $110M from Accenture Ventures, Adobe Ventures, and WndrCo to Deplo
+Date: 2026-04-30 11:22
+URL: https://finance.yahoo.com/sectors/technology/articles/netomi-raises-110m-accenture-ventures-112200463.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+AI developers are snapping up Mac minis, sparking a shortage that could drag on for months
+Apple beats earnings estimates on strong iPhone and China sales
+Dow jumps 750 points, S&P 500 and Nasdaq notch record highs to end the best month for stocks since 2020
+The AI earnings bonanza is splitting investors
+Trump bets Hormuz blockade will break Iran before triggering a global crisis
+US stocks climb as economic updates, solid earnings roll in and Big Techs buoy AI hopes
+Nvidia has powered one third of the Mag 7's bull market gains
+Results from four Big Tech companies showed combined AI spending reaching an eye-popping $725 billion this year.
+Microsoft tops earnings estimates, says AI business up 123% year over year
+Meta stock falls despite earnings beat as AI spending plans spook investors
+Alphabet earnings top estimates on strong Google Cloud growth
+The Dow and S&P 500 slipped as oil surged, with Big Tech earnings on deck
+Powell will stay on as governor, says he has no choice amid legal attacks on Fed
+Powell holds what is expected to be his final press conference as chair after the Fed keeps rates steady
+Fed holds interest rates steady with no end to Iran war in sight
+Elon Musk testified again in the OpenAI trial, describing his behavior at the company and its nonprofit 'halo'
+A Senate committee confirmed Kevin Warsh, sending his nomination to be chairman of the Fed to the full Senate
+Stocks slipped at the open as investors awaited a Fed decision and Big Tech earnings
+The Dow, S&P 500, and Nasdaq dropped as chip stocks sank and oil rose
+S&P 500 and Nasdaq sink, Dow rises as OpenAI-linked stocks falter and UAE exits OPEC
+The United Arab Emirates will leave OPEC+ effective May 1
+The only number that matters for 'Magnificent 7' earnings this week
+The S&P 500 and Nasdaq notched fresh records, while oil edged higher as markets weighed Iran peace odds
+Gasoline prices are expected to turn higher as oil holds above $100 per barrel amid uncertainty over the US-Iran war
+US stocks open mixed as markets brace for a big week of Big Tech earnings.
+The rapid run-up in chip stocks has reignited the AI trade as the S&P 500 and Nasdaq sit at record highs.
+Americans are feeling less confident about their retirement savings. Here are some of the best ways to get started early.
+BMW has long treated the 7 Series as its technological proving ground — where its ambitious ideas first find a home. 
+Bank of America's 'sleep like a baby' portfolio is having its best year since 1933
+Warsh confirmation set to advance as GOP holdout Tillis backs vote (Bloomberg)
+Elon Musk's lawsuit against Sam Altman and OpenAI goes to trial Monday, and the company's future may hang in the balance.
+The week ahead sees Jerome Powell's penultimate meeting as Fed chair, and five of the Mag 7 will report earnings.
+With gas prices over $4 a gallon, interest in hybrids and EVs appears to be on the rise among prospective car buyers.
+The best (and worst) time of year to buy a house
+Trump cancels trip by US negotiators for peace talks with Iran (Financial Times)
+The traditional notion of where to move in retirement is getting a shakeup. Here's what to know.
+After a post-pandemic bust, home buying is picking up in Austin.
+Software's comeback bid is fading as chip stocks smash records
+Food prices were already straining Americans’ pocketbooks. The Iran war could make the problem even starker. 
+Big Tech's jobs cuts feel like an economic warning
+Nvidia leaps to new high, pushing market cap above $5 trillion again
+The Nasdaq and S&P 500 jumped to record highs to end an earnings-filled week as Intel topped its 2000 peak
+The Department of Justice is dropping its criminal probe of Federal Reserve Chair Jerome Powell.
+After an earnings beat, Intel’s stock is blasting through a dot-com-era ceiling
+Nasdaq and S&P 500 rise as Intel stock soars, Dow slips amid Hormuz tensions
+Meta to buy Graviton chips from Amazon as CPU sales soar
+Intel stock soars on earnings beat and strong outlook driven by data center demand
+The Dow, S&P 500, and Nasdaq retreated as software stocks plunged, while oil surged on Iran war concerns
+Meta cuts thousands of jobs; Microsoft reportedly offers buyouts to 7% of workers
+US stocks slide as oil rises amid Hormuz standoff, while Tesla slips after earnings
+Led by Accenture Ventures with participation from Adobe Ventures, WndrCo, Metis Strategy, SLW, NAVER Ventures, and Fin Capital, the round validates Netomi as a leading enterprise-grade agentic CX platform built for the highest-stakes environments and accelerates a future where AI is woven into every digital experience.
+SAN FRANCISCO, April 30, 2026--(BUSINESS WIRE)--Netomi today announced $110 million in new funding led by Accenture Ventures, with participation from Adobe Ventures, WndrCo, SLW, NAVER Ventures, Metis Strategy, and Fin Capital. This round builds on early investments from AI pioneers Greg Brockman, Demis Hassabis, and Mustafa Suleyman.
+Netomi is the enterprise agentic CX platform built for the highest-stakes environments — operating at massive scale, under regulatory oversight, where failure is not an option.
+Delta Air Lines, United Airlines, MetLife, Paramount, DraftKings, NBA, and Ingram Micro are just some of the enterprises leveraging Netomi to interact with their customers across chat, email, and voice. Netomi powers the United Airlines Chat AI found in the United mobile app.
+OpenAI recently featured Netomi in a case study titled "Netomi's Lessons for Scaling Agentic Systems into the Enterprise," in which the platform is described as a: "blueprint for scaling safe, predictable agentic systems across the enterprise."
+In addition to an investment, Accenture has also entered into a global alliance with Netomi to build a playbook for enterprise agentic CX deployment — bringing Netomi's platform to Accenture's enterprise clients across the world.
+"Agentic AI is opening an entirely new chapter for customer experience," said Ndidi Oteh, CEO, Accenture Song. "One where brands can respond with greater empathy, consistency and intelligence at every touchpoint. Netomi’s platform doesn’t just make service faster; it strengthens the connection between people and the brands they trust. Together, we’re empowering our clients to reinvent how they serve their customers — seamlessly, responsibly and at scale — so they can grow with confidence in an era of continuous change."
+At a moment when deployment of reliable, production-grade agentic AI is the most sought-after capability within enterprise, Netomi stands alone — the only CX platform with a flawless track record of zero failures, zero broken guardrails, and zero brand violations.
+This foundation is what positions Netomi to pursue the holy grail of customer experience: AI embedded directly inside the digital experience itself — observing every journey, reasoning in real time, and dynamically reshaping the experience around each customer as their journey unfolds. Not a disconnected 'concierge' layer on top. Not a chatbot floating in the corner. But intelligence woven into the very fabric of the digital experience.
+Adobe Ventures' investment reflects a shared belief in the importance of customer experience orchestration as agentic AI reshapes the enterprise. Adobe is leading this shift, helping 99 percent of the Fortune 100 use AI to transform the way they work. With this investment and partnership, Netomi’s platform is being seamlessly integrated in Adobe’s Brand Concierge’s agentic ecosystem.
+"Today's customers move fluidly across channels, touchpoints, and moments — and brands need intelligence that moves with them," said Anjul Bhambhri, Senior Vice President, Experience Cloud Engineering at Adobe. "Together with Netomi, we're enabling brands to deliver adaptive, personalized journeys that don't stop at marketing, but extend all the way through service, resolving their needs autonomously with the speed and context customers expect."
+Jeffrey Katzenberg, Managing Partner of WndrCo, has joined Netomi's Board of Directors with this round. "Netomi is the rare company that actually delivers on the promise of enterprise AI — at scale and in the moments that matter most. There is no more fitting lead investor for this round than Accenture, the firm that understands enterprise complexity better than anyone on earth. And Adobe's investment in Netomi signals something profound — the future of customer experience won't be a chatbot hanging off the edge of a digital experience. It will be intelligence woven into the experience itself."
+Built for the World's Most Complex Environments
+Deploying agentic AI in front of customers — at enterprise scale and in regulated environments where reliability, governance, and observability are non-negotiable — is one of the hardest challenges in applied AI. Netomi is built exclusively for these environments.
+At DraftKings, Netomi's platform handles traffic surging to over 40,000 concurrent customer requests per second during major sporting events — with millions of fans seeking support simultaneously, under strict regulatory scrutiny. Throughout those moments, Netomi delivers sub-three-second response times and 98% intent classification accuracy.
+"AI is central and critical to how we support customers in the moments that matter most," said Paul Liberman, Co-Founder and President of Operations at DraftKings. "Netomi's platform helps us handle massive spikes in activity with agility and precision."
+At Paramount, Netomi was deployed for Paramount+ over chat and voice in just two weeks, going live on a Wednesday. That weekend, Paramount+ became the #1 app in the entire US App Store — driven by Saturday's UFC 324 peaking at 5.93 million concurrent streams and Sunday's AFC Championship. Netomi seamlessly auto-scaled across millions of subscribers and has since been deployed across Paramount’s portfolio of brands.
+"Our clients are looking for ways to deliver faster, more consistent customer service without increasing operational complexity," said John Bolze, global AI solutions lead at Accenture Song. "Netomi’s enterprise-ready agentic AI platform stands out because it acts as an intelligent extension of the human agents, improving response times and enhancing overall performance."
+Metis Strategy, whose advisory relationships reach hundreds of Fortune 500 CIOs, joins this round as both investor and partner. With this partnership, Metis has trained its entire team on Netomi's platform — ensuring that enterprise leaders receive direct, hands-on guidance on deploying agentic AI in production environments.
+"In the age of agentic AI, we are re-orienting our business model to help clients go from strategy to value realization in the span of days and weeks, not quarters and years. This partnership with Netomi is empowering Metis Strategy’s forward-deployed consultants to build well-governed AI agentic capabilities and realize tangible business value for our clients."
+The AI-Embedded Customer Experience Orchestration
+For decades, every generation of customer experience technology shared the same structural limitation: intelligence lived outside the experience, waiting for customers to describe problems the system should already have been able to see. Call centers. IVR systems. Chatbots. AI agents. Each generation made that downstream response more efficient. None of them fixed the underlying problem — because none of them could. The technology to observe, reason, and act inside a live digital experience at enterprise scale simply did not exist. Until now.
+A recent generation of AI companies has rallied around a flawed premise: that better customer experience means more interaction. More conversations. More agents. A concierge for every customer, in every moment. But think about the business model behind that thesis. Their revenue grows when customer issues persist. Their value is measured in conversations handled, not problems prevented. That is not a customer-first model. That is a friction-dependent model dressed up as service.
+Most relationships with brands are functional — customers come for outcomes, not conversations. When a customer has to open a chat window, explain their situation, and navigate a conversation to accomplish something they came to do — on the very website or app that should already know why they're there — that is friction. It is a cost the customer did not want to pay. And it is a cost the brand pays too — in support volume, in churn risk, in the erosion of trust that happens every time a customer has to work harder than they should.
+"There are new startups trying to convince enterprises that if every customer gets a ‘concierge’, if there's ‘an agent for every moment’, then loyalty follows. But most relationships with brands are functional. Customers don't want a conversational relationship with their airline or their bank. They want things to work — seamlessly, invisibly, without friction. Building AI that sits outside the digital experience is solving the wrong problem in the wrong place.
+What we have accomplished at Netomi — the deterministic controls, the probabilistic reasoning, the multi-layer observability, the governance baked into the runtime, the ability to process massive amounts of concurrent requests per second, the microservices architecture — these are not just features. They are prerequisites. Prerequisites for something the industry has never attempted: the world model for customer experience.
+The digital experience is the world. Every website, every app, every journey a customer moves through is that world. The world model for customer experience means agentic AI that lives inside that world — continuously reading every signal, building a real-time understanding of each customer's journey, and reshaping the world around them before friction ever occurs. Conversation appears when it is warranted — to clarify an edge case, confirm a complex decision, or handle what only dialogue can resolve. But it is not the primary interface. The experience itself is. That is the future that Netomi is building toward," said Puneet Mehta, Founder and CEO of Netomi.
+"Adobe has a vision for the future of customer experience orchestration, focused on helping enterprises operate with greater confidence as they scale," said Manpreet Kohli, Principal, Adobe Ventures. "This investment in Netomi reflects our focus on access to intelligent, agent-driven capabilities that deliver trusted, consistent outcomes in the moments customers care about most."
+About Netomi
+Netomi is the enterprise agentic CX platform built for the world's most complex environments. Global brands including Delta Air Lines, United Airlines, MetLife, Paramount, DraftKings, NBA, and Ingram Micro leverage Netomi to interact with their customers across chat, email, and voice. Netomi is building the intelligence layer for the digital experience — so that every brand can deliver the effortless, outcome-driven experiences their customers deserve. For more information, visit www.netomi.com.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20260429618643/en/
+Contacts
+Media Contact: Alan Lepofsky, alan@netomi.com
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
