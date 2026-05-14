@@ -1,0 +1,57 @@
+Title: Here's Why This Remains My Least Favorite _Magnificent Seven_ Stock -- Even Afte
+Date: 2026-04-30 22:36
+URL: https://www.fool.com/investing/2026/04/30/heres-why-this-remains-my-least-favorite-magnifice/?.tsrc=rss
+
+The cloud and software giant's latest results were strong on the surface, but a closer look reveals why it could be the weakest pick of the bunch.
+Software giant Microsoft (MSFT 3.90%) reported its fiscal third quarter of 2026 (the period ended March 31, 2026) this week, and the headline numbers looked solid: revenue rose 18% year over year, operating income grew 20%, and the company's artificial intelligence (AI) business cleared a $37 billion annual run rate -- up 123%. Even so, the report didn't change my view. Of the seven mega-cap tech stocks often grouped as the "Magnificent Seven," the Redmond, Washington-based company remains my least favorite.
+Why? Because under the headline numbers, two things stand out -- and neither is flattering when you stack the company up against its closest peers.
+Image source: Getty Images.
+Microsoft's cloud computing business, "Azure and other cloud services," reported revenue growth of 40% year over year (39% in constant currency) in fiscal Q3. In isolation, that looks great. But context tells a different story. In constant currency, Azure grew 39% in fiscal Q1 and 38% in fiscal Q2. So fiscal Q3's 39% reflects only a 1-percentage-point acceleration -- modest, given the scale of the AI investment driving it. Further, management's own outlook calls for 39% to 40% constant-currency Azure growth in fiscal Q4, suggesting more of the same.
+Now compare that with what Microsoft's two largest cloud rivals just delivered for their first quarters of 2026 (both reported on the same day as Microsoft).
+This Card Just Received a Rare 5-Star Rating
+Our team of credit card pros don’t just recommend this card—they actually use it. Motley Fool Money calls it a top pick for a reason.
+Amazon's cloud computing business, Amazon Web Services (AWS) posted 28% year-over-year revenue growth -- up sharply from 24% in Q4, which was up from 20% in Q3. In addition, this first-quarter AWS momentum marked the segment's fastest growth in 15 quarters. Alphabet's Google Cloud, meanwhile, grew an incredible 63% year over year -- a huge acceleration from 48% the prior quarter -- with its own backlog nearly doubling sequentially to more than $460 billion.
+Microsoft's commercial remaining performance obligations did rise 99% year over year to $627 billion. That sounds dramatic, but the sequential change is small (it was $625 billion entering the quarter).
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+Meanwhile, Microsoft plans to invest about $190 billion in capital expenditures in calendar 2026, with most of it aimed at the cloud.
+For peers to be reaccelerating sharply while Azure's growth rate barely budges seems like a tougher setup for the spending bill to come.
+The other concern is harder to quantify but, in my view, more important: the durability of Microsoft's productivity software business.
+The company's productivity and business processes segment -- which houses Microsoft 365, LinkedIn, and Dynamics 365 -- grew 17% to $35 billion in fiscal Q3, helped by 19% growth in Microsoft 365 commercial cloud revenue. That's healthy. But two long-term threats may chip away at this cash cow.
+First, Alphabet's Google Workspace continues to compete for the same enterprise productivity budgets, and Alphabet now has the cloud distribution and AI horsepower to push harder.
+Second -- and arguably bigger -- is the question of what AI does to the per-seat license model itself.
+Microsoft CEO Satya Nadella effectively flagged this on the company's fiscal third-quarter earnings call. Discussing how the company's products are evolving in the AI era, he said, "the basic transformation of, I'll say, any per-user business of ours -- whether it's productivity, coding, security -- will become a per-user and usage business." 
+It's good to know Nadella sees a way to evolve its software business for the AI era, but it's unclear what the economics will look like for Office in the long term with this model.
+Office's economics have long benefited from a predictable per-seat license model. A shift toward usage-based billing could unlock new upside -- but it also introduces variability and potentially even invites ambitious competitors to undercut on price.
+Adding to the picture, Microsoft revised its OpenAI relationship earlier this week, ending Azure's exclusivity for OpenAI's models. The change appears to dilute one of the company's clearest AI moats, even as it preserves access to OpenAI's intellectual property through 2032. 
+To be fair, Microsoft's fiscal Q3 was strong overall. The company even returned $10.2 billion to shareholders through dividends and buybacks. And, of course, the AI business is surging. Then there's the stock, which trades at a price-to-earnings ratio in the mid-twenties. A Microsoft bull, therefore, would probably make a case that the market may be underpricing a strong and growing business here. And they could be right.
+But cheap-ish, on its own, isn't enough -- at least in my opinion. With Azure's growth curve looking flat next to peers and AI poking at the foundation of the Office model, Microsoft's results failed to change my mind on the stock.
+Among the Magnificent Seven, I'd rather own Alphabet or Amazon today, where the cloud reacceleration is doing the talking. For now, I'm still not buying Microsoft -- even at this valuation.
+
+ 
+
+
+Before you buy stock in Microsoft, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Microsoft wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $496,797!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,282,815!*
+Now, it’s worth noting Stock Advisor’s total average return is 979% — a market-crushing outperformance compared to 200% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 30, 2026. 
+
+Daniel Sparks and his clients have no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, and Microsoft. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 18 Nvidias.
+What in the world could be worth 18 Nvidias? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+This Card Just Received a Rare 5-Star Rating
+Our team of credit card pros don’t just recommend this card—they actually use it. Motley Fool Money calls it a top pick for a reason.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

@@ -1,0 +1,120 @@
+Title: Elon Musk’s courtroom showdown with Sam Altman started this week. The biggest ta
+Date: 2026-04-30 20:09
+URL: https://www.cnn.com/2026/04/30/tech/takeaways-elon-musk-openai-sam-altman-lawsuit?.tsrc=rss
+
+Markets 
+
+
+
+Hot Stocks 
+
+
+
+Fear & Greed Index 
+
+
+
+
+            Latest Market News 
+
+
+
+
+            Hot Stocks 
+
+
+
+
+            Elon Musk spent the better part of three days on the stand, accusing OpenAI and its executives of deceiving him into donating money to help found what is now one of the world’s biggest AI companies.
+    
+
+            The lawsuit pits Musk against his former collaborators-turned-competitors, OpenAI CEO Sam Altman and President Greg Brockman, whom Musk alleges unjustly enriched themselves when they strayed from OpenAI’s founding mission as a nonprofit organization to become a for-profit company. Musk also named Microsoft as a co-defendant in the case, accusing the company of aiding and abetting OpenAI’s breach of charitable trust.
+    
+
+            The big personalities and high stakes of the trial were on full display in court, as Musk regularly clashed with OpenAI’s attorney, accusing him of trying to “trick me.” The judge occasionally scolded the parties involved, at one point going so far as to tell Musk to actually answer the questions he’s being asked and warning them to stop talking about whether AI will cause human extinction.
+    
+
+            OpenAI and Microsoft have argued that Musk was supportive of creating a for-profit arm of the company. They say he is only bringing the suit because he wasn’t able to take complete control of OpenAI and now wants to bring down a competitor.
+    
+
+            William Savitt, OpenAI’s lawyer, suggested that Musk quit OpenAI’s board in February 2018 because he was blocked from taking unilateral control of the company. Musk, however, said he quit the board to focus on his other companies, including SpaceX and Tesla.
+    
+
+            Savitt suggested that in the years after Musk left the board, he took actions to hobble OpenAI, especially after forming a competing company, xAI.
+    
+
+            In questioning, Savitt asked whether Musk disclosed that he started his own AI company when he signed a public letter in 2023 advocating to pause development of AI systems that are more powerful than OpenAI’s GPT-4. Savitt also brought up the attempt Musk led last year to buy OpenAI with a group of for-profit investors, to which Musk responded: “There’s nothing wrong with having a for-profit organization, you just can’t steal a charity.”
+    
+
+            Savitt also pressed Musk on why he hasn’t created an AI nonprofit since leaving OpenAI’s board. Musk said that he didn’t create a new one because he had started OpenAI.
+    
+
+            “Why would I start another nonprofit when I already started a nonprofit? That doesn’t make any sense,” Musk said.
+    
+
+            The debate in the courtroom extended beyond OpenAI’s founding into the safety risks posed by AI just before questioning began Thursday.
+    
+
+            “We could all die” because of AI, Steven Molo, Musk’s attorney, said to OpenAI’s attorney and Judge Yvonne Gonzales Rogers before the jury and Musk were seated on Thursday. But Judge Gonzales Rogers said such dire statements wouldn’t be permitted in front of the jury, especially given that Musk had founded xAI, his own for-profit AI company.
+    
+
+            “I suspect there are plenty of people who don’t want to put the future of humanity in Mr. Musk’s hands, but it doesn’t matter, we aren’t going to get into those issues,” Rogers said, noting the trial is not about whether or not AI has damaged humanity.
+    
+
+            The question at the heart of the case is whether OpenAI and its executives unjustly turned the company into a profit-seeking company, breaching its original mission and misleading Musk.
+    
+
+            Musk was one of the company’s co-founders and provided $38 million to OpenAI. However, he left in 2018 and stopped all payments by 2020.
+    
+
+            “I gave them free funding to create a startup,” Musk testified, saying that he thought he was donating to a nonprofit that was aiming to make AI “for the good of humanity.”
+    
+
+            But as early as 2015, before OpenAI was officially announced, Musk had proposed that OpenAI include a for-profit entity, according to emails shown to the jury. In 2017, he directed his senior advisors to register a for-profit corporation in OpenAI’s name, OpenAI’s attorney said, pointing to meeting notes and the registration documents.
+    
+
+            Musk testified this week that he was fine with OpenAI having a for-profit subsidiary as long as it didn’t “overtake” the nonprofit, which he argued is what ultimately happened.
+    
+
+            On Wednesday, Savitt showed Musk emails and text messages from 2018 in which Altman tried to tell Musk about OpenAI’s plans to secure additional funding from Microsoft. (Musk did not reply to all the messages.)
+    
+
+            One email from the time included a term sheet for a proposed corporate structure that explicitly said OpenAI aimed to raise $10 billion in the future – but Musk testified that he “did not read the fine print.”
+    
+
+            “It’s a four page document,” Savitt replied.
+    
+
+            But Musk testified that his confidence in OpenAI’s leaders began to slip. Musk told Altman in 2022 that OpenAI’s $20 billion valuation following Microsoft’s $10 billion investment felt like a “bait and switch.”
+    
+
+            “I agree it feels bad,” Altman replied, before noting Musk declined the equity OpenAI offered him.
+    
+
+            Musk’s race to build a better AI than Google was a motivating factor in his funding of OpenAI, he testified. Google’s DeepMind laboratory, for example, has produced significant research for years.
+    
+
+            “DeepMind is moving very fast. I am concerned OpenAI is not moving fast enough to catch up. Setting it up as a nonprofit might, in hindsight, have been the wrong move,” Musk said in a 2016 email to one of his colleagues at Neuralink, another one of Musk’s companies.
+    
+
+            Musk testified on Tuesday that he was worried Google’s approach to AI wasn’t safe enough. There needed to be “some sort of counterpoint” to Google, “an open source nonprofit as opposed to a closed source for-profit,” Musk said.
+    
+
+            OpenAI’s attorney, Savitt, questioned Musk over two days, on Wednesday and Thursday. At times, their exchanges became tense.
+    
+
+            Savitt asked Musk to stick to “yes” or “no” answers, and at one point, Musk asked whether Savitt would stop interrupting him.
+    
+
+            “Your questions are not simple. They’re designed to trick me,” Musk said to Savitt early on Wednesday, before comparing the question to the classic fallacy of “have you stopped beating your wife?” The judge cut Musk off, telling him they weren’t going to “go there.”
+    
+
+            After the jury and Musk left the courtroom for the day on Wednesday, Judge Gonzales Rogers conceded to OpenAI’s lawyers that Musk “was, at times, difficult.”
+    
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.
+Scan the QR code to download the CNN app on Google Play.
+Scan the QR code to download the CNN app from the Apple Store.
+By clicking "Agree", you have read and agree to the Terms of Use and agree to the collection and use of your information by cookies and similar technologies, as set forth in our Privacy Policy.
+If you switch this toggle to “no,” we will not sell or share your personal information with third parties for advertising targeted to this device. Please see our Privacy Center for additional preferences.
+These cookies are necessary for the website to function and cannot be switched off in our systems. You can set your browser to block or alert you about these cookies, but some parts of the site will not work. 
