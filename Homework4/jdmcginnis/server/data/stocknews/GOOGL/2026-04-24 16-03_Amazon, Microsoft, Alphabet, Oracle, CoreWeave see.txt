@@ -1,0 +1,39 @@
+Title: Amazon, Microsoft, Alphabet, Oracle, CoreWeave seen as key AI compute beneficiaries after Google Clo
+Date: 2026-04-24 16:03
+URL: https://www.proactiveinvestors.com/companies/news/1091172/amazon-microsoft-alphabet-oracle-coreweave-seen-as-key-ai-compute-beneficiaries-after-google-cloud-next-1091172.html?.tsrc=rss
+
+Pharma & Biotech
+Gold & Silver
+Crypto
+Battery Metals
+Artificial Intelligence
+The content on this Site is provided for information purposes only and does not constitute investment advice, a personal recommendation, an offer or solicitation to buy or sell securities, or any other regulated activity. It should not be relied upon as the basis for any investment decision.
+Before making any investment decision, you should:
+Past performance is not a reliable indicator of future results. The value of investments can fall as well as rise. You may not recover the amount you invest, and in some cases you may be required to pay more.
+Emily began her career as a political journalist for Australian Community Media in Hobart, Tasmania. After she relocated to Toronto, Canada, she reported on business, legal, and scientific developments in the emerging psychedelics sector before joining Proactive in 2022. She brings a strong journalism background with her work featured in newspapers, magazines, and digital publications across Australia, Europe, and North America, including The Examiner, The Advocate, The Canberra Times, and... Read more
+Proactive financial news and online broadcast teams provide fast, accessible, informative and actionable business and finance news content to a global investment audience. All our content is produced independently by our experienced and qualified teams of news journalists.
+Proactive news team spans the world’s key finance and investing hubs with bureaus and studios in London, New York, Toronto, Vancouver, Sydney and Perth. 
+We are experts in medium and small-cap markets, we also keep our community up to date with blue-chip companies, commodities and broader investment stories. This is content that excites and engages motivated private investors.
+The team delivers news and unique insights across the market including but not confined to: biotech and pharma, mining and natural resources, battery metals, oil and gas, crypto and emerging digital and EV technologies.
+Proactive has always been a forward looking and enthusiastic technology adopter.
+Our human content creators are equipped with many decades of valuable expertise and experience. The team also has access to and use technologies to assist and enhance workflows.
+Proactive will on occasion use automation and software tools, including generative AI. Nevertheless, all content published by Proactive is edited and authored by humans, in line with best practice in regard to content production and search engine optimisation.
+
+Published: 12:03 24 Apr 2026 EDT
+  
+Amazon.com Inc (NASDAQ:AMZN), Microsoft Corp (NASDAQ:MSFT), Alphabet Inc (NASDAQ:GOOG), Oracle Corp (NYSE:ORCL, XETRA:ORC), and CoreWeave (NASDAQ:CRWV) are expected to remain key beneficiaries of accelerating AI compute demand, according to a Jefferies analyst note following attendance at Google Cloud Next.
+The analysts wrote in a note that the event reinforced a clear message that AI infrastructure demand continues to outstrip supply, supporting a constructive view on hyperscalers into upcoming earnings.
+“Overall, we continue to be incrementally more positive on AI demand vs our checks in early April,” they wrote.
+Ahead of first quarter financial results, investors are focused on cloud growth, backlog trends, and any changes to capital expenditure or capacity plans. Jefferies said it is incrementally more positive on hyperscalers, with the strongest cloud upside skew seen at Google Cloud, followed by AWS and Azure.
+Jefferies highlighted elevated expectations for AWS, though the firm maintained a high conviction view on Amazon. Microsoft is increasingly being assessed on Microsoft 365 and Copilot traction rather than Azure beat size, while Alphabet remains positive on trajectory but may be constrained by valuation.
+A major theme was continued AI compute scarcity, with tight supply across GPU generations including Hopper and Blackwell, alongside limited spot availability for older chips. Industry feedback suggested a growing shift toward committed capacity contracts as hyperscalers lock in supply amid persistent shortages.
+Capital expenditure across cloud providers is also expected to remain elevated, with Jefferies estimating roughly 64% growth in 2025 and 58% in 2026, driven by ongoing AI infrastructure buildout.
+The analysts also pointed to inefficient enterprise usage of AI infrastructure, with low GPU utilization despite rising adoption. At the same time, demand is being fueled by competitive pressure and “fear of missing out” on AI deployment cycles.
+Further, they noted that enterprises are increasingly seeking model agnostic tooling to manage rising token costs and optimize workloads across models.
+“A common focus that started to emerge is that enterprises wanted model agnostic harnesses, as they want to optimize token consumption and have control over what model is used, which is tough if they don't own the harness,” the analysts wrote.
+While frontier models from Anthropic, OpenAI, and Google remain widely used, firms are looking for flexibility in routing tasks to lower cost alternatives where possible.
+Sign up to receive alerts and news direct to your inbox
+Fox Tungsten CEO Steve Gray joined Steve Darling from Proactive to discuss the successful completion of a bought deal financing, raising just over $12 million to fund the company’s next phase of exploration. Gray described the raise as a “transformational deal,” marking the largest financing in...
+Copyright © Proactive Group Holdings Inc, 2026
+All Rights Reserved - Proactive North America Inc., Proactive Investors LLC.
+Market Indices, Commodities and Regulatory News Headlines copyright © Morningstar. Data delayed 15 minutes unless otherwise indicated. Terms of use.
