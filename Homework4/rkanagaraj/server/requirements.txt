@@ -3,4 +3,3 @@ motor
 uvicorn
 pydantic
 pandas
-asyncio
