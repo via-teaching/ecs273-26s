@@ -1,0 +1,48 @@
+Title
+Intel Stock Just Hit a New 52-Week High. Should You Chase the Rally Here?
+
+Date
+2026-04-09 18:06
+
+URL
+https://www.barchart.com/story/news/1227307/intel-stock-just-hit-a-new-52-week-high-should-you-chase-the-rally-here?.tsrc=rss
+
+Content
+All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policyhere
+Share
+Intel(INTC)shares are extending gains on April 9 after the semiconductor company announced an extended, multi-year partnership with Alphabet's(GOOG)(GOOGL)Google to advance next-gen AI and cloud infrastructure.
+As investors cheered this announcement on Thursday morning, INTC’s relative strength index (14-day) climbed into the mid-70s, indicating overbought conditions that often precede a pullback.
+Still, long-term investors have ample reasons to buy Intel stock today, even thoughit’s already up about 50%versus the start of this year.
+The deepened collaboration with Google is largely bullish for INTC shares as it cements the firm’s Xeon CPUs and Infrastructure Processing Units (IPUs) as the bedrock of modern,heterogeneous AI systems.
+Unlike pure GPU plays, this deal focuses mostly on the critical role of the CPU in orchestration and data processing for complexartificial intelligenceworkloads.
+By aligning across multiple generations of Xeon processors, Google is effectively guaranteeing long-term volume orders, providing Intel with high-visibility revenue.
+All in all, this partnership proves that even in an AI era dominated by accelerators, INTC’s silicon remains indispensable for scaling global cloud infrastructure and improving total cost of ownership.
+Intel’s multi-billion-dollar partnerships with renowned names, includingbillionaire Elon Musk’scompanies, aren’t going unnoticed across Wall Street.
+On Thursday, Wells Fargo Senior Analyst Aaron Rakers raised his price target on Intel shares, citing improved execution in the Data Center and AI (DCAI) segment.
+Rakers is increasingly optimistic about INTC’s structural turnaround and the successful ramp of its 18A process technology.
+In his research note, the analyst highlighted that Intel is capturing a larger share of the server CPU market as enterprise demand shifts toward hybrid AI compute.
+Wall Street firms more broadly are beginning to see Intel’s ongoing rally as backed by fundamental improvements in its competitive positioning as well.
+While the consensus rating on INTC stock remains at a “Hold,”analysts’ price targetsnow go as high as $70, indicating potential upside of another 15% from current levels.
+Stocks:1520minute delay (Cboe BZX is real-time), ET. Volume reflects consolidated markets. Futures and Forex: 10 or 15 minute delay, CT.Market Datapowered by Barchart Solutions. Fundamental data provided by Zacks andMorningstar.
+© 2026 Barchart.com, Inc. All Rights Reserved.
+Immediate access to this special report (delivered via PDF) with actionable insights to the upcomingGOOGearnings release.
+Email is required.
+Please enter a valid email address.
+By clicking GET THE REPORT you agree to receive this free report, Barchart's best daily newsletters "Chart of the Day" and "Barchart Brief", and other Barchart marketing emails at the email address you provided, and you agree to Barchart'sTerms of UseandPrivacy Policy. Opt out anytime.
+Please check your inbox for a link to activate your My Barchart Account.
+If you do not receive the email within a few minutes check your spam folder
+		orcontact our support teamfor assistance.
+Complete required fields to continue.
+Enter a valid email.
+Please complete the reCAPTCHA to continue.
+Please complete the reCAPTCHA to continue.
+Please enter a valid email
+Only one value is allowed.
+First or Last name cannot contain ‘http’.
+Oops, something went wrong. Please refresh the page and try again.
+Password must be at least 8 characters.
+Please complete the reCAPTCHA to continue.
+We could not locate an account that uses this email address. Try again,create an account, orcontact our support team for assistance.
+By Continuing, you agree to theTerms of UseandPrivacy Policy.
+The content we make available on this website [and through our other channels] (the “Service”) was created, developed, compiled, prepared, revised, selected, and/or arranged by us, using our own methods and judgment, and through the expenditure of substantial time and effort. This Service and the content we make available are proprietary, and are protected by these Terms of Service (which is a contract between us and you), copyright laws, and other intellectual property laws and treaties. This Service is also protected as a collective work or compilation under U.S. copyright and other laws and treaties. We provide it for your personal, non-commercial use only.
+You may not use, and may not authorize any third party to use, this Service or any content we make available on this Service in any manner that (i) is a source of or substitute for the Service or the content; (ii) affects our ability to earn money in connection with the Service or the content; or (iii) competes with the Service we provide. These restrictions apply to any robot, spider, scraper, web crawler, or other automated means or any similar manual process, or any software used to access the Service. You further agree not to violate the restrictions in any robot exclusion headers of this Service, if any, or bypass or circumvent other measures employed to prevent or limit access to the Service by automated means.

@@ -1,0 +1,23 @@
+Title
+Amazon's CEO Says Its AI Chips Business Is 'On Fire'
+
+Date
+2026-04-09 21:27
+
+URL
+https://www.investopedia.com/amazons-ceo-says-its-ai-chips-business-is-on-fire-nvda-11946875?.tsrc=rss
+
+Content
+Nvidia's Big Tech Clients Are Taking Aim at Its Dominance
+Michael Nagle / Bloomberg / Getty Images
+Amazon's AI chip business could be a game changer, according to its CEO.
+Andy Jassy said the company's chips business is "on fire," and "will be much larger than most think," in the CEO's annual shareholder letter Thursday. That could change the economics of its cloud business, Amazon Web Services, Jassy wrote.1
+AWS, which accounted for nearly 60% of Amazon's (AMZN) operating profit last year, still relies on chips from Nvidia (NVDA), which has seen itssales surgeas Big Tech companies clamor for hardware to build out their AI data centers.2
+Amazon, along with several of its Big Tech peers, has been ramping up efforts to develop its own chips lately, in order to reduce its reliance on Nvidia. Those initiatives could erode the AI chip leader's dominance.
+Jassy said Amazon plans to maintain its relationship with Nvidia, anticipating that some customers will continue to prefer running their AWS workloads on Nvidia's products. However, "having our own hotly demanded AI chip opens up many possibilities," said Jassy, including helping the company lower costs for itself and customers.
+Jassy said Amazon expects its Trainium line of accelerator chips to save the company "tens of billions ofcapex dollarsper year," along with "several hundred basis points ofoperating marginadvantage" compared to relying on other companies' chips. The company in its latest annual report said its annual revenuerun ratefor its chips business was above $20 billion and growing in "triple digit percentages."
+Amazon isn't the only major Nvidia client doubling down on its own chips. Elon Musk laid out plans in recent weeks for Tesla (TSLA), another high-profile Nvidia client, tobuild a terafabto make the chips its needs, along with SpaceX, xAI, and a bit ofhelp from Intel(INTC). Alphabet's (GOOGL)Googleand Meta (META), have also invested heavily in developingcustom chipsin recent years with help from Broadcom (AVGO).
+Shares of Amazon jumped nearly 6% to lead gains on the Dow Jones Industrial Average Thursday, amid a broader market rally. Nvidia shares added about 1%. (For more fromInvestopediaon today's market moves,click here.)
+CORRECTION: Amazon's chips business has an annual revenue run rate above $20 billion, according to the company. An earlier version of this article mischaracterized the business as "nascent."
+Amazon. “CEO Andy Jassy’s 2025 Letter to Shareholders.”
+Amazon. “AMAZON.COMANNOUNCES FOURTH QUARTER RESULTS.”
