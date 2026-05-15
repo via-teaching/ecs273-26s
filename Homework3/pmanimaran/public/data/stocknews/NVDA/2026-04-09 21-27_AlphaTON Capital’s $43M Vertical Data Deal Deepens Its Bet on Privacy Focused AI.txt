@@ -1,0 +1,18 @@
+Title
+AlphaTON Capital’s $43M Vertical Data Deal Deepens Its Bet on Privacy Focused AI Infrastructure
+
+Date
+2026-04-09 21:27
+
+URL
+https://www.cryptoprowl.com/releases/alphaton-capitals-43m-vertical-data-deal-deepens-its-bet-on-privacy-focused-ai-infrastructure-4114?.tsrc=rss
+
+Content
+AlphaTON Capital is trying to make the case that AI infrastructure is becoming just as important as the software layer built on top of it.
+The company said Thursday it has entered a roughly $43 million AI hardware and financing agreement with Vertical Data, a deal it says will help expand its privacy-focused AI infrastructure.
+The transaction, which is expected to close in the second quarter, centers on a GPU cluster built on NVIDIA’s B300 architecture and financed through Vertical Data’s GPUfinancing.com platform on a non-recourse basis.
+What gives the announcement a bit more weight is the way AlphaTON is framing the buildout. This is not being pitched as a one-off hardware purchase. The company is tying it to a broader strategy around confidential compute, sovereign AI capabilities and privacy-preserving infrastructure, all of which are becoming more relevant as the race for AI capacity starts to shift from model hype to access, control and deployment.
+Vertical Data’s role also extends beyond the hardware itself. AlphaTON said the company will provide managed infrastructure services tied to data center operations and energy efficiency, while AlphaTON stays focused on building privacy-preserving architectures and decentralized AI applications.
+It also connected the expansion to work involving Telegram, Gamee, Animoca Brands and Midnight Blockchain, suggesting the compute buildout is meant to support a wider network and application layer over time.
+“Vertical Data has been a consistent partner across multiple phases of this infrastructure project,” CEO Brittany Kaiser said in the release. If that strategy holds, the more interesting takeaway may be that AI infrastructure stories are starting to look less like pure compute announcements and more like longer-term platform bets built around privacy, financing and control of the stack.
+AlphaTON Capital Corp. (NASDAQ: ATON) stock is currently trading at $0.31 U.S. per share.

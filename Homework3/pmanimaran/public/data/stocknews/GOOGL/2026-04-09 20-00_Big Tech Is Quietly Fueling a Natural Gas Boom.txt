@@ -1,0 +1,81 @@
+Title
+Big Tech Is Quietly Fueling a Natural Gas Boom
+
+Date
+2026-04-09 20:00
+
+URL
+https://finance.yahoo.com/sectors/energy/articles/big-tech-quietly-fueling-natural-200000942.html?.tsrc=rss
+
+Content
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Oops, something went wrong
+Americans close to retirement are saving for later, but they're worried about getting by right now
+Government data out Friday will show how much consumer prices rose in March — and forecasts point to soaring inflation.
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian.
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+The AI explosion is causing demand for energy to skyrocket around the world. The projections for the future of energy use by data centers are staggering, and the private and public sectors alike are rushing to get ahead of the issue. While Big Tech has thrown a lot of money – and a lot of PR – into expanding the development of current and next gen renewables to meet their ballooning energy needs, the tech sector is causing a lot of fossil fuels expansion, too, casting doubt on previously charted decarbonization timelines.
+Take Google, for example. The tech giant’s data centers alone already require as much energy to operate as many entire counties. In 2024, the energy footprint of Google’s data centers clocked in at a staggering 30.8 million megawatt-hours of electricity – nearly double the level from just a few years prior. In an attempt to balance this enormous energy impact, Alphabet, the company behind Google, has madehigh-profile investments in clean energy startupsand pledged to give $10 million to an energy impact fund prioritizing local reliability and clean energy initiatives.
+But that’s only part of the story. In fact, $10 million is just a drop in the bucket of Alphabet’s AI- and energy-related investments. “Alphabet invested roughly $90 billion in capital expenditures in 2025 and plans to nearly double that to as much as $185 billion in 2026,” according to a recentreportfrom Cleanview, a market intelligence platform. “Most of that money will flow to data centers—and the infrastructure needed to power them,” the article went on to say. And that significant infrastructure expansion will not be all centered on clean power. Already, Alphabet is – much more quietly – also building up natural gas resources to fuel its generative AI ambitions.
+Google is currently partnering with Crusoe Energy to build a data center campus in North Texas that will include a wind farm – and a massive natural gas facility. So far, Google is tight-lipped about the issue, while continuing to promote its image as a champion of clean energy development. In arecent interview with Axios, Google’s head of advanced energy Michael Terrell emphasized its various investments into geothermal, fusion, advanced nuclear reactors and batteries, and said that “I do think our public projects provide a good roadmap into how we’re thinking about solving this challenge.” However, when asked about the role of natural gas in the company’s strategy, Terrell said: “We don’t have anything to say on that.”
+Related: Six Stocks That Could Soar in an Era of Regional Instability
+However, it’s been clear for years that Google’s artificial intelligence aims are incompatible with its pre-existing decarbonization targets. In 2024, Google admitted that the company’s carbon emissions had skyrocketed by48 percent over the previous five-year spanthanks to the AI boom. Google had previously pledged to reach net zero greenhouse gas emissions by 2030, but the tech giant was forced to concede that “as we further integrate AI into our products, reducing emissions may be challenging.”
+However, it’s true that the company is also continuing to push development of next-gen clean energy solutions. The extent to which those efforts amount to greenwashing is, to a large degree, a matter of perspective. “Many climate activists will see Google exploring natural gas as a sort of betrayal,” said Michael Thomas, the founder of Cleanview.
+“There’s no doubt that it would be in tension with the company’s stated ‘moonshot’ goal of becoming carbon-free by 2030,” he went on to say. “But it’s also true that Google is voluntarily investing more in clean energy technology than almost any other entity — public or private — in the world.”
+And Google is far from alone. Natural gas is currently getting a major boost from all of the biggest players in tech. Microsoftannounceda gas-powered data center deal with Chevron just last month, and Metais currently planningthe country’s biggest power facility, which will include no fewer than seven natural gas plants.
+By Haley Zaremba forOilprice.com
+More Top Reads From Oilprice.com
+India's Oil Minister Heads to Qatar as LNG Supply Crisis Deepens
+EU Eases Methane Rules to Keep Oil and Gas Flowing
+Israel Restarts Second Offshore Gas Field After U.S.-Iran Ceasefire
+Oilprice Intelligencebrings you the signals before they become front-page news. This is the same expert analysis read by veteran traders and political advisors. Get it free, twice a week, and you'll always know why the market is moving before everyone else.
+You get the geopolitical intelligence, the hidden inventory data, and the market whispers that move billions - and we'll send you $389 in premium energy intelligence, on us, just for subscribing. Join 400,000+ readers today.Get access immediately by clicking here.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

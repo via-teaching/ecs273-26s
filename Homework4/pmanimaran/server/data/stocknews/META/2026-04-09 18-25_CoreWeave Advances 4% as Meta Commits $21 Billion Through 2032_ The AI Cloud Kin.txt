@@ -1,0 +1,48 @@
+Title
+CoreWeave Advances 4% as Meta Commits $21 Billion Through 2032: The AI Cloud King Is Stacking Contracts
+
+Date
+2026-04-09 18:25
+
+URL
+https://247wallst.com/investing/2026/04/09/coreweave-advances-4-as-meta-commits-21-billion-through-2032-the-ai-cloud-king-is-stacking-contracts/?.tsrc=rss
+
+Content
+Investing
+CoreWeave (CRWV) shares gained 4% after the company expanded its Meta Platforms (META) partnership through 2032 with a new $21 billion deal, bringing total committed spend to $35.2 billion.
+Meta Platforms’ massive AI infrastructure spending, projected between $115 billion and $135 billion in 2026, is locking in CoreWeave as a dedicated compute backbone for years.
+Are you ahead, or behind on retirement?SmartAsset's free toolcan match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don't waste another minute;learn more here.(Sponsor)
+Sending You to Google News in3
+© Gorodenkoff / Shutterstock.com
+Some tech stocks are struggling today, particularly in the software sector. However,CoreWeave(NASDAQ:CRWV) stock is bucking the trend with help fromMeta Platforms(NASDAQ:META|META Price Prediction). CRWV shares rose 4% in today’s session, moving from a prior close of $88.90 to $92 and change as of midday Thursday. The catalyst is a freshly announced expansion of CoreWeave’s AI cloud partnership with Meta.
+CoreWeave and Meta Platforms announced an expanded long-term agreement to supply Meta with dedicated AI cloud capacity through December 2032 for approximately $21 billion. That new commitment stacks directly on top of the $14.2 billion deal the two companies signed in September 2025, bringing Meta’s total committed spend to $35.2 billion. That’s one of the largest single-customer infrastructure commitments in the entire AI buildout era.
+For a full financial breakdown of today’s announcement,Why CoreWeave’s New $21 Billion Meta Deal Matters More Than the $3 Billion in New Debtgoes deeper into the structure and implications.
+The Meta deal lifts CoreWeave’s total revenue backlog to $66.8 billion, a figure that represents 342% growth from the start of 2025. That kind of contracted revenue visibility is rare for any company, let alone one that only crossed $5.13 billion in full-year 2025 revenue. CoreWeave CEO Michael Intrator called it the fastest cloud in history to reach that milestone.
+CoreWeave’s 2026 revenue guidance of $12 billion to $13 billion implies year-over-year growth of 134% to 153%. To put that in perspective, AWS grew 17% in its most recent quarter and Microsoft Azure grew 31%. CoreWeave’s focus on GPU-heavy AI workloads rather than general-purpose servers drives that gap.
+The new agreement also includes early deployments of NVIDIA’s Vera Rubin platform across multiple CoreWeave data center locations.NVIDIA(NASDAQ:NVDA) hasn’t yet broadly released Vera Rubin, so CoreWeave securing early access positions it at the front ofnext-generation GPU infrastructure. Intrator remarked, “This is another example that leading companies are choosing CoreWeave’s AI cloud to run their most demanding workloads.”
+The CoreWeave deal is part of a broaderAI infrastructure surgeat Meta Platforms, which spent $72 billion on capex in 2025. Moreover, Meta intends to spend between $115 billion and $135 billion in 2026.
+Are you ahead, or behind on retirement?SmartAsset's free toolcan match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don't waste another minute;learn more here.(Sponsor)
+Meta Platforms also launched its Muse Spark AI model on Wednesday, describing it as the company’s most powerful model yet from the Meta Superintelligence Lab. The company is simultaneously developing its own AI chips (MTIA 400) and expanding GPU deals with NVIDIA andAMD(NASDAQ:AMD). Locking in CoreWeave through 2032 gives Meta a dedicated compute backbone as those ambitions scale.
+Today’s deal didn’t arrive alone. CoreWeave simultaneously filed notice of a proposed $3 billion private offering of convertible senior notes due in 2032, with initial purchasers holding an option to buy an additional $450 million within 13 days. That’s fresh debt layered onto an already heavy balance sheet.
+CoreWeave’s long-term debt stood at $21 billion as of December 31, 2025, up from $14 billion in Q3 2025. The company’s 2026 capex plan runs $30 billion to $35 billion, and it projects spending $2.60 in capex for every $1 of new revenue in 2026. Furthermore, CoreWeave’sFree cash flow remains deeply negative, and the company’s net losses widened to $1.167 billion for full-year 2025.
+The saving grace is timing. CoreWeave held $4.2 billion in cash at year-end 2025 and faces no debt maturities until 2029. The company has a track record of structuring large financing arrangements.Jim Cramer’s take on CoreWeave’s $8.5 billion financingprovides context on how CoreWeave has approached landmark deals before.
+CRWV shares were up 24.14% year-to-date heading into this afternoon, and today’s 4% gain extends that momentum. Analyst targets sit at $119.40, with 21 buy ratings, 10 holds, and 2 sells.CoreWeave Keeps Stacking the Winsprovides useful context on valuation history.
+The bull case for CRWV stock rests on contracted revenue visibility at a scale most growth companies never achieve. The bear case rests on capital intensity that demands flawless execution for years. Watch for whether CoreWeave’s convertible note offering prices cleanly and whether today’s gains hold into the close as the broader tech session remains under pressure.
+Retirement planning doesn’t have to feel overwhelming. The key is finding expert guidance, and SmartAsset’s simple quiz makes it easier than ever for you to connect with a vetted financial advisor. Here’s how:
+Answer a few simple questions
+Get Matched with Vetted Advisors
+Choose Your  Fit
+Why wait? Start building the retirement you’ve always dreamed of.Get started today!(sponsor)
+David Moadel is financial writer specializing in stocks, ETFs, options, precious metals, and Bitcoin. David has written well over 1,000 articles for leading online publications, helping investors understand markets, income strategies, and risk.
+His work has appeared in The Motley Fool, InvestorPlace, U.S. News & World Report, TipRanks, ValueWalk, Benzinga, Market Realist, TalkMarkets, Finmasters, 24/7 Wall St., and others.
+With a master’s degree in education, David has taught at the elementary, high school, and college levels. That teaching background shapes his writing style: clear, educational, and practical. David has also built a loyal social-media audience by providing trustworthy financial content on YouTube, X/Twitter, and StockTwits.
+Our top personal finance-related articles today. Your wallet will thank you later.
+Think of AI as the new electricity — every hyperscaler needs more of it right now, or risk falling behind.…
+CoreWeave (NASDAQ:CRWV) has been a quintessential AI growth story, delivering specialized GPU cloud infrastructure that powered the sector’s insatiable compute…
+Shares of CoreWeave (NASDAQ: CRWV) are up another 13%, or $16.60, this morning.Driving shares higher, the company just inked a…
+Pioneering artificial intelligence (AI) cloud infrastructure provider CoreWeave (NASDAQ: CRWV) exploded onto the public market in March, riding the AI…
+CoreWeave (NASDAQ:CRWV) stock has lost over half of its value since peaking at $187 per share last June amid doubts…
+Nvidia (NASDAQ:NVDA | NVDA Price Prediction) first invested approximately $100 million in CoreWeave (NASDAQ:CRWV) in 2023 and added to its…
+CoreWeave (NASDAQ: CRWV) recently reported Q3 earnings that showed negative EPS of 22 cents and revenue of $1.36 billion, which…
+Mixing Stellar Growth With Stinging LossesCoreWeave (NASDAQ: CRWV) is a leading AI cloud computing provider that just released its second-quarter…
+Investors in Nebius Group (NASDAQ:NBIS) endured a punishing stretch last fall when aggressive capital-expenditure plans sparked deep concerns about cash…

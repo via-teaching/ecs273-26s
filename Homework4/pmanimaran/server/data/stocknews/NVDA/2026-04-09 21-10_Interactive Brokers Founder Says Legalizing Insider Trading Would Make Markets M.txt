@@ -1,0 +1,49 @@
+Title
+Interactive Brokers Founder Says Legalizing Insider Trading Would Make Markets More Fair
+
+Date
+2026-04-09 21:10
+
+URL
+https://247wallst.com/investing/2026/04/09/interactive-brokers-founder-says-legalizing-insider-trading-would-make-markets-more-fair/?.tsrc=rss
+
+Content
+Investing
+Thomas Peterffy, founder of Interactive Brokers (IBKR), argues that legalizing insider trading would accelerate information dissemination and actually reduce exploitation windows for sophisticated traders rather than extend them.
+Peterffy’s credibility rests on Interactive Brokers’ operational performance: the platform generates 4.04 million daily average revenue trades with a 79% pretax margin and 4.40 million customer accounts, demonstrating his deep understanding of market structure and speed advantages.
+Investors should evaluate whether faster information dissemination through legalized insider trading truly reduces information asymmetry advantages for well-connected players, since the current enforcement-based system has failed to prevent pervasive information gaps.
+Are you ahead, or behind on retirement?SmartAsset's free toolcan match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don't waste another minute;learn more here.(Sponsor)
+Sending You to Google News in3
+© Spencer Platt / Getty Images
+In May, the first ever “Enhanced Games” are happening in Vegas, where athletes will be able to compete openly without steroid tests.
+Unrelated…
+The founder ofInteractive Brokers Group(NASDAQ:IBKR) Thomas Peterffy just made a case on theOdd Lotspodcast that most people in finance would consider radioactive: legalize insider trading, across all markets, including stocks.
+What makes it worth taking seriously is that Peterffy isn’t arguing from a position of ignorance. He personally lost $90,000 of his initial $200,000 capital to insider trading in 1977, when he bought DuPont options the day before expiration. Options he sold at $0.375 opened at $4.50 after a major earnings announcement andstock splitbroke. He was on the wrong side of it. And he still thinks the laws should go.
+His argument, made to hosts Joe Weisenthal and Tracy Alloway, cuts against the conventional wisdom:
+As a society, we’re better off knowing as soon as possible anything that is knowable.
+Thomas Peterffy,Odd Lotspodcast
+He contends that insider information “eventually always filters out” through secretaries, lawyers, and their families, making enforcement “very, very difficult and cumbersome.” The prohibition, in his view, doesn’t prevent exploitation. It just extends the window for it.
+When the hosts pushed back on fairness and corporate secrecy concerns, Peterffy insisted legalizing insider trading would actually reduce the advantage of “sharks” because “you could be a shark for a second or two, but that’s it. Nowadays, sharks can be around for weeks and months.”
+That’s the crux of it. Faster information dissemination compresses the exploitation window. Slower, legally enforced secrecy actually creates more time for well-connected players to position themselves before the rest of the market catches up.
+Are you ahead, or behind on retirement?SmartAsset's free toolcan match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don't waste another minute;learn more here.(Sponsor)
+Whether you buy that argument or not, it’s coming from someone who built one of the most efficient electronic trading platforms in the world. IBKR’s business model is literally premised on speed and automation. The stock is up 69% over the past year, and Q4 2025 pretax profit margin came in at 79% with customer accounts growing 32% year-over-year to 4.40 million.
+For retail investors, Peterffy’s argument is worth sitting with. The current system prosecutes a handful of insider traders while information asymmetry remains pervasive. His counterintuitive claim is that sunlight moves faster than a subpoena, and markets would clear more honestly if the law stopped pretending otherwise.
+I’m not sure I agree with him. But he has thought more about market structure than perhaps any other human in history.
+He built a platform that processes 4 million daily average revenue trades and runs a 79% pretax margin. When someone with that track record makes a provocative structural argument, the intellectually honest move is to engage with it seriously rather than dismiss it on instinct.
+And look, it only took 38 years fromKevin Nealon predictingwhat’s happening in Vegas for it to become a reality. If Peterffy’s idea strikes you as absurd now, let’s chat in 2064. Wonder if I can put some odds on that happening… have any tips worth sharing?
+Retirement planning doesn’t have to feel overwhelming. The key is finding expert guidance, and SmartAsset’s simple quiz makes it easier than ever for you to connect with a vetted financial advisor. Here’s how:
+Answer a Few Simple Questions.
+Get Matched with Vetted Advisors
+Choose Your  Fit
+Why wait? Start building the retirement you’ve always dreamed of.Get started today!(sponsor)
+I've been writing about stocks and personal finance for 20+ years. I believe all great companies are tech companies in the long run, and I invest accordingly.
+Our top personal finance-related articles today. Your wallet will thank you later.
+Senators have introduced a new crypto regulation bill that aims to introduce legal culpability to DeFi protocols.
+The Securities and Exchange Commission has proposed new rules that would revamp Wall Street’s handling of retail stock trading.
+The SEC has announced insider trading charges against a former software company executive and three close friends who made over…
+For the past three years, owning the S&P 500 through a fund like the Vanguard S&P 500 ETF (NYSE:VOO) was…
+Most retirement income conversations start and end in the same place. The Vanguard High Dividend Yield ETF (NYSE:VYM) at 2.26%,…
+Congressional stock trading has been a source of public frustration for years, but one ETF has turned that frustration into…
+Invesco S&P 500 Equal Weight Income Advantage ETF (NYSEARCA:RSPA) pays investors a monthly distribution that would be the envy of…
+The meteoric rise of crypto has not only been the greatest creation of wealth in the last decade but also…
+Crypto’s rapid ascent created vast fortunes, and at the same time, immediately created new ways to lose them. While some…
