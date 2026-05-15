@@ -45,7 +45,7 @@ async def get_stock_price(ticker: str):
     return {"name": doc["name"], "stock_series": doc["stock_series"]}
 
 
-@app.get("/stocknews/", response_model=StockNewsListModel)
+@app.get("/stocknews/", response_model=StockNewsListModel, response_model_exclude_none=True)
 async def get_stock_news(stock_name: str):
     """Return all news articles for a given stock ticker."""
     ticker = stock_name.upper()
@@ -56,7 +56,7 @@ async def get_stock_news(stock_name: str):
     return {"Stock": ticker, "news": articles}
 
 
-@app.get("/tsne/", response_model=TsneAllModel)
+@app.get("/tsne/", response_model=TsneAllModel, response_model_exclude_none=True)
 async def get_tsne():
     """Return t-SNE coordinates for all stocks."""
     cursor = db.tsne.find({}, {"_id": 0})
