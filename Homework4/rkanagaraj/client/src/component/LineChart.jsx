@@ -54,6 +54,13 @@ export default function LineChart({ selectedStock }) {
   );
 }
 
+function tickFormat(scale) {
+  const spanDays = (scale.domain()[1] - scale.domain()[0]) / 86400000;
+  if (spanDays > 180) return d3.timeFormat('%b %Y');   // "Jan 2024"
+  if (spanDays > 14)  return d3.timeFormat('%b %d');   // "Jan 15"
+  return d3.timeFormat('%b %d');                        // "Jan 15" (same, ticks just get denser)
+}
+
 function drawChart(svgEl, data, ticker, width, height) {
   const svg = d3.select(svgEl);
   svg.selectAll('*').remove();
@@ -77,7 +84,7 @@ function drawChart(svgEl, data, ticker, width, height) {
 
   const xAxisG = g.append('g')
     .attr('transform', `translate(0,${H})`)
-    .call(d3.axisBottom(xScale).ticks(7).tickFormat(d3.timeFormat('%b %Y')));
+    .call(d3.axisBottom(xScale).ticks(7).tickFormat(tickFormat(xScale)));
 
   g.append('g').call(d3.axisLeft(yScale).ticks(6).tickFormat(d => `$${d3.format('.0f')(d)}`));
 
@@ -120,7 +127,7 @@ function drawChart(svgEl, data, ticker, width, height) {
     .extent([[0, 0], [W, H]])
     .on('zoom', event => {
       const newX = event.transform.rescaleX(xScale);
-      xAxisG.call(d3.axisBottom(newX).ticks(7).tickFormat(d3.timeFormat('%b %Y')));
+      xAxisG.call(d3.axisBottom(newX).ticks(7).tickFormat(tickFormat(newX)));
       KEYS.forEach(key => {
         const newLine = d3.line().defined(d => !isNaN(d[key]))
           .x(d => newX(d.date)).y(d => yScale(d[key]));
