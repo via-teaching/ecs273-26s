@@ -1,0 +1,15 @@
+Title: Anthropic Scales Fast With Big TPU Deal
+Date: 2026-04-07 22:04 UTC
+URL: https://finance.yahoo.com/sectors/technology/articles/anthropic-scales-fast-big-tpu-220413341.html?.tsrc=rss
+Content:
+This article first appeared on GuruFocus .
+
+Anthropic (ANTHRO) is moving quickly to lock in more computing power as its growth starts to accelerate in a big way.
+
+The company has signed a deal with Google ( NASDAQ:GOOG ) and Broadcom ( NASDAQ:AVGO ) to secure next-generation TPU capacity starting in 2027. In total, it is looking at close to 5 GW of compute over time, including about 3.5 GW tied to Broadcom systems. That is a massive amount of infrastructure, but it reflects what Anthropic is seeing on the demand side for its Claude models.
+
+Warning! GuruFocus has detected 5 Warning Signs with SSNLF.
+
+Is GOOG fairly valued? Test your thesis with our free DCF calculator.
+
+The numbers tell the story. Anthropic's revenue run rate has climbed to over $30 billion, up from around $9 billion at the end of 2025. That kind of jump explains why the company is spending heavily to lock in capacity early. Most of that new compute is expected to be based in the U.S., building on its earlier $50 billion commitment to expand domestic infrastructure. Broadcom shares moved about 3% higher after the news, showing how these deals ripple across the AI supply chain.

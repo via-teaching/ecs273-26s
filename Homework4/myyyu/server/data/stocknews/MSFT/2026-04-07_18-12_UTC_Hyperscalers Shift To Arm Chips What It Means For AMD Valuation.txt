@@ -1,0 +1,41 @@
+Title: Hyperscalers Shift To Arm Chips What It Means For AMD Valuation
+Date: 2026-04-07 18:12 UTC
+URL: https://finance.yahoo.com/markets/stocks/articles/hyperscalers-shift-arm-chips-means-181258084.html?.tsrc=rss
+Content:
+Track your investments for FREE with Simply Wall St, the portfolio command center trusted by over 7 million individual investors worldwide.
+
+Major cloud providers are reallocating AI server spending from legacy x86 CPUs by NasdaqGS:AMD and Intel toward proprietary Arm-based chips.
+
+Arm CPUs are projected to account for most custom AI ASIC deployments by 2029, signaling a shift in how hyperscalers design their data center infrastructure.
+
+This transition affects demand patterns for traditional x86 data center processors used in large scale AI and cloud workloads.
+
+For you as an investor looking at NasdaqGS:AMD, this shift comes at a time when AI infrastructure has been a central part of the company story. Hyperscalers such as Alphabet, Amazon, Microsoft, and Meta are increasingly using their own Arm-based designs for AI servers, which can reduce reliance on third party x86 CPUs in large deployments. That changes the context around AMD's role in the data center CPU market.
+
+Looking ahead, the key questions are how much hyperscaler spending moves to Arm based custom silicon and how AMD responds across its product stack. Your analysis may need to separate AMD's AI opportunities in accelerators and partnerships from possible headwinds in traditional x86 server CPUs as customer preferences evolve.
+
+Stay updated on the most important news stories for Advanced Micro Devices by adding it to your watchlist or portfolio . Alternatively, explore our Community to discover new perspectives on Advanced Micro Devices.
+
+📰 Beyond the headline: 1 risk and 4 things going right for Advanced Micro Devices that every investor should see.
+
+✅ Price vs Analyst Target : At US$220.18, the price sits about 24% below the US$289.35 analyst target midpoint.
+
+✅ Simply Wall St Valuation : The shares are described as trading 30.4% below estimated fair value, which screens as undervalued.
+
+✅ Recent Momentum : The 30 day return of about 14.4% signals positive short term sentiment.
+
+There is only one way to know the right time to buy, sell or hold Advanced Micro Devices. Head to Simply Wall St's company report for the latest analysis of Advanced Micro Devices's Fair Value .
+
+📊 This hyperscaler shift toward proprietary Arm chips could limit growth in traditional x86 data center CPUs, so you may want to reassess how much of your thesis relies on that segment.
+
+📊 Track how much revenue and earnings come from accelerators and custom partnerships versus general purpose CPUs, especially with the current P/E of about 84x and forward P/E near 50x.
+
+⚠️ There is one flagged risk around insider selling, which some investors pair with this Arm transition when judging management conviction and timing of entry.
+
+For the full picture including more risks and rewards, check out the complete Advanced Micro Devices analysis . Alternatively, you can check out the community page for Advanced Micro Devices to see how other investors believe this latest news will impact the company's narrative.
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+
+Companies discussed in this article include AMD .
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com

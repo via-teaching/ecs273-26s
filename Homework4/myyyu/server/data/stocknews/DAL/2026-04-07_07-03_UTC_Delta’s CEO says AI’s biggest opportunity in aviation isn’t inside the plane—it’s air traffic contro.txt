@@ -1,0 +1,41 @@
+Title: Delta’s CEO says AI’s biggest opportunity in aviation isn’t inside the plane—it’s air traffic control
+Date: 2026-04-07 07:03 UTC
+URL: https://finance.yahoo.com/sectors/technology/articles/delta-ceo-says-ai-biggest-070300009.html?.tsrc=rss
+Content:
+Delta CEO Ed Bastian doesn’t think AI will drastically change the flying experience, but it may improve it by tackling one of the biggest problems facing airlines.
+
+Air traffic control, Bastian noted, is ripe for innovation and could be the area where improved technologies like AI make a real difference for travelers—“an amazing deployment,” even if it takes a long time to implement.
+
+“I think that would do more in terms of helping our customers have quicker travel, more efficient travel than, candidly, most any other deployment of the technology … we’ve talked [about] in the past,” Bastian told Fortune editor-in-chief Alyson Shontell on the latest episode of the Fortune 500: Titans and Disruptors of Industry podcast .
+
+Bastian also pointed to AI as a potential tool for better reading the atmosphere, predicting turbulence, and understanding airflow patterns.
+
+“If deployed properly, it should make it maybe more efficient, more reliable,” he said.
+
+Delta is already using some AI in its own operations. In October, the airline rolled out an AI-powered digital travel assistant called Delta Concierge to a select group of users. The virtual assistant, housed in Delta’s app, provides real-time answers to flight-related questions and can help with bag tracking and claims.
+
+Bastian’s comments come as the U.S. is dealing with an air traffic control crisis that has festered for years but has become more evident in recent accidents and the ongoing partial government shutdown.
+
+At the root of the problem are both antiquated technology and staffing issues. Bastian has previously noted: “The screens look like something out of the 1960s and ’70s.”
+
+He’s not far off. A 2024 report from the Government Accountability Office found the Federal Aviation Administration has “been slow to modernize some of the most critical and at-risk systems.” At the time, the GAO identified 17 systems critical to the safety and efficiency of national airspace, whose ages ranged from two to 50 years.
+
+In terms of staffing, the issue is not much better. The air traffic control workforce has been understaffed for more than a decade, which has led to 10-hour days and six-day workweeks for existing workers, said Nick Daniels, president of the National Air Traffic Controllers Association, the union representing air traffic controllers, in written testimony submitted to the Senate Subcommittee on Aviation, Space, and Innovation in November. During the 43-day government shutdown last year, air traffic controllers were required to work full-time without pay, including mandatory overtime in many cases, “despite operating 3,800 fully certified controllers short of the Federal Aviation Administration’s staffing target,” according to Daniels.
+
+In recent history, the role of air traffic controllers, outdated tech, and strained staffing have come to the forefront after two fatal accidents in the past two years. Last month, two Air Canada pilots died when their regional jet collided with a fire truck, and National Transportation Safety Board investigators are looking into whether the air traffic controller played a role. That crash came just over a year after an American Airlines regional jet collided with a U.S. Army Black Hawk helicopter as it approached Reagan National Airport near D.C. The U.S. government, in a December court filing , admitted the air traffic controller at the airport “did not comply” with FAA procedures.
+
+President Donald Trump and Transportation Secretary Sean Duffy last May announced a plan to modernize the country’s air traffic control system to create a state-of-the-art system “that will be the envy of the world .”
+
+While the administration’s plan doesn’t mention AI specifically, it includes replacing outdated infrastructure by adding new radios, radars, and voice switches at 4,600 air traffic control sites nationwide. The administration also plans to build six new traffic control towers, the first since the 1960s, at “hard-to-staff and needed facilities.” The administration’s plan, which Bastian voiced support for in a May press release , will take $31.5 billion to complete, according to Duffy.
+
+A spokesperson for the FAA told Fortune in a statement that the agency is beginning to use large language models and machine learning to scan incident reports and other data to identify risk areas at airports that host both airplanes and helicopters, among other uses. Still, the tool is not a replacement for human experts, the spokesperson said.
+
+“AI is another valuable tool but not a surrogate for human expertise,” the statement read.
+
+As for the efficiency of air traffic control, Bastian told Fortune that it takes longer to fly from Delta’s base in Atlanta to New York today than it did in the 1950s, when the company launched the route—an issue that more advanced air traffic control technology may help fix.
+
+“All that technology investment that we put in AI is not going to change that, unless it’s focused on, how do you unlock the sky,” he said.
+
+Watch Fortune editor-in-chief Alyson Shontell’s full interview with Delta CEO Ed Bastian, and read the full transcript, here .
+
+This story was originally featured on Fortune.com

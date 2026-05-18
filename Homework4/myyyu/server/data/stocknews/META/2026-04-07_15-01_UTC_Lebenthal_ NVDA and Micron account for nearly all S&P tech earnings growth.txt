@@ -1,0 +1,35 @@
+Title: Lebenthal: NVDA and Micron account for nearly all S&P tech earnings growth
+Date: 2026-04-07 15:01 UTC
+URL: https://247wallst.com/investing/2026/04/07/lebenthal-nvda-and-micron-account-for-nearly-all-sp-tech-earnings-growth/?.tsrc=rss
+Content:
+Here is a number worth sitting with: strip Nvidia and Micron out of Q1 S&P earnings and overall S&P earnings growth drops to roughly 3%. That came from James Lebenthal in a recent interview, and I haven’t stopped thinking about it since.
+
+Tech is expected to grow earnings roughly 30% this year, and virtually all of that growth is attributable to just two names. Google, Apple, Microsoft, and Meta, he said, are showing unimpressive Q1 earnings growth. The headline number flatters a picture that is, underneath, quite thin.
+
+NVIDIA ( NASDAQ:NVDA | NVDA Price Prediction ) just closed out a fiscal year that is almost hard to describe in normal terms. Full-year FY2026 revenue hit $215.94 billion, up 65% year over year, with net income of $120.07 billion. Q4 alone printed $68.13 billion in revenue, with Data Center up 75% year over year and Data Center Networking up 263% .
+
+Jensen Huang on the earnings call: “Computing demand is growing exponentially — the agentic AI inflection point has arrived.” Q1 FY2027 guidance calls for roughly $78 billion in revenue, and that figure excludes any Data Center compute revenue from China.
+
+I’ve read pretty much every earnings report on NVIDIA for years now, and the sequential acceleration throughout FY2026: $44 billion, $47 billion, $57 billion, $68 billion, is unlike anything I’ve tracked in enterprise technology.
+
+Micron ( NASDAQ:MU ) is the quieter side of Lebenthal’s thesis, and arguably the more interesting one. Fiscal Q1 2026 revenue came in at $13.643 billion, up 57% year over year, with non-GAAP EPS of $4.78 against an estimate of $3.94. GAAP gross margin expanded from 38.4% to 56.0% year over year.
+
+Are you ahead, or behind on retirement? SmartAsset's free tool can match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don't waste another minute; learn more here. (Sponsor)
+
+The forward guide is where it gets serious. Q2 FY2026 guidance calls for $18.70 billion in revenue and non-GAAP EPS of $8.42 — nearly double the Q1 EPS in a single quarter. CEO Sanjay Mehrotra said: “Our Q2 outlook reflects substantial records across revenue, gross margin, EPS and free cash flow.”
+
+Micron is the only U.S.-based memory manufacturer, and its high-bandwidth memory business is directly plugged into the same AI infrastructure buildout driving NVIDIA’s numbers. The Cloud Memory Business Unit generated $5.284 billion in Q1 at 66% gross margins.
+
+The S&P 500 is down about 3% year to date . Lebenthal framed the environment as genuinely foggy — the market sits roughly 30 points from its 200-day moving average, making aggressive short positions risky with no clear directional signal. He also noted that historically, markets are up between 35-44% two years after major military conflicts, a real bull case sitting alongside the concentration risk he flagged.
+
+The concentration risk is what I keep returning to. If you believe NVIDIA and Micron continue executing, the tech earnings story holds. If either stumbles, the 30% sector growth narrative collapses fast, and what’s left is a 3% earnings growth market trading at a premium multiple. That’s the honest framing Lebenthal is offering, and it deserves more attention than it’s getting.
+
+Retirement planning doesn’t have to feel overwhelming. The key is finding expert guidance, and SmartAsset’s simple quiz makes it easier than ever for you to connect with a vetted financial advisor. Here’s how:
+
+Answer a few simple questions
+
+Get Matched with Vetted Advisors
+
+Choose Your  Fit
+
+Why wait? Start building the retirement you’ve always dreamed of. Get started today! (sponsor)

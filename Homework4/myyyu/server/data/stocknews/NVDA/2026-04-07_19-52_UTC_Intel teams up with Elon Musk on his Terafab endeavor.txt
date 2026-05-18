@@ -1,0 +1,13 @@
+Title: Intel teams up with Elon Musk on his Terafab endeavor
+Date: 2026-04-07 19:52 UTC
+URL: https://finance.yahoo.com/video/intel-teams-up-with-elon-musk-on-his-terafab-endeavor-195200000.html?.tsrc=rss
+Content:
+Intel ( INTC ) is teaming up with Elon Musk in his new Terafab project , a joint venture between the tech billionaire's Tesla ( TSLA ), SpaceX ( SPAX.PVT ), and xAI to begin construction of a chip design facility.
+
+Yahoo Finance Tech Editor Dan Howley breaks down the news.
+
+Let's talk about Elon Musk uh joining up with Intel to make chips for his Terafab project and this is this is physical AI. It's not just AI or excuse me, virtual AI, it's physical AI. and you know, the Intel is on a roll this year. It's up 40%. So tell us about this story.
+
+It's interesting, right? Because it seems to say that Intel's turnaround effort is is working. Now Lip, the the CEO who took over after Pat Gelsinger. He's been at the helm for, you know, some time now, about about about a year. Uh this was though something that Gelsinger had laid out uh for for quite some time. So you got to give credit where the credits do. Uh maybe he didn't have the the spending under control when it came to what they were doing at Intel, but he clearly had the right idea when it came to the chips. And so Libu kind of came in, uh cut spending, uh said, look, we're we're going to continue to focus on this this idea of having these certain amount of nodes and a certain amount of years uh and and signing on new customers. And that seems to be what they're doing here. And if they can supply XAI, they can supply Tesla, uh perhaps, uh you know, Elon Musk's array of companies with chips. That's a good vote of confidence for Intel. And I think, you know, we'll we'll just have to continue to see who they work with, you know, there's the discussion of Amazon and Microsoft. That's kind of been floating around for a while now. Uh we haven't seen uh much come out of that quite yet. But you know, they also are working with uh Nvidia to a degree, uh where you're going to be able to run Intel chips uh with Nvidia GPUs on one board uh and you'll be able to make servers out of that. So, you know, it it shows that they are
+
+this this turnaround is working, right? It's they're not at, you know, their best yet, right? Uh uh if you go back and look at their numbers for the past few years, not anywhere near the best yet, but it is seeming as though it's turning around. And look, this is, you know, a massive ship. So it takes a long time for that to happen.

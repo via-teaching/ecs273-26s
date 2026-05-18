@@ -1,0 +1,61 @@
+Title: The AI Supercycle Just Entered Phase 2. Most Investors Aren't Ready.
+Date: 2026-04-07 19:35 UTC
+URL: https://www.fool.com/investing/2026/04/07/the-ai-supercycle-just-entered-phase-2-most-invest/?.tsrc=rss
+Content:
+The next leg of the artificial intelligence (AI) boom won't be flashy, but it might be where the smartest money is quietly compounding.
+
+The first phase of the artificial intelligence (AI) supercycle was all about chips. It didn't take long for the whole market to catch on when Nvidia became a household name and data center stocks surged to crazy valuations. That trade happened in broad daylight.
+
+Phase 2 is quieter. It's happening in server rooms you'll never visit, in underground fiber conduits across rural Illinois, and in the test labs that validate every cable, chip, and optical link before it ever touches a data center rack. The companies doing this work aren't getting CNBC segments. Some of them are trading near 52-week lows even as their order books fill up.
+
+That's the opportunity most investors are walking past right now. Here are two tickers to consider as we enter Phase 2.
+
+Image source: Getty Images.
+
+Here's a problem: You can't run a $300 billion AI data center buildout without someone testing every piece of hardware that goes into it. That's the business Keysight Technologies ( KEYS +2.63% ) is trying to address.
+
+In its fiscal first quarter of 2026, Keysight reported revenue of $1.6 billion (a 23% year-over-year increase) and record orders of $1.65 billion.  For the first time in the company's history, wireline revenue surpassed wireless revenue, driven by demand for 800G and 1.6T optical transceiver validation, the exact infrastructure speeds that hyperscalers need to move AI workloads .
+
+Keysight's business is built around a full-stack model: hardware, software, and services that help electronics companies design, validate, manufacture, and optimize their products. Software and services now account for 40% of total revenue, with recurring revenue at 29% of the mix.
+
+That stickiness is what separates Keysight from a pure hardware vendor. And management guided for full-year fiscal 2026 revenue growth "just above 20%." The stock surged 23% after earnings and has gained more than 80% over the past 52 weeks.
+
+Still, at roughly $290 per share,  Keysight trades about 10% below the analyst consensus price target. The AI buildout hasn't paused. Neither has demand for the equipment that validates it.
+
+While everyone gets excited about hyperscalers' fight over GPU allocations, a company called Calix ( CALX +1.08% ) is doing something that sounds almost boring: helping small and midsized rural broadband providers become AI-powered businesses.
+
+Calix builds the only agentic AI cloud and appliance-based platform purpose-built for communication service providers. These providers are the local internet companies serving millions of American homes in places Comcast doesn't bother to cover.
+
+In February 2026, the company launched Calix One, a platform that brings together cloud software, AI agents, and managed services into a single architecture built on Alphabet 's Google Cloud. It's not theoretical. One-third of Calix's 1,200 broadband provider customers were already running on the platform by mid-March.
+
+What makes this compelling isn't just the technology. It's the funding. The federal Broadband Equity, Access and Deployment (BEAD) program is funneling billions into rural fiber buildouts, and Calix keeps winning those contracts. In February, Helexon, one of the largest BEAD recipients, selected Calix One to power a multi-year deployment spanning thousands of miles of fiber across Illinois, Indiana, Kentucky, and Michigan.
+
+The company has also been relentless on execution. Its Q3 2025 report showed record revenue of $265 million, the fifth consecutive quarter of sequential growth, and a seventh consecutive quarter of gross margin improvement, reaching a record 57.7%. Free cash flow has been positive for 20 consecutive quarters.
+
+Keysight's hardware-heavy mix yields gross margins in the mid-60% range, which trail the higher margins of pure software peers, and any pullback in hyperscaler capital spending could push out demand and delay new orders.
+
+Calix, meanwhile, relies on continued adoption of its platform by broadband providers, and the pace of that growth is partly tied to the rollout of BEAD funding, which can be uneven due to government timelines.
+
+Still, from a longer term perspective, both companies offer solid potential for investors and are worth considering now.
+
+Micah Zimmerman has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet and Nvidia. The Motley Fool recommends Comcast. The Motley Fool has a disclosure policy .
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+
+Making the world smarter, happier, and richer.
+
+© 1995 - 2026 The Motley Fool . All rights reserved.
+
+Market data powered by Xignite and Polygon.io .
+
+About The Motley Fool
+
+Our Services
+
+Around the Globe
+
+Free Tools
+
+Affiliates & Friends

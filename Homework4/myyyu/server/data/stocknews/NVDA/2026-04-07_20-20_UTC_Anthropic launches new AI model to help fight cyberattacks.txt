@@ -1,0 +1,21 @@
+Title: Anthropic launches new AI model to help fight cyberattacks
+Date: 2026-04-07 20:20 UTC
+URL: https://finance.yahoo.com/video/anthropic-launches-new-ai-model-to-help-fight-cyberattacks-202000663.html?.tsrc=rss
+Content:
+Private AI developer Anthropic ( ANTH.PVT ) is partnering with an array of Big Tech names for its Project Butterfly cybersecurity initiative that will help combat AI-empowered cyberattacks.
+
+Yahoo Finance Tech Editor Dan Howley joins Markets and Data Editor Jared Blikre to break down the headline.
+
+One more story here. So this is Anthropic's new project. It's called Glasswing. And this has to do with cyber security. We were talking about the name in the uh in the break and I looked this up. So, Glasswing derives its name from the glasswing butterfly, which uses transparent wings to hide in plain sight. So the metaphor reflects the initiative's goal of exposing critical software vulnerabilities that have existed openly for years, but they remain hidden with complex uh technical systems. So.
+
+That sounds about right. Uh you know, when when it this is basically a uh initiative with them, Nvidia, Microsoft, Amazon, uh you name it they're they're in there. Uh except for Open AI, just throwing that out there. Uh and and the the idea here is that they'll use this new kind of frontier model uh to act as a means of searching for bugs that exist in software. Now, software it's built by people, so there's there's going to be bugs in it. That's why uh you end up with hacks. People find the hacks or the bugs, exploit the bugs,
+
+hack into a system and that's kind of how this works. Uh and so this idea is, well, we'll just use AI to run through the software and see what they can find. And they said that they found uh some that are 20 years old, some that are more than 20 years old, some that are more than 30 years old.
+
+Not shocking, but, you know, I said it's going to be around.
+
+No, not not shocking at all, right. And and and uh they said they'd found thousands of more uh as well as those in the most popular operating systems, web browsers.
+
+Again, as you said, this isn't shocking that there's bugs in this. There's bugs in in every piece of software ever. It's just that this is a good way of being able to find that. Now, this model isn't going to be available for us to use. They said that this is going to be for these partners to to work and create these kind of uh defenses, find any of these issues. They also mentioned that they're working or want to work with the US government on defensive and offensive cyber capabilities. So, to see if they can perhaps find these bugs, the and exploit them for, you know, US government needs. And so, you know, it is interesting to see uh this announcement after we had that leak last week that Anthropic had to, you know, kind of address. Uh and we saw that Meco uh issue with uh the supply chain hack. Uh and so, you know, it's it's I was just speaking to uh some folks yesterday about uh AI and cyber security and how, you know, you may have someone vibe code a site of their own, maybe not have the most technical uh uh capabilities on their own, and then that can create issues. So it's it's also going to be a tool.
+
+Well, there's going to be there's going to be a lot of that going forward. You got to imagine.
