@@ -1,0 +1,27 @@
+Title: Pimco Weighs $14 Billion Debt Deal for Oracle Data Center
+Date: 2026-04-07 18:26 UTC
+URL: https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html?.tsrc=rss
+Content:
+(Bloomberg) -- Pacific Investment Management Co. is in talks with Bank of America Corp. to help provide roughly $14 billion of debt financing to build a massive Oracle Corp. data center in Michigan, according to people familiar with the matter.
+
+The deal, if finalized, would make the bond giant a key backer of a campus in Saline Township, where Oracle aims to power applications for OpenAI. The financing could be structured as a bond, and Pimco could syndicate some to other investors, the people said, asking not to be identified describing the confidential talks.
+
+Though the talks with Pimco are still in early stages, the firm’s emergence marks another twist in the long-running effort to round up financing for a project attracting intense scrutiny from Wall Street and locals — testing investor sentiment for such a large data center.
+
+Bank of America has spent months trying to assemble the financing for Related Digital, the developer behind the project. Blackstone Inc. is also planning to contribute an additional $2 billion of equity, Bloomberg previously reported.
+
+Representatives for Related Digital, Pimco and Bank of America declined to comment. A spokesperson for Oracle said the company is proud of the “rapid progress” it has made in financing and developing the Saline Township facility, noting it is working with OpenAI, Related Digital and Bank of America on the effort.
+
+The financing could be structured in a so-called 144A format, according to the people familiar with the matter. Such bonds are privately placed debt securities that can be traded among certain institutional buyers.
+
+For Pimco, the deal would be its second jumbo financing for a data center within the past year, helping the investment firm expand further in private lending. Last year, Pimco agreed to team up with Blue Owl Capital Inc. to help Meta Platforms Inc. finance its Hyperion data center site in Richland Parish, Louisiana.
+
+As the lead financier of that transaction, Pimco held $18 billion of the debt when it priced. The firm soon scored a $2 billion paper profit after prices for the debt soared.
+
+The arrangements taking shape for Saline Township follow packages that lenders have assembled for other big Oracle data centers, including a $38 billion debt deal to build facilities in Texas and Wisconsin, and $18 billion for a site in New Mexico.
+
+Oracle on Monday named Schneider Electric SE executive Hilary Maxson as its chief financial officer to help the company navigate the massive development plans and the accompanying cash crunch it is facing.
+
+More stories like this are available on bloomberg.com
+
+©2026 Bloomberg L.P.

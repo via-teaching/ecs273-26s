@@ -1,0 +1,49 @@
+Title: Dimon Says AI Capital Spending Will Hit $725 Billion in 2026. Here Are the Sectors That Will Win and the Ones That Will Be Left Behind
+Date: 2026-04-07 19:43 UTC
+URL: https://www.fool.com/investing/2026/04/07/dimon-says-ai-capital-spending-will-hit-725-billio/?.tsrc=rss
+Content:
+That spending spree will lift some AI stocks while generating fierce headwinds for others.
+
+The artificial intelligence ( AI ) market has expanded rapidly over the past decade, driven by the arrival of more sophisticated generative AI applications, chatbots, and services. That expansion drove many AI stocks to all-time highs. Still, some of those market darlings fizzled out this year as inflation, geopolitical conflicts, and other macro headwinds pushed investors toward more conservative investments. But over the long term, the AI market should continue to expand.
+
+In his latest letter to JPMorgan Chase 's investors, CEO Jamie Dimon noted that five hyperscalers -- Microsoft , Amazon , Alphabet 's Google, Meta Platforms , and Apple -- would increase their annual AI-driven capital spending from $450 billion in 2025 to $725 billion in 2026. Those investments indicate there's still plenty of room for the AI market to expand -- even if the near-term challenges compress the sector's valuations. Let's see which companies will benefit from that spending spree -- and which will be left behind.
+
+Image source: Getty Images.
+
+Those hyperscalers will spend most of that $725 billion on upgrading their data centers to handle the latest AI applications. Therefore, the companies that operate those data centers and provide their hardware will benefit the most from that increased spending.
+
+Data center real estate investment trusts ( REITs ), which mainly build or buy their own data centers and lease that space to cloud and AI companies, represent an easy way to profit from that secular trend without taking on the risk of higher-growth AI stocks. They also typically offer attractive yields, as REITs must distribute at least 90% of their taxable income as dividends to maintain a lower tax rate. Two of the biggest players in this space are Equinix ( EQIX 0.97% ) and Digital Realty ( DLR +0.06% ) , which pay forward yields of 1.9% and 2.7%, respectively.
+
+Other obvious winners are leading AI chipmakers like Nvidia ( NVDA +0.26% ) and Broadcom ( AVGO +6.10% ) . Nvidia is the largest producer of data center GPUs, which are used to train large language models (LLMs) and other AI algorithms. Broadcom is the leading producer of application-specific integrated circuit (ASIC) AI accelerators that hyperscalers can customize to perform inference tasks at lower cost than stand-alone GPUs. TSMC , the world's top foundry that produces Nvidia and Broadcom's chips, will profit from that trend.
+
+Companies that supply the optical equipment for those data centers, including Lumentum and Corning , will also profit from those tailwinds. That's because many data centers need to upgrade their connections to efficiently handle all of that AI data.
+
+On the other hand, that spending spree could spell trouble for older cloud software companies like Salesforce and ServiceNow . These cloud-based companies grew rapidly by disrupting on-site desktop software. Still, they could struggle to keep pace with newer ready-to-use agentic AI and LLMs from newer challengers like OpenAI and Anthropic.
+
+Salesforce and ServiceNow are rolling out new generative AI tools to keep pace with that shift, but those tools are still designed to keep users locked into their subscription-based ecosystems. Customers who want to break free from those walled gardens could turn to stand-alone AI companies. At the same time, cloud infrastructure giants like Amazon and Microsoft could bundle similar AI-powered analytics and digital workflow services into their enterprise platforms.
+
+Smaller and unprofitable AI software companies, such as C3.ai ( AI 0.46% ) , could also be left behind in that market shift. C3.ai develops AI modules that plug into an organization's existing software to automate and accelerate specific tasks. Unfortunately, those tools could become irrelevant as the hyperscalers launch their own competing first-party AI services.
+
+As the AI industry expands and evolves, these weaker, aging companies could lag behind the top AI start-ups and hyperscalers as they conquer and split the market. While the AI market should keep expanding for the foreseeable future, it's important to split these losers from the winners.
+
+JPMorgan Chase is an advertising partner of Motley Fool Money. Leo Sun has positions in Amazon, Apple, and Meta Platforms. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, Corning, Digital Realty Trust, Equinix, JPMorgan Chase, Lumentum, Meta Platforms, Microsoft, Nvidia, Salesforce, ServiceNow, and Taiwan Semiconductor Manufacturing and is short shares of Apple. The Motley Fool recommends Broadcom and C3.ai. The Motley Fool has a disclosure policy .
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+
+Making the world smarter, happier, and richer.
+
+© 1995 - 2026 The Motley Fool . All rights reserved.
+
+Market data powered by Xignite and Polygon.io .
+
+About The Motley Fool
+
+Our Services
+
+Around the Globe
+
+Free Tools
+
+Affiliates & Friends

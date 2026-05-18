@@ -1,0 +1,97 @@
+Title: Is Meta Platforms (META) Still Attractive After Heavy AI Investment And Recent Share Price Gains
+Date: 2026-04-07 14:10 UTC
+URL: https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-still-attractive-141000258.html?.tsrc=rss
+Content:
+Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.
+
+If you are wondering whether Meta Platforms at around US$573 per share still offers solid value, focusing on what the current price really reflects about the business is a useful place to start.
+
+The stock is up 6.8% over the last week. The 30 day and year to date returns of 11.1% decline and 11.9% decline sit alongside a 1 year gain of 11.3% and a 3 year return of 168.9%.
+
+Recent headlines have centered on Meta Platforms reshaping its product mix and investing heavily in areas such as AI, virtual and augmented reality, and its broader family of apps. These updates have kept attention on how much future growth and spending are already reflected in the current share price.
+
+Simply Wall St’s valuation model gives Meta Platforms a 5 out of 6 valuation score . This sets the stage to compare traditional methods like DCFs and multiples with a more complete way of thinking about value that will be covered at the end of this article.
+
+Find out why Meta Platforms's 11.3% return over the last year is lagging behind its peers.
+
+A Discounted Cash Flow model estimates what a company could be worth today by projecting its future cash flows and then discounting those back to a present value. It is essentially asking what all of Meta Platforms future cash flows are worth in today’s dollars.
+
+For Meta Platforms, Simply Wall St uses a 2 Stage Free Cash Flow to Equity model. The latest twelve month free cash flow is about $61.98b. Analyst estimates, supplemented by Simply Wall St extrapolations beyond the usual 5 year window, point to projected free cash flow of $119.49b in 2030. There is a series of annual projections in between that are discounted back to today.
+
+Bringing all of those projected cash flows into today’s terms results in an estimated intrinsic value of about $1,178.23 per share. Compared with the current share price of around $573, the model implies a 51.4% discount. This indicates that the shares are currently priced below this cash flow based estimate of value.
+
+Result: UNDERVALUED
+
+Our Discounted Cash Flow (DCF) analysis suggests Meta Platforms is undervalued by 51.4%. Track this in your watchlist or portfolio , or discover 62 more high quality undervalued stocks .
+
+Head to the Valuation section of our Company Report for more details on how we arrive at this Fair Value for Meta Platforms.
+
+For profitable companies, the P/E ratio is a useful way to relate what you pay for each share to the earnings that each share currently generates. It gives a quick sense of how many years of current earnings the market is effectively pricing in.
+
+What counts as a "normal" P/E depends on how the market views a company’s growth prospects and risk. Higher expected growth or lower perceived risk can justify a higher P/E, while lower growth or higher risk typically lines up with a lower P/E.
+
+Meta Platforms currently trades on a P/E of 23.98x. This sits above the Interactive Media and Services industry average of 14.25x, but below the peer group average of 30.24x. To refine this, Simply Wall St calculates a proprietary “Fair Ratio” of 39.93x, which reflects factors such as earnings growth, profit margins, industry, market cap and risk profile.
+
+This Fair Ratio is more tailored than a simple comparison with peers or the industry because it adjusts for Meta Platforms specific characteristics rather than treating all companies as if they deserve the same multiple. Compared with the current P/E of 23.98x, the Fair Ratio of 39.93x suggests the shares trade below this implied level.
+
+Result: UNDERVALUED
+
+P/E ratios tell one story, but what if the real opportunity lies elsewhere? Start investing in legacies, not executives. Discover our 20 top founder-led companies .
+
+Earlier we mentioned that there is an even better way to understand valuation, so this is where Narratives come in as a simple way for you to attach a clear story to the numbers you are seeing for Meta Platforms.
+
+A Narrative is your own view of the company, written as a short story that sits behind the hard numbers like fair value, expected revenue, earnings and profit margins, so you are not just copying someone else’s model but spelling out what you believe and why.
+
+Each Narrative links three things: what you think is happening in the business, what that implies for a financial forecast, and the fair value that drops out of those assumptions.
+
+On Simply Wall St, Narratives live on the Community page and are designed to be easy to use. The platform is used by millions of investors, so you can quickly compare your view with others without needing to build a spreadsheet.
+
+Because each Narrative includes a fair value, you can see at a glance whether your story says Meta looks expensive or offers value compared with the current share price. This can help you decide if it is closer to a buy, hold or sell for your own portfolio rules.
+
+Narratives also update in real time when new information is added. If Meta reports earnings or there is fresh news about EU regulation or AI spending, the forecasts and fair values behind that story refresh automatically.
+
+For Meta, one Narrative on Simply Wall St currently presents a fair value of about US$496.65 that leans heavily on regulatory risk in Europe and the possibility of a significant impact on the 23% of revenue that comes from that region. Another uses more optimistic revenue growth, margins near 39.1% and a future P/E of 26.9x to arrive at a fair value around US$850, showing how two investors can look at the same company and reach very different conclusions based on the story they believe.
+
+For Meta Platforms, here are previews of two leading Meta Platforms Narratives to make comparison easier:
+
+The first is a bullish view that sees more upside potential if AI and infrastructure spending play out as expected.
+
+🐂 Meta Platforms Bull Case
+
+Fair value from this narrative: US$835.54 per share.
+
+Current price vs this fair value: around 31.4% below that fair value estimate.
+
+Revenue growth assumption: 16.73% a year.
+
+Sees Meta's heavy investment in AI infrastructure, data centers and recommendation systems as a key driver of user engagement and long term monetization across ads, video and commerce.
+
+Assumes solid revenue growth with healthy profit margins, while acknowledging that higher AI and metaverse spending could weigh on cash flow if returns take longer to come through.
+
+Builds a fair value around analyst forecasts for revenue, earnings and P/E by 2028, with a reminder for investors to stress test those inputs against their own expectations and risk tolerance.
+
+The second is more cautious and argues that a lot of future success is already built into the current share price.
+
+🐻 Meta Platforms Bear Case
+
+Fair value from this narrative: US$538.09 per share.
+
+Current price vs this fair value: around 6.5% above that fair value estimate.
+
+Revenue growth assumption: 10.5% a year.
+
+Expects Meta to keep a strong position in social media, AI tools and AR or VR, but questions how much additional value shareholders receive once higher capital spending and Reality Labs losses are factored in.
+
+Builds the case on advertising growth, ARPU expansion and cost efficiency, while highlighting execution risk in the metaverse, regulatory pressure and ongoing dependence on ad revenue.
+
+Argues that even if Meta delivers on revenue growth, profit margins and buybacks, the current price already reflects a lot of that progress, so the margin of safety may be limited.
+
+These two Narratives outline a wide valuation range and show how reasonable investors can look at the same company data and reach very different conclusions. To see how other analysts and community members are framing Meta's long term story and valuation, use the options on the company page to access the full set of Narratives, then decide which assumptions line up best with your own view before acting on the stock.
+
+Do you think there's more to the story for Meta Platforms? Head over to our Community to see what others are saying!
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+
+Companies discussed in this article include META .
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com
