@@ -1,14 +1,62 @@
-import { useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 
 import { LineChart } from "./component/LineChart";
 import { NewsList } from "./component/NewsList";
 import RenderOptions from "./component/options";
 import { TSNEScatter } from "./component/TSNEScatter";
-import { STOCK_TICKERS } from "./data";
+import { fetchNewsItems, fetchStockSeries, fetchStockTickers, fetchTSNEPoints } from "./data";
+import { NewsItem, StockPriceRow, TSNEPoint } from "./types";
 
 export default function App() {
-  const tickers = useMemo(() => STOCK_TICKERS, []);
-  const [selectedTicker, setSelectedTicker] = useState(tickers[0] ?? "");
+  const [tickers, setTickers] = useState<string[]>([]);
+  const [selectedTicker, setSelectedTicker] = useState("");
+  const [stockSeries, setStockSeries] = useState<StockPriceRow[]>([]);
+  const [tsnePoints, setTSNEPoints] = useState<TSNEPoint[]>([]);
+  const [newsItems, setNewsItems] = useState<NewsItem[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
+
+  useEffect(() => {
+    async function loadInitialData() {
+      try {
+        setIsLoading(true);
+        const [tickerList, points] = await Promise.all([fetchStockTickers(), fetchTSNEPoints()]);
+        setTickers(tickerList);
+        setSelectedTicker(tickerList[0] ?? "");
+        setTSNEPoints(points);
+        setErrorMessage(null);
+      } catch (error) {
+        setErrorMessage(error instanceof Error ? error.message : "Unable to load dashboard data.");
+      } finally {
+        setIsLoading(false);
+      }
+    }
+
+    void loadInitialData();
+  }, []);
+
+  useEffect(() => {
+    if (!selectedTicker) {
+      setStockSeries([]);
+      setNewsItems([]);
+      return;
+    }
+
+    async function loadTickerData() {
+      try {
+        const [series, news] = await Promise.all([fetchStockSeries(selectedTicker), fetchNewsItems(selectedTicker)]);
+        setStockSeries(series);
+        setNewsItems(news);
+        setErrorMessage(null);
+      } catch (error) {
+        setStockSeries([]);
+        setNewsItems([]);
+        setErrorMessage(error instanceof Error ? error.message : `Unable to load ${selectedTicker}.`);
+      }
+    }
+
+    void loadTickerData();
+  }, [selectedTicker]);
 
   return (
     <div className="flex min-h-screen w-full flex-col px-4 py-4 text-slate-100 lg:px-5">
@@ -23,6 +71,7 @@ export default function App() {
           <select
             id="stock-select"
             className="glass-select min-w-32 rounded-xl px-3 py-2 text-sm font-semibold"
+            disabled={!tickers.length}
             value={selectedTicker}
             onChange={(event) => setSelectedTicker(event.target.value)}
           >
@@ -30,6 +79,12 @@ export default function App() {
           </select>
         </label>
       </header>
+      {isLoading ? (
+        <div className="glass-panel mb-4 rounded-2xl px-4 py-3 text-sm text-slate-100">Loading dashboard data...</div>
+      ) : null}
+      {errorMessage ? (
+        <div className="mb-4 rounded-2xl border border-red-300/40 bg-red-500/15 px-4 py-3 text-sm text-red-100">{errorMessage}</div>
+      ) : null}
       <div className="flex w-full flex-col gap-4 xl:h-[calc(100vh-10.5rem)] xl:max-h-[54rem] xl:flex-row">
         <div className="flex min-h-0 w-full flex-col gap-4 xl:w-2/3">
           <div className="flex min-h-[24rem] flex-1 flex-col">
@@ -43,7 +98,7 @@ export default function App() {
               </span>
             </div>
             <div className="glass-panel min-h-0 flex-1 rounded-[1.5rem] p-3 text-slate-800">
-              <LineChart ticker={selectedTicker} />
+              <LineChart series={stockSeries} />
             </div>
           </div>
           <div className="flex min-h-[24rem] flex-1 flex-col">
@@ -52,7 +107,7 @@ export default function App() {
               <p className="text-sm text-slate-300">Explore how each stock clusters.</p>
             </div>
             <div className="glass-panel min-h-0 flex-1 rounded-[1.5rem] p-3 text-slate-800">
-              <TSNEScatter selectedTicker={selectedTicker} />
+              <TSNEScatter selectedTicker={selectedTicker} points={tsnePoints} />
             </div>
           </div>
         </div>
@@ -62,7 +117,7 @@ export default function App() {
             <p className="text-sm text-slate-300">Open headlines and article summaries for the active ticker.</p>
           </div>
           <div className="glass-panel min-h-0 flex-1 rounded-[1.5rem] p-3 text-slate-900">
-            <NewsList ticker={selectedTicker} />
+            <NewsList ticker={selectedTicker} items={newsItems} />
           </div>
         </div>
       </div>

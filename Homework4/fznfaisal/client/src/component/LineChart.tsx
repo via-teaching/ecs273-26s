@@ -1,12 +1,11 @@
 import * as d3 from "d3";
 import { debounce } from "lodash";
-import { useEffect, useId, useMemo, useRef, useState } from "react";
+import { useEffect, useId, useRef, useState } from "react";
 
-import { getStockSeries } from "../data";
 import { Margin, StockMetricKey, StockPriceRow } from "../types";
 
 interface LineChartProps {
-  ticker: string;
+  series: StockPriceRow[];
 }
 
 const margin: Margin = { top: 24, right: 160, bottom: 56, left: 72 };
@@ -20,13 +19,12 @@ const metricColors: Record<StockMetricKey, string> = {
 const metrics: StockMetricKey[] = ["open", "high", "low", "close"];
 const timeTickFormatter = d3.timeFormat("%b %Y");
 
-export function LineChart({ ticker }: LineChartProps) {
+export function LineChart({ series }: LineChartProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const svgRef = useRef<SVGSVGElement>(null);
   const clipPathId = useId().replace(/:/g, "");
   const [containerWidth, setContainerWidth] = useState(0);
   const [containerHeight, setContainerHeight] = useState(0);
-  const series = useMemo(() => getStockSeries(ticker), [ticker]);
 
   useEffect(() => {
     const container = containerRef.current;

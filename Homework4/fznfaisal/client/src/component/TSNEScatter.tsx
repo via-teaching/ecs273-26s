@@ -1,21 +1,20 @@
 import * as d3 from "d3";
 import { debounce } from "lodash";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
-import { getTSNEPoints } from "../data";
 import { Margin, TSNEPoint } from "../types";
 
 interface TSNEScatterProps {
   selectedTicker: string;
+  points: TSNEPoint[];
 }
 
 const margin: Margin = { top: 24, right: 180, bottom: 56, left: 68 };
 
-export function TSNEScatter({ selectedTicker }: TSNEScatterProps) {
+export function TSNEScatter({ selectedTicker, points }: TSNEScatterProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const svgRef = useRef<SVGSVGElement>(null);
   const [size, setSize] = useState({ width: 0, height: 0 });
-  const points = useMemo(() => getTSNEPoints(), []);
 
   useEffect(() => {
     const container = containerRef.current;
@@ -47,7 +46,7 @@ export function TSNEScatter({ selectedTicker }: TSNEScatterProps) {
   }, []);
 
   useEffect(() => {
-    if (!svgRef.current || !size.width || !size.height) {
+    if (!svgRef.current || !size.width || !size.height || !points.length) {
       return;
     }
 

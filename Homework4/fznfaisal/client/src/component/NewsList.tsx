@@ -1,13 +1,13 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 
-import { getNewsItems } from "../data";
+import { NewsItem } from "../types";
 
 interface NewsListProps {
   ticker: string;
+  items: NewsItem[];
 }
 
-export function NewsList({ ticker }: NewsListProps) {
-  const items = useMemo(() => getNewsItems(ticker), [ticker]);
+export function NewsList({ ticker, items }: NewsListProps) {
   const [expandedId, setExpandedId] = useState<string | null>(items[0]?.id ?? null);
 
   useEffect(() => {
