@@ -1,0 +1,37 @@
+Title: Anthropic launches cybersecurity partnership with Nvidia, Microsoft, other tech giants after latest AI model finds 'thousands' of previously unknown bugs
+Date: 2026-04-07 18:01 UTC
+URL: https://finance.yahoo.com/markets/article/anthropic-launches-cybersecurity-partnership-with-nvidia-microsoft-other-tech-giants-after-latest-ai-model-finds-thousands-of-previously-unknown-bugs-180115193.html?.tsrc=rss
+Content:
+Anthropic ( ANTH.PVT ) on Tuesday announced a cybersecurity partnership with companies including Amazon ( AMZN ), Apple ( AAPL ), and Microsoft ( MSFT ) that it said will help defend against the rise of AI-powered cyberattacks.
+
+Called Project Glasswing, the initiative relies on Anthropic’s new Claude Mythos Preview, a frontier model that the company said will only be made available to a handful of organizations. A group of roughly 40 other companies that work on critical software infrastructure will be able to use the model to secure their own software and open-source offerings.
+
+Anthropic said Claude Mythos Preview is already proving effective at detecting software vulnerabilities, stating that the AI has “identified thousands of zero-day vulnerabilities, many of them critical.”
+
+Zero-day vulnerabilities are previously unknown errors in software that developers need to address before they can be exploited, or errors that have already been exploited by attackers and need to be fixed before they can cause any more harm.
+
+It’s also detected flaws in every major operating system and web browser, and found one software bug that was 27 years old, and another that’s 16 years old.
+
+“Given the rate of AI progress, it will not be long before such capabilities proliferate, potentially beyond actors who are committed to deploying them safely. Project Glasswing is a starting point,” Anthropic said in a statement.
+
+“No one organization can solve these cybersecurity problems alone: frontier AI developers, other software companies, security researchers, open-source maintainers, and governments across the world all have essential roles to play,” the company added. “The work of defending the world’s cyber infrastructure might take years; frontier AI capabilities are likely to advance substantially over just the next few months. For cyber defenders to come out ahead, we need to act now.”
+
+Claude Mythos Preview, Anthropic explained, is a general purpose, previously unreleased AI model that uses “strong agentic coding and reasoning skills” to tackle cybersecurity tasks.
+
+Unlike its previous AI models, Anthropic doesn’t plan to make Claude Mythos Preview generally available.
+
+As part of the effort, the company said it’s committing $100 million worth of usage credits and $4 million in direct donations to open-source cybersecurity organizations.
+
+In addition to its work with its fellow tech companies, Anthropic said it’s in discussions with the US government about Claude Mythos Preview’s defensive and offensive abilities.
+
+That’s despite the fact that Anthropic and the Pentagon are locked in a legal battle over Anthropic’s decision to establish redlines as to how the Department of Defense can use its AI models.
+
+The Trump administration lambasted Anthropic for the move and labeled the company a supply chain risk, but a judge has temporarily halted that order.
+
+The Project Glasswing announcement comes just a week after Anthropic said it accidentally leaked some of its internal source code. The leak was a result of human error, not a hack, but it raised concerns about cybersecurity in the age of AI and how model companies are protecting their software.
+
+Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley .
+
+Click here for the latest technology news that will impact the stock market
+
+Read the latest financial and business news from Yahoo Finance

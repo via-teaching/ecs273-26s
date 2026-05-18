@@ -1,0 +1,43 @@
+Title: Anthropic pulls ahead of OpenAI as revenue race heats up
+Date: 2026-04-07 19:37 UTC
+URL: https://www.proactiveinvestors.com/companies/news/1090140/anthropic-pulls-ahead-of-openai-as-revenue-race-heats-up-1090140.html?.tsrc=rss
+Content:
+The content on this Site is provided for information purposes only and does not constitute investment advice, a personal recommendation, an offer or solicitation to buy or sell securities, or any other regulated activity. It should not be relied upon as the basis for any investment decision.
+
+Before making any investment decision, you should:
+
+Past performance is not a reliable indicator of future results. The value of investments can fall as well as rise. You may not recover the amount you invest, and in some cases you may be required to pay more.
+
+Angela Harmantas is an Editor at Proactive. She has over 15 years of experience covering the equity markets in North America, with a particular focus on junior resource stocks. Angela has reported from numerous countries around the world, including Canada, the US, Australia, Brazil, Ghana, and South Africa for leading trade publications. Previously, she worked in investor relations and led the foreign direct investment program in Canada for the Swedish government. She earned a Bachelor of... Read more
+
+Proactive financial news and online broadcast teams provide fast, accessible, informative and actionable business and finance news content to a global investment audience. All our content is produced independently by our experienced and qualified teams of news journalists.
+
+Proactive news team spans the world’s key finance and investing hubs with bureaus and studios in London, New York, Toronto, Vancouver, Sydney and Perth.
+
+We are experts in medium and small-cap markets, we also keep our community up to date with blue-chip companies, commodities and broader investment stories. This is content that excites and engages motivated private investors.
+
+The team delivers news and unique insights across the market including but not confined to: biotech and pharma, mining and natural resources, battery metals, oil and gas, crypto and emerging digital and EV technologies.
+
+Proactive has always been a forward looking and enthusiastic technology adopter.
+
+Our human content creators are equipped with many decades of valuable expertise and experience. The team also has access to and use technologies to assist and enhance workflows.
+
+Proactive will on occasion use automation and software tools, including generative AI. Nevertheless, all content published by Proactive is edited and authored by humans, in line with best practice in regard to content production and search engine optimisation.
+
+Published: 15:37 07 Apr 2026 EDT
+
+Anthropic, the artificial intelligence company backed by Google, Amazon, and Microsoft, has crossed $30 billion in annualized revenue, outpacing OpenAI for the first time, according to Jefferies analysts.
+
+The surge comes after Anthropic added roughly $21 billion in net new annualized revenue in just three months, more than one-third of the $58 billion added by Jefferies’ entire public software coverage (excluding Microsoft) in all of 2025.
+
+Analysts note that this rapid growth is likely to stoke concerns that Anthropic and OpenAI could dominate corporate IT budgets.
+
+Anthropic’s growth has been fueled in part by a recent agreement with Google and Broadcom to supply around 3.5 gigawatts of next-generation TPU-based AI compute capacity, expected to come online in 2027. Jefferies highlighted that similar capacity deals may follow, benefiting cloud providers like Google, Amazon, and Microsoft.
+
+“Anthropic’s continued acceleration should help support future revenue and order growth for its cloud partners,” analysts wrote, citing Google’s reported 158% year-over-year increase in remaining performance obligations in the fourth quarter of 2025.
+
+Despite Anthropic pulling ahead in revenue, analysts caution that OpenAI remains a formidable competitor. OpenAI has raised significantly more capital, secured substantial compute capacity, and maintains a large and engaged user base, including more than 900 million weekly active users. Its free-tier users provide a substantial data advantage, with the potential to drive monetization through advertising and other services.
+
+“As demand continues to surge, we believe Anthropic will need to keep scaling compute commitments, while carefully balancing capacity between training future frontier models and serving inference demand today, especially given scaling laws remain very much intact,” analysts wrote.
+
+Jefferies concluded that while Anthropic may currently lead in revenue, both companies are likely to continue shaping AI spending across enterprise IT budgets, with further growth expected as demand for AI compute capacity continues to accelerate.

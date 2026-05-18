@@ -1,0 +1,33 @@
+Title: Anthropic touts AI cybersecurity project with Big Tech partners
+Date: 2026-04-07 18:00 UTC
+URL: https://finance.yahoo.com/sectors/technology/articles/anthropic-touts-ai-cybersecurity-project-180049730.html?.tsrc=rss
+Content:
+April 7 (Reuters) - Anthropic on Tuesday announced an initiative with major technology companies, including Amazon.com, Microsoft and Apple , that lets partners preview ‌an advanced model with cybersecurity capabilities developed by the AI startup.
+
+Under ‌its "Project Glasswing", select organizations will be allowed to use the startup's unreleased and general-purpose AI model, "Claude ​Mythos Preview", for defensive cybersecurity work, Anthropic said. Other partners include CrowdStrike, Palo Alto Networks, Google and Nvidia .
+
+How does Claude Mythos Preview enhance defensive cybersecurity?
+
+Which major tech companies are partnering with Anthropic?
+
+What vulnerabilities has Mythos Preview already discovered?
+
+What is Anthropic's Project Glasswing cybersecurity initiative?
+
+The announcement follows a Fortune report last month that Anthropic was testing Claude Mythos, which it said posed security risks and also ‌offered advanced capabilities, dragging shares ⁠of cybersecurity firms such as Palo Alto Networks and CrowdStrike sharply lower.
+
+This year's RSA cybersecurity conference in San Francisco was ⁠also dominated by talk about the rise of AI-powered cyberattacks and whether conventional security tools sufficed.
+
+In a blog post on Tuesday, Anthropic said Mythos Preview had ​found "thousands" of ​major vulnerabilities in operating systems, web browsers ​and other software.
+
+The startup said ‌launch partners will use Mythos Preview in their defensive security work, and Anthropic will share findings with industry.
+
+Anthropic said it is also extending access to about 40 additional organizations responsible for critical software infrastructure, and made a commitment of up to $100 million in usage credits and $4 million in donations to open-source ‌security groups.
+
+The AI startup added that its ​eventual goal is for "our users to safely deploy ​Mythos-class models at scale."
+
+The startup ​said it has also been in ongoing discussions with the ‌U.S. government about the model's capabilities.
+
+Last ​year, Anthropic said ​that hackers exploited vulnerabilities in its Claude AI to attack around 30 global organizations. Moreover, 67% of the 1,000 executives surveyed in an IBM ​and Palo Alto Networks ‌study said they had been targeted by AI attacks within the ​past year.
+
+(Reporting by Jaspreet Singh in Bengaluru and Jeffrey Dastin in ​San Francisco; Editing by Leroy Leo)

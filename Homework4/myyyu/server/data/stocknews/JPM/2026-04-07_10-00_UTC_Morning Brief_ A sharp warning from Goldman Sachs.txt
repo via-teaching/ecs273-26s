@@ -1,0 +1,153 @@
+Title: Morning Brief: A sharp warning from Goldman Sachs
+Date: 2026-04-07 10:00 UTC
+URL: https://finance.yahoo.com/news/morning-brief-a-sharp-warning-from-goldman-sachs-100056994.html?.tsrc=rss
+Content:
+👋 Good morning! Markets spent much of Monday in a state of confused optimism over Iran, sending markets slightly into the green, though oil prices rose.
+
+The S&P 500 ( ^GSPC ) gained 0.4%, the Dow ( ^DJI ) 0.3%, and the Nasdaq ( ^IXIC ) 0.5%.
+
+With threats, deadlines, and by-the-minute news changes, Iran and the Strait of Hormuz continue to drive the day.
+
+On the agenda this morning:
+
+🇮🇷 Iran war update, week six
+
+💨 Tech is doing everything right and getting left behind
+
+⚠️ A sharp warning from Goldman Sachs
+
+🎰 Kalshi scores a court victory
+
+⚡️ A bold call from JPM: Tesla could drop 60%
+
+📫 Jamie Dimon's letter is out
+
+📆 What we're watching Tuesday: Besides Iran, with inflation back in the market's driver's seat (one of them, anyway), we're watching for changes in the New York Fed's one-year inflation expectations.
+
+₿ Strategy's first quarter featured a $14.5 billion unrealized loss. Bitcoin's big fall has pinched the crypto treasury company.
+
+🤖 AI agents have stolen a lot of jobs from humans over the past year. Goldman Sachs calculated that AI is causing a net drag of 16,000 jobs per month for growth, boosting the unemployment rate by 0.1 of a percentage point .
+
+📈 'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict.
+
+🤖 Big Tech's second quarter just started, and it's already facing major challenges. Spending, Iran, and more.
+
+🚀 SpaceX's IPO could supercharge the entire space industry. Rising tides — and rockets.
+
+🍿 Netflix debuts new 'Playground' gaming app for kids. Peppa and Sesame Street are involved.
+
+₿ Bitcoin jumps over $70,000 . Optimism from Iran buoys the cryptocurrency.
+
+🤑 What to know about X Money. It's Elon Musk's fintech app that claims to pay 6% on savings.
+
+🏦 Alexander Hamilton's 241-year-old bank just got tapped for Trump accounts . Bank of New York Mellon got the call.
+
+💸 Trump administration signals it will offer broad tariff refunds . That could mean millions for companies .
+
+🤖 OpenAI releases policy proposals aimed at addressing fallout from AI-driven job losses. They're bold.
+
+See what else is trending on Yahoo Finance .
+
+Markets are eying the Tuesday 8 p.m. ET deadline President Trump has given for Iran to open the Strait of Hormuz against the penalty of bombing power plants and bridges — a likely violation of international law that prevents targeting of civilian infrastructure.
+
+But the threat comes amid gestures that telegraph the possibility of a resolution . It's not a clear picture, and markets will have to resign themselves to being passengers on quite the roller coaster.
+
+But both sides have thus far rejected the other's ceasefire plans. Trump has previously threatened to attack Iran's power grid but has reversed course, inviting criticism and raising questions about US military strategy — or lack thereof.
+
+Trump has made reopening the strait a key condition for any peace deal, and the effective blockade has been at the center of the war's economic disruption. Iran, while rejecting a proposal for a ceasefire, has demanded a permanent end to the war and an end to sanctions, as well as a protocol for safe ‌passage through the strait.
+
+On Monday, Trump rejected the Iranian response, insisted his deadline was final, and said that while he'd "like to take the oil ... unfortunately the American people would like to see us come home."
+
+Certainly messaging that points toward lower odds of escalation.
+
+Read more.
+
+It used to be the case that a powerful showing from the biggest tech companies could override whatever else was going on in the world.
+
+As CEOs liked to put it, the macro environment was challenging, but the industry's margins, protective moats, and maneuvering could still win the day. The war in Iran has strained that paradigm , as our colleague Dan Howley noted Monday.
+
+Even as a monumental shift toward AI adoption is underway across corporate America — a new railroad! a new internet! — you wouldn't know it based on Big Tech's stock slump as the market rolls toward the second quarter's earnings season kickoff.
+
+Rising yields triggered by the US-Israel bombing campaign against Iran have derailed the tech rally. Instead of welcoming the next rate cut from the Fed, investors are bracing for an extended pause or even the slim but not impossible chance of a rate hike by the end of the year.
+
+Tech exploited the chaos and screen fixations of the COVID pandemic and weathered the volatility of Trump's trade war. But it has faltered in the first six weeks of the Iran conflict. In some cases, tech's success has worked against it as investors took profits to limit their exposure. And in the broader investor flight, tech's unofficial status as a safe haven has lost some of its luster.
+
+Read more.
+
+Goldman Sachs, like many firms, has been digging into the data on how AI is affecting the labor market.
+
+While the impact is real but small, one key result they're seeing is people taking longer and longer to find a new job. Especially tech workers, who see job searches lengthen by a month and earnings drop.
+
+"A key mechanism behind these worse outcomes is occupational downgrading," the firm wrote. "Workers displaced by technology are more likely to move into more routine occupations requiring fewer analytical and interpersonal skills, likely because the same technological shifts that eliminated their positions also eroded the value of their existing skills."
+
+A couple of weeks ago, we noted that Microsoft's hiring freeze could be something of a playbook for firms' AI plans, given the advantages of lower drama and inevitability of attrition.
+
+Longer job searches certainly would support that notion, though we're still seeing plenty of layoff news.
+
+Read more.
+
+A federal appeals court has ruled for the first time on the central issue tied to the backlash against prediction markets: how they should be regulated.
+
+It's the industry's contention, and the Trump administration's stance, that the US Commodity Futures Trading Commission, rather than individual states, should have oversight, thereby bypassing state gambling laws.
+
+On Monday, a three-judge panel for the 3rd Circuit Court of Appeals ruled in favor of Kalshi.
+
+"This is a big win for the industry and millions of users," Kalshi CEO Tarek Mansour said in a post on X.
+
+The ruling prevents New Jersey gaming regulators from blocking Kalshi from offering contracts on sports-related events. But its broader significance is bringing platforms, including Kalshi and Polymarket, closer to a paradigm in which they are essentially self-policed and overseen by a friendly CFTC, which views Kalshi's products as "swaps" rather than bets similar to those offered by online sportsbooks like DraftKings and FanDuel.
+
+While the ruling is a clear victory for Kalshi, it doesn't settle the matter. Other courts in jurisdictions across the country are considering similar cases. And New Jersey could request that the case be reheard in front of the 3rd Circuit's full court.
+
+Read more.
+
+"We continue to believe the bottoming in the software trade is likely in the rear-view mirror."
+
+—Wedbush's Dan Ives
+
+While SpaceX's fortunes blast off, Tesla's may be going in the other direction.
+
+As we wrote on Saturday, some Tesla bulls think SpaceX will rescue the company with a merger , lifting it up if its robotaxi ambitions fail to wow investors.
+
+If they don't, JPMorgan analysts say Tesla could be in trouble.
+
+"The +50% rise in Tesla shares and +32% increase in analyst price targets ... implies an expectation for a sharp pivot to materially better than earlier expected performance in the time beyond this decade," JPMorgan analyst Ryan Brinkman wrote in a note out on Monday.
+
+Unfortunately, Brinkman added, it has coincided with "expectations for Tesla performance having collapsed for all financial and performance metrics across all time periods through the end of the decade."
+
+With flagging expectations and a "sharp pivot" to great results priced in, something may have to give. For Brinkman, it's a $160 price target — a 60% drop from current levels.
+
+Read more.
+
+Jamie Dimon published a 48-page shareholder letter on Monday. (For those counting, this is significantly longer than the dozen-odd pages Warren Buffett would send each year.)
+
+He went over a lot: Iran, the AI transformation, the credit concerns, trade, and the American consumer.
+
+A key theme that emerged from the commentary was concern about inflation, which he said could be the "skunk at the party" if price growth accelerated rather than moderating further from the Fed's target.
+
+Read our coverage here. But most of all, we'd love to know what you think. How does this affect his unofficial candidacy to become the "next Buffett"? Certainly, at 48 pages, it'd be hard to call this appointment reading for the average investor.
+
+Economic data: ADP weekly employment change, week ended Mar. 21 (10,000+ previously); Durable goods orders, February preliminary reading (-1% expected, +0.0% previously); NY Fed 1-year inflation expectations, March (+3% previously)
+
+Earnings calendar: Levi Strauss & Co. ( LEVI ), The Greenbrier Companies ( GBX )
+
+Economic data: MBA mortgage applications, week ended Apr. 3 (-10.4% previously); FOMC meeting minutes, meeting ended Mar. 18
+
+Earnings calendar: Delta Air Lines ( DAL ), Constellation Brands ( STZ ), RPM International ( RPM ), Applied Digital ( APLD ), PriceSmart ( PSMT )
+
+Economic data: Personal income, February (+0.3% expected, +0.4% previously); Personal spending, February (+0.5% expected, +0.4% previously); PCE price index, month-on-month, February (+0.4% expected, +0.3% previously); PCE price index, year-on-year, February (+2.8% expected, +2.8% previously); Core PCE price index, month-on-month, February (+0.4% expected, +0.4% previously); Core PCE price index, year-on-year, February (+3% expected, +3.1% previously); Initial jobless claims, week ended Apr. 4 (+210,000 expected, +202,000 previously); Continuing claims, week ended Mar. 28 (+1.841 million previously); GDP annualized, quarter-on-quarter, fourth quarter (+0.7% expected, +0.7% previously)
+
+Earnings calendar: WD-40 Company ( WDFC ), Neogen Corporation ( NEOG ), BlackBerry, ( BB ) The Simply Good Foods Company ( SMPL )
+
+Friday
+
+Economic data: CPI, month-on-month, March (+1% expected, +0.3% previously); Core CPI, month-on-month, March (+0.3% expected, +0.2% previously); CPI, year-on-year, March (+3.4% expected, +2.4% previously); Core CPI, year-on-year, March (+2.7% expected, +2.5% previously); Real average hourly earnings, year-on-year, March (+1.3% previously); Real average weekly earnings, year-on-year, March (+1.6% previously); Factory orders, February (-0.2% expected, +0.1% previously); University of Michigan sentiment, April preliminary reading (52 expected, 53.3 previously); U. Mich. current conditions, April preliminary reading (55.8 previously); U. Mich. expectations, April preliminary reading (51.7 previously); U. Mich. 1-year inflation, April preliminary reading (+3.8% previously); U. Mich. 5-10year inflation, April preliminary reading (+3.2% previously); Durable goods orders, February final reading (+0.0% previously)
+
+Earnings calendar: Lotus Technology ( LOT )
+
+Hamza Shaban is a reporter for Yahoo Finance covering markets and the economy. Follow Hamza on X @hshaban .
+
+Ethan Wolff-Mann is a Senior Editor at Yahoo Finance, running newsletters. Follow him on X @ewolffmann .
+
+Click here for in-depth analysis of the latest stock market news and events moving stock prices
+
+Read the latest financial and business news from Yahoo Finance

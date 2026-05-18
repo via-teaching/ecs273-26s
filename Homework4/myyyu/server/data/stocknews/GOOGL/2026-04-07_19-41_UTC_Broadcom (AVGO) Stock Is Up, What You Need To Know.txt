@@ -1,0 +1,27 @@
+Title: Broadcom (AVGO) Stock Is Up, What You Need To Know
+Date: 2026-04-07 19:41 UTC
+URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-know-194150742.html?.tsrc=rss
+Content:
+Shares of fabless chip and software maker Broadcom (NASDAQ:AVGO) jumped 4.1% in the afternoon session after it announced a massive five-year deal with Google to design and supply custom AI chips.
+
+These chips, known as Tensor Processing Units, will be used in Google’s data centers through 2031. The agreement also includes networking parts that help AI systems communicate. Investors were excited because this partnership secures a steady, long-term source of income from one of the world’s largest tech giants. It also confirms that Broadcom remains a critical player in the rapidly growing artificial intelligence market.
+
+The stock also climbed due to an expanded partnership with the AI startup Anthropic. This deal allows Anthropic to access high-powered computing resources powered by Broadcom’s technology starting next year. Wall Street analysts suggest these new contracts could bring in billions of dollars more than previously expected.
+
+After the initial pop the shares cooled down to $329.35, up 4.8% from previous close.
+
+Is now the time to buy Broadcom? Access our full analysis report here, it’s free .
+
+Broadcom’s shares are quite volatile and have had 16 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful but not something that would fundamentally change its perception of the business.
+
+The previous big move we wrote about was 7 days ago when the stock gained 2.8% on the news that Nvidia announced a strategic partnership and a $2 billion investment in fellow chipmaker Marvell Technology.
+
+Following the news, Marvell's stock surged 6.9%, while Nvidia's shares also climbed, providing a lift to the broader semiconductor sector. The collaboration aims to connect Marvell to NVIDIA's AI ecosystem through its NVLink Fusion technology, giving customers more flexibility in developing advanced infrastructure.
+
+This significant investment by the AI chip leader stressed the continued rapid expansion and high-stakes competition within the artificial intelligence hardware industry, boosting investor confidence across the sector.
+
+Broadcom is down 5.3% since the beginning of the year, and at $329.35 per share, it is trading 20.2% below its 52-week high of $412.97 from December 2025. Despite the year-to-date decline, investors who bought $1,000 worth of Broadcom’s shares 5 years ago would now be looking at an investment worth $6,826.
+
+ALSO WORTH WATCHING: Nvidia’s Quiet Partner. Nvidia’s chips cost a hundred grand. The connectors that make them work cost even more. One company makes them all.
+
+Every AI server needs specialized infrastructure the chip companies don’t make. High-speed cables. Power connectors. Thermal sensors. This 90-year-old company built a monopoly on it. The AI boom just started. This stock is still flying under the radar. Claim The Stock Ticker Here for FREE .

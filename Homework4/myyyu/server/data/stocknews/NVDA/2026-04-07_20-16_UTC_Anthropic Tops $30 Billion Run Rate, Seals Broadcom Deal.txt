@@ -1,0 +1,33 @@
+Title: Anthropic Tops $30 Billion Run Rate, Seals Broadcom Deal
+Date: 2026-04-07 20:16 UTC
+URL: https://finance.yahoo.com/news/anthropic-tops-30-billion-run-221045473.html?.tsrc=rss
+Content:
+(Bloomberg) -- Anthropic PBC said its revenue run rate has now topped $30 billion, up from $9 billion at the end of 2025, and confirmed plans to work with Broadcom Inc. and Google to power its burgeoning operations.
+
+The AI startup said that demand for its Claude services has accelerated this year, with more than 1,000 business customers spending over $1 million on an annual basis. That figure has more than doubled since February.
+
+The collaboration with Broadcom and Google, which was first announced last month, will help Anthropic build “the capacity necessary to serve the remarkable growth we have seen in our customer base,” Chief Financial Officer Krishna Rao said in a statement. The annual run rate — a popular benchmark among tech startups — extrapolates the current sales level over a full year.
+
+The latest numbers suggest that a high-profile dispute with the US government hasn’t stymied growth. Anthropic is waging a legal fight over the Pentagon’s decision to declare the company a supply-chain risk following a standoff over AI safety guardrails.
+
+Broadcom shares gained 6.2% on Tuesday in New York, the biggest single-day increase in two months. Alphabet stock climbed 1.8%.
+
+Anthropic has warned that the labeling could cost it billions in lost revenue, and an attorney for the company recently told a judge in San Francisco that the federal government’s actions led to more than 100 enterprise customers contacting the company to express doubt about continuing their work with Anthropic.
+
+Still, some customers respect that Anthropic “demonstrates its principles” in its dealings with the US government, Paul Smith, Anthropic’s chief commercial officer, said in an interview last week.
+
+Broadcom is developing chips using Google’s tensor processing units, or TPUs, offering an alternative to technology from Nvidia Corp. Broadcom and Alphabet Inc.’s Google have entered a long-term agreement to provide the chips and a supply assurance pact that runs through 2031, according to a Broadcom filing Monday.
+
+The three companies also are expanding a strategic collaboration that will let Anthropic access about 3.5 gigawatts’ worth of computing power. That will begin in 2027.
+
+“The consumption of such expanded AI compute capacity by Anthropic is dependent on Anthropic’s continued commercial success. In connection with this deployment, the parties are in discussions with certain operational and financial partners,” Broadcom said in the filing.
+
+The company’s chief executive officer, Hock Tan, previously discussed the collaboration during an earnings call last month. He also said Broadcom expects its AI chip sales to top $100 billion next year, making it a bigger competitor to Nvidia.
+
+Google’s TPUs were originally designed to speed up its ubiquitous search engine, but have become useful at creating and running AI software. Broadcom takes Google’s specifications and creates fully-formed designs that can then be sent for manufacturing.
+
+(Updates with shares in fifth paragraph.)
+
+More stories like this are available on bloomberg.com
+
+©2026 Bloomberg L.P.
