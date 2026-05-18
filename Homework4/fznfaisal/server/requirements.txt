@@ -2,5 +2,3 @@ fastapi
 motor
 uvicorn
 pydantic
-pandas
-asyncio
