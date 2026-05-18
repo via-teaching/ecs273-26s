@@ -1,0 +1,24 @@
+Title: NVIDIA’s Company Wide Codex Rollout Puts AI Use And Valuation In Focus
+Date: 2026-04-26 16:04
+URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-company-wide-codex-rollout-160423744.html?.tsrc=rss
+
+Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St.
+NVIDIA (NasdaqGS:NVDA) is rolling out OpenAI's Codex AI coding agent, powered by GPT-5.5, across its global workforce.
+More than 10,000 employees are already using the agent across engineering, product, sales, marketing, finance, and operations.
+The deployment runs on NVIDIA's GB200 NVL72 computers with public backing from Jensen Huang and Sam Altman.
+The initiative positions NVIDIA as a large scale internal adopter of AI agents, potentially serving as a reference case for enterprise customers.
+NVIDIA, trading at around $208.27 per share, has delivered very large multi year returns, including about 87.7% over the past year and roughly 7x over three years. For investors tracking NasdaqGS:NVDA, this new Codex rollout adds another concrete example of how the company is using AI internally, not just supplying chips and systems to others.
+The company wide use of an AI coding and productivity agent gives you a real world case study of how AI tools may reshape workflows inside a major tech supplier. As customers assess AI infrastructure and agent adoption, NVIDIA's own deployment could become part of the commercial story around its hardware and software stack.
+Stay updated on the most important news stories for NVIDIA by adding it to your watchlist or portfolio . Alternatively, explore our Community to discover new perspectives on NVIDIA.
+We've flagged 2 risks for NVIDIA. See which could impact your investment.
+✅ Price vs Analyst Target : At US$208.27, the share price sits about 22% below the US$268.61 analyst target.
+❌ Simply Wall St Valuation : Shares are trading roughly 10.2% above the platform's estimated fair value.
+✅ Recent Momentum : The 30 day return of about 24.3% shows strong short term momentum into this news.
+There is only one way to know the right time to buy, sell or hold NVIDIA. Head to the Simply Wall St company report for the latest analysis of NVIDIA's Fair Value. .
+📊 Company wide adoption of OpenAI Codex positions NVIDIA as a reference user of AI agents, which may strengthen its pitch to enterprise customers.
+📊 Watch how the US$208.27 price tracks against the US$268.61 analyst target and the current P/E of 42.1x versus the Semiconductor industry average of 50.8x.
+⚠️ High levels of non cash earnings and flagged risks, including insider selling over the past 3 months, mean you may want to look closely at earnings quality.
+For the full picture including more risks and rewards, check out the complete NVIDIA analysis . Alternatively, you can check out the community page for NVIDIA to see how other investors believe this latest news will impact the company's narrative.
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include NVDA .
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com

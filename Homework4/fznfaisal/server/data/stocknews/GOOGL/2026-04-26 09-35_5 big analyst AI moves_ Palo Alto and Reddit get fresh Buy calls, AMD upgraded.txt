@@ -1,0 +1,93 @@
+Title: 5 big analyst AI moves: Palo Alto and Reddit get fresh Buy calls, AMD upgraded
+Date: 2026-04-26 09:35
+URL: https://finance.yahoo.com/markets/stocks/articles/5-big-analyst-ai-moves-093502052.html?.tsrc=rss
+
+Americans are feeling less confident about their retirement savings. Here are some of the best ways to get started early.
+BMW has long treated the 7 Series as its technological proving ground — where its ambitious ideas first find a home.
+Bank of America's 'sleep like a baby' portfolio is having its best year since 1933
+Warsh confirmation set to advance as GOP holdout Tillis backs vote (Bloomberg)
+Elon Musk's lawsuit against Sam Altman and OpenAI goes to trial Monday, and the company's future may hang in the balance.
+The week ahead sees Jerome Powell's penultimate meeting as Fed chair, and five of the Mag 7 will report earnings.
+With gas prices over $4 a gallon, interest in hybrids and EVs appears to be on the rise among prospective car buyers.
+The best (and worst) time of year to buy a house
+Trump cancels trip by US negotiators for peace talks with Iran (Financial Times)
+The traditional notion of where to move in retirement is getting a shakeup. Here's what to know.
+After a post-pandemic bust, home buying is picking up in Austin.
+Software's comeback bid is fading as chip stocks smash records
+Food prices were already straining Americans’ pocketbooks. The Iran war could make the problem even starker.
+Big Tech's jobs cuts feel like an economic warning
+Nvidia leaps to new high, pushing market cap above $5 trillion again
+The Nasdaq and S&P 500 jumped to record highs to end an earnings-filled week as Intel topped its 2000 peak
+The Department of Justice is dropping its criminal probe of Federal Reserve Chair Jerome Powell.
+After an earnings beat, Intel’s stock is blasting through a dot-com-era ceiling
+Nasdaq and S&P 500 rise as Intel stock soars, Dow slips amid Hormuz tensions
+Meta to buy Graviton chips from Amazon as CPU sales soar
+Intel stock soars on earnings beat and strong outlook driven by data center demand
+The Dow, S&P 500, and Nasdaq retreated as software stocks plunged, while oil surged on Iran war concerns
+Meta cuts thousands of jobs; Microsoft reportedly offers buyouts to 7% of workers
+US stocks slide as oil rises amid Hormuz standoff, while Tesla slips after earnings
+Why Tesla investors should love this version of CEO Elon Musk
+Tesla shares jumps as earnings, sales top forecasts
+The S&P 500 and Nasdaq hit fresh records as market rally resumes, with Tesla earnings on deck
+US stocks rise after Trump extends the US-Iran ceasefire indefinitely
+Best Buy taps insider Jason Bonfig as new CEO, as Corie Barry steps down
+Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire
+Kevin Warsh just faced a fiery Senate hearing. He still doesn’t have a clear path to becoming Fed chair.
+The Dow, S&P 500, and Nasdaq slid as US-Iran peace talks were put on hold
+Kevin Warsh testifies he never made a deal with Trump to lower interest rates as Fed chair
+Fed nominee Kevin Warsh testified that he won't be Trump's "sock puppet" in contentious Senate hearing. Follow live.
+Kevin Warsh, President Trump's pick to lead the Fed, is set to testify in front of the Senate Banking Committee. Follow along live.
+US stocks climb with Warsh hearing, Iran talks in focus
+Tim Cook is stepping down as Apple CEO. His 15-year run made investors $4 trillion richer.
+Apple CEO Tim Cook steps down, John Ternus to take role
+Dow slips, S&P 500 and Nasdaq retreat from records with Middle East peace talks at risk
+Scott Melker delivers a high-octane, 15-minute crypto briefing every weekday on Yahoo Finance. Check out the first episode
+Stocks edged lower as US-Iran tensions resumed, shuttering the Strait of Hormuz
+A longer-term car loan can lower the barrier to entry for buyers — but these loan terms are not without drawbacks.
+The AI trade has been able to insulate itself from disruptions caused by the Middle East war.
+Gas prices may remain at $3 per gallon or more until next year, US Energy Secretary Chris Wright said Sunday. (Bloomberg)
+As big banks kick off earnings season, strategists say the "dominant theme" for investors is shifting back to Big Tech and energy.
+Ceasefire talks, record highs for the US stock market, and Tesla earnings will be in focus for investors.
+In the rarefied world of luxury automobiles, Rolls-Royce just upped the altitude.
+Gas prices "rise like a rocket and fall like a feather."  Here's what to know.
+The million dollar retirement planning question: How long will you live?
+The software rebound is real, but not every big name is back
+Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.
+Evercore ISI analyst Amit Daryanani has added Arista Networks to the firm’s Tactical Outperform list ahead of its first-quarter earnings report, pointing to a beat-and-raise setup for the company.
+Arista is due to report on May 5, and Daryanani expects it to come in ahead of consensus estimates of $2.61 billion in revenue and $0.81 in EPS, driven by stronger AI demand and sustained enterprise momentum.
+The analyst also expects Arista to guide second-quarter revenue above the $2.78 billion consensus and to at least qualitatively raise its full-year target of roughly $11.25 billion.
+Daryanani noted that the company is securing incremental wins at Anthropic and Google beyond its traditional customer base, and highlighted the March launch of XPO as a potential accelerant as network clusters migrate from 800G to 1.6 terabit infrastructure.
+Berenberg initiated coverage of Palo Alto Networks this week with a Buy rating and a $215 price target, with analyst Rahul Chopra arguing that a broad sell-off in software stocks has opened up an attractive entry point into one of cybersecurity’s strongest franchises.
+Chopra noted that the sector has been swept up in the "AI eats software" narrative that has weighed on technology shares since late 2025, dragging Palo Alto’s valuation roughly 30% below its 2024-25 average multiple — despite no meaningful deterioration in the company’s organic growth.
+"We believe this de-rating is particularly overdone and view AI as an opportunity rather than a risk; platform vendors are likely to benefit disproportionately," he wrote in a note.
+Rather than a threat, Chopra sees AI as a tailwind for cybersecurity demand. As companies embed AI across their operations, the attack surface grows — more data, more cloud applications, more identities to protect.
+The rise of agentic AI "materially expands the TAM for cybersecurity vendors as AI agents need to be protected," he added. He also argued that cybersecurity platforms sit on proprietary, real-time threat intelligence gathered across large customer bases — a data advantage that AI model providers cannot easily replicate.
+Central to Berenberg’s bull case is Palo Alto’s "platformisation" strategy, through which it replaces multiple point security products with integrated solutions across network security, cloud, and security operations.
+Berenberg estimates the company has completed 1,550 platformisations to date, up from 850 in mid-2024, with management targeting 2,500 to 3,500 by fiscal 2030. Chopra believes the market is underpricing this momentum, with consensus implying only around 2,600 platformisations — toward the lower end of that range.
+"We think consensus understates both the pace and the economics of the strategy, we estimate 6-14% upside to FY30E consensus revenues," he wrote.
+The economics of platformised customers are compelling, he added. Palo Alto reports a net revenue retention rate of 119% for this cohort, with low single-digit gross churn. Customers using all three platforms spend roughly $4.1 million per year, compared with $86,000 for those on a single platform.
+Chopra also flagged the recently completed acquisitions of identity security firm CyberArk for $19 billion and observability platform Chronosphere for $3 billion as meaningful catalysts, bringing Palo Alto’s estimated addressable market to $206 billion.
+"We believe current multiples do not reflect the improving portfolio quality, the success of the platformisation strategy, and Palo Alto’s best-in-class ’Rule-of-40’ within the software peer group," Chopra concluded.
+DA Davidson upgraded AMD on Friday, moving its rating to Buy from Neutral and raising its price target from $220 to $375. Analyst Gil Luria pointed to "a structural increase in CPU demand" and greater clarity around AMD’s place in the rapidly expanding data center market.
+He expects "meaningful upside to AMD’s estimates, starting with the March quarter," ahead of AMD’s May 5 earnings report.
+Luria also flagged stronger-than-expected results from Intel as an early sign that the broader CPU market is picking up again. "Intel’s results indicate that [it] is already translating to very significant upside," he said, with Intel executives pointing to double-digit industry growth through 2027.
+CPU is "reinserting itself as an indispensable foundation of the AI era," the analyst said, as agentic workloads shift computing demand beyond GPUs. He referenced Intel’s observation that the GPU-to-CPU ratio — once around 8-to-1 for pretraining — is moving "closer to parity for agentic workloads."
+Luria described Intel’s performance as a precursor to a major step-up for AMD’s CPU business, saying the shift toward agentic AI is driving unprecedented server CPU demand. The analyst also noted that AMD is well-placed to raise prices across its portfolio, with demand likely to outpace supply.
+On estimates, DA Davidson lifted its 2026 revenue forecast by $2 billion and gross profit by $1.5 billion, noting that recent data makes AMD’s long-term targets "much more doable."
+KeyBanc raised its price target on Intel to $110 from $70, while maintaining an Overweight rating, after the chipmaker delivered strong first-quarter 2026 results and guided second-quarter revenue above expectations.
+Intel shares surged more than 23% following the report, taking the stock to a new all-time high.
+KeyBanc pointed to robust server CPU demand driven by agentic AI as the key growth engine, with Intel’s Data Center and AI segment expanding 22% year-over-year. Analyst John Vinh summarized the quarter plainly: "Strong results as agentic AI drives DCAI growth of 22%; INTC posted strong 1Q26 results and guided 2Q26 solidly above."
+Gross margin improved nearly 500 basis points to 41%, helped by price increases and better yields on Intel’s 18A manufacturing process. The foundry business continues to make progress on 18A yields, with firm commitments for its next-generation 14A process expected in the second half of 2026.
+Intel’s advanced packaging backlog also grew, with a multi-year buildout of back-end facilities planned to meet committed demand in 2027.
+D.A. Davidson analyst Wyatt Swanson initiated coverage of Reddit on Tuesday with a Buy rating and a $200 price target, arguing that the stock’s sharp decline this year has created a compelling entry point for investors.
+Reddit shares have fallen roughly 33% year-to-date, pressured by concerns over slowing user growth, the company’s negotiating position with large AI firms, and broader macro uncertainty.
+Swanson nonetheless argues that Reddit remains "incredibly under-monetized relative to peers," and that its platform — built around text-based community discussion rather than social graphs or short-form video — gives it a structural edge as a data source for large language models.
+He also pointed to Reddit’s outsized relevance in the AI ecosystem, citing a study in the note that identifies Reddit as the most-cited domain across major AI platforms including ChatGPT, Google AI Overviews, and Perplexity.
+Ahead of first-quarter results, Swanson said traffic data from Similarweb points to Reddit beating daily active user consensus estimates by roughly 1.3%, in line with its average beat since going public.
+"However, we think that expectations have come down given a choppier March, and there is a compelling opportunity for Reddit to outperform, especially as April TD Y/Y performance is the strongest we’ve observed in 12 months," he added.
+Swanson also highlighted Reddit’s existing and pending data licensing deals with AI companies. Its current contracts with Google and OpenAI are up for renewal in early to mid-2027, and his base case assumes Reddit can renegotiate those agreements at 15 to 30% higher rates.
+While the analyst expects most catalysts to materialize in the second half of 2026 and into 2027, he believes the stock’s year-to-date underperformance "represents an opportunity to BUY."
+Related articles
+5 big analyst AI moves: Palo Alto and Reddit get fresh Buy calls, AMD upgraded
+Goldman expects lower but still attractive stock market returns in 2026
+As Claude disrupts stock market, Anthropic researcher warns ’world is in peril’

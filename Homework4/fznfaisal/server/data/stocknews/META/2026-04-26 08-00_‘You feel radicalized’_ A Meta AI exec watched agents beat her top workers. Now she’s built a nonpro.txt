@@ -1,0 +1,75 @@
+Title: ‘You feel radicalized’: A Meta AI exec watched agents beat her top workers. Now she’s built a nonprofit to help Gen Z find jobs before they disappear
+Date: 2026-04-26 08:00
+URL: https://finance.yahoo.com/sectors/technology/articles/feel-radicalized-meta-ai-exec-080000358.html?.tsrc=rss
+
+Americans are feeling less confident about their retirement savings. Here are some of the best ways to get started early.
+BMW has long treated the 7 Series as its technological proving ground — where its ambitious ideas first find a home.
+Bank of America's 'sleep like a baby' portfolio is having its best year since 1933
+Warsh confirmation set to advance as GOP holdout Tillis backs vote (Bloomberg)
+Elon Musk's lawsuit against Sam Altman and OpenAI goes to trial Monday, and the company's future may hang in the balance.
+The week ahead sees Jerome Powell's penultimate meeting as Fed chair, and five of the Mag 7 will report earnings.
+With gas prices over $4 a gallon, interest in hybrids and EVs appears to be on the rise among prospective car buyers.
+The best (and worst) time of year to buy a house
+Trump cancels trip by US negotiators for peace talks with Iran (Financial Times)
+The traditional notion of where to move in retirement is getting a shakeup. Here's what to know.
+After a post-pandemic bust, home buying is picking up in Austin.
+Software's comeback bid is fading as chip stocks smash records
+Food prices were already straining Americans’ pocketbooks. The Iran war could make the problem even starker.
+Big Tech's jobs cuts feel like an economic warning
+Nvidia leaps to new high, pushing market cap above $5 trillion again
+The Nasdaq and S&P 500 jumped to record highs to end an earnings-filled week as Intel topped its 2000 peak
+The Department of Justice is dropping its criminal probe of Federal Reserve Chair Jerome Powell.
+After an earnings beat, Intel’s stock is blasting through a dot-com-era ceiling
+Nasdaq and S&P 500 rise as Intel stock soars, Dow slips amid Hormuz tensions
+Meta to buy Graviton chips from Amazon as CPU sales soar
+Intel stock soars on earnings beat and strong outlook driven by data center demand
+The Dow, S&P 500, and Nasdaq retreated as software stocks plunged, while oil surged on Iran war concerns
+Meta cuts thousands of jobs; Microsoft reportedly offers buyouts to 7% of workers
+US stocks slide as oil rises amid Hormuz standoff, while Tesla slips after earnings
+Why Tesla investors should love this version of CEO Elon Musk
+Tesla shares jumps as earnings, sales top forecasts
+The S&P 500 and Nasdaq hit fresh records as market rally resumes, with Tesla earnings on deck
+US stocks rise after Trump extends the US-Iran ceasefire indefinitely
+Best Buy taps insider Jason Bonfig as new CEO, as Corie Barry steps down
+Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire
+Kevin Warsh just faced a fiery Senate hearing. He still doesn’t have a clear path to becoming Fed chair.
+The Dow, S&P 500, and Nasdaq slid as US-Iran peace talks were put on hold
+Kevin Warsh testifies he never made a deal with Trump to lower interest rates as Fed chair
+Fed nominee Kevin Warsh testified that he won't be Trump's "sock puppet" in contentious Senate hearing. Follow live.
+Kevin Warsh, President Trump's pick to lead the Fed, is set to testify in front of the Senate Banking Committee. Follow along live.
+US stocks climb with Warsh hearing, Iran talks in focus
+Tim Cook is stepping down as Apple CEO. His 15-year run made investors $4 trillion richer.
+Apple CEO Tim Cook steps down, John Ternus to take role
+Dow slips, S&P 500 and Nasdaq retreat from records with Middle East peace talks at risk
+Scott Melker delivers a high-octane, 15-minute crypto briefing every weekday on Yahoo Finance. Check out the first episode
+Stocks edged lower as US-Iran tensions resumed, shuttering the Strait of Hormuz
+A longer-term car loan can lower the barrier to entry for buyers — but these loan terms are not without drawbacks.
+The AI trade has been able to insulate itself from disruptions caused by the Middle East war.
+Gas prices may remain at $3 per gallon or more until next year, US Energy Secretary Chris Wright said Sunday. (Bloomberg)
+As big banks kick off earnings season, strategists say the "dominant theme" for investors is shifting back to Big Tech and energy.
+Ceasefire talks, record highs for the US stock market, and Tesla earnings will be in focus for investors.
+In the rarefied world of luxury automobiles, Rolls-Royce just upped the altitude.
+Gas prices "rise like a rocket and fall like a feather."  Here's what to know.
+The million dollar retirement planning question: How long will you live?
+The software rebound is real, but not every big name is back
+Every job is an AI job now. That’s at least how Clara Shih sees it. The former AI exec at Meta and Salesforce , has seen the future of the job market, and it’s a workforce fully enabled by AI.
+Shih has worked in AI for 20 years. But the turning point came for her last fall when she saw Meta’s AI agents match and even surpass some of her top employees across multiple tasks.
+What challenges does Gen Z face in today's workplace?
+How is AI transforming the modern job market?
+What are different perspectives on AI's workplace impact?
+How can AI tools help job seekers find employment?
+“In that moment I knew that nothing would ever be the same,” she told Fortune . “You feel radicalized in that moment when you see it working.”
+Around the same time, Shih was hearing from the kids of friends and family members—some of whom are Ivy League graduates—about the impossibility of landing a job. That’s why she launched the New Work Foundation, a nonprofit organization, with consumer-facing brand Dear CC , aiming to train Gen Z for a future workplace dominated by AI agents.
+“I realized that the only way to help people keep up with the pace of AI was to give them AI tools,” said Shih, who is no longer head of business AI at Meta but is currently an adviser there. “Because if you use the traditional ways…it’s just not fast enough to keep pace with how quickly AI is advancing.”
+AI has progressed at a breakneck pace, quickly transforming from a fun gadget used to draft emails and generate cat memes into a sophisticated tool that now threatens to displace a sizable chunk of white-collar workers.
+As a result of that swift development, Gen Zers today find themselves in a bind . The threat of AI-related layoffs, combined with a slowdown in entry-level job openings, has many rethinking their career choices. According to a recent ZipRecruiter report , many are exploring alternatives to the corporate ladder, including entrepreneurship, gig work, and trade school. Still, Shih believes there is a way forward for recent graduates.
+“If you want to find a job and if you want to keep your job, you need to learn how to get really good at using AI agents,” she said.
+That sentiment echoes what’s already playing out in the office. A recent survey from AI enterprise platform Writer found that employees actively using AI in their day-to-day tasks are more likely to earn a promotion or a raise than compared to employees refusing to adopt the tech.
+To help Gen Z develop and prepare for the workforce in the AI age, the New Work Foundation just launched several AI-enabled tools. One of them is called Field Report, which offers job seekers a glimpse into the state of their preferred career path.
+Looking into a career in law, for example, shows there are 31,500 open roles in the U.S., but while competition is low, the AI automation risk is very high.
+The foundation also has an AI agent called JobClaw to help job seekers find roles based on their strengths and interests, no résumé required. All you have to do is fill out a five-question intake form about who you are and what you actually want out of a career.
+As AI evolves, so too will the labor market. Some business leaders, like Anthropic CEO Dario Amodei believe the technology will disrupt half of the white-collar workforce. But others, like Nvidia CEO Jensen Huang foresee the technology working alongside human workers, even enabling more hiring.
+Whether or not Gen Z chooses to adopt AI, Shih said the future of work is moving ahead without them.
+But as adoption grows, many Gen Zers have soured on the technology. A recent Gallup poll found that Gen Z’s sentiment toward AI has grown significantly more negative compared to a year ago. But Shih said those who are rejecting the technology are actually some of the people most critical to its evolution.
+“The people who have moral objections to AI, those are actually the people that I want involved, making sure that we steer these systems in the right direction,” she said.
+This story was originally featured on Fortune.com

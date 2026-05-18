@@ -1,0 +1,38 @@
+Title: Microsoft vs. Broadcom: Which AI Stock Is a Better Buy?
+Date: 2026-04-26 19:26
+URL: https://www.fool.com/investing/2026/04/26/microsoft-vs-broadcom-which-ai-stock-is-a-better-b/?.tsrc=rss
+
+Both of these tech titans are riding the artificial intelligence wave, but one of them seems like a better long-term investment than the other.
+When investors think about the artificial intelligence (AI) boom, a few dominant names usually come to mind. Two companies that have been at the center of this revolution are software and cloud computing giant Microsoft ( MSFT +2.11% ) and semiconductor specialist Broadcom ( AVGO +0.62% ) .
+As we head deeper into 2026, some investors may be wondering which of these two technology leaders is the better growth stock to buy. After all, their stocks have diverged in 2026, making it a good time to look at them. Microsoft is down by more than 12%, while Broadcom is up by more than 22%.
+Should investors buy the dip in Microsoft? Or is the better move to buy the momentum in Broadcom?
+Image source: The Motley Fool.
+Microsoft has seen impressive growth in its business this year. And, impressively, its growth has been broad-based. Although its cloud computing business, Azure, has been the main driver of its strong momentum.
+In its fiscal second quarter of 2026 (the period ended Dec. 31, 2025), the software giant's revenue rose 17% year over year to $81.3 billion. And its non-GAAP (adjusted) earnings per share increased 24% to $4.14.
+A key contributor to this performance was the company's intelligent cloud segment, which includes its Azure cloud computing platform, where revenue jumped 29% year over year to $32.9 billion. Within that segment, Microsoft's "Azure and other cloud services" revenue climbed 39%.
+The company also saw solid performance in its productivity and business processes segment, which houses its essential Office software. Revenue here rose 16% to $34.1 billion, driven by strong adoption of its commercial cloud offerings. Microsoft 365 commercial cloud revenue rose 17% year over year, and Microsoft 365 consumer cloud revenue rose jumped 29%. In addition, Dynamics 365 revenue rose 19% year over year.
+Further, the company's commercial remaining performance obligation (RPO) -- a metric that captures contracted future revenue -- notably hit $625 billion, up a staggering 110% year over year.
+But there is a catch. Microsoft's capital expenditures came in at an eye-popping $37.5 billion in fiscal Q2. The company is spending heavily to build out the data centers and compute capacity required to support this AI demand.
+But there's good reason for this heavy investment. Microsoft chief financial officer Amy Hood noted in the company's fiscal second-quarter earnings call that demand continues to outpace available infrastructure, despite the company's aggressive investment stance.
+With this said, while this spending might be necessary, as capital expenditures rise rapidly, they eventually show up as depreciation and could weigh on the company's profit margin over time.
+Broadcom's recent results, on the other hand, tell a story of sheer acceleration.
+In its fiscal first quarter of 2026 (the period ended Feb. 1, 2026), the company's revenue reached a record $19.3 billion, up 29% year over year. And its adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA) rose 30% to $13.1 billion.
+Driving these results was Broadcom's semiconductor solutions segment. AI semiconductor revenue skyrocketed 106% year over year to $8.4 billion, completely crushing expectations.
+And the momentum seems to be building. Management guided fiscal second-quarter revenue of approximately $22 billion, implying about 47% year-over-year growth -- a huge acceleration. Even more impressive, management expects AI semiconductor revenue to surge 140% year over year to $10.7 billion in the current quarter.
+Broadcom also generated $8 billion in free cash flow during fiscal Q1 (representing 41% of revenue), contributing to its continued financial strength and playing a role in the company's ability to return $10.9 billion to shareholders through dividends and share repurchases during fiscal Q1 alone.
+Both Microsoft and Broadcom are exceptional businesses. But when forced to choose between the two, Broadcom arguably looks more attractive, given its incredible momentum and management's clear visibility into its customers' roadmaps, as Broadcom works closely with its biggest customers as part of custom-silicon projects that CEO Hock Tan said in the company's latest earnings call are "deep, strategic, and multi-year." These collaborations also include "multi-year supply agreements as our customers scale up deployment of their compute infrastructure," Tan added.
+Additionally, Broadcom said in its latest quarterly update that it has impressively fully secured capacity for key components supporting its custom silicon through 2028, enabling it to meet surging demand from its largest customers without running into supply constraints.
+And when it comes to valuation, Broadcom stock is cheaper than it looks at first glance. Just consider the significant difference between its forward price-to-earnings ratio of 38 and its trailing price-to-earnings ratio of 82. Because the company's earnings are growing so rapidly, the premium investors are paying for future profits is much lower than what the trailing numbers suggest. Of course, Broadcom stock still trades at a higher premium than Microsoft, which has a trailing price-to-earnings ratio of about 27. But I think Broadcom's better growth profile and management's visibility into its customers' multi-year silicon roadmaps justify this higher premium.
+Investors, however, should keep in mind the risks. Broadcom's heavy reliance on large hyperscalers means that losing just one of these key customers could dramatically alter its business trajectory. But given how early we seem to be in the AI boom, and the stock's attractive valuation on a forward earnings basis, I think risks seem to be priced better than the risks that Microsoft faces (potential software disruption from AI and the big spending required to build out its cloud computing business) are.
+For investors looking for a purer and arguably more lucrative play on the AI infrastructure build-out, Broadcom seems like the better buy today.
+Daniel Sparks and his clients have no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Broadcom and Microsoft. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
