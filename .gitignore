@@ -8,6 +8,8 @@ build/
 # ignore environment variables
 *.env
 *.env.local
+.venv/
+__pycache__/
 
 # ignore OS system files
 .DS_Store
