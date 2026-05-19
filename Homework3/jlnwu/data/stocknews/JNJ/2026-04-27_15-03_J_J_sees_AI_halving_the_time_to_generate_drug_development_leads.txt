@@ -1,0 +1,76 @@
+Title: J&J sees AI halving the time to generate drug development leads
+Date: 2026-04-27 15:03
+URL: https://finance.yahoo.com/sectors/healthcare/articles/j-j-sees-ai-halving-150312205.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+The Dow, S&P 500, and Nasdaq dropped as chip stocks sank and oil rose
+S&P 500 and Nasdaq sink, Dow rises as OpenAI-linked stocks falter and UAE exits OPEC
+The United Arab Emirates will leave OPEC+ effective May 1
+The only number that matters for 'Magnificent 7' earnings this week
+The S&P 500 and Nasdaq notched fresh records, while oil edged higher as markets weighed Iran peace odds
+Gasoline prices are expected to turn higher as oil holds above $100 per barrel amid uncertainty over the US-Iran war
+US stocks open mixed as markets brace for a big week of Big Tech earnings.
+The rapid run-up in chip stocks has reignited the AI trade as the S&P 500 and Nasdaq sit at record highs.
+Americans are feeling less confident about their retirement savings. Here are some of the best ways to get started early.
+BMW has long treated the 7 Series as its technological proving ground — where its ambitious ideas first find a home. 
+Bank of America's 'sleep like a baby' portfolio is having its best year since 1933
+Warsh confirmation set to advance as GOP holdout Tillis backs vote (Bloomberg)
+Elon Musk's lawsuit against Sam Altman and OpenAI goes to trial Monday, and the company's future may hang in the balance.
+The week ahead sees Jerome Powell's penultimate meeting as Fed chair, and five of the Mag 7 will report earnings.
+With gas prices over $4 a gallon, interest in hybrids and EVs appears to be on the rise among prospective car buyers.
+The best (and worst) time of year to buy a house
+Trump cancels trip by US negotiators for peace talks with Iran (Financial Times)
+The traditional notion of where to move in retirement is getting a shakeup. Here's what to know.
+After a post-pandemic bust, home buying is picking up in Austin.
+Software's comeback bid is fading as chip stocks smash records
+Food prices were already straining Americans’ pocketbooks. The Iran war could make the problem even starker. 
+Big Tech's jobs cuts feel like an economic warning
+Nvidia leaps to new high, pushing market cap above $5 trillion again
+The Nasdaq and S&P 500 jumped to record highs to end an earnings-filled week as Intel topped its 2000 peak
+The Department of Justice is dropping its criminal probe of Federal Reserve Chair Jerome Powell.
+After an earnings beat, Intel’s stock is blasting through a dot-com-era ceiling
+Nasdaq and S&P 500 rise as Intel stock soars, Dow slips amid Hormuz tensions
+Meta to buy Graviton chips from Amazon as CPU sales soar
+Intel stock soars on earnings beat and strong outlook driven by data center demand
+The Dow, S&P 500, and Nasdaq retreated as software stocks plunged, while oil surged on Iran war concerns
+Meta cuts thousands of jobs; Microsoft reportedly offers buyouts to 7% of workers
+US stocks slide as oil rises amid Hormuz standoff, while Tesla slips after earnings
+Why Tesla investors should love this version of CEO Elon Musk
+Tesla shares jumps as earnings, sales top forecasts
+The S&P 500 and Nasdaq hit fresh records as market rally resumes, with Tesla earnings on deck
+US stocks rise after Trump extends the US-Iran ceasefire indefinitely
+Best Buy taps insider Jason Bonfig as new CEO, as Corie Barry steps down
+Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire
+Kevin Warsh just faced a fiery Senate hearing. He still doesn’t have a clear path to becoming Fed chair.
+The Dow, S&P 500, and Nasdaq slid as US-Iran peace talks were put on hold
+Kevin Warsh testifies he never made a deal with Trump to lower interest rates as Fed chair
+Fed nominee Kevin Warsh testified that he won't be Trump's "sock puppet" in contentious Senate hearing. Follow live.
+Kevin Warsh, President Trump's pick to lead the Fed, is set to testify in front of the Senate Banking Committee. Follow along live.
+US stocks climb with Warsh hearing, Iran talks in focus
+Tim Cook is stepping down as Apple CEO. His 15-year run made investors $4 trillion richer.
+Apple CEO Tim Cook steps down, John Ternus to take role
+Dow slips, S&P 500 and Nasdaq retreat from records with Middle East peace talks at risk
+Scott Melker delivers a high-octane, 15-minute crypto briefing every weekday on Yahoo Finance. Check out the first episode
+Stocks edged lower as US-Iran tensions resumed, shuttering the Strait of Hormuz
+A longer-term car loan can lower the barrier to entry for buyers — but these loan terms are not without drawbacks.
+By Michael Erman
+NEW YORK, April 27 (Reuters) - Johnson & Johnson is using artificial intelligence to slash by half the time it takes to generate new leads for developing drugs, the company's chief information officer ‌said on Monday.
+Discovering new products outright and bringing them to market using AI is not yet possible, ‌but J&J is using the new technology to screen the "potential universe" for promising chemical compounds or biologics, CIO Jim Swanson said at the ​Reuters Momentum AI event in New York.
+"That's still a ways away, but we can optimize," Swanson said. "We've cut our lead optimization time in half."
+The New Jersey-based pharmaceutical and medical device company has been working toward a more-focused approach to AI, honing in on core processes like AI-enabled products, drug development and supply chain optimization.
+"We're trying to cure cancer," Swanson said. "We need ‌every tool that we can leverage to ⁠be able to do that."
+Through the use of AI, Swanson said the company has already accelerated the development process for two compounds - one in oncology and another in immunology. The ⁠company is working to develop new drugs as it moves past the patent expiration of Stelara, one of its top-selling medicines, used to treat psoriasis and other autoimmune conditions.
+FASTER MAPPING, PRECISION CUTTING
+In J&J's medical devices business, the company is using AI in ​products to ​help surgeons in the operating room, Swanson said. AI has ​reduced times to map the heart for procedures ‌to correct arrhythmias and improved precision for knee and hip replacements, he said.
+AI has been useful in manufacturing, helping to determine when to add solvent at the appropriate time and temperature, Swanson said.
+J&J is also using AI to streamline preparation of documents for regulators. The traditional process for a clinical trial report can take 700 to 900 hours, the CIO said.
+That time has gone from "700 hours to about 15 minutes," Swanson said.
+Other companies have said AI is helping ‌find participants and sites for clinical trials and drafting documents for ​regulators, shaving weeks off labor-intensive processes. It can take a decade and ​cost billions to bring a new drug to ​market.
+"We treat patients all around the world, and so we want to make sure that ‌in our clinical studies they represent the patient ​populations that we're serving," Swanson said. "AI ​is being used to make sure we can accelerate enrollment with diverse patient populations."
+Swanson said rather than people being replaced by the technology, he sees using AI as an additional skill for the company's employees. ​J&J currently has about 4,000 information ‌technology employees out of 140,000 total.
+"A software engineer isn't getting replaced, now their role is expanding," he ​said. "Our focus continues to be on skills. These are 'and' skills, not 'or' skills."
+(Reporting by Michael Erman; writing ​by Chris Prentice; Editing by Caroline Humer and Bill Berkrot)
+Weʼre unable to load stories right now.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

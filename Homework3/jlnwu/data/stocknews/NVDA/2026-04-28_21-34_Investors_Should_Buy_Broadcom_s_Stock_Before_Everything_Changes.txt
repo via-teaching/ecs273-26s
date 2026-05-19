@@ -1,0 +1,51 @@
+Title: Investors Should Buy Broadcom's Stock Before Everything Changes
+Date: 2026-04-28 21:34
+URL: https://www.fool.com/investing/2026/04/28/investors-should-buy-broadcoms-stock-before-everyt/?.tsrc=rss
+
+Broadcom management expects $100 billion in custom AI chip revenue next year.
+Broadcom (AVGO 4.37%) is one of the greatest stocks that not everyone has discovered yet. Although it's a $2 trillion giant, investors seem to often forget about it. However, I think that will change over the next few years.
+Broadcom is a rising competitor in the artificial intelligence (AI) chips space, and management has already told investors that major changes are coming, and these will easily push Broadcom to new heights. I think investors need to take notice and invest accordingly, as Broadcom is about to change the AI computing realm.
+Image source: Getty Images.
+Most of the investing attention surrounding AI computing has been on Nvidia (NVDA 1.45%), which makes broad-purpose GPUs. This shouldn't come as a surprise, as it holds the largest market share, by far, of the computing chip designers. However, Broadcom is coming for Nvidia.
+Broadcom isn't offering broad-purpose GPUs. Instead, it's collaborating directly with AI hyperscalers to create custom AI chips that are tailored to their workloads. This often provides the best cost performance for training and inference, and only comes at the cost of flexibility.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends at 9 AM EST on 4/30/2026.
+Most AI companies know what their workloads will look like by now, so designing a chip with Broadcom to optimize performance is a no-brainer. Furthermore, they will always maintain some level of access to Nvidia chips to handle other workloads that don't suit their standard variety.
+Said CEO Hock Tan in March: "...our custom accelerator business grew 140% year-on-year in Q1. This momentum continues in Q2. The ramp of custom AI accelerators across all our five customers is progressing very well."
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor’s total average return is 991%* — a market-crushing outperformance compared to 201% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of April 28, 2026. 
+The best example of a Broadcom-designed chip is Google's Tensor Processing Unit (TPU). A lot more companies are starting to deploy TPUs in their AI stacks, and that's due to their impressive performance. Over the next few years, there will be an increase in TPU usage alongside other custom AI chips being launched.
+All of this is leading to substantial growth for Broadcom. Currently, custom AI chips are accounted for in the AI semiconductor division, which generated $8.4 billion in revenue in its latest quarter, up 106% year over year. There are other products in that segment, so custom AI chips by themselves aren't delivering more than $8.4 billion in quarterly revenue.
+However, by the end of 2027, Tan believes custom AI chips will deliver $100 billion or more in revenue. That's major growth in a short time frame, and showcases the orders that Broadcom is receiving to produce more custom AI chips.
+
+AVGO Revenue (TTM) data by YCharts
+I think this will dramatically change how the market views Broadcom over the next few years. Although it's already a $2 trillion company, it could have even greater upside ahead if custom AI chips become more popular than Nvidia's broad-purpose GPUs, as I think they will.
+
+ 
+
+
+Before you buy stock in Broadcom, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Broadcom wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $492,752!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,327,935!*
+Now, it’s worth noting Stock Advisor’s total average return is 991% — a market-crushing outperformance compared to 201% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 28, 2026. 
+
+Keithen Drury has positions in Broadcom and Nvidia. The Motley Fool has positions in and recommends Broadcom and Nvidia. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends at 9 AM EST on 4/30/2026.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

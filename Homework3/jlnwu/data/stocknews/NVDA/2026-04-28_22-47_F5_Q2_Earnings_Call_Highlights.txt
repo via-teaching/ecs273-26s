@@ -1,0 +1,85 @@
+Title: F5 Q2 Earnings Call Highlights
+Date: 2026-04-28 22:47
+URL: https://www.marketbeat.com/instant-alerts/f5-q2-earnings-call-highlights-2026-04-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+
+F5 NASDAQ: FFIV reported what executives characterized as a “robust” second quarter of fiscal 2026, driven by double-digit product growth, strong international demand, and what management described as accelerating customer focus on hybrid multi-cloud architectures, application security, and AI-related use cases.
+
+
+On the company’s earnings call, Chairman, President, and CEO François Locoh-Donou said the quarter reflected “the powerful combination of secular and cyclical demand trends,” as customers invest in resiliency, data sovereignty, and preparations for AI. CFO Cooper Werner said the company is raising its full-year revenue growth outlook to 7% to 8%, up from 5% to 6% previously, and increased its non-GAAP EPS outlook range.
+
+
+Werner said F5’s Q2 revenue grew 11% year-over-year to $812 million, with a mix of 51% product revenue and 49% services revenue. Product revenue increased 22% to $411 million, while services revenue grew 2% to $401 million.
+
+
+Profitability improved on a non-GAAP basis, with Werner reporting non-GAAP gross margin of 83.7% and non-GAAP operating margin of 33.8%. GAAP net income was $148 million, or $2.58 per share, while non-GAAP net income was $223 million, or $3.90 per share, representing 14% non-GAAP EPS growth year-over-year.
+
+
+F5 also generated record cash flow, with $366 million in operating cash flow and $348 million in free cash flow during the quarter. The company ended Q2 with $1.46 billion in cash and investments and deferred revenue of $2.12 billion, up 10% from the year-ago period. F5 repurchased $100 million of shares at an average price of $269 per share, with $522 million remaining on its authorization.
+
+
+By region, Werner said revenue from the Americas grew 3% and represented 50% of total revenue. EMEA revenue grew 22% and represented 32% of revenue, while APAC grew 19% and represented 18%.
+
+
+Locoh-Donou attributed a portion of the international strength to “robust international demand for digital sovereignty initiatives.” Later in the Q&A, he told Morgan Stanley’s Meta Marshall that F5 views the EMEA trend as durable and said the company has increased field coverage in the region and expects to “accentuate our focus there on the defense sector.”
+
+
+By product bookings, enterprise customers contributed 66% of Q2 product bookings, government represented 24% (including 8% from U.S. Federal), and service providers contributed 9%.
+
+
+Locoh-Donou framed the company’s opportunity around three forces: hybrid multi-cloud adoption, an expanding threat landscape, and what he called an “AI inference inflection.” He cited company research indicating more than 90% of enterprises run hybrid multi-cloud across an average of 19 locations, while 78% run inference themselves using more than seven models on average.
+
+
+He also described a “refresh plus” cycle, where customers refresh legacy systems while adding new use cases. As examples from the quarter, he said F5 supported a healthcare services organization that expanded a refresh into an AI-driven consumer engagement platform, and displaced an incumbent provider at a Fortune 100 energy company that needed scalability across cloud while maintaining on-premises performance. He also cited a BIG-IP customer in energy and utilities adopting Distributed Cloud Services to standardize API protection across data center, cloud, and edge environments.
+
+
+On security, Locoh-Donou said customers are deploying more application security and moving beyond “checkbox security,” while emphasizing the need for “best-in-class defenses” against AI-driven attacks. In the Q&A, he told JPMorgan’s Samik Chatterjee that recent conversations with customers suggest a “step change,” arguing that AI has reduced the time window to patch vulnerabilities and increasing reliance on runtime security. He also said security products increasingly must be AI-powered.
+
+
+Locoh-Donou provided metrics from Distributed Cloud Services adoption trends, saying the number of customers choosing F5 for web application firewalls was up 62% year-over-year, API security up 54%, and bot defense up 33%.
+
+
+When asked by Barclays’ Tim Long for benchmarks on AI traction, Locoh-Donou said enterprises are increasingly putting AI into production, creating opportunity for F5 across three primary AI use cases: data delivery, AI runtime security, and AI factory load balancing.
+
+
+He said that in the first half of fiscal 2026, F5 recorded approximately $50 million in sales tied to these AI use cases, up more than 200% year-over-year. He added the company is “approaching about 100 customers” known to be using F5 for AI use cases, noting the figure is conservative because some AI-related activity is harder to quantify.
+
+
+Locoh-Donou also discussed an NVIDIA integration, saying F5 software has been refactored to work on ARM architectures and NVIDIA BlueField. He said F5 was formally added to NVIDIA’s reference architecture in December and that third-party tests validated the integration can help AI factories generate 30% to 40% more tokens for a given amount of GPUs. He said F5 is engaged in proof-of-concepts and trials, while noting many customers are still focused first on getting AI factories up and running before prioritizing efficiency.
+
+
+For Q3, Werner guided revenue to $820 million to $840 million, with non-GAAP EPS expected between $3.91 and $4.03. He guided non-GAAP gross margin to 82.5% to 83.5% and non-GAAP operating expenses to $406 million to $418 million.
+
+
+For fiscal 2026, F5 raised its revenue growth outlook to 7% to 8% and increased its non-GAAP EPS outlook to $16.25 to $16.55, up from $15.65 to $16.05. Werner said the company still expects mid-single-digit software revenue growth, double-digit systems revenue growth, and low single-digit services revenue growth for the year, and reiterated its non-GAAP operating margin outlook of 34% to 35%.
+
+
+Werner also flagged higher component costs, “primarily related to memory,” which he said will cause gross margins to step down sequentially from Q3 into Q4. In the Q&A, he said elevated memory costs are beginning to flow through after F5 built an early component position, and he expects memory prices to remain elevated “for at least through the better part of FY 2027,” with potential relief several quarters out. He said F5’s annual pricing review typically occurs in Q2 and that price adjustments related to rising memory costs could be made on a more one-off basis, though the raised FY 2026 revenue outlook does not contemplate new pricing adjustments.
+
+
+F5 also announced it will host an analyst and investor event in New York on Thursday, May 28, 2026, with details to be provided in a future press release, according to Vice President of Investor Relations Suzanne DuLong.
+F5 Inc NASDAQ: FFIV specializes in application services and delivery networking, helping organizations ensure the availability, performance and security of their applications. The company's core offerings include advanced load balancing, traffic management and application security solutions designed to optimize user experiences and protect against threats such as distributed denial-of-service (DDoS) attacks and web application exploits.
+
+
+At the heart of F5's product portfolio is the BIG-IP platform, which provides a suite of software modules for local and global traffic management, secure web application firewalling and DNS service delivery.
+This instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.
+Before you consider F5, you'll want to hear this.
+MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis. MarketBeat has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and F5 wasn't on the list.
+While F5 currently has a Hold rating among analysts, top-rated analysts believe these five stocks are better buys.
+View The Five Stocks Here 
+Wondering what the next stocks will be that hit it big, with solid fundamentals? Click the link to see which stocks MarketBeat analysts could become the next blockbuster growth stocks.
+Sign up for MarketBeat All Access to gain access to MarketBeat's full suite of research tools.
+Featured By
+
+                                        345 N Reid Place, Suite 620, Sioux Falls, SD 57103
+                                        
+                                        contact@marketbeat.com
+                                        
+                                        (844) 978-6257
+                                    
+© MarketBeat Media, LLC 2010-2026. All rights reserved.
+
+                                © 2026   Fair market value prices are updated every minute and are provided by Massive. Other market data provided is at least 10-minutes delayed and hosted by Barchart Solutions.  Information is provided 'as-is' and solely for informational purposes, not for trading purposes or advice, and is delayed. To see all exchange delays and terms of use please see Barchart's disclaimer. 
+
+My Account - 
+
+We and our partners share information on your use of this website to help improve your experience. For more information, or to opt out click the Do Not Sell My Information button below.
