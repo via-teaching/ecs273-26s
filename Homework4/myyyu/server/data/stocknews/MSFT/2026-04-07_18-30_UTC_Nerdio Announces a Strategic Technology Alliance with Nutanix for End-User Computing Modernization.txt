@@ -1,0 +1,41 @@
+Title: Nerdio Announces a Strategic Technology Alliance with Nutanix for End-User Computing Modernization
+Date: 2026-04-07 18:30 UTC
+URL: https://finance.yahoo.com/sectors/technology/articles/nerdio-announces-strategic-technology-alliance-183000331.html?.tsrc=rss
+Content:
+Nerdio and Nutanix redefine end-user computing in the artificial intelligence (AI) era with a unified hybrid cloud alliance built for Microsoft Azure Virtual Desktop
+
+Chicago, IL, April 07, 2026 (GLOBE NEWSWIRE) -- Nerdio, the leading automated end-user computing (EUC) platform for Microsoft Cloud technologies today announced a strategic technology alliance with Nutanix, a leader in hybrid multi-cloud computing, to aid organizations in their modernization efforts.
+
+Nerdio is collaborating with Nutanix to extend Nerdio Manager desktop orchestration and Azure Virtual Desktop (AVD) management capabilities for hybrid environments to the Nutanix Cloud Platform (NCP) solution. This will provide a new path for organizations to seamlessly modernize legacy virtual desktop infrastructure (VDI) deployments and deploy Azure Virtual Desktop no matter where they are on their cloud journey, whether on-premises or in the cloud.
+
+As part of Nerdio’s strategic technology alliance with Nutanix, Nerdio has prioritized the development of NCP as the first Azure Virtual Desktop for hybrid environment to integrate into Nerdio Manager and announced a private preview of Nerdio Manager’s desktop orchestration and management capabilities at Nutanix .NEXT 2026. This announcement brings an optimal administrative experience to a hybrid model that best supports performance-oriented users and empowers organizations to take proactive steps to modernize their legacy VDI solutions.
+
+“Legacy VDI platforms were built on dependencies that make change expensive and difficult. The alliance between Nerdio and Nutanix alters the math entirely. We are focused on one thing: removing the friction of modernization,” said Scott Manchester, Chief Product and Technology Officer, Nerdio. “By automating administrative workflows and simplifying the management of your Windows Cloud journey, we’re
+
+ensuring that organizations can finally trade infrastructure headaches for operational simplicity and ongoing innovation.”
+
+Until now, virtual desktop customers looking to modernize their VDI from legacy infrastructure had very limited options, including jumping completely to Azure or moving from their existing solutions to Azure Local. This meant migrating and refactoring applications, data, and desktops, requiring additional time and resources. That process proved too disruptive and resource-intensive for many organizations, especially those who had recently invested in application and desktop migrations to meet compliance and data sovereignty requirements.
+
+Leveraging Nerdio Manager with NCP, organizations have an easier migration path. They can move to Azure Virtual Desktop with Nerdio Manager, then seamlessly manage their desktop images on Nutanix AHV while using Nerdio Manager and Azure Virtual Desktop to modernize their VDI environments.
+
+“Customers are rethinking virtualization deployments, and Nutanix has been enabling that transition with AHV and Nutanix Cloud Clusters. With Nerdio supporting Azure Virtual Desktop for hybrid scenarios, together we’re making it faster and easier for customers to adopt and deploy Microsoft technologies,” said Tarkan Maner, President and Chief Commercial Officer, Nutanix. “The result is a clear path forward for EUC teams to manage their VDI solutions through a single management console with the Nutanix Cloud Platform.”
+
+Now that Nerdio Manager has expanded its desktop orchestration capabilities to Nutanix alongside existing Microsoft Azure and Azure Local resources, customers gain true infrastructure flexibility without changing their management or automation models. This allows organizations to modernize at their own pace—whether staying on-premises, moving fully to Azure, or running hybrid—while maintaining consistent operations, governance, and cost control across environments. Visit this page to register for the upcoming webinar, “Simplifying AVD for hybrid environments with Nerdio and Nutanix”.
+
+###
+
+About Nerdio
+
+Nerdio is a leading provider of powerful, simplified cloud management solutions for businesses of all sizes. Trusted by enterprise IT departments and managed service providers (MSPs) alike, Nerdio equips organizations with seamless, cost-effective management tools for Windows 365, Azure Virtual Desktop, and comprehensive Microsoft 365 solutions.
+
+With over 23,000 customers worldwide, Nerdio accelerates cloud adoption, enabling companies to thrive in an era of hybrid work by providing modern, future-proof technology that adapts to evolving workplace needs. For more information, please visit www.getnerdio.com .
+
+Media Contact
+
+Kaitlyn Ethier
+
+Nerdio
+
+media@getnerdio.com
+
+CONTACT: Kaitlyn Ethier Nerdio 978-578-0480 media@getnerdio.com

@@ -1,0 +1,25 @@
+Title: Anthropic Lets Apple, Amazon Test More Powerful Mythos AI Model
+Date: 2026-04-07 18:00 UTC
+URL: https://finance.yahoo.com/sectors/technology/articles/anthropic-lets-apple-amazon-test-180000528.html?.tsrc=rss
+Content:
+(Bloomberg) -- Anthropic PBC is letting tech firms access a more powerful, unreleased artificial intelligence model to help prepare for possible cyberattacks that might result from the company making the advanced AI system more widely available.
+
+Anthropic said Tuesday that it’s forming an initiative called Project Glasswing with Amazon.com Inc., Apple Inc., Microsoft Corp., Cisco Systems Inc. and other organizations. The companies will get access to a new Anthropic model called Mythos to hunt for flaws in their products and share findings with industry peers.
+
+The AI startup said it does not have plans yet to release Mythos to the general public, and will use what Project Glasswing reports back to inform guardrails for the technology.
+
+The arrangement reflects growing concerns among tech firms that more sophisticated models will be misused by criminals and state-backed hackers to hunt for flaws in source code and bypass cyber defenses. Anthropic rival OpenAI has also previously stressed the growing cyber capabilities of its models and introduced a pilot program meant to put its tools “in the hands of defenders first.”
+
+“We think this isn’t just Anthropic problem. This is an industry-wide problem that both private corporations but also governments need to be in a position to grapple with,” said Newton Cheng, who leads the cyber effort within Anthropic’s Frontier Red Team. “What we’re trying to do with Glasswing is give defenders a head start.”
+
+Anthropic said it has discussed Mythos’s security-related capabilities with US officials, but declined to say which agencies. Cheng pointed to the company’s existing work with the Cybersecurity and Infrastructure Security Agency and the National Institute of Standards and Technology.
+
+Mythos is a general-purpose AI model and was not specifically developed for cybersecurity purposes, Anthropic said. Yet, Mythos has already discovered a number of security issues, Cheng said, including a 27-year-old bug used in critical internet software. The AI system also found a 16-year-old vulnerability in a line of code for popular video game software that automated testing tools had scanned five million times but never detected, Anthropic said.
+
+Dianne Penn, head of product management for research at Anthropic, said there are protections in place to ensure that members of Project Glasswing keep a tight grip on access to the Mythos model, but declined to share more detail for security reasons.
+
+The existence of Mythos was first revealed thanks to a leak late last month after a draft blog post was left available in a publicly searchable data repository.
+
+More stories like this are available on bloomberg.com
+
+©2026 Bloomberg L.P.

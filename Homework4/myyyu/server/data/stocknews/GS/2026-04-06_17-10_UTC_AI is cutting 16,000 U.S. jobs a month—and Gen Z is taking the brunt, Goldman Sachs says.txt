@@ -1,0 +1,29 @@
+Title: AI is cutting 16,000 U.S. jobs a month—and Gen Z is taking the brunt, Goldman Sachs says
+Date: 2026-04-06 17:10 UTC
+URL: https://finance.yahoo.com/economy/articles/ai-cutting-16-000-u-171008831.html?.tsrc=rss
+Content:
+New research by Goldman Sachs economists finds that AI is already a measurable drag on the U.S. job market—erasing roughly 16,000 net jobs per month over the past year, with the pain falling hardest on Gen Z and entry-level workers.
+
+Goldman’s breakdown shows AI substitution wiped out roughly 25,000 jobs per month in the past year, while augmentation added back about 9,000.
+
+The findings, contained in a Goldman Sachs U.S. Daily note authored by economist Elsie Peng, represent one of the most granular attempts yet to separate AI’s two competing effects on employment: substitution, when AI replaces human workers outright, and augmentation, when AI makes existing workers more productive and may even expand hiring.
+
+Goldman’s economists combined standard AI exposure scores with a complementarity index developed by IMF economists to build the new framework. Under the model, an occupation scores high on substitution risk when AI can handle most of its core tasks, like insurance claims clerks and bill collectors. It scores high on augmentation potential when AI handles some tasks but human judgment, physical presence, or specialized expertise remain essential, such as lawyers, construction managers, and physicians.
+
+In occupations most exposed to AI substitution, the unemployment rate gap between entry-level workers (those under 30) and experienced workers (ages 31–50) has widened sharply relative to pre-pandemic averages.
+
+The wage gap has similarly deteriorated, with Goldman’s regression analysis estimating that a one standard-deviation increase in AI substitution exposure widens the entry-level-to-experienced wage gap by roughly 3.3 percentage points.
+
+The dynamic reflects a structural vulnerability baked into how young people enter the workforce. Gen Z workers are disproportionately concentrated in the exact types of routine, white-collar, and administrative roles—data entry, customer service, legal support, billing—that AI is best at automating. Without the accumulated experience and specialized judgment that insulate senior workers, they have little buffer against displacement.
+
+Goldman’s economists were careful to note that the true aggregate impact of AI is likely smaller than their estimates suggest. The analysis does not fully capture the offsetting hiring surge tied to AI infrastructure investments in data centers, power systems, and construction, nor does it fully account for the incremental labor demand generated when AI-driven productivity gains lower costs and expand markets.
+
+Also, Goldman’s framework rests not on a direct count of jobs lost to AI and jobs created by AI in real time, but on inferences derived from a regression analysis.
+
+To be sure, Gen Z is the generation most natively fluent in AI tools. The same cohort that seems to be absorbing the most displacement is also the cohort most likely to be using AI agents, building side projects with LLMs, and entering the workforce with AI literacy that their 45-year-old managers lack. The adaptation is already happening, but it isn’t showing up yet in Goldman’s regression coefficients.
+
+Put simply: AI is destroying some jobs, creating others, and making many workers more valuable—all at the same time. The problem for Gen Z is that the destruction is hitting first, faster, and harder in the roles they’re most likely to hold. The creation of new opportunities, if history is any guide, will take longer to materialize and may require very different skills to access.
+
+For this story, Fortune journalists used generative AI as a research tool. An editor verified the accuracy of the information before publishing.
+
+This story was originally featured on Fortune.com

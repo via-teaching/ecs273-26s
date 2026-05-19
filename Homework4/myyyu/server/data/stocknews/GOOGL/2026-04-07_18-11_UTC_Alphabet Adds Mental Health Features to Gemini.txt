@@ -1,0 +1,19 @@
+Title: Alphabet Adds Mental Health Features to Gemini
+Date: 2026-04-07 18:11 UTC
+URL: https://finance.yahoo.com/sectors/technology/articles/alphabet-adds-mental-health-features-181154625.html?.tsrc=rss
+Content:
+This article first appeared on GuruFocus .
+
+Alphabet ( GOOG , Financials ) is adding new mental health support features to its Gemini chatbot and committing $30 million over the next three years to help crisis hotlines expand their capacity worldwide.
+
+Warning! GuruFocus has detected 2 Warning Sign with NVO.
+
+Is GOOG fairly valued? Test your thesis with our free DCF calculator.
+
+Google said Gemini will now show a redesigned Help is available module when a conversation suggests a user may need mental health support. In situations involving possible suicide or self-harm, the chatbot will display a simplified one-touch interface that lets users call, text, chat with or visit a crisis hotline directly.
+
+The company said the new tools were developed with clinical experts and are designed to make access to care more immediate. Google also said the option to contact professional help will remain visible throughout the rest of the conversation once activated.
+
+Alongside the product changes, Google said it is expanding its partnership with ReflexAI, including $4 million in direct funding and Gemini integration into training tools used by social sector organizations.
+
+The move matters because it shows Alphabet is putting more resources behind AI safety as people use chatbots for increasingly personal and complex issues. Investors will likely watch how Google balances user growth, safety safeguards and regulatory scrutiny around AI products.

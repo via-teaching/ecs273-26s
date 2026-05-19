@@ -1,0 +1,31 @@
+Title: Intel to Join Musk’s Terafab in Surprise Move, Lifting Stock
+Date: 2026-04-07 20:23 UTC
+URL: https://finance.yahoo.com/markets/stocks/articles/intel-join-musk-terafab-surprise-202340140.html?.tsrc=rss
+Content:
+(Bloomberg) -- Intel Corp. is joining Elon Musk’s long-shot effort to develop semiconductors for Tesla Inc., SpaceX and xAI, marking a surprising twist in the chipmaker’s comeback bid.
+
+Intel will help the so-called Terafab project “refactor” the technology in a chip factory, the company said Tuesday in a post on X, Musk’s social media platform. That’s a stage in the development process that typically helps make chips more powerful or reliable.
+
+The chipmaker’s shares jumped 4.2% to $52.91 in New York trading on Tuesday.
+
+The Terafab project is a grand plan by Musk to eventually manufacture his own chips for robotics, artificial intelligence and space data centers. The endeavor aims to produce a huge amount of computing power each year — about 1 terawatt of capacity annually.
+
+Tesla already designs its own chips, but Musk’s companies have never actually made them. Now, he’s envisioning doing that at a scale to rival the leading chip manufacturer Taiwan Semiconductor Manufacturing Co.
+
+“Terafab represents a step change in how silicon logic, memory and packaging will get built in the future,” Intel Chief Executive Officer Lip-Bu Tan said in a separate X post. “Intel is proud to be a partner and work closely with Elon on this highly strategic project.”
+
+“Our ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics,” Intel added in its post.
+
+Musk said in March that the Terafab project will be built in Austin and jointly run by Tesla and SpaceX. He serves as CEO at both companies.
+
+For Santa Clara, California-based Intel, the move is the latest attempt to restore its status as a leading chipmaker. Tan, who took the helm last March, is working to rebound from years of shrinking market share and declining sales. Most critically, the company lost its long-held technological edge.
+
+The CEO spent much of last year cutting jobs and other costs, aiming to get Intel’s financial house in order. But he also attracted key investments — from the US government, Nvidia Corp. and SoftBank Group Corp. — that put it on a more solid footing.
+
+Last week, Intel agreed to pay $14.2 billion to buy back half of a plant in Ireland that it had previously sold to Apollo Global Management. The move was seen as a sign of confidence in the chipmaker’s business.
+
+(Updates shares in third paragraph. A previous version of the story corrected the day of the week mentioned in the second paragraph.)
+
+More stories like this are available on bloomberg.com
+
+©2026 Bloomberg L.P.

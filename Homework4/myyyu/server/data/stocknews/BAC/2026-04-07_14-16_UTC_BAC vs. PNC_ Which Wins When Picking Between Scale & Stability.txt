@@ -1,0 +1,41 @@
+Title: BAC vs. PNC: Which Wins When Picking Between Scale & Stability?
+Date: 2026-04-07 14:16 UTC
+URL: https://finance.yahoo.com/markets/stocks/articles/bac-vs-pnc-wins-picking-141600798.html?.tsrc=rss
+Content:
+Bank of America BAC and PNC Financial Services PNC stand as two of the most influential players in the U.S. banking landscape, sharing core similarities like diversified revenue streams spanning consumer banking, commercial lending and wealth management, strong deposit franchises, and a focus on disciplined capital return through dividends and buybacks. Both companies have invested heavily in digital capabilities to enhance customer experience while maintaining robust risk-management frameworks, shaped by post-financial-crisis regulations. Thus, for investors evaluating stability, profitability and long-term growth potential in the banking sector, BAC and PNC appear as natural peers. However, while Bank of America benefits from its vast scale, extensive capital markets operations and international footprint (which drive significant fee income but also exposes it to market-sensitive volatility), PNC operates with a more domestically focused, regional banking model, leaning more heavily on traditional lending and deposit growth, which can offer steadier earnings. Since both banks seem well-positioned for long-term growth, let us find out which of the two aligns more closely with an investor’s risk appetite and economic outlook. In order to understand this, we must dig deep into their fundamentals.
+
+Bank of America, the second-largest bank in the United States, is expected to witness continued improvement in net interest income (NII) and net interest yield in the near term, supported by decent loan growth and stabilizing funding costs. Over the last five years (2020-2025), the company’s NII saw a compound annual growth rate (CAGR) of 6.7%. In 2025, its net interest yield improved to 2.01% from 1.97% in 2024. In 2026, NII (fully tax-equivalent) is expected to grow 5-7% year over year. BAC is prioritizing organic, domestic growth through the expansion of its physical and digital presence. This is part of a broader strategy to solidify customer relationships and tap into new markets, driving NII further over time. By 2027, the company plans to expand its financial center network and open more than 150 centers. With growing use of tools like Zelle and artificial intelligence assistant Erica, the company is boosting digital engagement and cross-selling products like mortgages, auto loans and credit cards. Bank of America’s investment banking (IB) business, which performed poorly in 2022 as global deal-making came to a grinding halt, has rebounded of late. The company’s IB fees increased 31.4% in 2024 and 8.4% in 2025 after declining 45.7% in 2022 and 2.4% in 2023. As the market for global mergers and acquisitions has been improving, BAC is expected to continue to witness solid growth in IB fees, driven by a healthy IB pipeline. Given a strong capital position and earnings strength, the company is expected to sustain efficient capital distribution activities, thus enhancing shareholder value. After clearing the 2025 stress test, Bank of America raised its quarterly dividend 7.7% to 28 cents per share. It also has a share repurchase plan in place. In July 2025, the company authorized a $40-billion repurchase program. BAC intends to buy back shares worth $4.5 billion every quarter in the near term.
+
+Similar to BAC, PNC Financial expects momentum in NII to continue, driven by loan growth, asset repricing, deposit growth, market expansion, operational efficiencies and stabilizing funding costs. In the six years ended 2025, the company’s NII witnessed a CAGR of 6.3%. Management anticipates NII to rise 14% year over year in 2026. Like Bank of America, PNC Financial is set to expand its branch network across the United States. The bank plans to open more than 300 branches across nearly 20 U.S. markets, renovating its entire branch network by 2029, and hiring more than 2,000 employees to support growth and customer service efforts by 2030. PNC already has roughly 2,224 brick-and-mortar locations across the country. By broadening its reach in high-growth regions, it aims to establish itself as a leading financial institution that effectively serves the diverse needs of consumers and businesses of all sizes. PNC has been diversifying its business through collaborations and acquisitions. In January 2026, the company completed the acquisition of FirstBank Holding Company, significantly expanding its presence in Colorado and Arizona. In May 2025, it agreed to acquire Aqueduct Capital Group, strengthening fund placement services at its global IB arm, Harris Williams. In 2024, PNC partnered with Plaid to enable secure U.S. customer data sharing with financial applications and expanded its alliance with TCW Group to launch private credit solutions for middle-market companies. After clearing the 2025 stress test, PNC Financial hiked quarterly cash dividends on common stock 6% to $1.70 per share. The company also has a share repurchase program in place. A 100 million share repurchase plan was authorized in the second quarter of 2022. As of Dec. 31, 2025, the company had remaining authority to repurchase up to nearly 35 million common shares.
+
+In the past six months, shares of Bank of America have gained merely 0.4%, while PNC Financial has rallied 12.1%, both outperforming the S&P 500 Index’s decline of 1.4%. In terms of investor sentiments, PNC Financial clearly has the edge.
+
+Image Source: Zacks Investment Research
+
+In terms of valuation, BAC is currently trading at a 12-month forward price-to-earnings (P/E) of 11.16X, marginally below PNC’s P/E (F12M) of 11.24X. So, Bank of America is slightly less expensive than PNC.
+
+Image Source: Zacks Investment Research
+
+Bank of America’s return on equity (ROE) of 11.07% is below PNC’s 11.87%. This reflects that PNC Financial is more efficiently using shareholder funds to generate profits.
+
+Image Source: Zacks Investment Research
+
+The Zacks Consensus Estimate for BAC’s 2026 and 2027 revenues imply year-over-year growth of 7.7% and 5.3%, respectively. The consensus estimate for 2026 earnings indicates growth of 13.4%, while the estimate for 2027 indicates growth of 14.4%. While the earnings estimate for 2026 has been unchanged over the past 30 days, the 2027 estimate has been revised lower.
+
+Image Source: Zacks Investment Research
+
+Meanwhile, the Zacks Consensus Estimate for PNC’s 2026 and 2027 revenues imply year-over-year growth of 10.6% and 4.1%, respectively. The consensus estimate for earnings indicates 10.8% and 12% rallies for 2026 and 2027, respectively. The 2026 consensus estimate has been unchanged over the past 30 days, while the 2027 estimate has been revised upward.
+
+Image Source: Zacks Investment Research
+
+Both Bank of America and PNC Financial present compelling long-term investment opportunities and are attractive for different reasons. Thus, the choice depends on whether investors want growth, income or stability. Bank of America’s vast scale, digital innovation and improving earnings trajectory position it to benefit from sustained economic growth and shifts in monetary policy. In contrast, PNC attracts investors through its disciplined lending practices and focused regional expansion. While both institutions are adapting to an evolving digital and regulatory landscape, PNC seems better suited for income-focused investors due to its stable earnings profile and consistent capital return approach, while Bank of America looks more attractive for growth-oriented investors, given its larger scale, diversified revenue streams and stronger leverage to economic expansion. Currently, BAC and PNC carry a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+Bank of America Corporation (BAC) : Free Stock Analysis Report
+
+The PNC Financial Services Group, Inc (PNC) : Free Stock Analysis Report
+
+This article originally published on Zacks Investment Research (zacks.com).
+
+Zacks Investment Research
