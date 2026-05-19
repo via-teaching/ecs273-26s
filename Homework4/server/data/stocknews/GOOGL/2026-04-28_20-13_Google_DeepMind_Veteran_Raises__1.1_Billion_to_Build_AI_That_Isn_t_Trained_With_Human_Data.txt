@@ -1,0 +1,275 @@
+Title: Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data
+Date: 2026-04-28 20:13
+URL: https://decrypt.co/365853/google-deepmind-veteran-raises-1-1-billion-ai-isnt-trained-human-data?.tsrc=rss
+
+Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data
+$76,389.00
+$2,288.69
+$1.38
+$624.00
+$0.999779
+$83.90
+$0.32264
+$1.04
+$0.099758
+$54.04
+$0.999653
+$10.37
+$39.97
+$0.246766
+$452.75
+$377.56
+$9.24
+$0.149494
+$337.00
+$0.162155
+$3.45
+$0.999433
+$55.65
+$9.16
+$0.088983
+$0.998971
+$0.924178
+$0.00000613
+$0.00747351
+$0.999653
+$1.30
+$0.068917
+$1.12
+$4,596.35
+$257.84
+$0.999704
+$0.0735
+$1.00
+$4,595.14
+$0.629864
+$1.23
+$3.23
+$0.198709
+$0.085834
+$0.996966
+$1.35
+$82.81
+$0.652651
+$0.00000183
+$0.00000388
+$0.999897
+$1.00
+$96.33
+$1.96
+$1.13
+$2.39
+$0.999197
+$1.10
+$8.41
+$0.264588
+$1.96
+$8.45
+$7.28
+$0.00190584
+$0.998417
+$69.16
+$0.112434
+$1.23
+$1.96
+$0.092325
+$105.75
+$11.06
+$0.106341
+$1.75
+$0.03275684
+$0.889586
+$0.251156
+$0.0371278
+$0.966709
+$0.124224
+$0.084626
+$0.919203
+$0.01222727
+$0.00758885
+$0.00999431
+$0.18821
+$0.079757
+$0.00713774
+$115.07
+$12.79
+$0.02967848
+$0.99996
+$0.999057
+$2.49
+$0.03416027
+$0.998189
+$0.00000624
+$0.999842
+$0.999966
+$1.50
+$0.01249415
+$0.670582
+$0.04602612
+$0.689292
+$1.29
+$34.89
+$0.195832
+$1.17
+$0.458962
+$0.385276
+$0.22429
+$3.97
+$0.998291
+$8.84
+$1.93
+$1.031
+$0.059272
+$0.384656
+$0.999475
+$1.44
+$0.00006546
+$3.57
+$0.425411
+$0.01836709
+$147.23
+$0.0290864
+$0.227551
+$0.363279
+$0.36601
+$0.066884
+$0.181535
+$0.390467
+$19.02
+$125.25
+$0.00335567
+$1.033
+$0.00000032
+$15.47
+$0.059531
+$0.00003198
+$0.00000031
+$19.17
+$0.085547
+$0.00590962
+$0.999774
+$0.00000135
+$0.243869
+$0.999739
+$0.04722909
+$73.14
+$0.989123
+$0.04733293
+$0.02470589
+$0.121107
+$0.144069
+$1.49
+$0.055849
+$2,299.25
+$0.095859
+$0.07344
+$6.05
+$23.78
+$0.03889862
+$0.999861
+$0.00595262
+$0.898567
+$1.33
+$1.75
+$0.984361
+$0.999734
+$0.860145
+$0.3543
+$0.207293
+$0.00215736
+$0.75806
+$0.076668
+$0.203747
+$0.203626
+$1.00
+$2.85
+$0.090642
+$0.18968
+$0.04953603
+$0.431193
+$0.178504
+$0.833079
+$0.505882
+$0.529771
+$0.501469
+$0.091513
+$1.078
+$0.04616447
+$0.949087
+$1.082
+$2.06
+$0.0207667
+$0.339648
+$1.074
+$0.073412
+$0.998785
+$0.999187
+$0.719618
+$1.00
+$1.76
+$0.994826
+$0.158426
+$0.00332632
+$0.338586
+$1.72
+$0.066011
+$0.01583844
+$0.0015549
+$0.092812
+$1.22
+$1.00
+$0.100796
+$0.412908
+$1.001
+$0.14745
+$0.329267
+$9.58
+$0.999484
+$0.492999
+$0.00000709
+$1.097
+$0.056776
+$0.16629
+$0.138698
+$0.068634
+$0.162151
+$1.00
+$0.978465
+$0.426659
+$0.999559
+$1,097.03
+$0.094442
+$1.016
+$0.317101
+$1.66
+$0.01770133
+$0.131398
+$4.22
+$0.9997
+$0.00000061
+$0.179977
+$1.88
+$0.122976
+$0.210019
+David Silver, the DeepMind scientist behind AlphaGo’s historic 2016 win over world Go champion Lee Sedol, has raised $1.1 billion to launch a startup betting that the next era of AI won’t come from today’s dominant technology.
+Silver’s company, Ineffable Intelligence, launched in January at a $5.1 billion valuation and is betting on reinforcement learning, a method where AI systems improve through trial and error. Silver argues that approach, rather than the large language models now dominating the field, offers a more credible route to superintelligence.
+“I think of our mission as making first contact with superintelligence,” Silver told Wired. “By superintelligence, I really mean something incredible. It should discover new forms of science or technology or government or economics for itself.”
+Popularized by philosopher Nick Bostrom in his 2014 book “Superintelligence,” the term refers to AI that surpasses human intelligence across nearly all domains, while artificial general intelligence, or AGI, describes systems capable of matching human-level reasoning across a wide range of tasks.
+Silver argues that large language models are fundamentally limited because they learn from human-generated data, instead of building their own understanding through experience.
+“Human data is like a kind of fossil fuel that has provided an amazing shortcut,” he said. “You can think of systems that learn for themselves as a renewable fuel—something that can just learn and learn and learn forever, without limit.”
+Silver has spent much of his career advancing that argument. AlphaGo, which combined human training data with reinforcement learning and self-play, developed strategies that surprised even top human players and demonstrated how AI can exceed human precedent in narrow domains.
+“I feel it's really important that there is an elite AI lab that actually focuses a hundred percent on this approach,” he told Wired. “That it’s not just a corner of another place dedicated to LLMs.”
+OpenAI is facing a reckoning over the gap between its ambitions and its finances, experts told Decrypt, after the Wall Street Journal reported Monday that the company missed key internal targets for ChatGPT users and revenue while CFO Sarah Friar privately warned that ballooning compute costs could outpace the money coming in.
+Friar raised the alarm after the company fell short of its goal of reaching one billion weekly active users for ChatGPT by the end of last year, a milestone it never hit a...
+Ineffable Intelligence plans to build what Silver calls “superlearners”—AI agents placed inside simulations where they can pursue goals, fail, adapt, and improve without the limits of a static human dataset. Silver declined to describe what those simulations would look like, but said the approach would allow agents to collaborate and develop capabilities autonomously.
+Silver argued that large language models are limited by the data they are trained on, adding that a model trained in a world where everyone believed the Earth was flat would likely keep that belief unless it could test reality for itself. A system that learns through experience, he said, could discover otherwise.
+Ineffable Intelligence did not immediately respond to a request for comment by Decrypt.
+A software company founder claims an AI coding agent destroyed his firm’s production database, then copped to the mistake and explained how it happened, demonstrating the potential danger of entrusting sensitive access and materials to automated bots.
+Jeremy Crane, founder of PocketOS—a software platform used by car rental operators to manage reservations, payments, and vehicle tracking—said in a viral post on X that a Cursor agent running Anthropic’s Claude Opus 4.6 encountered a credential mi...
+Red Hat principal software engineer Sally O'Malley spent a weekend solving a problem most enterprise IT teams don't know they have yet. The result is Tank OS, an open-source tool that packages OpenClaw—the hot new software that makes it easy to deploy AI agents—inside a secure, self-contained environment and delivers it as a ready-to-boot system image you can push to any machine: a cloud server, a virtual machine, or physical hardware.
+In other words, if you (or your agent) screw things up, thi...
+A new study has a number for how much of the internet is now AI-generated: 35%. That's the share of newly published websites classified as AI-generated or AI-assisted by mid-2025, according to research from Stanford University, Imperial College London, and the Internet Archive. The figure was essentially zero before ChatGPT launched in November 2022.
+"I find the sheer speed of the AI takeover of the web quite staggering," Jonáš Doležal, researcher at Imperial College London and co-author of the...
+Your gateway into the world of Web3
+The latest news, articles, and resources, sent to your inbox weekly.
+© A next-generation media company. 2026 Decrypt Media, Inc.

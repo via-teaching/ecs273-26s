@@ -1,5 +1,5 @@
 from typing import Optional, List, Annotated
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from pydantic.functional_validators import BeforeValidator
 from bson import ObjectId
 
@@ -8,28 +8,17 @@ from bson import ObjectId
 
 PyObjectId = Annotated[str, BeforeValidator(str)]
 
+# Models for the database collections
 class StockListModel(BaseModel):
     """
     Model for stock list
     """
-    _id: PyObjectId
-    tickers: list[str]
-
-class StockModelV1(BaseModel):
-    """
-    Model for stock data values
-    """
-    _id: PyObjectId
-    name: str
-    date: list[str]
-    Open: list[float]
-    High: list[float]
-    Low: list[float]
-    Close: list[float]
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
+    tickers: List[str]
     
 class StockModelUnit(BaseModel):
     """
-    Model for stock data values
+    Model for stock data values for a single trading day of a stock
     """
     date: str
     Open: float
@@ -39,20 +28,27 @@ class StockModelUnit(BaseModel):
     
 class StockModelV2(BaseModel):
     """
-    Model for stock data values
+    Model for stock data values. Using an array of records for a single stock.
     """
-    _id: PyObjectId
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     name: str
     stock_series: list[StockModelUnit]
     
 class StockNewsModel(BaseModel):
-    _id: PyObjectId
+    """
+    Model for a single stock news article
+    """
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     Stock: str
     Title: str
     Date: str  
     content: str
     
 class StockNewsModelList(BaseModel):
+    """
+    Model for a list of stock news articles
+    """
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     Stock: str
     News: list[StockNewsModel]
 
@@ -60,7 +56,8 @@ class tsneDataModel(BaseModel):
     """
     Model for t-SNE data
     """
-    _id: PyObjectId
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     Stock: str
     x: float
     y: float
+    sector: str

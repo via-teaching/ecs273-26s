@@ -1,0 +1,53 @@
+Title: What Most Investors Are Getting Wrong About Meta Platforms That Makes Right Now an Incredible Buying
+Date: 2026-04-28 20:50
+URL: https://www.fool.com/investing/2026/04/28/what-most-investors-are-getting-wrong-about-meta-p/?.tsrc=rss
+
+Meta's latest large language model isn't quite as good as the competition, but it might not matter.
+Meta Platforms (META 1.06%) released Muse Spark, the first large language model from its Superintelligence Lab, earlier this month. This is the best Meta has to show for its massive AI spending, which includes a $14 billion investment in Scale AI and the hiring of its Alexander Wang, billions spent on additional personnel, and massive amounts of capital expenditures for new data centers. When compared to leading frontier models, Muse Spark still isn't ranked as good as those from OpenAI, Anthropic, or Alphabet's (GOOGL 0.16%) (GOOG 0.29%) Google.
+That might lead some investors to think the market was right to sell off shares of the social media company when it announced plans to spend as much as $135 billion on capital expenditures this year. That's up from $72 billion a year ago.
+But the market may be overly focused on the cost of Meta's artificial intelligence development without recognizing the massive returns it's already created for the business.
+Image source: Getty Images.
+Meta's massive spending puts significant pressure on management to show positive returns from its AI investments. Last quarter's operating margin of 41% fell from 48% in the fourth quarter of 2024 as new hires, infrastructure spending, and depreciation ate into margins. That could grow even worse in 2026, as management warns that increased infrastructure spending and depreciation, plus a full year of engineering talent at the Meta Superintelligence Lab, will result in expenses growing nearly $50 billion this year.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends at 9 AM EST on 4/30/2026.
+That's a lot of money to spend on a model that's not quite as good as the competition. And investors overly focused on the near-term results of deteriorating operating margin and growing expenses may be right to sour on the stock.
+But it's important to note that Meta's AI ambitions aren't the same as OpenAI's, Anthropic's, or even Google's. It's not building an AI model to license its technology to other companies. It's building an AI model that will improve the products billions of people use every day.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+With Meta's scale, it's unreasonable for it to license a model from another company. Beyond costs, the benefit of building its own large language models is that it can fine-tune them for exactly what it needs across its various applications.
+Importantly, it's one of just a small handful of companies in the digital advertising space that's in a position to invest the massive sums of cash necessary to develop its own large language models. That puts it in a position to continue winning a greater share of digital advertising spend over the coming years. Considering the bulk of advertising on Meta is "top-of-funnel," or discovery, it stands to see substantial improvements from better AI that can predict consumer desires, much more so than Google or Amazon, which benefit from search-based targeting.
+A notable takeaway from Meta's fourth-quarter earnings call three months ago was that management expects operating income to grow in 2026 despite the massive increase in expenses. That suggests there's a positive return on investment for all this spending, even if it's very small in the near term. In the long run, I suspect Meta's improving AI algorithms will lead to its operating margin expanding again.
+For those doubting the potential impact of AI improvements on Meta's top-line results, all you have to do is dig into the details of its financials. Improvements in Meta's AI already drove higher engagement and better ad recommendations in 2025. That's evidenced by the simultaneous increase in ad impressions (up 12%) and ad pricing (up 9%). The two usually move in opposite directions as Meta looks to optimize for total ad revenue and marketers adjust their ad budgets.
+CEO Mark Zuckerberg thinks 2026 will bring a step change in the company's recommendation algorithms. "We think that the current systems are primitive compared to what will be possible soon," he said on the company's fourth-quarter earnings call. Another step up in engagement and ad pricing could bolster another year of 20%-plus revenue growth.
+There are opportunities beyond showing more and more relevant ads, though. Meta's working on AI agents that can handle the bulk of creating, testing, and iterating ad campaigns optimized for specific goals. That could onboard a new set of advertisers, reduce the cost of running campaigns, and further increase the relevancy of ads for users. All that would lead to more ad sales for Meta.
+On top of that, Meta is building chatbots for businesses to use on WhatsApp and Messenger that can handle sales and customer service requests. An agentic workforce for small businesses could substantially expand sales. Meta could monetize those chatbots directly or through click-to-message ads on Instagram and Facebook.
+The long-term return potential remains massive. Considering Meta already expects to grow its operating income in 2026 despite the huge increase in spending, investors should be willing to pay a much higher multiple than the stock trades at today.
+Instead, many investors are overly focused on the growing capital expenditures, the massive infrastructure contracts, and the huge payroll, and seeing operating margin compress while it puts out an AI model that still lags the leading-edge competitors. But those focusing on how those expenses are already producing very positive results and the potential for even more growth in the years to come should be more than happy to pay 22 times this year's earnings expectations for the business.
+
+ 
+
+
+Before you buy stock in Meta Platforms, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Meta Platforms wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $492,752!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,327,935!*
+Now, it’s worth noting Stock Advisor’s total average return is 991% — a market-crushing outperformance compared to 201% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 28, 2026. 
+
+Adam Levy has positions in Alphabet, Amazon, and Meta Platforms. The Motley Fool has positions in and recommends Alphabet, Amazon, and Meta Platforms. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends at 9 AM EST on 4/30/2026.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
