@@ -127,8 +127,13 @@ export function OHLCChart({ data }: Props) {
     });
 
     function renderForX(x: d3.ScaleTime<number, number>) {
+      const [xd0, xd1] = x.domain();
+      const spanDays = (+xd1 - +xd0) / 86400000;
+      const xTickFormat = spanDays > 120 ? d3.timeFormat('%b %Y') : d3.timeFormat('%b %d');
       const xAxis = d3.axisBottom<Date>(x)
-        .ticks(Math.max(4, Math.floor(innerW / 90))).tickSizeOuter(0);
+        .ticks(Math.max(4, Math.floor(innerW / 90)))
+        .tickFormat((d) => xTickFormat(d as Date))
+        .tickSizeOuter(0);
       root.select<SVGGElement>('g.ohlc-x-axis')
         .attr('transform', `translate(0,${bottom})`)
         .call(xAxis as never)

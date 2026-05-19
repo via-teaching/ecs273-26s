@@ -54,3 +54,4 @@ Open <http://localhost:5173>.
 ## 3. Notes
 
 - Need Homebrew for using mongodb-community
+- fixed mistakes mentioned in hw3 comment (x-axis)
