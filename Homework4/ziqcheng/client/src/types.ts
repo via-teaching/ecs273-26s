@@ -18,25 +18,3 @@ export interface Point {
 export interface Bar{
     readonly value: number;
 }
-
-export type StockRow = {
-  Date: string;
-  Open: number;
-  High: number;
-  Low: number;
-  Close: number;
-  Volume?: number;
-};
-
-export type TSNERow = {
-  ticker: string;
-  x: number;
-  y: number;
-  sector: string;
-};
-
-export type NewsItem = {
-  title: string;
-  date: string;
-  content: string;
-};
