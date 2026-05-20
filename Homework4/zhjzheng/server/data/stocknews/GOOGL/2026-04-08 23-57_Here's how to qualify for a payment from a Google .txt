@@ -1,0 +1,20 @@
+Title: Here's how to qualify for a payment from a Google data settlement
+Date: 2026-04-08 23:57
+URL: https://www.usatoday.com/story/money/2026/04/08/google-android-data-settlement-qualify/89525294007/?.tsrc=rss
+------------------------------
+Who qualifies for the Google Android data settlement?
+What data collection practices did the lawsuit allege against Google?
+What is the maximum payout per class member in the settlement?
+Android phone users can now claim their portion of a class-action settlement connected to Google's collection of their data.
+The lawsuit, Taylor v. Google LLC, alleged that Google needlessly collected cellular data that it purchased from mobile carriers. The company denied wrongdoing in the settlement.
+"We are pleased to resolve this case, which mischaracterized standard industry practices that keep Android safe," José Castañeda, a Google spokesperson, previously said in an email to USA TODAY.
+Glen Summers, a lawyer for the plaintiffs, said in a court filing that he believed the $135 million payout is the largest ever in a conversion case. Payments are capped at $100 per class member.
+Here's what to know about Google's Android data settlement.
+In order to qualify for the Android data settlement, a claimant must:
+Consumers who have received a personalized notice about the settlement can choose their preferred payment method on the settlement website. If a potential claimant does not choose payment method, they may not receive a payment − according to the website.
+The deadline to object to the settlement and for a potential claimant to exclude themselves from the settlement is May 29. The final approval hearing is set for June 23.
+The lawsuit alleged that the data collection occurred on devices, even when users closed Google's apps, disabled location-sharing or locked their screens.
+"(Google) designed the Android operating system to collect vast amounts of information about users, which Google uses to generate billions in profit annually by selling targeted digital advertisements," the lawsuit reads.
+It said the data supported Google's product development and targeted advertising campaigns and amounted to "conversion," when a party wrongfully takes another party's property with the intent to assert control.
+The proposed settlement was filed in court Jan. 27.
+Contributing: Reuters
