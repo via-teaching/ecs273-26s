@@ -1,0 +1,46 @@
+Title: Why Arm Holdings Took Off on Friday
+Date: 2026-04-24 18:18
+URL: https://www.fool.com/investing/2026/04/24/why-arm-holdings-took-off-on-friday/?.tsrc=rss
+
+Intel's earnings confirmed massive demand for CPUs for agentic AI.
+Shares of Arm Holdings (ARM +14.09%) rallied 14.9% on Friday as of 12:02 p.m. EDT.
+Arm was rallying alongside Intel (INTC +21.46%) and Advanced Micro Devices (AMD +13.59%) today, following Intel's strong earnings release last night.
+Intel's data center business showed outsize growth in the first quarter, despite supply constraints. The outperformance confirmed recent reporting that CPU demand was taking off amid the advent of agentic AI.
+That stands to benefit all CPU designers, including Arm, which has traditionally licensed its architecture to third parties, but recently unveiled its own custom-designed chip.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends at 9 AM EST on 4/30/2026.
+Last night, Intel trounced earnings expectations and its own guidance, largely on the back of its data center CPU segment. The data center segment grew 8.5% quarter over quarter, which would compound to an annualized 39% growth rate. Margins also expanded on the back of reported price increases for the latest data center CPUs. Additionally, management noted that growth would have been substantially higher had it not been for supply constraints. 
+On the conference call with analysts, CEO Lip-Bu Tan and CFO David Zinsner noted that traditional CPUs are now in strong demand due to the growing adoption of agentic AI systems. Agentic systems have emerged over the past six months or so that go beyond merely answering a chatbot's questions. Agents are AI-driven autonomous systems that can set goals, plan, and take actions to perform tasks without human supervision.
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor’s total average return is 967%* — a market-crushing outperformance compared to 199% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of April 24, 2026. 
+In the question and answer session, Zinsner noted that the agentic revolution is causing the ratio of GPUs to CPUs to flip back toward CPUs, which are actually more efficient at completing an agent's work:
+If you look at training solutions, they are generally running seven to eight GPUs to one CPU. As we look into inference, it is probably three to four to one. As you get into agentic and multi-agent, it can even flip the other way a little bit. That is one way to think about it. As you think about the growth rate going forward, it will become a significant part of the AI TAM. 
+The first wave of AI investment definitely went toward GPUs, but the huge demand soon spread to memory, and now, apparently, CPUs. That's good news for Arm, which licenses its architecture to third parties such as Nvidia (NVDA +4.41%) for its Vera CPUs, as well as cloud hyperscalers designing their own custom CPUs. Additionally, Arm itself just unveiled its first-ever custom data center CPU in late March, the Arm AGI CPU. 
+Image source: Getty Images.
+Investors appear to have sniffed out the reacceleration in CPU demand in 2026, after OpenClaw, the famous (or infamous) open-sourced AI agent, emerged late last year.
+Arm Holdings is already up 110% on the year after today's surge, and the stock trades at over 300 times earnings and over 100 times 2027 earnings estimates.
+That's a nosebleed valuation for sure; however, if we are truly just at the beginning of the agentic AI revolution that will last for years or decades, and if Arm can remain competitive versus Intel and AMD, it's not a totally crazy valuation.
+Before you buy stock in Arm Holdings, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Arm Holdings wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $500,572!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,223,900!*
+Now, it’s worth noting Stock Advisor’s total average return is 967% — a market-crushing outperformance compared to 199% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 24, 2026. 
+Billy Duberstein and/or his clients have positions in Intel and has the following options: short April 2026 $34 puts on Intel. The Motley Fool has positions in and recommends Advanced Micro Devices, Intel, and Nvidia. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 18 Nvidias.
+What in the world could be worth 18 Nvidias? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends at 9 AM EST on 4/30/2026.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+*Returns as of April 24, 2026.
