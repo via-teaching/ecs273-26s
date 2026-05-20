@@ -1,0 +1,87 @@
+Title: A2A Protocol Surpasses 150 Organizations, Lands in Major Cloud Platforms, and Sees Enterprise Production Use in First Year
+Date: 2026-04-09 04:00
+URL: https://finance.yahoo.com/sectors/technology/articles/a2a-protocol-surpasses-150-organizations-040000532.html?.tsrc=rss
+------------------------------
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian. 
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Nike set the stage for a turnaround, but global events keep getting in its way
+Bank of America rips up its economic forecasts as it braces for $100 oil all year on Iran war disruptions
+Trump says the Strait of Hormuz must be 'open, free and clear' before having ceasefire talks with Iran
+The Dow, S&P 500, and Nasdaq extended their rally for a second day ahead of Trump’s speech on Iran
+The Nasdaq led the Dow and S&P 500 higher on growing optimism the war in Iran may end soon
+First production-ready open standard for global AI agent interoperability
+SAN FRANCISCO, April 9, 2026 /PRNewswire/ -- The A2A (Agent-to-Agent) Protocol project, hosted by the Linux Foundation, today announced major adoption milestones at its one-year mark, with more than 150 organizations supporting the standard, deep integration across Google, Microsoft and AWS platforms, and active production deployments across multiple industries.
+In less than a year, A2A has moved from initial release to a production-ready open standard for seamless agent-to-agent communication. Vertical adoption spans supply chain, financial services, insurance, and IT operations, where organizations use A2A to coordinate autonomous systems across tools, vendors, and environments.
+This rapid uptake reflects a broader shift toward agent-based architectures. As software systems operate more independently, coordination becomes the bottleneck. A2A removes that bottleneck by providing a common semantic model and version negotiation that standardize how agents discover, communicate, and transact with each other, without being locked into a single vendor's ecosystem.
+"AI agents are only as useful as their ability to collaborate, and the adoption of A2A by more than 150 organizations underscores the widespread enthusiasm for an open, interoperable protocol," said Rao Surapaneni, Vice President and General Manager of Business Applications Platform, Google Cloud. "This momentum has quickly moved the project into production-ready use, allowing disparate AI systems to work together across environments and avoid the siloed, custom-built connections that often keep them from scaling."
+Updates and AdoptionA2A's momentum accelerated with the release of version 1.0, its first stable specification. The update introduced multi-protocol support, enterprise-grade multi-tenancy, modernized security flows, and a defined migration path for early adopters, removing key barriers to production deployment. Features include Signed Agent Cards for cryptographic identity verification and a web-aligned architecture that supports familiar security and load-balancing patterns for high-scale reliability. Additionally, diverse agents built on various platforms, like LangGraph or CrewAI, are now able to work together, delegate sub-tasks, and coordinate complex workflows without sharing internal memory.
+Cloud providers have reinforced that momentum by embedding A2A directly into their platforms. Microsoft integrated A2A into Azure AI Foundry and Copilot Studio and AWS added support through Amazon Bedrock AgentCore Runtime. These integrations position A2A as a default standard for building agent-based systems in the cloud.
+The protocol has also expanded beyond communication into economic coordination. The introduction of the Agent Payments Protocol (AP2) enables secure, agent-driven transactions, with more than 60 organizations across payments and financial services already supporting the initiative. Additionally, UCP is fully compatible with AP2 via its AP2 mandates extension, enabling it to capture strong cryptographic evidence of the user's consent to purchase.This extends A2A into high-trust, regulated environments where transactional integrity is required.
+Ecosystem ScaleSince April 2025, the number of supporting organizations has grown from more than 50 to over 150 — including AWS, Cisco, Google, IBM, Microsoft, Salesforce, SAP, and ServiceNow. The core repository has surpassed 22,000 GitHub stars, and the SDK ecosystem has expanded from a single Python implementation to five production-ready languages, including JavaScript, Java, Go, and .NET.
+At the standards level, A2A is complementary to the Model Context Protocol (MCP), another Linux Foundation project. A2A defines how agents communicate and coordinate with each other across organizational boundaries, while MCP defines how agents connect to internal tools and data sources. Together, they form a foundational layer for interoperable, multi-agent systems that work across different technology stacks without requiring a single-platform approach.
+Looking ahead, the A2A roadmap includes an interoperability specification, consolidation of efforts for registry and expanded testing and tooling, security and deployment best practices.
+With a stable specification, embedded cloud support, and growing enterprise use, A2A is shifting from early adoption to becoming a core component of modern AI and distributed system architecture.
+To learn more about the A2A Protocol:
+Visit a2a-protocol.org
+Review the technical specification
+Check out the project's progress and codebase on GitHub
+Enroll in the new DeepLearning.AI short course, A2A: The Agent2Agent Protocol
+Dive into the Tutorials and Samples or consult the SDK Reference to begin developing with the production-ready standard
+"I began working on agentic AI at the end of 2024, when it was already clear that multi‑agent systems would only scale if discovery and communication were treated as first‑class problems. At Cisco, that led us to create AGNTCY and contribute it to the Linux Foundation to help shape an open foundation for agent collaboration. When A2A was later contributed by Google, the community came together around a shared vision. In less than a year, we've seen several generations of agentic technology evolve at unprecedented speed, and A2A has emerged as the syntactic layer that makes agent‑to‑agent communication reliable and interoperable. What's most exciting is that this is just the beginning — there is enormous opportunity ahead to build richer semantics and interaction models that can turn an Internet of Agents into a planet‑scale reality."
+– Luca Muscariello, Distinguished Engineer, Cisco
+"A2A provides the secure foundation for personal, team, and domain-specific agents to work together seamlessly across any platform. This protocol has established the foundations needed to move fragmented prototypes into a production-ready ecosystem where agents can safely coordinate and transact at scale."
+– Todd Segal, Distinguished Engineer, Google
+"For AI agents to be effective in enterprise environments, they need to operate seamlessly across organisational and platform boundaries. The momentum behind A2A underscores the importance of open, interoperable standards for enabling multi‑agent collaboration. Microsoft looks forward to continued collaboration with the Linux Foundation community to help advance A2A and support an open agent ecosystem."
+– Darrel Miller, Partner API Architect, Microsoft
+About the A2A ProtocolThe Agent-to-Agent (A2A) Protocol is an open standard that enables AI agents to discover, communicate, and transact with each other across different frameworks, vendors, and platforms. Originally developed by Google, the project is now hosted by the Linux Foundation. For more information, visit a2a-protocol.org.
+About the Linux FoundationThe Linux Foundation is the world's leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects, including Linux, Kubernetes, Model Context Protocol (MCP), OpenChain, OpenSearch, OpenSSF, OpenStack, PyTorch, Ray, RISC-V, SPDX and Zephyr, provide the foundation for global infrastructure. The Linux Foundation is focused on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at linuxfoundation.org.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of the Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds.
+Media ContactThe Linux Foundationpr@linuxfoundation.org
+View original content to download multimedia:https://www.prnewswire.com/news-releases/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year-302737641.html
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio
