@@ -55,7 +55,7 @@ export function LineChart({ series }: LineChartProps) {
       updateSize.cancel();
       resizeObserver.disconnect();
     };
-  }, []);
+  }, [series.length]);
 
   useEffect(() => {
     if (!svgRef.current || !containerWidth || !containerHeight || !series.length) {
