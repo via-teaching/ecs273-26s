@@ -1,3 +1,5 @@
+export type Ticker = string;
+
 export interface Margin {
     readonly left: number;
     readonly right: number;
@@ -15,6 +17,6 @@ export interface Point {
     readonly posY: number;
 }
 
-export interface Bar{
+export interface Bar {
     readonly value: number;
 }
