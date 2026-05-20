@@ -1,0 +1,21 @@
+Title:   Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI
+Date:    2026-04-15
+URL:     https://finance.yahoo.com/sectors/technology/articles/korean-ai-chip-startup-deepx-030254138.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+By Hyunjoo Jin
+SEOUL, April 15 (Reuters) - South Korean AI chip startup DEEPX will expand its partnership with Hyundai Motor Group to develop a computing platform for generative ‌AI robots using its second generation of low-power chips, its top executive said, as ‌it gets set for an IPO.
+DEEPX is in talks with the government and investors to raise more than 600 ​billion won ($408 million) in an ongoing funding round, in the run-up to a potential IPO in South Korea, DEEPX CEO Lokwon Kim said.
+The company, which began producing chips late last year, is one of a number of South Korean startups riding on Seoul's ambitions to nurtureartificial intelligencechampions and ‌make the country an AI leader.
+Founded ⁠by Kim, a formerAppleengineer, DEEPX develops neural processing units (NPUs) which allow robots, factories and self-driving cars to handle AI tasks on-device, meaning without ⁠external connectivity. It has already developed AI chips used in Hyundai's four-wheeled delivery robots.
+Hyundai's new robotics platform will use DEEPX's second-generation DX-M2 chips, which will go into volume production later next year using Samsung ​Electronics' ​most advanced 2-nanometer chipmaking technology.
+Kim said DEEPX's lower-power chips would ​be able to help prevent energy-hungry ‌humanoid robots from overheating, but did not elaborate on which robots would use its DX-M2 chips.
+The company's current-generation chips are 20 times more power-efficient and are much cheaper thanNvidia’s Jetson Orin, Kim said.
+"Our next-generation chips are optimized for generative AI, which, like ChatGPT, will enable robots to learn from their experiences," he said in an interview.
+Hyundai, which unveiled its Atlas humanoid robot in ‌January, plans to build a factory capable of manufacturing ​30,000 robot units annually by 2028.
+The head of Hyundai's ​Robotics LAB, Hyun Dong-jin, said its work ​with DEEPX is part of an effort to build an ecosystem of ‌on-device computing partners in South Korea and ​overseas.
+DEEPX counts China's Baidu as ​one of its customers. It aims to achieve revenue of $40 million this year.
+DEEPX CFO Young Cho told reporters on Tuesday the company's priority was to be listed on the ​Korean stock market, but a ‌secondary U.S. listing through American Depositary Receipts could be considered later.
+The executives did not ​disclose what the ongoing funding round would value the whole company at.
+($1 = 1,470.2800 ​won)
+(Reporting by Hyunjoo Jin; Editing by Sonali Paul)

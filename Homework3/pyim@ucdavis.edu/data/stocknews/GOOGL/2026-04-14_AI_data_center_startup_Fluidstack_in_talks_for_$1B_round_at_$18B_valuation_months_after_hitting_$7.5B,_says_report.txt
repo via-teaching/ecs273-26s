@@ -1,0 +1,14 @@
+Title:   AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/sectors/technology/articles/ai-datacenter-startup-fluidstack-talks-213338422.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+Fluidstack, a startup that builds specialized data centers for AI companies, is in talks to raise a $1 billion round at an $18 billion valuation, potentially led by Jane Street,Bloombergreports.
+Should this deal come to fruition, it would more than double Fluidstack’s valuation in a matter of months.
+In December, the company was reportedly raising around $700 million at a $7.5 billion valuation, sources toldBloombergat the time, although it didn’t formally announce the close of that round. That round was said to be led by Situational Awareness, an AGI-focused fund founded by former OpenAI researcher Leopold Aschenbrenner, and backed by Stripe’s Collison brothers, former GitHub CEO Nat Friedman, and the AI investor and entrepreneur Daniel Gross.
+Talks were apparently still ongoing for this round in February, at least with Google, which was considering kicking in $100 million to the round,The Wall Street Journal reported.
+There’s good reason for the hype over Fluidstack. In November, Anthropic announced that it hadsigned a $50 billion dealwith the startup to build data centers custom-designed for its needs in Texas and New York. Unlike hyperscalers like AWS, which serve all kinds of computing needs, Fluidstack’s infrastructure is built specifically for AI.
+The deal was a huge vote of confidence for Fluidstack, a company that was relatively unknown in the U.S. Anthropic primarily uses AWS and Google Cloud to serve Claude (though it also has a partnership with Microsoft to supply Claude to that software giant’s customers). But just like rival OpenAI,Anthropic is growing so fastthat it needs more capacity, and this deal gives Anthropic more control over its own cloud infrastructure.
+This partnership is so significant to the startup that Fluidstack — which was spun out of Oxford and had been a rising star in Europe’s AI scene — relocated its headquarters from the U.K. to New York. Last month, it also pulled out of akey €10 billion AI project in France, Bloomberg reported, to focus on U.S. opportunities.
+In addition to Anthropic, it counts Meta, Poolside, Black Forest Labs, and others as customers. Prior to the deal with Anthropic, Fluidstack was probably best known for providinginfrastructure to Mistral.
+Fluidstack did not respond to a request for comment.

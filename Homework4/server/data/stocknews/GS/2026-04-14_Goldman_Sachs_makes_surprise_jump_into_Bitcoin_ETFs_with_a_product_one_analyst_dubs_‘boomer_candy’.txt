@@ -1,0 +1,14 @@
+Title:   Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs ‘boomer candy’
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-surprise-jump-183128769.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+Goldman Sachs has long been content to watch the crypto craze from the sidelines, but in a surprise move, the big bank on Tuesday revealed plans for its own product in the form of a Bitcoin Premium Income ETF.
+The new Goldman fund, which was described in a regulatory filing, is structured a little differently from traditional spot Bitcoin ETFs. The fund aims to buy other exchange-traded products that hold Bitcoin, rather than hold Bitcoin itself, and sell call options on those funds.
+Goldman Sachs described the product as an “options overwrite strategy” that creates regular income from the sale of the call positions. The firm added that, in modest or fallingBitcoinmarkets, the ETF could outperform spot Bitcoin ETFs, but that its performance could lag those funds during times when Bitcoin experiences rapid price appreciation.
+Although this is Goldman’s first Bitcoin ETF filing, the bank will not be the first issuer to offer a Bitcoin ETF with an options strategy. Grayscaleoffersa Bitcoin covered call ETF, andBlackRockhasfiledfor a similar product.
+Goldman has long had a hot-and-cold relationship with Bitcoin. In 2020,leaked slides showedthe bank saying Bitcoin’s appreciation was based primarily on people being willing to pay more for it, called it a conduit for illegal activity, and likened it to the Tulip Mania of the 17th century.
+However, as Bitcoin and crypto have become more firmly embedded in the financial sector, Goldman has become more entwined with crypto. The bank wasnamedan authorized participant on BlackRock’s Bitcoin ETF, and regulatoryfilingsshow Goldman holds a number of Bitcoin- and crypto-linked ETFs and equities. Goldman Sachs CEO David Solomon has recentlyexpressedinterest in tokenization and stablecoins.
+With the filing, Goldman Sachs becomes the latest major U.S. bank to make a foray into proprietary Bitcoin funds, followingMorgan Stanley’s Bitcoin ETF launchlast week.
+Bloomberg ETF analyst Eric Balchunascalledthe filing a shock onXand said that it may indicate that Goldman sees an opportunity to leapfrog current Bitcoin ETF leader BlackRock. Balchunas also speculated Goldman clients may want Bitcoin exposure but are willing to “give up some upside for lower downside and income,” a structure the analyst referred to as “boomer candy.”
+This story was originally featured onFortune.com

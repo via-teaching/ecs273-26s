@@ -1,0 +1,20 @@
+Title:   Microsoft Takes Over Stargate Norway Data Center From OpenAI
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/sectors/technology/articles/microsoft-takes-over-stargate-norway-185117974.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+(Bloomberg) -- Microsoft Corp. has agreed to rent data center capacity at a site in Norway that was initially intended for OpenAI and marketed as part of the artificial intelligence company’s Stargate initiative.
+Microsoft will rent 30,000 additional Nvidia Corp. Vera Rubin chips from neocloud provider Nscale at a campus inside the arctic circle in Narvik, Norway, Nscale said in a statement. This builds on a prior $6.2 billion commitment Microsoft made at the same site.
+OpenAI had initially been in talks for capacity to run its artificial intelligence workloads at the campus, but didn’t conclude an agreement with Nscale, according to people familiar with the discussions. The company had marketed it as “Stargate Norway” in a statement last year, a reference to its planned $500 billion joint venture investment in US infrastructure to power the next era of AI.
+Last week, OpenAI said it was pausing its analogous Stargate effort in the UK, another Nscale-developed site, citing the country’s high cost of energy and regulation.
+Nscale, meanwhile, has found another client for a separate data center facility in West London: Alphabet Inc.’s Google, which will rent capacity at a facility running Nvidia’s Grace Blackwell chips, according to a person familiar with the deal, who asked not to be identified because the agreement isn’t yet public. Google didn’t immediately respond to requests for comment.
+OpenAI’s plan to pause its Stargate project in the UK, and its failure to strike a deal with Nscale in Norway, mark a contrast from the AI giant’s previously signaled infrastructure plans. After a series of splashy announcements in recent years, OpenAI appears to be taking a more cautious approach to its rising server farm costs. The company told investors in February that it would spend about $600 billion on infrastructure by 2030 — a more specific figure than the $1.4 trillion in long-range commitments it had previously telegraphed.
+An OpenAI spokesperson said the company continues to explore an agreement for capacity in Norway and the company is working with a number of partners to build up its infrastructure.
+“I’ve always said we’d love to bring Stargate to Europe if the conditions are right, and we think we’ve found that in Narvik,” OpenAI Chief Executive Sam Altman said in a statement in July.
+Microsoft has cut a number of deals with neocloud providers, such as Nscale, as the company moves swiftly to get data centers online to meet demand. Last month, Microsoft announced it would take over a project in Texas that was originally being developed for OpenAI and Oracle Corp.
+Though it had an early start to the AI boom via its partnership with OpenAI, Microsoft has recently found itself short on capacity for cloud services. Wall Street expects Microsoft to spend $143 billion this year on capital expenditures, largely tied to data center development.
+Separately Tuesday, Microsoft said it would buy 3,200 acres of land in Wyoming to expand its data center footprint in that state.
+--With assistance from Kari Lundgren and Shirin Ghaffary.
+(Updates with additional Microsoft development in the final paragraph.)
+More stories like this are available onbloomberg.com
+©2026 Bloomberg L.P.

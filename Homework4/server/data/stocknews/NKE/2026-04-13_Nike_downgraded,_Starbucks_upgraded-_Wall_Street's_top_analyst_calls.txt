@@ -1,0 +1,23 @@
+Title:   Nike downgraded, Starbucks upgraded: Wall Street's top analyst calls
+Date:    2026-04-13
+URL:     https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+The most talked about and market moving research calls around Wall Street are now in one place. Here are today's research calls that investors need to know, as compiled by The Fly.Top 5 Upgrades:
+Jefferies upgradedStarbucks(SBUX)to Hold from Underperform with a price target of $92, up from $86. The firm cites the company's less international exposure now that China is franchised and a stabilizing U.S. business for the upgrade.
+TD Cowen upgradedConstellation Brands(STZ)to Buy from Hold with a price target of $190, up from $142. The firm views the company's fiscal 2027 beer guidance as "overly conservative" and sees upside from easing compares, World Cup benefits, and subsiding pressure on Hispanic consumers.
+KeyBanc upgradedT-Mobile(TMUS)to Overweight from Sector Weight with a $260 price target. The firm sees accelerating organic EBITDA growth with "upside levers" for T-Mobile.
+Macquarie upgradedCoreWeave(CRWV)to Outperform from Neutral with a price target of $125, up from $90. Macquarie believes CoreWeave will "increasingly become a structural player into the next decade, as opposed to a stopgap on balance sheet financing, GPU risk."
+TD Securities upgradedTempus AI(TEM)to Buy from Hold with a price target of $65, down from $70. The shares are down over 50% in the last six months while the company's fundamentals have strengthened, the firm tells investors in a research note.
+Top 5 Downgrades:
+HSBC downgradedNike(NKE)to Hold from Buy with a price target of $48, down from $90. The firm says the company's turnaround is now a "show me story with no short-term catalysts."
+Goldman Sachs double downgradedBest Buy(BBY)to Sell from Buy with a price target of $59, down from $76. The firm sees risk the company's sales post the Q1 report as higher memory costs start to work their way into the price of laptops and computers.
+Goldman Sachs downgradedPetco(WOOF)to Neutral from Buy with an unchanged price target of $3.83. The company has improved its margins and free cash flow, but its sales growth "is still a show-me story," the firm tells investors in a research note.
+BofA downgradedNXP Semiconductors(NXPI)to Neutral from Buy with a price target of $230, down from $245. While the firm likes NXP's strength in high-value advanced driver assist systems, radar, and zonal processors, it notes the company's lack of AI products, limited EV leverage, planned exit from high margin communications infrastructure/RF, and higher exposure to consumer phones that could be pressured by constrained memory supply.
+H.C. Wainwright double downgradedReplimune(REPL)to Sell from Buy without a price target after the FDA issued another complete response letter for RP1 plus Opdivo in anti-PD1 failed melanoma patients. JPMorgan also downgraded the name to Underweight, while Wedbush, Jefferies, Cantor Fitzgerald and Leerink cut the stock to Neutral-equivalent ratings.
+Top 5 Initiations:
+BTIG initiated coverage ofAdobe(ADBE)with a Neutral rating and no price target. The firm says AI is "raising a host of questions about the future of the creative ecosystem."
+Wells Fargo initiated coverage ofChime(CHYM)with an Overweight rating and $25 price target. Wells is bullish on the company's execution and sees upside potential to Q1 estimates.
+Leerink initiated coverage ofZimmer Biomet(ZBH)with a Market Perform rating and $10 price target. The firm sees limited near-term upside ahead of the company's "more meaningful" catalysts in 2027.
+Leerink initiated coverage ofStryker(SYK)with an Outperform rating and $410 price target. The firm says Stryker offers a compelling combination of high-quality growth, top-tier commercial execution, and an attractive portfolio of products within large cap MedTech.
+BTIG initiated coverage ofFigma(FIG)with a Neutral rating and no price target. The firm says the degree to which AI monetization can be a durable growth driver for Figma "remains ambiguous."

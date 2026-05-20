@@ -1,0 +1,15 @@
+Title:   Bessent Calls Anthropic’s Mythos a Breakthrough in China AI Race
+Date:    2026-04-15
+URL:     https://finance.yahoo.com/sectors/technology/articles/bessent-calls-anthropic-mythos-breakthrough-010339669.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+(Bloomberg) -- US Treasury Secretary Scott Bessent hailed Anthropic PBC’s Mythos as a revolutionary step that will keep America ahead of China in AI, endorsing an industry leader that’s clashed with Washington over its role in military endeavors.
+Bessent, speaking Tuesday at a Wall Street Journal event in Washington, dismissed a question suggesting China was rapidly catching up in AI technology, though he said American artificial intelligence stood just three to six months ahead. He singled out Mythos — a model Anthropic says is highly adept at finding vulnerabilities in software and computer systems that’s being released to a very limited number of carefully-chosen parties.
+The Treasury Secretary’s comments emerged just days after he and Federal Reserve Chair Jerome Powell summoned Wall Street banks to an urgent meeting on concerns that Anthropic’s latest model will usher in an era of greater cyber risk.
+“This Anthropic mythos model was a step function change in abilities, learning capabilities,” he told the audience. “It’s all logarithmic. You go from x to the 10th power to x to the 12th and then it’s very difficult to catch up.“
+Still, Anthropic has run afoul of some agencies in Washington. The Pentagon this year declared the company a threat to the US supply chain, under an authority normally reserved for foreign adversaries. The company won a court order last month blocking a ban on government use of the technology, after Anthropic argued the move could cost it billions of dollars in lost revenue.
+Founded in 2021 by former OpenAI staffers including Chief Executive Officer Dario Amodei, Anthropic has aimed to be a more responsible AI steward than its competitors. Claude and its underlying technology have gained traction with enterprise customers in sectors like finance and health care, as well as with developers. Anthropic has pledged to spend $50 billion to build custom data centers in the US.
+On Tuesday, Bessent also called out America’s lead in AI computing — the enormous data centers that hyperscalers from Meta Platforms Inc. to Google are spending hundreds of billions of dollars to build out.
+“I’ve seen studies that say that in a few years, the US is going to have 70 or 80% of the global computing power,” he said. “We were in the 30s. Now, I think we’re in the 50s, and we’re well, well on our way.”
+More stories like this are available onbloomberg.com
+©2026 Bloomberg L.P.

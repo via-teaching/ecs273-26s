@@ -1,0 +1,13 @@
+Title:   Why Advanced Micro Devices Shares Are Gaining Today
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-shares-165146087.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+This article first appeared onGuruFocus.
+Advanced Micro Devices (NASDAQ:AMD) shares rose about 2% in Tuesday morning trading after GF Securities said the company appears positioned to benefit from sustained demand for its processors that continues to exceed available supply.
+Analyst Jeff Pumaintaineda Buy rating on AMD with a $311 price target. He noted that demand from key customers including OpenAI and Meta Platforms (NASDAQ:META) remains well ahead of current production capacity for graphics processing units.
+Warning! GuruFocus has detected 7 Warning Signs with AMD.
+Is AMD fairly valued? Test your thesis with our free DCF calculator.
+Pu pointed to AMD's server unit performance, citing industry data that showed the company held a 41 percent value share of the market in the fourth quarter of 2025. Shipment share stood at 29 percent for the period.
+The analyst projected that AMD's full-year 2026 server shipments could rise 28 percent from the prior year while revenue may climb about 46 percent. He cited increased wafer capacity and higher average selling prices tied to upcoming Venice processors.
+Pu added that despite growing interest in ARM-based alternatives, AMD's x86 architecture may remain the preferred solution for pairing with GPUs due to performance advantages in orchestration workloads.

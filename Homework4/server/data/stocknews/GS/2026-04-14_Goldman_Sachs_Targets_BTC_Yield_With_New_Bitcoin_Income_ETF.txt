@@ -1,0 +1,27 @@
+Title:   Goldman Sachs Targets BTC Yield With New Bitcoin Income ETF
+Date:    2026-04-14
+URL:     https://beincrypto.com/goldman-sachs-bitcoin-premium-income-etf/?.tsrc=rss
+--Article Content--
+Goldman Sachs filed with the SEC on April 14 to launch a Bitcoin Premium Income ETF, the bank’s first proprietary Bitcoin (BTC) fund product.
+The filing adds Goldman to a growing list of Wall Street banks building dedicated BTC investment vehicles. Morgan Stanley debuted its own spot Bitcoin ETF just days ago.
+The fund will invest at least 80% of net assets in instruments providing Bitcoin exposure. These include spot Bitcoin exchange-traded products and options on Bitcoin ETP indices.
+Goldman’s core strategy relies on a dynamic optionsoverwrite. The fund holds long positions in spot Bitcoin ETPs while selling call options against them, collecting premiums as monthly income.
+The overwrite level ranges from 40% to 100% of BTC exposure, adjusted based on market conditions.
+It does not hold BTC directly. A wholly owned Cayman Islandssubsidiarycan hold up to 25% of assets, helping the fund meet regulatory requirements for holding commodities under the Investment Company Act of 1940.
+In flat ormildly volatile markets, option premiums may help the fund outperform plain spot Bitcoin ETFs. During strong rallies, the sold calls cap upside participation.
+ETF analyst Eric Balchunas noted Goldman may be responding to client demand for lower-volatility BTC exposure.
+“Goldman may sense opp to leap frog them and/or is prob hearing from their clients they want bitcoin but with less vol and happy to give up some upside for lower downside and income,” hewrote.
+Goldman has been steadily expanding its crypto footprint. Its most recent 13F filing showed roughly$1.1 billion in Bitcoin ETF holdingsand more than $2.36 billion in total crypto ETF exposure.
+The bank also recently acquired Innovator Capital Management, which issues Bitcoin-linked structured products.
+The filing comes less than a week after Morgan Stanleylaunched the Morgan Stanley Bitcoin Trust (MSBT) on NYSE Arca.
+“Seeing a global giant like Morgan Stanley highlighting crypto on their homepage like this is such a positive sign…This is how it goes mainstream. TradFi isn’t on the sidelines of crypto anymore. It is actively prioritising and scaling it as a core asset class. Next stop: every large wealth platform in the world treating crypto like just another asset class,”commentedSummit Gupta.
+That fund tracks BTC’s spot price at a 0.14% expense ratio, making it the cheapest spot Bitcoin ETF on the market. It drew $30.6 million in first-day inflows.
+Goldman’s product targets a different audience. While MSBT appeals to investors seeking pure price exposure at low cost, the Premium Income ETF is designed for those willing to trade upside for regular distributions.
+Grayscale launched its own Bitcoin Premium Income ETF (BPI) in April 2025 with a 0.66% expense ratio. BlackRock has a similar product at an advanced stage of development. Goldman’s fees have not yet been disclosed.
+The filing is a post-effective amendment. The fund could launch roughly 75 days after the April 14 filing date, pending SEC review. A ticker has not yet been assigned.
+For traditional portfolio allocators, the entry of a $3.5 trillion asset manager packaging BTC volatility as yield further narrows the gap between crypto and conventional income investing.
+Daily Crypto Insights
+Insights, news and analysis of the crypto market straight to your inbox
+Disclaimer
+In adherence to theTrust Projectguidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that ourTerms and Conditions,Privacy Policy, andDisclaimershave been updated.
+Trade without KYC & get bonus up to $2888Explore BYDFi

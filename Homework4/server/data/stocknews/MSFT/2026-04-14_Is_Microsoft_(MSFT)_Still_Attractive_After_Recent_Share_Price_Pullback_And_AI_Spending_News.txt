@@ -1,0 +1,46 @@
+Title:   Is Microsoft (MSFT) Still Attractive After Recent Share Price Pullback And AI Spending News
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-still-attractive-recent-180926465.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+Find winning stocksin any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE.
+If you are wondering whether Microsoft is priced for opportunity or already fully valued, it helps to start with what the recent share price is really telling you.
+The stock last closed at US$384.37, with returns of 3.1% over 7 days, a 2.8% decline over 30 days, an 18.7% decline year to date, but a small 0.1% decline over 1 year alongside gains of 36.2% over 3 years and 54.8% over 5 years.
+Recent news has focused on Microsoft's role at the center of long term themes such as cloud computing and artificial intelligence, as well as its ongoing investments in expanding products and services. This backdrop helps frame why the share price has seen both shorter term pullbacks and longer term strength in returns.
+Simply Wall St currently assigns Microsoft a valuation score of6out of 6, and next you will see how that result comes from several common valuation methods, before finishing with a broader way to think about what valuation really means for long term investors.
+Microsoft delivered -0.1% returns over the last year. See how this stacks up to the rest of the Software industry.
+A Discounted Cash Flow, or DCF, model takes estimates of a company’s future cash flows and discounts them back to today’s dollars to arrive at an implied intrinsic value per share.
+For Microsoft, the model used is a 2 Stage Free Cash Flow to Equity approach, based on cash flow projections in US$. The latest twelve month free cash flow is about US$93.7b. Analyst estimates are provided for the next several years, and then Simply Wall St extrapolates beyond that, with projected free cash flow in 2035 of roughly US$285.8b.
+These future cash flows are discounted to today using the model’s assumptions, which results in an estimated intrinsic value of about US$482.86 per share. Compared with the recent share price of US$384.37, the model implies Microsoft trades at roughly a 20.4% discount, so on this measure the stock screens as undervalued rather than fully priced.
+Result: UNDERVALUED
+Our Discounted Cash Flow (DCF) analysis suggests Microsoft is undervalued by 20.4%. Track this in yourwatchlistorportfolio, or discover55 more high quality undervalued stocks.
+Head to the Valuation section of our Company Report for more details on how we arrive at this Fair Value for Microsoft.
+For a profitable company like Microsoft, the P/E ratio is a useful way to think about value because it links the share price directly to the earnings you are paying for each share. A higher P/E typically reflects stronger growth expectations or lower perceived risk, while a lower P/E can point to more modest growth assumptions or higher risk.
+Microsoft currently trades on a P/E ratio of 23.93x. That sits below both the Software industry average of about 28.05x and the peer average of 28.98x, which suggests the market is pricing Microsoft slightly more conservatively than many comparable names. To go a step further, Simply Wall St also estimates a proprietary “Fair Ratio” of 41.24x for Microsoft.
+The Fair Ratio is designed to reflect the P/E multiple that might be reasonable given factors such as earnings growth, profit margins, industry, market cap and specific risks. Because it ties the multiple to company specific drivers instead of just broad peer groups, it can offer a more tailored view than a simple comparison to industry or peer averages. With Microsoft’s current P/E of 23.93x sitting below the Fair Ratio of 41.24x, this framework points to the shares screening as undervalued on this metric.
+Result: UNDERVALUED
+P/E ratios tell one story, but what if the real opportunity lies elsewhere?Start investing in legacies, not executives. Discover our 18 top founder-led companies.
+Earlier the focus was on DCFs and P/E ratios, but there is an even better way to understand valuation by tying those numbers to a clear story. This is where Narratives on Simply Wall St come in. They allow you to set a view on Microsoft’s future revenue, earnings and margins, link that view to a forecast and fair value, and then compare that fair value to today’s US$384.37 share price. This way you can see in plain terms whether your story suggests the stock is expensive or offers opportunity.
+On the Community page, Narratives give you a simple framework rather than a complex model. They update automatically when fresh news, earnings or analyst estimates are added, so your thesis is not frozen in time while the company moves on.
+For Microsoft, one investor currently anchors their Narrative around a fair value of US$362.08 per share with more modest real earnings growth assumptions. Another sees a path closer to US$600 per share built on stronger revenue growth and higher future P/E. The gap between those two Narratives shows how different but clearly defined stories about AI, cloud and spending can both sit on the same platform, each with its own numbers and implied upside or downside.
+For Microsoft, however, we will make it really easy for you with previews of two leading Microsoft Narratives:
+🐂 Microsoft Bull Case
+Fair value in this bullish Narrative: US$395.00 per share
+Implied pricing gap vs the recent US$384.37 share price: about 2.7% below this Narrative fair value
+Revenue growth assumption in this Narrative: 10.63%
+The author argues that heavy recent capital expenditure and AI infrastructure spending is a sign of strong underlying demand rather than a problem, pointing to large free cash flow, high margins and a net cash balance.
+They highlight three reinforcing strengths around Microsoft 365 switching costs, hyperscale cloud with Azure and the OpenAI partnership, which together create a flywheel across productivity, cloud and AI services.
+The Narrative acknowledges regulatory and antitrust risks but views them as manageable alongside the company’s current profitability, balance sheet and cash generation.
+🐻 Microsoft Bear Case
+Fair value in this more cautious Narrative: US$333.48 per share
+Implied pricing gap vs the recent US$384.37 share price: about 15.3% above this Narrative fair value
+Revenue growth assumption in this Narrative: 9.5%
+The author frames Microsoft as a strong business but suggests investors may be overexcited about AI, with cash flow benefits taking time to show through and the stock carrying a premium to their estimates.
+The Narrative leans on Azure and AI as key growth drivers across cloud, productivity apps, gaming and healthcare, while also assuming higher profit margins and ongoing buybacks over several years.
+It flags several risks, including regulatory pushback, potential limits to cloud growth, competition across productivity and collaboration tools and the challenge of growing earnings from an already large profit base.
+If you want to move from these snapshots to the full story, it can help to read how other investors connect their assumptions on growth, margins and risk to an explicit fair value and compare that to today’s price in one place, then decide which Narrative best matches your own view of Microsoft.
+To see how these results tie into long-term growth, risks, and valuation, check out the full range ofcommunity narrativesfor Microsoft on Simply Wall St. Add the company to yourwatchlistorportfolioso you'll be alerted when the story evolves.
+Do you think there's more to the story for Microsoft?Head over to our Community to see what others are saying!
+This article by Simply Wall St is general in nature.We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice.It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article includeMSFT.
+Have feedback on this article? Concerned about the content?Get in touchwith us directly.Alternatively, emaileditorial-team@simplywallst.com

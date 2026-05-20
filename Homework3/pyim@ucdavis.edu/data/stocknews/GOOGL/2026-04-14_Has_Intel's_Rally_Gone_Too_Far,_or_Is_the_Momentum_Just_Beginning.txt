@@ -1,0 +1,42 @@
+Title:   Has Intel's Rally Gone Too Far, or Is the Momentum Just Beginning?
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/markets/stocks/articles/intels-rally-gone-too-far-235400893.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+Soaring nearly 70% this year, Intel INTC) stock has been on a tear thanks to a wave of positive catalysts, including AI-related partnerships, major outside investments, improving earnings, and renewed confidence in its foundry strategy.
+Trading near its highest levels since 2021, Intel stock has continued a remarkable turnaround after years of structural, competitive, and financial setbacks.
+While Nvidia’s NVDA) GPU dominance was anticipated, Intel also fell behind rivals like AMD AMD) and Taiwan Semiconductor TSM) in both chip design and manufacturing technology.
+Eyeing a return to prominence, Intel stock has now soared more than 200% in the last year, hitting a new 52-week and multi-year high of $65 a share this week.
+This certainly makes it a worthy topic of whether the rally in INTC has gone too far or if the momentum is just beginning.
+Image Source: Zacks Investment Research
+Adding fuel to the latest rally is that Intel recently announced a high-profile partnership with Elon Musk’s Terafab chip-making venture, which investors see as a major validation of Intel’s foundry ambitions.
+Terafab is Elon Musk’s ambitious plan to build a vertically integrated semiconductor mega facility capable of producing 1 terawatt of AI compute per year, an unprecedented scale.
+Last week, Intel announced that it would join Terafab as the primary foundry partner, providing the manufacturing technology needed to build AI chips. The major semiconductor initiative is led by Musk’s companies, Tesla TSLA), SpaceX, and xAI.
+Forbes reported that Intel will contribute its 18A process node, advanced packaging, and high-volume manufacturing capabilities.
+Other reports have indicated that Intel is also in discussions with Amazon AMZN) and Alphabet GOOGL) about advanced chip-packaging services, another potential boost to its manufacturing business as it looks to regain market share from Taiwan Semiconductor.
+At the center of Intel’s turnaround has been investments from Nvidia, SoftBank SFTBY), and the Trump administration.
+Nvidia has invested $5 billion in Intel, with SoftBank adding $2 billion, and the U.S. government took a 10% stake worth $8.9 billion, a rare and aggressive show of support for domestic chipmaking.
+These investments have signaled confidence in Intel’s turnaround strategy and strategic importance to the semiconductor industry, while alleviating the financial stress the company was previously facing.
+Just as advantageous for Intel is that it has formed a strategic partnership with Nvidia, representing one of the biggest realignments in the semiconductor industry in decades.
+The deep technical integration effectively merges Intel’s CPU (central processing unit) leadership with Nvidia’s GPU (graphics processing unit) leadership, while ending years of rivalry in which Nvidia had the upper hand.
+Notably, Intel is designing and building custom CPUs for Nvidia’s AI data-center platforms, with their collaboration extending to next-generation PCs as well.
+With confidence restored in Intel’s ability to fund its operations, it’s noteworthy that the company is now sitting on a multi-year peak in cash & equivalents at over $37 billion. Plus, Intel’s balance sheet includes $211.42 billion in total assets, which is nicely above its total liabilities of $85 billion.
+Image Source: Zacks Investment Research
+The pinnacle of Intel’s turnaround came when it posted itsfirst profit after six consecutive quarterly losses (GAAP basis)in Q3 2025.
+Net income for Q3 2025 came in at $4.1 billion or adjusted EPS of $0.23, impressively beating Wall Street's expectations of $0.01.
+Intel reported a GAAP net loss of $600,000 in Q4 2025, although non-GAAP net income came in at $800,000 or $0.15 per share and ahead of EPS expectations of $0.08. Overall, Intel reported a net loss of $267,000 in 2025, or -$0.06 a share on a GAAP basis and $0.42 in regard to adjusted EPS (Non-GAAP).
+Furthermore, Intel is expected to post a GAAP profit this year, but this is heavily dependent on margin improvement and lower one-time charges,with the company set to report Q1 2026 results on Thursday, April 23.
+Reassuringly, Intel’s top-line recovery has been supportive of its expected return to profitability, with annual sales projections moving further past $50 billion, although this is still well away from a peak of $79 billion in 2021.
+Intel’s surge has been driven by a mix of improving financial fundamentals, strategic positioning (AI and foundry), and macro tailwinds (policy support). Demand for data-center CPUs and AI-related chips continues to exceed supply, strengthening Intel’s near-term outlook.
+For now, Intel stock lands aZacks Rank #3 (Hold)after such an exhilarating rally that could likely continue if analysts start to readjust earnings estimates higher following the announcement of its collaboration with Terafab.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report
+Intel Corporation (INTC) : Free Stock Analysis Report
+Amazon.com, Inc. (AMZN) : Free Stock Analysis Report
+Advanced Micro Devices, Inc. (AMD) : Free Stock Analysis Report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+Taiwan Semiconductor Manufacturing Company Ltd. (TSM) : Free Stock Analysis Report
+Tesla, Inc. (TSLA) : Free Stock Analysis Report
+SoftBank Group Corp. Unsponsored ADR (SFTBY) : Free Stock Analysis Report
+Alphabet Inc. (GOOGL) : Free Stock Analysis Report
+This article originally published on Zacks Investment Research (zacks.com).
+Zacks Investment Research
