@@ -18,6 +18,8 @@ mongodb://localhost:27017
 
 Name the server and then connect to the server
 
+IMPORTANT: DO NOT CLOSE MongoDB
+
 ### 2: Install necessary dependencies for server
 Open the Homework4 file using visual studio code
 
@@ -40,17 +42,24 @@ This will import all the data into the MongoDB server. You can verify it is ther
 
 stock_ajoyuan
 
+in mongoDB
 
-### 4: Run the FastAPI server
+IMPORTANT: DO NOT CLOSE MongoDB
+
+### 5: Run the FastAPI server
 in the terminal, run the command:
 
 uvicorn main:app --reload --port 8000
 
-Then, use this link:
+IMPORTANT: DO NOT KILL THE BASH TERMINAL, KEEP THIS OPEN AND USE A NEW BASH TERMINAL FOR THE FOLLOWING STEPS
+
+### 6: Access the FastAPI server
+
+In your web-browser, Use this link:
 
 http://localhost:8000/docs 
 
-to access the FastAPI server where you can access the data
+to access the FastAPI server where you can look at the data
 
 # FRONTEND SETUP
 
@@ -60,6 +69,8 @@ Open a new bash terminal and navigate to the client-jsx folder
 In the terminal, run the command:
 
 npm install
+
+IMPORTANT: DO NOT CLOSE OR USE THE PREVIOUS BASH TERMINAL WHERE YOU ACTIVATED YOUR FastAPI, YOU MUST USE A NEW BASH TERMINAL HERE
 
 ### 6. Run the Application
 Run the following command in the bash terminal to start the Vite development server:
