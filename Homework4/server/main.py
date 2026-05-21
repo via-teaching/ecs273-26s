@@ -34,8 +34,8 @@ async def get_stock_list():
 
 @app.get("/stocknews", response_model=list[StockNewsModel])
 async def get_stock_news(stock_name: str):
-    cursor = db.stock_news.find({"Stock": stock_name.upper()})
-    return [doc async for doc in cursor]
+    data = db.stock_news.find({"Stock": stock_name.upper()})
+    return [doc async for doc in data]
 
 @app.get("/stock/{stock_name}", 
         response_model=StockModelV2
@@ -56,8 +56,8 @@ async def get_tsne(stock_name: str = 'XOM') -> tsneDataModel:
     """
     Get the t-SNE data for a specific stock
     """
-    cursor = db.tsne_data.find()
-    return await cursor.to_list(length=20)
+    data = db.tsne_data.find()
+    return await data.to_list(length=20)
 
 #uvicorn main:app --reload --port 8000
 #http://localhost:8000/docs
