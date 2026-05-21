@@ -1,0 +1,78 @@
+Title: eInfochips' EIC PROPEL™ Now Available in the Microsoft Marketplace
+Date: 2026-04-09 13:50
+URL: https://finance.yahoo.com/sectors/technology/articles/einfochips-eic-propel-now-available-135000959.html?.tsrc=rss
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian. 
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Nike set the stage for a turnaround, but global events keep getting in its way
+Bank of America rips up its economic forecasts as it braces for $100 oil all year on Iran war disruptions
+Microsoft customers worldwide can now discover and deploy EIC PROPEL™, an enterprise-grade IoT platform that enables secure, scalable, and unified device management with integrated support for Microsoft Azure services
+SAN JOSE, Calif. and AHMEDABAD, India, April 9, 2026 /PRNewswire/ -- eInfochips, an Arrow Electronics company and a global provider of product engineering services, today announced the availability of EIC PROPEL™, its enterprise IoT platform, in the Microsoft Marketplace, the unified online destination for customers to buy trusted cloud solutions, AI apps, and agents.
+With this availability, customers can now deploy EIC PROPEL™ through the Microsoft Marketplace for streamlined access, seamless integration, and simplified lifecycle management across Microsoft Azure products and services. EIC PROPEL™ helps enterprises connect, manage, and optimize large fleets of IoT assets through real-time edge-to-cloud communication, remote device control, intelligent analytics, and robust zero-trust security principles. This helps organizations accelerate deployment, reduce operational overhead, and gain clearer visibility into their distributed devices.
+EIC PROPEL™ offers a unified dashboard for multi-tenant device management, real-time telemetry, automated workflows, and enterprise-grade governance. The platform supports integration with Microsoft Azure IoT, Azure Synapse Analytics, and Azure Data Explorer, enabling organizations to operationalize device data with advanced analytics and support next-generation use cases such as predictive AI, machine learning, and generative AI.
+With it's availability on the Microsoft Marketplace, customers can deploy EIC PROPEL™ more easily while leveraging deep integration with the Azure Ecosystem. "Making EIC PROPEL™ available on the Microsoft Marketplace allows our customers to accelerate IoT adoption with a scalable, secure, and cloud-ready platform," said Murdoch Fitzgerald, chief growth officer, global services  at Arrow. "Our integration with Microsoft Azure helps enterprises gain real-time visibility across distributed devices while maintaining the rigorous security, performance, and compliance standards required for modern IoT operations."
+"Microsoft Marketplace helps organizations and partners move faster, work smarter, and grow by connecting them with the right solutions — all in one trusted place," said Cyril Belikoff, vice president, Microsoft Azure Product Marketing. "We're happy to welcome eInfochips' EIC PROPEL™ solution to the growing Microsoft Marketplace ecosystem."
+Microsoft Marketplace is a single destination to find, try, and buy trusted cloud solutions, AI apps, and agents to meet your business objectives. Choose from a growing collection of solutions tailored to your unique needs, available both in the marketplace and directly within Microsoft products.
+About EIC PROPEL™
+EIC PROPEL™ is an enterprise IoT platform that enables real-time asset connectivity, automated device management, and secure data intelligence from edge to cloud. Built on a multitenant, scalable, and security-first architecture, the platform supports thousands of devices across industries and integrates with Azure compute, storage, and analytics services for end-to-end IoT lifecycle operations.
+Key capabilities include:
+Unified device management: Connect, monitor, and manage diverse IoT devices through a single dashboard, with real-time telemetry and automation workflows.
+End-to-end security: Zero-trust design with AES-256 encryption, X.509 certificate-based authentication, and secure provisioning.
+Multitenant scalability: Isolation, governance, and policy-based control across distributed deployments.
+Azure integration: Native support for Azure IoT, Synapse, Data Explorer, and event-based data pipelines.
+Industry use cases: EV charging networks, smart buildings, logistics, supply chain visibility, and connected healthcare.
+About eInfochips
+eInfochips, an Arrow Electronics company, accelerates product innovation through industry-leading engineering research and development (ER&D) capabilities. With deep expertise across silicon, embedded, digital, AI, IoT, robotics, and cybersecurity, eInfochips delivers end-to-end ER&D services, that take innovations from concept to deployment seamlessly.
+With 750+ products engineered and 100M+ deployments worldwide, eInfochips is recognized by firms like Avasant, Everest, Gartner, HfS Research, Zinnov, and ISG for its ability to deliver complex engineering challenges.
+Learn more about EIC PROPEL™: https://www.einfochips.com/eic-propel/Marketplace Listing: https://marketplace.microsoft.com/en-us/product/azure-applications/einfochipsinc1748933715085.eic_propel_application
+View original content:https://www.prnewswire.com/news-releases/einfochips-eic-propel-now-available-in-the-microsoft-marketplace-302738368.html
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

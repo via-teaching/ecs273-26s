@@ -1,0 +1,71 @@
+Title: As AI seeps into more workflows, observability startups are helping with accounting
+Date: 2026-04-08 22:18
+URL: https://finance.yahoo.com/sectors/technology/articles/ai-seeps-more-workflows-observability-221824509.html?.tsrc=rss
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+Britain's billion-dollar bet on a hypercar is "a genuinely incredible machine to drive," writes senior reporter Pras Subramanian. 
+Cocoa prices are falling — but not in time for Easter (CNN Business)
+7 things to know about Schwab's new brokerage account for teenagers
+The war in Iran shows no signs of slowing down, and its damage may be felt for years to come
+The best markets for first-time homebuyers are increasingly in these two regions of the US
+The company's gravitational pull has the potential to elevate Elon Musk as a government partner, Wall Street fixture, and tech entrepreneur.
+US judge upholds block of subpoenas in criminal investigation of Jay Powell (Financial Times)
+Hyundai's Boulder concept previews the automaker's truck future, built in America
+What we've learned in a year since 'Liberation Day'
+Americans nearing retirement plan to take Social Security 'as soon as eligible'
+March jobs report: US economy adds 178,000 jobs, unemployment rate falls to 4.3% in surprise turnaround
+The March jobs report will show a fuller picture of the state of the job market, just as the Iran war began to weigh on the global economy.
+Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
+Microsoft is building its own high-powered AI models, a sign that it is looking to wean itself from OpenAI
+Stocks shook off early losses, oil held on to gains as markets assessed a potential easing in the Strait of Hormuz
+Mortgage rates rose above 6% for the 5th straight week
+Stocks spiked after Iran announced it's working with Oman on a Strait of Hormuz traffic protocol
+US stocks fall at the open while oil surges after Trump says the war in Iran is not yet over
+What's changed (and what hasn't) in the year since Trump's 'Liberation Day'
+Watch live: President Trump addresses nation as Iran war rattles markets
+Nike set the stage for a turnaround, but global events keep getting in its way
+Bank of America rips up its economic forecasts as it braces for $100 oil all year on Iran war disruptions
+LLM observability startups, a new crop of companies helping businesses figure out where all their spending on AI is going, are gaining prominence. They help enterprises monitor, debug and optimize their AI deployments.
+As AI continues to make its way into workflows and tokens—units of data process by AI models—have become an expression of work, companies are increasingly scrutinizing how their spending on AI bandwidth is connected to their output.
+Sign up for The Daily Pitch newsletter Subscribe 
+“We’re going to have to accept that is going to be a major item of cost in any organization, and it’s to be compared to the cost of people, and not to be compared to the cost of TCP/IP packets or compute or anything like that,” said Marco Argenti, Goldman Sachs’ chief information officer, on a recent episode of Bloomberg’s Odd Lots podcast.
+Enterprise AI spending is growing exponentially, tripling from $11.5 billion in 2024 to $37 billion in 2025, according to research from Menlo Ventures.
+“Most companies have limited visibility into where their AI spend is going, which models are delivering value, and where they’re burning tokens on low-impact tasks,” said PitchBook analyst Derek Hernandez. “That gap is driving demand for observability tooling, and it will accelerate as AI usage continues to scale.”
+Within infrastructure SaaS, developer operations startups continue to defy a broader slowdown in VC investing.
+Since 2023, deal value has risen to $6.2 billion in capital across 133 pacts, up 55% over 2024’s $4 billion in venture dollars invested into 157 deals, according to PitchBook data. And AI observability startups are leading the pack.
+Braintrust, a startup that enables enterprise clients to track AI performance and token spending, announced an $80 million Series B in February from Iconiq, Andreessen Horowitz and Greylock. Last October, LangChain said it had raised $125 million at a $1.25 billion valuation from Sequoia, Benchmark and Amplify for its tools that help enterprises monitor token spending and performance of AI agents.
+Meanwhile, OpenRouter, a startup that helps developers access and track spending across multiple models, is in talks to raise $120 million at a $1.3 billion valuation, The Information reported.
+While token prices have fallen—down 300x for commodity models and down 12x for frontier models since, according to Tokencost—spending on AI has gone up.
+With cheaper tokens enabling more use cases and more complex tasks requiring more tokens, companies’ bills have gone up. OpenAI disclosed in its most recent state of enterprise AI research that the average reasoning token consumption per organization increased 320x from 2024 to 2025.
+  This article originally appeared on PitchBook News
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

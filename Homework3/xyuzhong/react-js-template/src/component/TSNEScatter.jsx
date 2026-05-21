@@ -102,6 +102,8 @@ function drawChart(svgEl, data, selectedStock, width, height) {
   const selected = data.find(d => d.ticker === selectedStock);
   if (selected) {
     dotsG.append("text")
+      .datum(selected)
+      .attr("class", "selected-label")
       .attr("x", xScale(selected.x) + 13)
       .attr("y", yScale(selected.y) + 4)
       .style("font-size", "13px")
@@ -141,8 +143,8 @@ function drawChart(svgEl, data, selectedStock, width, height) {
         .attr("cx", d => zx(d.x))
         .attr("cy", d => zy(d.y));
 
-      // Move the label too
-      dotsG.selectAll("text")
+      // Move the selected label too
+      dotsG.selectAll("text.selected-label")
         .attr("x", d => zx(d.x) + 13)
         .attr("y", d => zy(d.y) + 4);
     });

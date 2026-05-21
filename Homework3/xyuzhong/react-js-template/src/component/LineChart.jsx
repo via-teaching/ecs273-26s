@@ -2,7 +2,7 @@ import * as d3 from "d3";
 import { useEffect, useRef, useState } from "react";
 
 
-const margin = { left: 40, right: 130, top: 20, bottom: 60 };
+const margin = { left: 60, right: 130, top: 20, bottom: 60 };
 
 // the 4 series we want to draw, each with 1 color
 const SERIES = [
@@ -81,7 +81,13 @@ function drawChart(svgEl, data, width, height) {
     .call(d3.axisBottom(xScale).ticks(8));
 
   // --- Y axis ---
-  g.append("g").call(d3.axisLeft(yScale));
+  const yAxisG = g.append("g")
+    .call(d3.axisLeft(yScale).ticks(5));
+
+  yAxisG.selectAll("text")
+    .style("font-size", "11px")
+    .attr("dx", "-0.25em")
+    .attr("text-anchor", "end");
 
   // --- Axis labels ---
   g.append("text")
@@ -93,8 +99,8 @@ function drawChart(svgEl, data, width, height) {
   g.append("text")
     .attr("transform", `translate(-45,${innerH / 2}) rotate(-90)`)
     .attr("text-anchor", "middle")
-    .style("font-size", "13px")
-    .text("Price (USD)");
+    .style("font-size", "12px")
+    .text("Stock Price (USD)");
 
   // --- Lines ---
   const linesG = g.append("g").attr("clip-path", "url(#chart-clip)");
