@@ -1,5 +1,5 @@
 from typing import Optional, List, Annotated
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from pydantic.functional_validators import BeforeValidator
 from bson import ObjectId
 
@@ -31,26 +31,28 @@ class StockModelUnit(BaseModel):
     """
     Model for stock data values
     """
-    date: str
+    Date: str
     Open: float
     High: float
     Low: float
     Close: float
-    
+
 class StockModelV2(BaseModel):
     """
     Model for stock data values
     """
     _id: PyObjectId
     name: str
-    stock_series: list[StockModelUnit]
+    stock_series: List[StockModelUnit]
+    
     
 class StockNewsModel(BaseModel):
     _id: PyObjectId
     Stock: str
-    Title: str
-    Date: str  
+    title: str
+    date: str
     content: str
+
     
 class StockNewsModelList(BaseModel):
     Stock: str

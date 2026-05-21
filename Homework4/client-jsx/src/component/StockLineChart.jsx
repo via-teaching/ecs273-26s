@@ -14,15 +14,17 @@ export function StockLineChart({ selectedStock }) {
   const svgRef = useRef(null);
 
   useEffect(() => {
-    if (!selectedStock) return;
-    d3.csv(`/data/stockdata/${selectedStock}.csv`).then(res => {
-      setData(res.map(d => ({
+    fetch(`http://localhost:8000/stock/${selectedStock}`)
+      .then(res => res.json())
+      .then(resData => setData(resData.stock_series.map(d => ({
         Date: new Date(d.Date),
-        Open: +d.Open, High: +d.High, Low: +d.Low, Close: +d.Close
-      })));
-    });
+        Open: d.Open,
+        High: d.High,
+        Low: d.Low,
+        Close: d.Close
+      }))));
   }, [selectedStock]);
-
+  
   useEffect(() => {
     if (!containerRef.current || isEmpty(data)) return;
 
