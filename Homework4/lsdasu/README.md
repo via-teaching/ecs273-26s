@@ -10,35 +10,40 @@ Full-stack stock visualization app: React (JSX) + D3 frontend, FastAPI backend, 
 brew services start mongodb-community
 ```
 
-### 2. Install Python dependencies
+### 2. Install server dependencies
 
 ```bash
 cd ../server
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 3. Import data into MongoDB
 
 ```bash
 cd ../server
-python import_data.py
+python3 import_data.py
 ```
 
 This imports stock prices, news articles, and t-SNE embeddings into the `stock_lsd` database.
 
-### 4. Start the API server
+### 4. Start the FastAPI backend
 
 ```bash
 cd ../server
-uvicorn main:app --reload --port 8000
+python3 -m uvicorn main:app --reload --port 8000
 ```
 
 API docs available at: http://localhost:8000/docs
 
-### 5. Start the frontend
+### 5. Install client dependencies
 
 ```bash
 npm install
+```
+
+### 6. Start the React frontend
+
+```bash
 npm run dev
 ```
 
@@ -58,3 +63,10 @@ Frontend runs at: http://localhost:5173
 | `GET /stock/{ticker}` | OHLC price series for a ticker |
 | `GET /stocknews/?stock_name=AAPL` | News articles for a ticker |
 | `GET /tsne/` | t-SNE coordinates for all stocks |
+
+## Assumptions and Known Issues
+
+- MongoDB must be running locally on the default port (27017) before starting the server.
+- The database is named `stock_lsd` to avoid conflicts during grading.
+- The frontend fetches all t-SNE data on load (20 points) and does not re-fetch when the selected stock changes.
+- If `uvicorn` is not found directly, use `python3 -m uvicorn` as shown above.
