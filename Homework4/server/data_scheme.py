@@ -1,5 +1,5 @@
 from typing import Optional, List, Annotated
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from pydantic.functional_validators import BeforeValidator
 from bson import ObjectId
 
@@ -8,59 +8,67 @@ from bson import ObjectId
 
 PyObjectId = Annotated[str, BeforeValidator(str)]
 
+
 class StockListModel(BaseModel):
-    """
-    Model for stock list
-    """
-    _id: PyObjectId
+    """Model for stock list"""
+    id: Optional[PyObjectId] = Field(default=None, alias="_id")
     tickers: list[str]
 
+    model_config = {"populate_by_name": True}
+
+
 class StockModelV1(BaseModel):
-    """
-    Model for stock data values
-    """
-    _id: PyObjectId
+    """Model for stock data (parallel arrays variant)"""
+    id: Optional[PyObjectId] = Field(default=None, alias="_id")
     name: str
     date: list[str]
     Open: list[float]
     High: list[float]
     Low: list[float]
     Close: list[float]
-    
+
+    model_config = {"populate_by_name": True}
+
+
 class StockModelUnit(BaseModel):
-    """
-    Model for stock data values
-    """
+    """One row of OHLC data"""
     date: str
     Open: float
     High: float
     Low: float
     Close: float
-    
+
+
 class StockModelV2(BaseModel):
-    """
-    Model for stock data values
-    """
-    _id: PyObjectId
+    """Model for stock data (array-of-records variant)"""
+    id: Optional[PyObjectId] = Field(default=None, alias="_id")
     name: str
     stock_series: list[StockModelUnit]
-    
+
+    model_config = {"populate_by_name": True}
+
+
 class StockNewsModel(BaseModel):
-    _id: PyObjectId
+    id: Optional[PyObjectId] = Field(default=None, alias="_id")
     Stock: str
     Title: str
-    Date: str  
+    Date: str
     content: str
-    
+
+    model_config = {"populate_by_name": True}
+
+
 class StockNewsModelList(BaseModel):
     Stock: str
     News: list[StockNewsModel]
 
+
 class tsneDataModel(BaseModel):
-    """
-    Model for t-SNE data
-    """
-    _id: PyObjectId
+    """Model for t-SNE data"""
+    id: Optional[PyObjectId] = Field(default=None, alias="_id")
     Stock: str
     x: float
     y: float
+    sector: Optional[str] = None
+
+    model_config = {"populate_by_name": True}
