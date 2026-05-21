@@ -53,6 +53,13 @@ uvicorn main:app --reload --port 8000
 
 API at `http://localhost:8000`, docs at `http://localhost:8000/docs`
 
+| Endpoint | Description |
+|---|---|
+| `GET /stock_list` | List of all 20 ticker symbols |
+| `GET /stock/{ticker}` | OHLC price series — e.g. `/stock/AAPL` |
+| `GET /stocknews/?stock_name=AAPL` | Up to 30 news articles for a ticker |
+| `GET /tsne/` | t-SNE projection data for all 20 stocks |
+
 ---
 
 ## Notes
