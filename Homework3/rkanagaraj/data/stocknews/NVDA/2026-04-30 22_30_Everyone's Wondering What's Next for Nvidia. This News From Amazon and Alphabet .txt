@@ -1,0 +1,53 @@
+Title: Everyone's Wondering What's Next for Nvidia. This News From Amazon and Alphabet 
+Date: 2026-04-30 22:30
+URL: https://www.fool.com/investing/2026/04/30/everyones-wondering-whats-next-for-nvidia-this-new/?.tsrc=rss
+
+A trend has been gaining momentum at Amazon and Alphabet.
+Nvidia's (NVDA 4.63%) earnings and stock price have soared in recent years as customers rushed to get in on its artificial intelligence (AI) chips. The company makes the most powerful chip systems, ones that have guided AI models through crucial tasks such as training and inference -- and this strength has kept big tech customers coming back.
+Who are Nvidia's customers? The company doesn't list them, but commentary from these players tells us that they are giants such as Amazon (AMZN +0.76%), Alphabet (GOOG +10.00%) (GOOGL +9.96%), Microsoft, Meta Platforms, and others. In the case of cloud service providers, like the first three I mentioned here, they then offer their customers access to Nvidia's platforms.
+As the AI boom roars on, investors have brought up a logical question: What's next for Nvidia? Everyone has wondered whether the chip giant will continue to reign and generate enormous levels of growth or whether growth will slow. The latest news from Amazon and Alphabet offers us an idea that's strikingly clear.
+Image source: Getty Images.
+So, first, it's important to note the revenue gains Nvidia has delivered over the past few years. The company has seen annual sales, for example, climb to $215 billion in the latest fiscal year from $60 billion just two years ago. This is thanks to sales of its graphic processing units (GPUs) -- but we're not just talking about chips. Instead, this is about complex systems including GPUs, networking, and security features -- and customers flock to Nvidia for enterprise software and platforms specifically suited to certain industries and uses such as drug discovery for healthcare.
+This Card Just Received a Rare 5-Star Rating
+Our team of credit card pros don’t just recommend this card—they actually use it. Motley Fool Money calls it a top pick for a reason.
+Now, let's consider the news from Amazon and Alphabet that offers us an idea of what's ahead for the chip giant. As mentioned, Amazon and Alphabet both are cloud service powerhouses -- the former owns Amazon Web Services (AWS) and the latter owns Google Cloud. Both companies reported earnings this week and spoke of soaring demand for compute to power AI workloads. This is very positive news for these two companies as well as Nvidia.
+But the big news is as follows: Amazon and Alphabet are increasingly serving customers with their own in-house designed chips. In the case of Amazon, these are the Graviton central processing unit (CPU) and the Trainium GPU-style chip, and in the case of Alphabet, this is the TPU.
+When our analyst team has a stock tip, it can pay to listen. After all, Stock Advisor’s total average return is 979%* — a market-crushing outperformance compared to 200% for the S&P 500.
+They just revealed what they believe are the 10 best stocks for investors to buy right now, available when you join Stock Advisor.
+*Stock Advisor returns as of April 30, 2026. 
+In fact, Alphabet said that for the first time, it will deliver TPUs to a select group of customers for installation in their own data centers. Alphabet will recognize revenue from this primarily next year.  
+As for Amazon, the company said that while it maintains a solid partnership with Nvidia and plans to order "substantial quantities" of its chips, Amazon's own chips are seeing explosive demand.
+"We have such demand right now for Trainium, and we have such demand from various companies who will consume as much as we make," Amazon chief Andy Jassy said in the earnings call.  
+Now let's consider what this means for Nvidia. For certain workloads, customers may shift more and more into other options -- and clearly this already is the case as demand for Amazon and Alphabet chips has been climbing in recent quarters.
+At the same time, though, we haven't seen a slowdown in demand for Nvidia's platforms. This may be linked to two important elements. First of all, the level of demand means that it can drive growth at more than one company. And second, the needs of AI customers are varied, meaning they might use a variety of compute options -- so they won't choose to go all in on one player and turn away from another.
+Importantly, the fact that this already is underway and Nvidia hasn't seen growth suffer suggests that even as Amazon and Alphabet strengthen their chip presence, this may not interfere with Nvidia.
+Meanwhile, Nvidia isn't standing still. The company isn't just about the GPU; instead, it's focusing on expanding the use of its systems across industries, driving innovations in robotics, autonomous vehicles, and even telecom.
+So the news from Alphabet and Amazon offers us a strikingly clear picture of what's to come: Nvidia hasn't seen weakness as these giants have developed their chip strengths, and considering the company's innovation efforts, it's likely to remain a step ahead. All of this tells us that what's next for Nvidia may be ongoing growth as this AI boom marches on.
+
+ 
+
+
+Before you buy stock in Nvidia, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $496,797!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,282,815!*
+Now, it’s worth noting Stock Advisor’s total average return is 979% — a market-crushing outperformance compared to 200% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 30, 2026. 
+
+Adria Cimino has positions in Amazon. The Motley Fool has positions in and recommends Alphabet, Amazon, Meta Platforms, Microsoft, and Nvidia. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+This Card Just Received a Rare 5-Star Rating
+Our team of credit card pros don’t just recommend this card—they actually use it. Motley Fool Money calls it a top pick for a reason.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

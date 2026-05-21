@@ -1,0 +1,53 @@
+Title: Prediction_ This Under-the-Radar Artificial Intelligence (AI) Stock Could Be a M
+Date: 2026-04-30 20:20
+URL: https://www.fool.com/investing/2026/04/30/prediction-this-under-the-radar-artificial-intelli/?.tsrc=rss
+
+DigitalOcean's improving growth profile suggests that this cloud computing stock's rally is far from over.
+DigitalOcean Holdings (DOCN 0.45%) may not be as well known as some of the major cloud computing names benefiting from the fast-growing adoption of artificial intelligence (AI). Still, it has quietly delivered outstanding gains for investors in recent months.
+The stock has more than doubled this year, and its recent surge has been fueled by growing demand for the company's cloud computing services, which are primarily used by small and medium-size businesses, developers, and start-ups. Let's look at why this cloud stock has jumped 105% this year and see if it has room to run higher after its sizzling rally.
+Image source: Getty Images.
+There is no dearth of options for enterprises looking to run AI workloads in the cloud. Hyperscalers such as Alphabet's Google, Microsoft, and Amazon offer a plethora of AI-focused cloud services, and the impressive backlogs of these companies show that they are quite popular among customers.
+DigitalOcean, meanwhile, focuses on reducing the complexity and costs associated with deploying and scaling up AI workloads. Its customers can rent hardware, such as graphics processing units (GPUs), at significantly lower costs than major hyperscalers for building and running AI applications.
+This Card Just Received a Rare 5-Star Rating
+Our team of credit card pros don’t just recommend this card—they actually use it. Motley Fool Money calls it a top pick for a reason.
+The company says that renting Nvidia's popular H100 and H200 GPUs on its platform could help cut costs by 75% when compared to running those workloads with Amazon Web Services (AWS). So DigitalOcean is now positioning itself as the ideal cloud platform for AI inference workloads for AI-focused start-ups.
+It recently said that an AI start-up is saving 15% on inference costs by using its full-stack infrastructure instead of hyperscalers, with further savings expected as this start-up scales up. Other start-ups are achieving substantially lower latency and shorter times for training AI models by using DigitalOcean.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+Inference is supposed to become the next big thing in AI, and the size of the market is anticipated to multiply by almost five times between 2025 and 2034. So there is a good opportunity for DigitalOcean's cloud platform to become more popular, with the company already witnessing remarkable growth in its inference services.
+Its annual run rate revenue (ARR) from its inference services increased by 254% year over year in the fourth quarter of 2025. Its ARR from AI customers rose 150% year over year in the 2025 fourth quarter to $120 million.
+Management says its existing customers are spending more with it, as evident from the company's net dollar retention (NDR) rate of 101% at the end of the fourth quarter, an increase of two percentage points from the year-ago period.
+NDR measures monthly revenue from its customers by the revenue it generated from the same customer cohort in the year-ago period. A reading of over 100% means that existing customers are now spending more.
+This ability to get more business from existing customers and attract new ones looking to run AI workloads explains why the company expects strong acceleration in its growth. But will that be enough for it to become a multibagger?
+DigitalOcean's 2025 revenue increased by 15% to $901 million, and it is projecting a 21% increase this year.
+It expects its growth to pick up as the year progresses, reaching more than 25% by the end of 2026, and a 30% increase in 2027. So its top line could reach $1.42 billion by the end of next year.
+The stock currently trades at 11 times sales, which is a slight premium to the 8.8 price-to-sales ratio of the U.S. tech sector. The improvement in the company's sales justifies the slight premium, and it won't be surprising to see it trade at a larger premium by the end of next year, given the substantial improvement in its revenue.
+Assuming this AI stock trades at 15 times sales at the end of 2027 and achieves $1.5 billion in revenue due to fast-growing demand for its AI inference services, its market cap could reach $22.5 billion. That would represent a potential multiple of 2.2 from its current market cap, suggesting that DigitalOcean could become a multibagger by the end of 2027 due to its AI-fueled growth.
+
+ 
+
+
+Before you buy stock in DigitalOcean, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and DigitalOcean wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $496,797!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,282,815!*
+Now, it’s worth noting Stock Advisor’s total average return is 979% — a market-crushing outperformance compared to 200% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 30, 2026. 
+
+Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, DigitalOcean, Microsoft, and Nvidia. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 55 Metas.
+What in the world could be worth 55 Metas? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+This Card Just Received a Rare 5-Star Rating
+Our team of credit card pros don’t just recommend this card—they actually use it. Motley Fool Money calls it a top pick for a reason.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

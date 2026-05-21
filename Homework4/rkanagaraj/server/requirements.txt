@@ -1,0 +1,5 @@
+fastapi
+motor
+uvicorn
+pydantic
+pandas
