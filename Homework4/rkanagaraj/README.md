@@ -104,6 +104,13 @@ All data is sourced from Homework 1 and 2 and stored in `server/data/`:
 
 AAPL, BAC, CAT, CVX, DAL, GOOGL, GS, HAL, JNJ, JPM, KO, MCD, META, MMM, MSFT, NKE, NVDA, PFE, UNH, XOM
 
+## Assumptions and Known Issues
+
+- MongoDB must be running locally on port 27017 before starting the backend or running `import_data.py`.
+- The frontend assumes the FastAPI backend is reachable at `http://localhost:8000`. If the port changes, update the fetch URLs in the React components.
+- News articles are stored as structured JSON (`news.json`) inside each ticker's folder under `server/data/stocknews/`. The `.txt` raw files in those folders are not used.
+- The stock list endpoint (`/stock_list`) returns a hardcoded list of 20 tickers matching the imported data.
+
 ## AI Disclaimer
 
 Used Claude to clean up code and test the changes.
