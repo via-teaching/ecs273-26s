@@ -20,13 +20,58 @@ pip install -r requirements.txt
 
 ## Start MongoDB
 
-Make sure MongoDB is installed locally, then start the local server before importing data or running the API.
+The app expects a local MongoDB server at `mongodb://localhost:27017`.
+
+### Option 1: Homebrew on macOS
+
+Install MongoDB Community Edition with Homebrew:
+
+```bash
+brew tap mongodb/brew
+brew install mongodb-community
+```
+
+Start MongoDB as a background service:
 
 ```bash
 brew services start mongodb-community
 ```
 
-If you do not use Homebrew services, start `mongod` with your normal local MongoDB command. The app expects MongoDB at `mongodb://localhost:27017`.
+Check that it is running:
+
+```bash
+brew services list | grep mongodb
+mongosh --eval "db.runCommand({ ping: 1 })"
+```
+
+If Homebrew is outdated and fails to recognize your macOS version, update Homebrew first:
+
+```bash
+cd /opt/homebrew
+git pull
+brew update
+```
+
+### Option 2: Start `mongod` manually
+
+If you already have MongoDB binaries installed, you can run it directly instead of using Homebrew services:
+
+```bash
+mkdir -p ~/mongodb-data
+mongod --dbpath ~/mongodb-data
+```
+
+Leave that terminal running while you use the app.
+
+### Stop MongoDB later
+
+If you started MongoDB with Homebrew services:
+
+```bash
+brew services stop mongodb-community
+```
+
+If you started `mongod` manually, stop it with `Ctrl+C` in that terminal.
 
 ## Import Data
 
