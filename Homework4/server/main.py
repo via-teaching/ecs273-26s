@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from pydantic.functional_validators import BeforeValidator
 from motor.motor_asyncio import AsyncIOMotorClient
 
@@ -8,7 +8,7 @@ from data_scheme import StockListModel, StockModelUnit, StockModelV2, StockNewsL
 
 # MongoDB connection (localhost, default port)
 client = AsyncIOMotorClient("mongodb://localhost:27017")
-db = client.stock_madhu # please replace the database name with stock_[your name] to avoid collision at TA's side
+db = client.stock_xiaoyu # please replace the database name with stock_[your name] to avoid collision at TA's side
             
 app = FastAPI(
     title="Stock tracking API",
@@ -31,6 +31,7 @@ async def get_stock_list():
     """
     Get the list of stocks from the database
     """
+
     stock_name_collection = db.get_collection("stock_list")
     stock_list = await stock_name_collection.find_one()
     return stock_list

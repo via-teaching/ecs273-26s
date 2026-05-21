@@ -5,7 +5,7 @@ import asyncio
 
 # MongoDB connection (localhost, default port)
 client = AsyncIOMotorClient("mongodb://localhost:27017")
-db = client.stock_xy
+db = client.stock_xiaoyu
 
 stock_name_collection = db.get_collection("stock_list")
 tickers = [ 'XOM', 'CVX', 'HAL',
