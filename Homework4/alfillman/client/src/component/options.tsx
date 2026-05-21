@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 export default function RenderOptions() {
-  const [tickers, setTickers] = useState([]);
+  const [tickers, setTickers] = useState<string[]>([]);
 
   useEffect(() => {
     fetch("http://localhost:8000/stock_list")
