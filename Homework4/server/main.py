@@ -57,7 +57,7 @@ async def get_tsne(stock_name: str = 'XOM') -> tsneDataModel:
     Get the t-SNE data for a specific stock
     """
     data = db.tsne_data.find()
-    return await data.to_list(length=20)
+    return await data.to_list(length=100)
 
 #uvicorn main:app --reload --port 8000
 #http://localhost:8000/docs
