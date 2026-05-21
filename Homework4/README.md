@@ -66,11 +66,11 @@ to access the FastAPI server where you can look at the data
 ### 5: Install necessary dependencies for client
 Open a new bash terminal and navigate to the client-jsx folder
 
-In the terminal, run the command:
+In the bash terminal, run the command:
 
 npm install
 
-IMPORTANT: DO NOT CLOSE OR USE THE PREVIOUS BASH TERMINAL WHERE YOU ACTIVATED YOUR FastAPI, YOU MUST USE A NEW BASH TERMINAL HERE
+IMPORTANT: DO NOT CLOSE OR USE THE PREVIOUS BASH TERMINAL WHERE YOU ACTIVATED YOUR FastAPI, YOU MUST USE A NEW BASH TERMINAL FOR THIS STEP
 
 ### 6. Run the Application
 Run the following command in the bash terminal to start the Vite development server:
