@@ -4,7 +4,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 from fastapi.middleware.cors import CORSMiddleware
 
-from data_scheme import StockListModel, StockModelV1, StockModelV2, StockNewsModel, tsneDataModel
+from data_scheme import StockListModel, StockModelUnit, StockModelV2, StockNewsListModel, StockNewsModel, tsneDataModel
 
 # MongoDB connection (localhost, default port)
 client = AsyncIOMotorClient("mongodb://localhost:27017")
@@ -35,9 +35,8 @@ async def get_stock_list():
     stock_list = await stock_name_collection.find_one()
     return stock_list
 
-@app.get("/stocknews/", 
-        response_model=StockNewsModel
-    )
+@app.get("/stocknews/{stock_name}", response_model=StockNewsListModel)
+
 async def get_stock_news(stock_name: str = 'XOM') -> StockNewsModel:
     """
     Get the list of news for a specific stock from the database
@@ -56,9 +55,7 @@ async def get_stock() -> StockModelV2:
     """
     return [] # replace with your code to get the news from the database
 
-@app.get("/tsne/",
-        response_model=tsneDataModel
-    )
+@app.get("/tsne", response_model=list[tsneDataModel])
 async def get_tsne(stock_name: str = 'XOM') -> tsneDataModel:
     """
     Get the t-SNE data for a specific stock
