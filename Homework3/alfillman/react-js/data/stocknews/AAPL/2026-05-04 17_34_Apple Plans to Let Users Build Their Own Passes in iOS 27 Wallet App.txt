@@ -1,0 +1,27 @@
+Title: Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App
+Date: 2026-05-04 17:34
+URL: https://finance.yahoo.com/sectors/technology/articles/apple-plans-let-users-build-173410420.html?.tsrc=rss
+Content: The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+(Bloomberg) -- Apple Inc. is preparing a new “Create a Pass” feature for its next major iPhone software update, allowing users to build and customize their own digital tickets and gift cards within the Wallet app.
+Most Read from Bloomberg
+China’s Unprecedented Defiance of US Sanctions Triggers Showdown
+Former NYC Mayor Giuliani in Critical Condition, Trump Says
+Beijing Tells China Firms to Ignore US Sanctions on Refiners
+US and Iran Trade Fire in Gulf, Shaking Four-Week Ceasefire
+US Denies Iran Report That Naval Ship Was Hit by Missiles
+Today, the Wallet app is primarily used to access passes from third-party apps, along with credit and debit cards for Apple Pay, digital keys and retailer gift cards. But many services still don’t offer passes that are compatible with the Wallet platform.
+To address that gap, Apple has developed a pass-building tool for iOS 27 Wallet, according to people with knowledge of the matter. The feature lets users take a QR code and generate a custom pass around it, said the people, who asked not to be identified because the plans haven’t been announced.
+The capability is designed for situations where, for example, a gym or concert app provides a QR code for entry but doesn’t support the Wallet app. With the new tool, users can import that code and create their own pass.
+In test versions of the upcoming operating system, the feature is accessible via the “+” button in the Wallet app and through the page where users normally add new credit cards. The interface prompts users to “create passes for tickets, memberships, gift cards and more.”
+Users can create a pass from scratch or rely on the iPhone’s camera to take a QR code and turn it into a digital ticket. The feature includes customization tools for styles, images, colors and text fields, allowing users to tailor the information displayed on each pass.
+Apple is testing three template options: standard, membership and event. Standard, in orange, is a default option for any type of pass, while membership, in blue, is geared toward entering places like gyms. The event pass, in purple, is meant for tickets to games, movies and other occasions.
+A spokesperson for Cupertino, California-based Apple declined to comment. Software code discovered online had already indicated that the company was working on a new tool for creating passes, but the details of the approach haven’t been reported.
+The pass builder is one of several enhancements planned for iOS 27 and Apple’s broader software lineup this fall. The updates — built around new artificial intelligence features and performance upgrades — are set to be unveiled in June at the company’s annual Worldwide Developers Conference.
+Besides the new Wallet feature, Apple is planning a revamped Siri voice assistant and an accompanying app. There will be more options to tap into external voice-controlled chat services and expanded in-house AI features across photo editing, the camera app and visual intelligence, Bloomberg News has reported.
+Most Read from Bloomberg Businessweek
+America’s Go-To Autism Therapy Is Also the Most Controversial
+Whatnot Has Americans Hooked on Livestream Shopping
+It’s Boating Season, But Only If You Can Afford Fuel
+The NBA Draft Is Bad for Business
+Ready or Not, the AI Phones Are Coming
+©2026 Bloomberg L.P.
