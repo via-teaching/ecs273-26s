@@ -15,8 +15,3 @@ Thumbs.db
 
 package-lock.json
 
-# ignore IDE / AI tool config folders
-.claude/
-.cursor/
-.vscode/
-.idea/
