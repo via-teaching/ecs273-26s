@@ -1,4 +1,4 @@
-# Homework 4 — lsdasu
+# Homework 4 - lsdasu
 
 Full-stack stock visualization app: React (JSX) + D3 frontend, FastAPI backend, MongoDB database.
 
