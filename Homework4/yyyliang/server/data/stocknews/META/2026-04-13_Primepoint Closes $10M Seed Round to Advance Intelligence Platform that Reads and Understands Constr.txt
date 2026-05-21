@@ -1,0 +1,73 @@
+Title: Primepoint Closes $10M Seed Round to Advance Intelligence Platform that Reads and Understands Construction Drawings
+Date: 2026-04-13 22:05
+URL: https://finance.yahoo.com/sectors/technology/articles/primepoint-closes-10m-seed-round-220500489.html?.tsrc=rss
+Content:
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+US stocks sink after Trump orders Hormuz blockade against Iran
+Goldman Sachs Q1 profits climb thanks to jumps in M&A dealmaking and record equity trading
+The stock market's latest rally is reviving a familiar trade — but not all of the Magnificent Seven are coming along for the ride.
+Gen Z is driving IRA contributions to record highs. Here's how to get started.
+Wall Street strategists say it's time to 'jump in' with tech stocks
+Trump says US will blockade Strait of Hormuz after Iran talks fail (Bloomberg)
+Bank earnings, US-Iran talks, and signs of stability for stocks: What to watch this week
+Shaq, in NYC discussing his new investment with retailer tm:rw, said the NBA dunk contest isn't what it used to be.
+Used car prices hit highest levels since 2023 and could push higher
+Why Starlink is so important to SpaceX's IPO
+What to know about X Money, Elon Musk's fintech app that claims to pay 6% on savings
+The housing market is shifting toward buyers. Just not in New Jersey.
+Wall Street's biggest banks are riding into the first quarter earnings season on far less certain ground than where they began 2026.
+Watch: OpenAI CEO Sam Altman's house was reportedly the target of a Molotov cocktail attack on Friday. Yahoo Finance's Dan Howley explains.
+Stocks post second straight winning week amid fragile US-Iran ceasefire
+US tariff revenue dropped by over $4 billion in March. It's down almost 30% since October.
+US stocks open higher after March CPI inflation data shows energy surge
+Inflation soars by most since 2022 as gas prices bite
+Americans close to retirement are saving for later, but they're worried about getting by right now
+Government data out Friday will show how much consumer prices rose in March — and forecasts point to soaring inflation.
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+What if I can’t pay my taxes? 5 ways to tackle your bill.
+The US labor market right now can be defined by one word: Whiplash
+The Trump administration has signaled it will offer broad tariff refunds. That could mean millions for companies.
+Inflation readings, oil volatility, and airline earnings: What to watch this week
+The AI-Native Tool Built By Veterans from Meta, Microsoft, Google, and Webcor Has Garnered Funding From Investors Navitas Capital, Penny Jar Capital, NextView Ventures, GS Futures, Aglaé Ventures and Angel Investor Dr. Yann LeCun
+SAN MATEO, Calif., April 13, 2026(GLOBE NEWSWIRE)--Primepointhas closed a $10M seed round to advance its proprietary AI platform, co-founded by AI-veteransLubomir Bourdev, PhD, andHamid Palo, to understand construction drawings, reading linework, tags, and cross-document references across an entire project set. The San Mateo-based company received funding in two portions: an initial $4M co-led by Penny Jar Capital and NextView Ventures, followed by a $6M sum led by Navitas Capital, and participation from Penny Jar Capital, NextView Ventures, GS Futures and Aglaé Ventures. The round also includes contributions from AI pioneer Dr. Yann LeCun, Executive Chairman at AMI Labs and former Chief AI Scientist at Meta, widely recognized as one of the founding fathers of modern deep learning.
+Primepoint's proprietary AI knowledge graph automatically connects every drawing element to its corresponding schedule, specification, and project document, down to the tag level, and does the first pass of the work a construction team spends hours doing, with precise, traceable results that customers have come to trust. Designed to link information across an entire construction set and augment project manager expertise, Primepoint’s platform analyzes the hundreds of drawings that go into construction projects and eliminates the need for manual revisions and reconciliations against specs, RFIs, and submittals. Every result is traceable to the exact drawing detail or specification reference behind it. The tool transforms static PDFs into a seamless interactive drawing experience powered by an underlying knowledge graph, allowing project teams to easily gain visibility into project status, changes, and needs.
+“As early investors in PlanGrid, Navitas is familiar with the power of digital drawings on construction sites, but the Primepoint demo blew us away,” expressed Mike Heller, Principal at Navitas Capital. “This world-class team has ushered in a new age - with a platform that connects information across drawings and related documents in a way that feels like magic but is grounded in serious AI research, and can save the industry hundreds of billions of dollars in rework, delays, manual reviews, cost overruns, and beyond.”
+Primepoint's AI assistant, Marvin, is available throughout the platform to answer project questions in natural language, with responses grounded in project documents rather than generalized training data. The platform integrates with existing construction tools, including Procore, Autodesk Construction Cloud, and other major project management systems, and is built to meet enterprise security and data standards. Customer data is never used to train external or shared AI models.
+Dr. Bourdev is a founding member of Facebook AI Research and a pioneer of modern computer vision. He built the original object recognition system deployed on every photo and video on Facebook and Instagram, and later co-founded WaveOne, a deep learning video compression company acquired by Apple in 2023. He has authored more than 100 patents and has over 100,000 citations. Hamid Palo is a product visionary and early-stage operator who joined Trello as employee #5, helping scale it into a globally adopted platform, and later leading its transition to enterprise. He’s a proven builder of high-impact products, known for turning ambitious ideas into category-defining experiences at companies like Atlassian and Uber. Now an AI founder, Palo is focused on creating the next generation of intelligent tools to solve complex collaboration problems at scale.
+Primepoint additionally taps into the industry expertise of VP of StrategyKamran Azarbal, who spent more than a decade at Webcor, progressing from field engineer to project director on multi-billion dollar commercial projects. His firsthand experience navigating droves of construction drawings and documents sets the foundation for the tool to produce precise, reliable results that alleviate a key pain point for construction teams: vital insights are buried in piles of drawing revisions.
+“Technical drawings for large-scale construction projects are extraordinarily complex, and deeply interconnected with other drawings, specifications, and project documents," said Lubomir Bourdev, Co-founder and CEO of Primepoint. “What we are building enables teams to quickly surface discrepancies in drawings earlier in the construction process, saving time, effort, and money by doing the first chunk of work, not just providing answers,” added Hamid Palo, Co-Founder and CPO of Primepoint.
+“In construction, the energy is high at the start of the project, and everyone is eager to collaborate, but that fades quickly when clients, design teams, and trade partners face endless paperwork, contracts, RFIs, submittals, and reports,” said Kamran Azarbal, VP of Strategy at Primepoint. “We step in to handle the administrative burdens and allow project teams to quickly identify and address the critical risks impacting their projects.”
+The platform’s initial deployments included an Aeronautical University Campus in Arizona, with early industry partnerSundt Constructioninstrumental in shaping the platform. This year, Primepoint will expand its rollout with Sundt to additional projects that include a data center, higher education, and residential construction.
+“Primepoint actually took the time to truly understand the specific challenges in construction management and then built a solution from scratch, taking into account our existing workflows, without the constraints of legacy systems holding us back,” saidEric Cylwik,Director of Innovation at Sundt Construction. “This isn't just an AI chat-agent wrapper like others. It actually works with how the industry works.”
+With the new funding, Primepoint plans to expand its platform capabilities and grow its customer base among large commercial general contractors across the United States. Those interested in learning more can visitprimepoint.ai.
+About PrimepointPrimepointis a construction intelligence platform built specifically to read, connect, and act on construction drawings. Powered by proprietary AI with deep construction expertise, the platform automates the workflows project teams perform every day, from constructability review, RFI drafting, and submittal analysis, to drawing navigation, with precise, traceable results grounded in project documents. Founded in 2024 and headquartered in San Mateo, California, Primepoint serves large commercial general contractors and is built to meet the security requirements of enterprise construction organizations. To learn more, visitprimepoint.ai.
+Media ContactLayla Van BurenMicDrop Agencylayla@themicdropagency.com
+
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

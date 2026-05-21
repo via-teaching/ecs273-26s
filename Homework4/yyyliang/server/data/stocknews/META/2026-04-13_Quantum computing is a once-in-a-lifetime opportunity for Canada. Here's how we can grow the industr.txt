@@ -1,0 +1,39 @@
+Title: Quantum computing is a once-in-a-lifetime opportunity for Canada. Here's how we can grow the industry at home
+Date: 2026-04-13 16:03
+URL: https://financialpost.com/technology/cost-of-losing-quantum-billions-canadian-economy?.tsrc=rss
+Content:
+Christian Weedbrook: Ensuring that promising quantum companies can scale could mean billions for the Canadian economy
+You can save this article by registering for freehere. Orsign-inif you have an account.
+Whenartificial intelligencegodfatherGeoffrey Hintonfirst championed AI, most peers dismissed it as fringe. He and a small band in Canada spent decades proving neural networks could work.
+Subscribe now to read the latest news in your city and across Canada.
+Subscribe now to read the latest news in your city and across Canada.
+Create an account or sign in to continue with your reading experience.
+Create an account or sign in to continue with your reading experience.
+As the world caught on, AI’s centre of gravity shifted south. Google LLC acquired Hinton’s University of Toronto-based startup in 2013, incorporated by himself and two of his students, Alex Krizhevsky and future OpenAI co-founder Ilya Sutskever. The latter two would go on to work out of Google’s Mountain View, Calif., headquarters. Soon after, Microsoft Corp., Meta Platforms Inc. and Apple Inc. drew Canadian researchers with resources this country couldn’t match. The ideas were born here, but the value scaled abroad.
+Today, Hinton holds a Nobel Prize, while his colleagues and the talent they’ve fostered in Canada lead labs and companies around the world.
+Get the latest headlines, breaking news and columns.
+By signing up you consent to receive the above newsletter from Postmedia Network Inc.
+A welcome email is on its way. If you don't see it, please check your junk folder.
+The next issue of Top Stories will soon be in your inbox.
+We encountered an issue signing you up. Please try again
+Interested in more newsletters?Browse here.
+Like AI,quantum computingwas once dismissed as science fiction. And like AI, it now sits at a hinge moment. The decisions that Canada makes in the next few years will determine whether this country leads the world in a generation-defining technology. Here’s how we make sure that we continue the momentum so the moment is not lost.
+Quantum’s potential is immense.These machinescan solve problemstoday’s computers can’t touchbecause they can potentially perform calculations exponentially faster than classical computers; think seconds instead of billions of years. This could accelerate drug discovery, optimize supply chains and advance materials science. The sector could generate up to US$154 billion globally by 2030, according to a study commissioned by the National Research Council of Canada.
+In Budget 2025, Canada committed $334.3 million over five years to strengthen Canada’s quantum ecosystem. It is encouraging to see this commitment, but it falls short of the $2 billion a federal advisory council recommended in 2024 to specifically support and keep quantum firms here.
+For comparison, the U.S. has made generational bets through DARPA’s Quantum Benchmarking Initiative, which invests in a few firms that have a viable path to a commercially useful quantum computer by 2033. Each firm that gets through all three stages gets up to US$316 million.
+That’s not to say Canada is completely behind. In 2025, Ottawa launched the inaugural Canadian Quantum Champions Program, starting with a total investment of up to $92 million in  companies selected for phase one. The difference in dollars is understandable given the sheer size of the American economy, but that doesn’t close the door on Canada’s leadership. If we can’t compete on dollars, we can compete on our investment strategy.
+Canada is deploying its federal quantum funding through its Defence Industrial Strategy, as quantum will redefine defence in cybersecurity, sensing technologies and more around the world. Adversaries are already stockpiling encrypted data today to crack once quantum machines mature, and Canada’s own cryptography agency warns that a computer capable of breaking many current standards could arrive as soon as the 2030s.
+Procurement of Canadian-made and owned technologies will be a critical part of enmeshing quantum in defence. Outside of procurement, how we choose to fund companies is also important. Historically, quantum funding has been distributed in a piecemeal way across many early-stage efforts. One could argue this is more “fair” and that it made sense to place many bets across a broad spectrum.
+However, quantum is now entering a capital-intensive phase in which commercialization beyond research is within grasp in the next decade, pushing many quantum companies to public markets for the funding they need. If we want our dollars to go further, any public investments should shift toward scaling only the most promising companies with a credible path to building quantum computers that can solve real-world problems and build viable quantum infrastructure.
+Why infrastructure? Infrastructure is the engine that drives tech innovation, as evidenced by the recent push from public and private sources around the world tobuild data centresthat feed AI’s endless appetite. Building domestic tech capacity means that Canadian institutions and companies can run their organizations without relying entirely on foreign solutions, and that the economic value generated from quantum computing stays in Canada. Data centres that integrate quantum computing technology could handle computations and higher workloads than conventional systems.
+Quantum also offers two paths to advance AI in Canada. Quantum can reduce the energy burden associated with large-scale AI computation since it can complete computations faster, reducing energy consumption. With many companies focused on finding AI applications beyond building larger AI models, and with these larger models becoming environmentally unsustainable, quantum’s computational abilities could make AI processing faster and more efficient. Bringing these technologies together, both for energy sustainability and pushing the limits of AI algorithms, is a lightning-in-a-bottle moment that could position Canada as a world-leading tech superpower.
+What binds all of these ideas together is the idea of sovereign capacity. In an uncertain world marked by geopolitical instability, the importance of investing in our own infrastructure, our own talent and our own ambition has become too apparent. To own our IP is to own our future.
+Hinton’s story shows how Canadian brilliance can change the world, but it also warns of what happens when infrastructure and ownership slip away. Quantum is our chance to get it right. Let’s not squander it.
+Christian Weedbrook is the chief executive of Xanadu Quantum Technologies Ltd.
+Postmedia is committed to maintaining a lively but civil forum for discussion. Please keep comments relevant and respectful. Comments may take up to an hour to appear on the site. You will receive an email if there is a reply to your comment, an update to a thread you follow or if a user you follow comments. Visit ourCommunity Guidelinesfor more information.
+365 Bloor Street East, Toronto, Ontario, M4W 3L4
+© 2026 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.
+This website uses cookies to personalize your content (including ads), and allows us to analyze our traffic. Read more aboutcookies here. By continuing to use our site, you agree to ourTerms of UseandPrivacy Policy.
+You can manage saved articles in your account.
+and save up to 100 articles!
+You can manage your saved articles in youraccountand clicking the X located at the bottom right of the article.
