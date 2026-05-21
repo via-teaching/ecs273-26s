@@ -1,66 +1,68 @@
-from typing import Optional, List, Annotated
-from pydantic import BaseModel
+from typing import Annotated, Optional
+
+from pydantic import BaseModel, ConfigDict, Field
 from pydantic.functional_validators import BeforeValidator
-from bson import ObjectId
 
 # Represents an ObjectId field in the database.
-# It will be represented as a `str` on the model so that it can be serialized to JSON.
-
+# It is represented as a str on the model so it can be serialized to JSON.
 PyObjectId = Annotated[str, BeforeValidator(str)]
+
+
+class MongoBaseModel(BaseModel):
+    id: Optional[PyObjectId] = Field(default=None, alias="_id")
+
+    model_config = ConfigDict(
+        populate_by_name=True,
+        arbitrary_types_allowed=True,
+    )
+
 
 class StockListModel(BaseModel):
     """
-    Model for stock list
+    Model for stock list.
     """
-    _id: PyObjectId
     tickers: list[str]
 
-class StockModelV1(BaseModel):
-    """
-    Model for stock data values
-    """
-    _id: PyObjectId
-    name: str
-    date: list[str]
-    Open: list[float]
-    High: list[float]
-    Low: list[float]
-    Close: list[float]
-    
+
 class StockModelUnit(BaseModel):
     """
-    Model for stock data values
+    Model for one stock data row.
     """
     date: str
     Open: float
     High: float
     Low: float
     Close: float
-    
-class StockModelV2(BaseModel):
+    Volume: Optional[float] = None
+
+
+class StockModelV2(MongoBaseModel):
     """
-    Model for stock data values
+    Model for stock data stored as an array of row records.
     """
-    _id: PyObjectId
     name: str
     stock_series: list[StockModelUnit]
-    
-class StockNewsModel(BaseModel):
-    _id: PyObjectId
+
+
+class StockNewsModel(MongoBaseModel):
     Stock: str
     Title: str
-    Date: str  
+    Date: str
     content: str
-    
+    fileName: Optional[str] = None
+    url: Optional[str] = None
+
+
 class StockNewsModelList(BaseModel):
     Stock: str
     News: list[StockNewsModel]
 
-class tsneDataModel(BaseModel):
+
+class tsneDataModel(MongoBaseModel):
     """
-    Model for t-SNE data
+    Model for t-SNE data.
     """
-    _id: PyObjectId
     Stock: str
     x: float
     y: float
+    Sector: Optional[str] = None
