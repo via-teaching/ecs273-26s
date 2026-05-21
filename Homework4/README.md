@@ -1,5 +1,7 @@
 # Homework 4 README
 
+### IMPORTANT: ALL OF MY CODE IS CONTAINED IN THE ajoyuan FILE, DO NOT USE THE client, client-jsx, OR server files THAT ARE NOT IN ajoyuan AS THESE ARE THE ORIGINAL TEMPLATE FILES
+
 ---
 
 # BACKEND SETUP
@@ -103,6 +105,9 @@ Stock News Endpoint: Fetches the scraped news articles and metadata for a specif
 ## Folder Structure
 
 ```text
+ajoyuan
+|
+|
 ├── client-jsx/                     # Frontend React application
 |   └── src/
 |        ├── component/
