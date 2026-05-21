@@ -1,0 +1,11 @@
+Title
+OpenAI Expands Partnership With Amazon AWS After Ending Exclusivity Deal With Microsoft
+
+Date
+2026-04-28 18:13
+
+URL
+https://finance.yahoo.com/m/d5b28eb6-6795-3f7f-9122-3fd39ebb5bf3/openai-expands-partnership.html?.tsrc=rss
+
+Content
+‘For the first time, AWS customers will be able to access OpenAI frontier models through the services they already use for model access,’ Amazon said on Tuesday.

@@ -1,0 +1,11 @@
+Title
+Nasdaq, S&P 500 end lower on renewed AI growth worries
+
+Date
+2026-04-28 22:39
+
+URL
+https://finance.yahoo.com/video/nasdaq-p-500-end-lower-221116038.html?.tsrc=rss
+
+Content
+STORY: U.S. stocks ended lower on Tuesday, with the Dow ticking down marginally, the S&amp;P 500 shedding about half a percent and the tech-heavy Nasdaq losing nine-tenths of a percent. AI-related fears spooked the market after the Wall Street Journal reported that OpenAI missed internal targets for weekly users and revenue, raising concerns about its ability to support its massive spending on data centers. :: Oracle Those worries brought down shares of Oracle by 4%, as the company is reported to have signed one of the biggest cloud deals ever with OpenAI. Chip stocks also dropped, with Nvidia, AMD and Broadcom ending sharply lower. Nvidia-backed CoreWeave also slid nearly 6%. AI will remain in the spotlight, with five of the Magnificent Seven megacap firms reporting quarterly earnings this week. Brian Mulberry, chief market strategist at Zacks Investment Management, said he's expecting strong results. "What I think we are more than likely to find out is that the demise of software has been vastly overstated. Again, the scalability of AI is limited to who owns the compute. And right now it's the really large hyperscalers that have all of the data. [FLASH] Coming through this week and all of the Mag 7 earnings, our expectation is that we're probably going to see that the capex numbers are pretty much the same, maybe even a little bit higher because of the lack of compute that's out there. And also the fact that they are still seeing contract sales go up because they can scale at an enterprise-wide system much more cost efficiently than you can just going directly to generative AI in this moment." :: Archive Meanwhile, the Federal Reserve convened for what is likely Jerome Powell's last monetary policy meeting as chair of the central bank. While the Fed is likely to leave interest rates unchanged on Wednesday, the accompanying statement and Powell's subsequent press conference will be parsed for views on inflation and the related spike in oil prices due to the U.S. war in Iran.

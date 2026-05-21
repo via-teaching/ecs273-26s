@@ -1,0 +1,11 @@
+Title
+The wheels could be coming off the circular computing deal train
+
+Date
+2026-04-28 22:39
+
+URL
+https://finance.yahoo.com/sectors/technology/articles/wheels-could-coming-off-circular-223914453.html?.tsrc=rss
+
+Content
+The big AI labs’ circular dealmaking, in which corporate investors invest capital in exchange for commitments of future contracts for computing resources, may be less failsafe than it seems. OpenAI is now testing the underlying assumption that the AI labs will undoubtably grow large enough to meet those obligations. The company has reportedly missed internal growth targets, and CFO Sarah Friar has warned that if revenue doesn’t accelerate, OpenAI could fail to pay for future computing contracts,

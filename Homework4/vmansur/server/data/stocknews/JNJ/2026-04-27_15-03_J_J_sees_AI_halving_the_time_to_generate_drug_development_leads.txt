@@ -1,0 +1,11 @@
+Title
+J&J sees AI halving the time to generate drug development leads
+
+Date
+2026-04-27 15:03
+
+URL
+https://finance.yahoo.com/sectors/healthcare/articles/j-j-sees-ai-halving-150312205.html?.tsrc=rss
+
+Content
+Johnson & Johnson is using artificial intelligence to slash by half the time it takes to generate new leads for developing drugs, the company's chief information officer ‌said on Monday. Discovering new products outright and bringing them to market using AI is not yet possible, ‌but J&amp;J is using the new technology to screen the "potential universe" for promising chemical compounds or biologics, CIO Jim Swanson said at the ​Reuters Momentum AI event in New York. The New Jersey-based pharmaceutical and medical device company has been working toward a more-focused approach to AI, honing in on core processes like AI-enabled products, drug development and supply chain optimization.
