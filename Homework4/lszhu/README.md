@@ -197,3 +197,12 @@ Client runs at `http://localhost:5173`.
 - **Both terminals must stay open** while using the app. Closing the backend terminal will cause all API calls from the frontend to fail (ERR_CONNECTION_REFUSED).
 - **Perplexity range is 3–19.** The t-SNE CSV files only cover these 17 values. Requesting any other perplexity value returns a 404.
 - **Data is pre-computed.** The t-SNE coordinates are stored in CSV files and imported as-is; the server does not compute t-SNE on the fly.
+- **CORS is open (`allow_origins=["*"]`)** for local development convenience. This should be restricted in any production deployment.
+
+---
+
+## Web frontend improvements from Homework 3
+
+- **Fixed cut-off scatter plot points:** Added 10% padding to the x and y domains in the t-SNE scatter plot so no points are clipped at the edges of the plot area.
+- **Replaced perplexity slider with a dropdown menu:** The perplexity control is now a dropdown (values 3–19) instead of a slider, making it easier to select an exact value.
+- **Replaced two side-by-side plots with a single toggle:** Instead of showing Raw and Latent t-SNE as two separate plots, there is now one plot with a Raw / Latent toggle button to switch between the two views, giving each plot more screen space.
