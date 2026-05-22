@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from pydantic.functional_validators import BeforeValidator
 
 PyObjectId = Annotated[str, BeforeValidator(str)]
-
+#定義出data的架構
 
 class StockListModel(BaseModel):
     """

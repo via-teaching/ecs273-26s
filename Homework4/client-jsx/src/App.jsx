@@ -3,6 +3,8 @@ import { BarChart } from "./component/example";
 import { TSNEScatterPlot } from "./component/TSNEScatterPlot";
 import { NewsList } from "./component/NewsList";
 
+
+// copy from HW3 把讀取資料改成用api讀
 const API_BASE = "http://127.0.0.1:8000";
 
 export default function App() {
@@ -93,7 +95,7 @@ export default function App() {
           <div className="border-2 border-gray-300 rounded-xl h-[calc(100%-2rem)]">
             {selectedStock && (
               <NewsList
-                selectedStock={selectedStock}
+                selectedStock={selectedStock} 
                 apiBase={API_BASE}
               />
             )}

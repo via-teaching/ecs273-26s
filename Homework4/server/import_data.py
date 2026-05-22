@@ -11,7 +11,7 @@ client = AsyncIOMotorClient("mongodb://localhost:27017")
 # Requirement: stock_<abbr_of_your_name>
 db = client.stock_pyl
 
-
+# 四個SECTION
 stock_name_collection = db.get_collection("stock_list")
 stock_price_collection = db.get_collection("stock_prices")
 stock_news_collection = db.get_collection("stock_news")
@@ -33,6 +33,7 @@ SERVER_DIR  = os.path.dirname(os.path.abspath(__file__))
 HW4_DIR = os.path.dirname(SERVER_DIR)
 ROOT_DIR = os.path.dirname(HW4_DIR)
 
+# 檔案路徑
 STOCK_DATA_DIR = os.path.join(
     ROOT_DIR, "Homework3", "react-js-template", "public", "data", "stockdata"
 )
@@ -87,7 +88,7 @@ async def import_stock_prices_to_mongodb():
         csv_path = os.path.join(STOCK_DATA_DIR, f"{ticker}.csv")
 
         if not os.path.exists(csv_path):
-            print(f"Missing stock file: {csv_path}")
+            #print(f"Missing stock file: {csv_path}")
             continue
 
         df = pd.read_csv(csv_path)
@@ -101,7 +102,7 @@ async def import_stock_prices_to_mongodb():
         elif "date" in df.columns:
             date_col = "date"
         else:
-            print(f"No Date column found in {csv_path}")
+            #print(f"No Date column found in {csv_path}")
             continue
 
         stock_series = []
@@ -135,7 +136,7 @@ async def import_tsne_to_mongodb():
     """
 
     if not os.path.exists(TSNE_FILE):
-        print(f"Missing t-SNE file: {TSNE_FILE}")
+        #print(f"Missing t-SNE file: {TSNE_FILE}")
         return
 
     df = pd.read_csv(TSNE_FILE)
@@ -151,7 +152,7 @@ async def import_tsne_to_mongodb():
 
     print("Imported t-SNE data")
 
-
+# below are write by chatGPT
 async def import_news_to_mongodb():
     """
     Import stock news data.
@@ -168,14 +169,14 @@ async def import_news_to_mongodb():
     """
 
     if not os.path.exists(NEWS_DATA_DIR):
-        print(f"Missing news folder: {NEWS_DATA_DIR}")
+        #print(f"Missing news folder: {NEWS_DATA_DIR}")
         return
 
     for ticker in tickers:
         ticker_news_dir = os.path.join(NEWS_DATA_DIR, ticker)
 
         if not os.path.exists(ticker_news_dir):
-            print(f"Missing news folder for {ticker}: {ticker_news_dir}")
+            #print(f"Missing news folder for {ticker}: {ticker_news_dir}")
             continue
 
         for filename in os.listdir(ticker_news_dir):
