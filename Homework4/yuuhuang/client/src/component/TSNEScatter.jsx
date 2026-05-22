@@ -2,7 +2,7 @@ import * as d3 from "d3";
 import { useEffect, useRef } from "react";
 import { debounce } from "lodash";
 
-const margin = { left: 50, right: 120, top: 15, bottom: 50 };
+const margin = { left: 50, right: 30, top: 15, bottom: 50 };
 
 const SECTOR_COLORS = {
   Energy:      "#f97316",

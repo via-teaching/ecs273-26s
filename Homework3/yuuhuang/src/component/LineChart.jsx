@@ -199,10 +199,12 @@ function drawChart(svgElement, data, width, height, ticker) {
       const relX = event.clientX - parentRect.left;
       const relY = event.clientY - parentRect.top;
       const flipLeft = relX + 180 > parentRect.width;
+      const tooltipHeight = 140;
+      const flipUp = relY + 10 + tooltipHeight > parentRect.height;
 
       tooltip.style("display", "block")
         .style("left", flipLeft ? `${relX - 175}px` : `${relX + 16}px`)
-        .style("top", `${relY - 10}px`)
+        .style("top", flipUp ? `${relY - tooltipHeight - 10}px` : `${relY - 10}px`)
         .html(`
           <div style="font-weight:700;margin-bottom:4px;border-bottom:1px solid #334155;padding-bottom:4px;color:#94a3b8">${dateFmt(d.date)}</div>
           <div><span style="color:#3b82f6">●</span>&nbsp;Open &nbsp;&nbsp;<b>$${fmt(d.open)}</b></div>
