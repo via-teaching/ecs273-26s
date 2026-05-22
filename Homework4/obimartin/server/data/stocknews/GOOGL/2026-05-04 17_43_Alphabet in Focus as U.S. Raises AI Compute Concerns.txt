@@ -1,0 +1,12 @@
+Title: Alphabet in Focus as U.S. Raises AI Compute Concerns
+Date: 2026-05-04 17:43
+URL: https://finance.yahoo.com/sectors/technology/articles/alphabet-focus-u-raises-ai-174320936.html?.tsrc=rss
+Content: The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+This article first appeared on GuruFocus.
+Alphabet (GOOG, Financials) is drawing attention after reports that CEO Sundar Pichai met with U.S. officials to discuss a growing concern: access to enough computing power for artificial intelligence.
+Warning! GuruFocus has detected 6 Warning Signs with BX.
+Is GOOG fairly valued? Test your thesis with our free DCF calculator.
+While the meeting focused on cybersecurity, discussions centered on whether the government has sufficient AI capacity to support defense and critical operations. Officials are increasingly worried that limited access to advanced models could slow response times during crises.
+The issue has been amplified by restricted availability of cutting-edge systems like Anthropic's latest AI model, which is currently limited to select users. That has raised concerns in Washington about dependence on a small number of providers.
+Google, along with companies like Microsoft and Amazon, is seen as part of the solution. However, some of Google's in-house AI chips, known as TPUs, face certification challenges for use in classified environments.
+The government is now exploring ways to expand access to multiple AI platforms to reduce reliance on any single provider.

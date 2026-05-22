@@ -1,0 +1,23 @@
+Title: Micron Jumps 7%_ Is the Memory Maker Now a Structural AI Winner_
+Date: 2026-05-04 15:28
+URL: https://247wallst.com/investing/2026/05/04/micron-jumps-7-is-the-memory-maker-now-a-structural-ai-winner/?.tsrc=rss
+Content: 
+
+Shares of Micron Technology (NASDAQ:MU | MU Price Prediction) are up 7% in Monday morning trading, changing hands at around $579 after closing Friday at $542.21. The move extends a parabolic run that has Micron stock up 103% year to date (YTD) in 2026 and up a staggering 618% over the past year.
+The session’s push has reignited a debate that has dominated semiconductor desks for weeks. Has memory permanently transitioned from a cyclical commodity business into a structural artificial intelligence (AI) hardware play? Micron sits at the center of that question.
+
+
+
+Micron’s fiscal Q2 2026 results crystallized the bull thesis. Revenue nearly tripled year over year (YoY) to $23.9 billion, with consolidated gross margin hitting a company-record 75% and non-GAAP earnings per share (EPS) of $12.20. Fiscal Q3 2026 guidance calls for revenue of roughly $33.5 billion and gross margin of approximately 81%.
+Micron Technology CEO Sanjay Mehrotra framed the setup bluntly, asserting that “AI has not just increased demand for memory; it has fundamentally recast memory as a defining strategic asset in the AI era.” Mizuho’s Jordan Klein has called MU stock “crazy cheap” on buy-side numbers, with no new high-bandwidth memory (HBM) supply expected until late 2027.
+The bulls argue that Micron isn’t the same boom-and-bust DRAM (dynamic random-access memory) name it was a decade ago. HBM demand is locked into AI accelerator roadmaps at NVIDIA (NASDAQ:NVDA), AMD (NASDAQ:AMD), and hyperscaler custom silicon, with combined hyperscaler capital expenditure (CapEx) commitments exceeding $500 billion for 2026 alone, including Microsoft (NASDAQ:MSFT) at $190 billion and Meta Platforms (NASDAQ:META) between $125 billion and $145 billion.
+The HBM market is a three-player oligopoly shared with SK Hynix and Samsung, and Micron is the only American HBM supplier. Mehrotra noted that Micron can fulfill only 50% to two-thirds of key customer demand in the medium term, and the company sees data center bits exceeding 50% of industry total addressable market (TAM) for the first time in calendar 2026. That dynamic underpins Micron’s parallels to NVIDIA’s AI playbook.
+The skeptics aren’t gone. Memory has been cyclical for 50-plus years, and Samsung and SK Hynix are aggressively expanding their HBM capacity.
+
+The analyst who called NVIDIA in 2010 just named his top 10 stocks and Micron Technology wasn't one of them. Get them here FREE.
+
+There’s also AI CapEx normalization risk. Wall Street Journal reporting in late April on OpenAI cost concerns reignited questions about hyperscaler returns on AI spend, and HSBC’s downgrade of AMD on valuation today is a sentiment marker for the broader complex.
+This is where the debate sharpens. The bulls say Micron deserves a higher multiple because HBM allocations create recurring-revenue visibility that legacy DRAM never had. The bears point to a stock at a P/E ratio of 26x following a 600% one-year run and argue everything good is already in the price.
+Analyst consensus for Micron Technology stock sits at $551.40 with 39 Buy ratings against 5 Holds and zero Sells, while TIKR’s valuation model targets $664. Reddit’s tone has flipped sharply too, with sentiment scores climbing from the 20s in mid-April to the 78 to 92 range over the past two weeks.
+Investors should watch for whether Micron stock holds Monday’s gains throughout the week; they can also be on the lookout for hyperscaler CapEx commentary on upcoming earnings calls, and any analyst price target moves following the rally. HBM allocation visibility into 2027 and peer DRAM and NOT-AND flash (NAND) pricing trends remain the cleanest tells on whether the supercycle is structural or simply the loudest cycle yet.
+The bottom line: Micron’s blend of record HBM-driven results, raised Q2 guidance, and U.S.-based manufacturing footprint gives bulls a credible structural narrative, but the parabolic move and stretched valuation leave little margin for error. For now, MU stock remains a clean public proxy on whether AI memory demand has truly broken the cycle — and the next earnings print could be the verdict.

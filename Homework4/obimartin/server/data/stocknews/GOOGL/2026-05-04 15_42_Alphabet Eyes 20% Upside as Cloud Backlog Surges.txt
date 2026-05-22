@@ -1,0 +1,35 @@
+Title: Alphabet Eyes 20% Upside as Cloud Backlog Surges
+Date: 2026-05-04 15:42
+URL: https://247wallst.com/investing/2026/05/04/alphabet-eyes-20-upside-as-cloud-backlog-surges/?.tsrc=rss
+Content: 
+
+Alphabet (NASDAQ:GOOG | GOOG Price Prediction) just delivered a standout Q1, and our model points to additional upside. After a 9.97% single-day jump on the Q1 print, GOOG now trades at $381.94. Our 24/7 Wall St. price target for Alphabet is $460, implying 20.44% upside over the next 12 months.
+Our recommendation is buy, with a 90% confidence level. This is one of our higher-conviction calls in large-cap tech right now.
+
+
+Alphabet has rallied, climbing 13.08% over the past week, 33.15% over the past month, and 138.21% over the past year. Shares now sit roughly 3% below the 52-week high of $382.63, well off the $148.97 low.
+
+
+The catalyst was Q1 2026, reported April 29, 2026. EPS came in at $5.11 versus the $2.63 consensus, a 94.1% beat that included $36.91B in unrealized equity gains. Revenue hit $109.90B, growing 21.79% YoY, with operating margin expanding to 36.1%. Cloud was the headline, posting 63% growth to $20.028B with backlog nearly doubling QoQ to over $460 billion.
+
+
+
+The bull case rests on Cloud and AI monetization. Gemini is now processing more than 16 billion tokens per minute via direct API, up 60% from the prior quarter, and Gemini Enterprise paid MAUs grew 40% QoQ. Paid subscriptions reached 350 million, Waymo crossed 500,000 autonomous rides per week, and Search revenue still grew 19% despite AI competition fears.
+
+
+Of 69 analyst ratings, 63 are Buy or Strong Buy, with zero Sell calls. Our bull-case scenario points to $533.07 by May 2027, a 39.57% total return. CEO Sundar Pichai framed it on the call: “2026 is off to a terrific start. Our AI investments and full stack approach are lighting up every part of the business.”
+
+The analyst who called NVIDIA in 2010 just named his top 10 stocks and Google wasn't one of them. Get them here FREE.
+
+The bear case is real. Capex more than doubled YoY to $35.674B, driving free cash flow down 46.63% to $10.116B. Management’s $175B to $185B 2026 capex guide creates ROI risk if AI monetization lags.
+Google Network revenue declined to $6.971B from $7.256B, and the EU’s $3.5B fine highlights ongoing regulatory pressure. Bulls would counter that the FCF decline reflects deliberate infrastructure investment funding the very Cloud backlog now compounding at triple-digit rates. Our bear case lands at $362.22, a modest 5.16% drawdown.
+
+
+The 24/7 Wall St. price target sits at $460, recommendation buy, confidence 90%. The factor that tips the scale is the Cloud backlog: $460 billion of contracted future revenue is a multi-year visibility moat that justifies aggressive capex.
+The bull thesis holds if Gemini and Cloud monetization sustain north of 40% growth into 2027. The bear thesis holds if the $175B to $185B capex commitment turns into a margin trap before revenue catches up.
+
+
+
+
+Looking further ahead, here is where our 24/7 Wall St. price target model projects Alphabet could trade in the coming years, assuming current growth trajectories and AI monetization continue.
+These projections assume Alphabet continues executing on Cloud, Gemini, and Waymo. Significant upside or downside could come from a step-change in AI search monetization or, conversely, a Department of Justice remedy that forces structural changes to Search distribution.
