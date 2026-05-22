@@ -17,11 +17,21 @@
 html, body, #root {
   height: 100%;
   width: 100%;
-  margin: 0; /* no margin here to avoid overflow */
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 body {
   display: flex;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+
+.view {
+  background-color: #e2e8f0;
 }
