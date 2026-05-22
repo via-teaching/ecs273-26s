@@ -26,7 +26,6 @@ class StockModelV2(BaseModel):
     model_config = {"populate_by_name": True}
 
 class StockNewsModel(BaseModel):
-    id: PyObjectId = Field(default=None, alias="_id")
     Stock: str
     Title: str
     Date: str
