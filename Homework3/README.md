@@ -1,16 +1,29 @@
-# Homework 3 Templates
+# ECS 273 — Homework 3
 
-This repository contains multiple templates:
+**Prasannadatta Kawadkar** · ppkawadkar@ucdavis.edu · UCD ID: 924167184
 
-- `react-js-example`: A template based on React and JavaScript.
-- `react-ts-example`: A template based on React and TypeScript.
+## Project
 
-## Usage
+Submitted app: **`ppkawadkar/react-js-template`** — React + Vite dashboard (stock OHLC line chart, t-SNE scatter, local news from `public/data/stocknews`). Course templates (`react-js-example`, etc.) are unchanged reference copies.
 
-Each template is self-contained. Navigate into a folder and install dependencies:
+## Run the app
 
 ```bash
-cd react-example
+cd ppkawadkar/react-js-template
 npm install
 npm run dev
 ```
+
+Open the URL Vite prints (usually `http://localhost:5173`). Restart the dev server after changing `vite.config.js`.
+
+Other commands:
+
+```bash
+npm run build    # production bundle → dist/
+npm run preview  # serve dist locally
+npm run lint     # ESLint
+```
+
+## Data
+
+Static assets live under **`public/data/`** (`stockdata/`, `stocknews/`, `tsne.csv`). The app does not call live Yahoo APIs; news and prices are local files listed in `public/data/stocknews/news_manifest.json` (fallback: `manifest.json`).

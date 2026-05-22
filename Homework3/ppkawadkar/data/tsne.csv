@@ -1,0 +1,21 @@
+ticker,category,tsne_1,tsne_2
+AAPL,Information Technology,-7.62931,50.984695
+BAC,Finance,-16.627365,36.18936
+CAT,Industrials,32.012215,-49.163876
+CVX,Energy,16.972702,-51.857853
+DAL,Industrials,-10.261677,23.12374
+GOOGL,Information Technology,13.210558,-21.21836
+GS,Finance,-6.5377607,10.397577
+HAL,Energy,4.526008,-12.334268
+JNJ,Healthcare,20.374384,-39.375046
+JPM,Finance,-2.070533,40.45604
+KO,Staples,4.68259,0.8067034
+MCD,Staples,2.3602731,88.878555
+META,Information Technology,18.834381,92.24798
+MMM,Industrials,7.2190557,77.13827
+MSFT,Information Technology,-61.78337,-68.50644
+NKE,Staples,-66.82555,-57.50539
+NVDA,Information Technology,5.871664,25.11317
+PFE,Healthcare,-5.2118883,78.97496
+UNH,Healthcare,-54.77488,-58.91557
+XOM,Energy,26.35244,-61.097435
