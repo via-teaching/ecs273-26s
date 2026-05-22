@@ -42,11 +42,11 @@ async function loadData(perplexity) {
 
 export function TSNEScatter() {
     const containerRef = useRef(null);
-    const rawSvgRef    = useRef(null);
-    const latentSvgRef = useRef(null);
+    const svgRef       = useRef(null);
 
     const [perplexity,     setPerplexity]     = useState(5);
     const [selectedTicker, setSelectedTicker] = useState('AAPL');
+    const [scoreType,      setScoreType]      = useState('Raw');
 
     useEffect(function() {
         const select = document.getElementById('bar-select');
@@ -61,7 +61,7 @@ export function TSNEScatter() {
     }, []);
 
     useEffect(function() {
-        if (!containerRef.current || !rawSvgRef.current || !latentSvgRef.current) return;
+        if (!containerRef.current || !svgRef.current) return;
 
         let resizeObserver;
 
@@ -69,13 +69,9 @@ export function TSNEScatter() {
             if (isEmpty(data)) return;
 
             function draw() {
-                const rawRect    = rawSvgRef.current.getBoundingClientRect();
-                const latentRect = latentSvgRef.current.getBoundingClientRect();
-                if (rawRect.width && rawRect.height) {
-                    drawScatter(rawSvgRef.current, data, rawRect.width, rawRect.height, selectedTicker, 'Raw');
-                }
-                if (latentRect.width && latentRect.height) {
-                    drawScatter(latentSvgRef.current, data, latentRect.width, latentRect.height, selectedTicker, 'Latent');
+                const rect = svgRef.current.getBoundingClientRect();
+                if (rect.width && rect.height) {
+                    drawScatter(svgRef.current, data, rect.width, rect.height, selectedTicker, scoreType);
                 }
             }
 
@@ -85,18 +81,42 @@ export function TSNEScatter() {
         });
 
         return function() { if (resizeObserver) resizeObserver.disconnect(); };
-    }, [perplexity, selectedTicker]);
+    }, [perplexity, selectedTicker, scoreType]);
 
     return (
         <div ref={containerRef} style={{ height: '100%', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
 
             <div style={{ padding: '4px 10px', display: 'flex', alignItems: 'center', gap: 8, flexShrink: 0 }}>
-                <span style={{ fontSize: '.78rem', whiteSpace: 'nowrap' }}>Perplexity: {perplexity}</span>
-                <input
-                    type='range' min={3} max={19} step={1} value={perplexity}
+                <span style={{ fontSize: '.78rem', whiteSpace: 'nowrap' }}>Perplexity:</span>
+                <select
+                    value={perplexity}
                     onChange={function(event) { setPerplexity(+event.target.value); }}
-                    style={{ flex: 1 }}
-                />
+                    style={{ fontSize: '.78rem', padding: '1px 4px', borderRadius: 4, border: '1px solid #ccc' }}
+                >
+                    {Array.from({ length: 17 }, function(_, i) { return i + 3; }).map(function(p) {
+                        return <option key={p} value={p}>{p}</option>;
+                    })}
+                </select>
+                <span style={{ fontSize: '.78rem', whiteSpace: 'nowrap' }}>Score:</span>
+                {['Raw', 'Latent'].map(function(type) {
+                    return (
+                        <button
+                            key={type}
+                            onClick={function() { setScoreType(type); }}
+                            style={{
+                                fontSize: '.75rem', padding: '1px 8px', borderRadius: 4, cursor: 'pointer',
+                                border: '1px solid #ccc',
+                                background: scoreType === type ? '#334155' : '#f1f5f9',
+                                color: scoreType === type ? 'white' : '#334155',
+                            }}
+                        >
+                            {type}
+                        </button>
+                    );
+                })}
+                <span style={{ fontSize: '.68rem', color: '#888', whiteSpace: 'nowrap' }}>
+                    Scroll to zoom · Drag to pan · Double-click to reset
+                </span>
             </div>
 
             <div style={{ padding: '2px 10px 4px', display: 'flex', flexWrap: 'wrap', gap: '4px 14px', flexShrink: 0 }}>
@@ -110,9 +130,8 @@ export function TSNEScatter() {
                 })}
             </div>
 
-            <div style={{ flex: 1, display: 'flex', overflow: 'hidden' }}>
-                <svg ref={rawSvgRef}    style={{ width: '50%', height: '100%' }}></svg>
-                <svg ref={latentSvgRef} style={{ width: '50%', height: '100%' }}></svg>
+            <div style={{ flex: 1, overflow: 'hidden' }}>
+                <svg ref={svgRef} style={{ width: '100%', height: '100%' }}></svg>
             </div>
 
         </div>
@@ -130,13 +149,18 @@ function drawScatter(svgElement, data, width, height, selectedTicker, scoreType)
     const xField = scoreType + '_TSNE1';
     const yField = scoreType + '_TSNE2';
 
+    const [xMin, xMax] = d3.extent(data, function(row) { return row[xField]; });
+    const [yMin, yMax] = d3.extent(data, function(row) { return row[yField]; });
+    const xPad = (xMax - xMin) * 0.1;
+    const yPad = (yMax - yMin) * 0.1;
+
     const xScale = d3.scaleLinear()
-        .domain(d3.extent(data, function(row) { return row[xField]; })).nice()
+        .domain([xMin - xPad, xMax + xPad])
         .range([0, plotWidth]);
 
     // range is reversed: plotHeight = bottom of screen, 0 = top
     const yScale = d3.scaleLinear()
-        .domain(d3.extent(data, function(row) { return row[yField]; })).nice()
+        .domain([yMin - yPad, yMax + yPad])
         .range([plotHeight, 0]);
 
     // clip path keeps dots inside the plot area during zoom/pan

@@ -1,30 +1,32 @@
-const stocks = [
-  { value: "AAPL", label: "AAPL (Apple Inc.)" },
-  { value: "BAC", label: "BAC (Bank of America Corp.)" },
-  { value: "CAT", label: "CAT (Caterpillar Inc.)" },
-  { value: "CVX", label: "CVX (Chevron Corp.)" },
-  { value: "DAL", label: "DAL (Delta Air Lines Inc.)" },
-  { value: "GOOGL", label: "GOOGL (Alphabet Inc.)" },
-  { value: "GS", label: "GS (Goldman Sachs Group Inc.)" },
-  { value: "HAL", label: "HAL (Halliburton Co.)" },
-  { value: "JNJ", label: "JNJ (Johnson & Johnson)" },
-  { value: "JPM", label: "JPM (JPMorgan Chase & Co.)" },
-  { value: "KO", label: "KO (Coca-Cola Co.)" },
-  { value: "MCD", label: "MCD (McDonald's Corp.)" },
-  { value: "META", label: "META (Meta Platforms Inc.)" },
-  { value: "MMM", label: "MMM (3M Co.)" },
-  { value: "MSFT", label: "MSFT (Microsoft Corp.)" },
-  { value: "NKE", label: "NKE (Nike Inc.)" },
-  { value: "NVDA", label: "NVDA (NVIDIA Corp.)" },
-  { value: "PFE", label: "PFE (Pfizer Inc.)" },
-  { value: "UNH", label: "UNH (UnitedHealth Group Inc.)" },
-  { value: "XOM", label: "XOM (Exxon Mobil Corp.)" },
-];
+const STOCK_LABELS = {
+  AAPL: "AAPL (Apple Inc.)",
+  BAC: "BAC (Bank of America Corp.)",
+  CAT: "CAT (Caterpillar Inc.)",
+  CVX: "CVX (Chevron Corp.)",
+  DAL: "DAL (Delta Air Lines Inc.)",
+  GOOGL: "GOOGL (Alphabet Inc.)",
+  GS: "GS (Goldman Sachs Group Inc.)",
+  HAL: "HAL (Halliburton Co.)",
+  JNJ: "JNJ (Johnson & Johnson)",
+  JPM: "JPM (JPMorgan Chase & Co.)",
+  KO: "KO (Coca-Cola Co.)",
+  MCD: "MCD (McDonald's Corp.)",
+  META: "META (Meta Platforms Inc.)",
+  MMM: "MMM (3M Co.)",
+  MSFT: "MSFT (Microsoft Corp.)",
+  NKE: "NKE (Nike Inc.)",
+  NVDA: "NVDA (NVIDIA Corp.)",
+  PFE: "PFE (Pfizer Inc.)",
+  UNH: "UNH (UnitedHealth Group Inc.)",
+  XOM: "XOM (Exxon Mobil Corp.)",
+};
 
-export default function RenderOptions() {
-  return stocks.map((stock, index) => (
-    <option key={index} value={stock.value}>
-      {stock.label}
-    </option>
-  ));
+export default function RenderOptions({ tickers }) {
+  return tickers.map(function(ticker, index) {
+    return (
+      <option key={index} value={ticker}>
+        {STOCK_LABELS[ticker] || ticker}
+      </option>
+    );
+  });
 }
