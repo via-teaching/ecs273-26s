@@ -62,5 +62,9 @@ class tsneDataModel(BaseModel):
     """
     _id: PyObjectId
     Stock: str
+    Category: str
     x: float
     y: float
+    latent_x: float
+    latent_y: float
+    perplexity: int
