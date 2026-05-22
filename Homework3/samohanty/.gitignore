@@ -1,0 +1,24 @@
+# Dependencies — reinstall with `npm install`
+node_modules/
+
+# Vite build output
+dist/
+dist-ssr/
+
+# Local environment variables
+*.local
+.env
+.env.local
+.env.*.local
+
+# macOS metadata
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,10 @@
+{
+  "_comment": "Placeholder demo file as referenced in the assignment description. Not used by the application; the app reads from stockdata/, stocknews/, and tsne.csv.",
+  "demo": [
+    {"label": "A", "value": 30},
+    {"label": "B", "value": 80},
+    {"label": "C", "value": 45},
+    {"label": "D", "value": 60},
+    {"label": "E", "value": 20}
+  ]
+}
