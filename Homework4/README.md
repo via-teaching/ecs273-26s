@@ -31,10 +31,25 @@ uvicorn main:app --reload --port 8000
 
 ## Client
 
-For the client part, it should mostly the same as your Homework 4. The only difference in this template is the data fetching part, as the example shown in `App.tsx`, that fetch the data for the drop-down menu with 20 different stocks. You can easily transfer that part into `js` version if needed.
+There are now two client templates:
 
-```
+- `client`: TypeScript / TSX version
+- `client-jsx`: JavaScript / JSX version
+
+Both clients include the Homework 4 stock list fetch example for the dropdown menu.
+
+TypeScript client:
+
+```bash
 cd client
+npm install
+npm run dev
+```
+
+JavaScript client:
+
+```bash
+cd client-jsx
 npm install
 npm run dev
 ```
