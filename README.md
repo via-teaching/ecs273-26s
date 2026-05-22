@@ -1,12 +1,6 @@
-# ECS273 Homework templates
+# ECS273 Homework 3 & 4 - Huanglun Adam Zhu
 
-In this repository, you will find the templates for your homework assignments.
-Please refer to the instructions provided on Canvas and the linked Google Docs for detailed requirements and submission guidelines.
+For detailed setup instructions, dependencies, and file breakdowns, navigate to the submission folder for each homework:
 
-To clone this repository, please run:
-
-```
-git clone git@github.com:via-teaching/ecs273-26s.git
-```
-
-Switch to the respective Homework directory for more information.
+- **Homework 3:** [Homework3/lszhu/README.md](Homework3/lszhu/README.md)
+- **Homework 4:** [Homework4/lszhu/README.md](Homework4/lszhu/README.md)
