@@ -1,55 +1,29 @@
-# Homework 4 Templates
+# Homework 4
 
-This folder contains two parts, client and server.
+ECS 273 stock dashboard: a React frontend backed by FastAPI and MongoDB. The submission is under `priramachandran/`.
 
-## Server
+## Top-level layout
 
-For the server part, make sure you have the respective packages installed.
-
-```
-pip install -r requirements.txt
-```
-
-Secondly, make sure you have already installed and started your mongoDB local server.
-For example, for mongodb managed with homebrew, run:
-
-```
-brew services start mongodb-community
+```text
+Homework4/
+├── README.md                 # this file — folder overview
+└── priramachandran/          # your HW4 submission
+    ├── README.md             # how to install and run everything
+    ├── client-jsx/           # React + Vite frontend (JavaScript)
+    └── server/               # FastAPI backend + data import
 ```
 
-Then, put your data into database with:
+## Submission folder (`priramachandran/`)
 
-```
-python import_data.py
-```
 
-Finally, start your api server by,
+| Path          | Role                                                      |
+| ------------- | --------------------------------------------------------- |
+| `client-jsx/` | UI — line chart, t-SNE scatter, news list, stock dropdown |
+| `server/`     | API, MongoDB import script, and raw data files            |
 
-```
-uvicorn main:app --reload --port 8000
-```
 
-## Client
+## Where to read more
 
-There are now two client templates:
+- **Frontend:** `priramachandran/client-jsx/README.md`
+- **Backend:** `priramachandran/server/README.md`
 
-- `client`: TypeScript / TSX version
-- `client-jsx`: JavaScript / JSX version
-
-Both clients include the Homework 4 stock list fetch example for the dropdown menu.
-
-TypeScript client:
-
-```bash
-cd client
-npm install
-npm run dev
-```
-
-JavaScript client:
-
-```bash
-cd client-jsx
-npm install
-npm run dev
-```
