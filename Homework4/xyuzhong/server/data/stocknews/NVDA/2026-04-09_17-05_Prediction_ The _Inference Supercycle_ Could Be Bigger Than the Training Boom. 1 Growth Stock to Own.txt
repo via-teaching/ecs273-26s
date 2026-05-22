@@ -1,0 +1,51 @@
+Title: Prediction: The "Inference Supercycle" Could Be Bigger Than the Training Boom. 1 Growth Stock to Own.
+Date: 2026-04-09 17:05
+URL: https://www.fool.com/investing/2026/04/09/predict-inference-supercycle-big-growth-stock/?.tsrc=rss
+Content:
+This company designs chips ideal for AI inference tasks, which explains the outstanding growth in its revenue and earnings.
+Semiconductor stocks have been under pressure lately, as evidenced by the 1% retreat in the PHLX Semiconductor Sector index over the past month. However, chip designer Marvell Technology (MRVL +3.98%) has defied this sell-off.
+The company's shares have jumped 37% over the past month. The stock's pop has been driven by a couple of solid catalysts -- an impressive set of results it released on March 5 and a recent deal with Nvidia that could significantly supercharge its growth. In fact, Marvell gives investors a terrific way to capitalize on the next big thing in artificial intelligence (AI) -- inferencing -- which is probably one of the reasons it has defied the broader sell-off in semiconductor stocks.
+Let's look at the reasons Marvell could win big from the AI inferencing supercycle, which refers to a sustained period when demand for a product or a service exceeds supply.
+Image source: Getty Images.
+Graphics cards designed by Nvidia have been ideal for training AI models. That's because graphics processing units (GPUs) are equipped with massive parallel computing power, allowing them to carry out thousands of calculations simultaneously to tackle the resource-intensive model training process. However, AI inference is much more specific, as the trained model is deployed in the real world to produce results.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+AI inference requires much fewer calculations and computing power than the training phase. As a result, GPUs are overkill for AI inference applications, which is why hyperscalers and AI companies are relying on custom chips to handle inference needs.
+Marvell designs these custom chips for AI inference. Known as application-specific integrated circuits, these processors are designed to perform a specific task rather than the general-purpose computing done by GPUs. This is why they are faster at the tasks they are designed for, and more power-efficient, since they don't require the massive energy needed to run a GPU.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+Importantly, as inference puts trained AI models into real-world applications, enterprises have been deploying AI inference at scale, according to Morgan Stanley. Nvidia CEO Jensen Huang predicts that inference will be the next stage of the AI boom.
+That's precisely the reason Nvidia is partnering with Marvell to develop custom AI chip systems powered by the latter's networking solutions. Additionally, Nvidia has decided to invest $2 billion in Marvell. Don't be surprised if Nvidia's investment balloons in the future due to Marvell's impressive growth, clientele, and prospects in the custom AI processor market.
+Marvell released its fiscal 2026 results (for the year ended Jan. 31, 2026) on March 5. It ended the year with record revenue of $8.2 billion, up by 42% over the prior year. Additionally, non-GAAP (adjusted) earnings per share surged by 81% to $2.84.
+Marvell management noted that it achieved a record number of "design wins" in fiscal 2026. A design win occurs when a chipmaker's component has been selected for deployment by a customer. Not surprisingly, Marvell claims that its design wins will fuel future growth, which is precisely what analysts expect.
+
+Data by YCharts.
+Investors may want to consider adding this growth stock to their portfolios, as it is primed to benefit in a big way from the secular growth in AI inferencing.
+
+ 
+
+
+Before you buy stock in Marvell Technology, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Marvell Technology wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $536,003!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,116,248!*
+Now, it’s worth noting Stock Advisor’s total average return is 946% — a market-crushing outperformance compared to 190% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 9, 2026. 
+
+Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Marvell Technology and Nvidia. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

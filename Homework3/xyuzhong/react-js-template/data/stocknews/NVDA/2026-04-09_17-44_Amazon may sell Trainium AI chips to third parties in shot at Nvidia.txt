@@ -1,0 +1,19 @@
+Title: Amazon may sell Trainium AI chips to third parties in shot at Nvidia
+Date: 2026-04-09 17:44
+URL: https://qz.com/amazon-trainium-ai-chips-third-party-sales-jassy-040926?.tsrc=rss
+Content:
+Mark Felix / AFP via Getty Images
+Amazon $AMZN CEO Andy Jassy is floating the prospect of selling the company's Trainium AI chips directly to external buyers, putting a dollar figure on the company's chip operation for the first time and placing its annualized revenue above $20 billion.
+"There's so much demand for our chips that it's quite possible we'll sell racks of them to third parties in the future," Jassy wrote in his annual shareholder letter Thursday.
+Access to Amazon's chips is currently limited to Amazon Web Services, with customers paying for cloud-based usage rather than owning any physical hardware. Selling to AWS and external customers alike, as standalone chipmakers do, would put annual revenue at around $50 billion, up from the $20 billion the company estimates for the year, Jassy said.
+The $20 billion figure spans three product lines: Trainium, the AI accelerator chip; Graviton, a general-purpose processor; and Nitro, a chip that helps run Amazon's EC2 server instances. All three are growing at triple-digit rates year over year, Jassy claimed in his letter.
+Jassy said demand for Trainium has outpaced supply at each generation. Trainium2 is essentially unavailable, with its entire allocated capacity spoken for. Trainium3 started reaching customers in early 2026, and reservations have filled nearly all available supply. Even Trainium4 — which is not expected to reach wide release for another year and a half — has substantial pre-orders committed.
+Jassy argued that a full-scale Trainium rollout could shave tens of billions off annual capital costs while meaningfully widening profit margin.
+The chip disclosure comes as Jassy defended Amazon's plan to spend roughly $200 billion on capital expenditures in 2026 — most of it on AWS data centers. Heavy AI-related property and equipment purchases, which surged $50.7 billion year over year, compressed free cash flow to $11 billion in 2025 from $38 billion.
+AWS's AI business is running at more than $15 billion in annualized revenue as of the first quarter of 2026, up from essentially nothing three years ago, Jassy said. The company's overall AWS revenue run rate stood at $142 billion in the fourth quarter of 2025, representing 24% year-over-year growth.
+Supply of AI-grade chips has been unable to keep pace with demand across the industry, a squeeze that has motivated buyers to explore processor options outside Nvidia $NVDA's product line.
+"Virtually all AI thus far has been done on NVIDIA chips," Jassy added, "but a new shift has started."
+Do Not Sell or Share My Personal Information
+We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.
+Dismiss
+Opt out

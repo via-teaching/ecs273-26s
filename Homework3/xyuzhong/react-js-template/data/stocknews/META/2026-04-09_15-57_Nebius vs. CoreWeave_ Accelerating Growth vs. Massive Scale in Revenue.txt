@@ -1,0 +1,55 @@
+Title: Nebius vs. CoreWeave: Accelerating Growth vs. Massive Scale in Revenue
+Date: 2026-04-09 15:57
+URL: https://www.fool.com/coverage/charts/2026/04/09/nebius-vs-coreweave-accelerating-growth-vs-massive-scale-in-revenue/?.tsrc=rss
+Content:
+Recent filings reveal divergent revenue trends and profitability challenges as both companies ramp up capital investments to fuel their cloud ambitions.
+
+It operates as a technology business that builds full-stack infrastructure, including large-scale cloud platforms and developer tools, to service global workloads. It raised approximately $4.3 billion through convertible notes in March 2026 and signed a long-term infrastructure supply agreement with Meta, though it reported a net income margin of about -110% for the quarter ended Dec. 31, 2025.
+
+
+It provides a cloud platform that offers scaling, support, and infrastructure for enterprise compute workloads, including virtual and bare metal servers. It closed an $8.5 billion term loan facility in March 2026 to support its expansion, but faces securities fraud lawsuits alleging misrepresented customer demand alongside a net income margin of about -29% for the quarter ended Dec. 31, 2025.
+
+
+Revenue here refers to the data provider's standardized income-statement revenue line item, and tracking it helps investors understand the total amount of money a business brings in before any expenses are deducted.
+
+
+Data source: Company filings.
+
+
+Nebius and CoreWeave are both “neocloud” companies that provide cloud infrastructure specifically tailored for managing AI workloads.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+
+However, both cloud stocks also diverge in certain respects. CoreWeave is more U.S.-centric and relies heavily on a close relationship with Nvidia, which is a major investor. In contrast, Nebius is more heavily focused in Europe and stands out with a “global GPU fabric,” which links different locations into a unified cluster.
+Still, the differences may come down to numbers. Both companies are absorbing considerable losses, though CoreWeave has a much greater need for outside funding than Nebius, and its $21 billion in debt compares poorly to Nebius, who only holds about $4 billion in debt.
+Nonetheless, CoreWeave’s price-to-sales (P/S) ratio of 7 is far below that of Nebius, which trades for 62 times sales. This forces investors to choose between a relatively inexpensive neocloud company with heavy obligations, or the overvalued company with a less debt-heavy balance sheet.
+
+Data source: Company filings. Data as of April 8, 2026.
+
+ 
+
+
+Before you buy stock in Nebius Group, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nebius Group wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $536,003!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,116,248!*
+Now, it’s worth noting Stock Advisor’s total average return is 946% — a market-crushing outperformance compared to 190% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 9, 2026. 
+
+Will Healy has positions in CoreWeave. The Motley Fool has positions in and recommends Nvidia. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
