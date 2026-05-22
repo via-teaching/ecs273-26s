@@ -1,12 +1,45 @@
-# React + Vite
+# ECS273 Homework 3 - Huanglun Adam Zhu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project visualizes stock data using React + js. It includes:
+- A line chart of stock prices over time
+- A news list showing articles for each stock
+- A t-SNE scatter plot showing raw and latent embeddings
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup Instructions
 
-## Expanding the ESLint configuration
+**1. Navigate to the project folder**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+cd Homework3/lszhu
+
+
+**2. Install dependencies**
+
+npm install
+
+
+**3. Start the development server**
+
+npm run dev
+
+
+**4. Open in your browser**
+
+## Project Structure
+
+- `src/components/LineChart.jsx` — visualizes stock prices over a 2-year period
+- `src/components/NewsList.jsx` — displays news articles for the selected stock
+- `src/components/TSNEScatter.jsx` — t-SNE scatter plot (raw and latent) for a selected stock
+- `src/App.jsx` — manages state, dropdown selection, and layout
+- `src/index.css` — custom styling
+- Dataset files: `stockdata/`, `stocknews/`, t-SNE results, and a preprocessed JS news file
+
+## Notes
+
+- Stock news was preprocessed from `.txt` files into a `.js` module for easy loading in the browser.
+- The stock dropdown allows selecting from
+```python
+['XOM', 'CVX', 'HAL', 'MMM', 'CAT', 'DAL', 'MCD', 'NKE', 'KO', 'JNJ', 'PFE', 'UNH', 'JPM', 'GS', 'BAC', 'AAPL', 'MSFT', 'NVDA', 'GOOGL', 'META']
+```
+ over a 2-year period.
