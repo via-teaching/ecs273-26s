@@ -1,0 +1,37 @@
+Title: Amazon Stock Just Keeps Rising. Here's the Latest Catalyst Driving Shares Higher -- and a Close Look at the Stock.
+Date: 2026-04-26 20:46
+URL: https://www.fool.com/investing/2026/04/26/amazon-stock-just-keeps-rising-heres-the-latest-ca/?.tsrc=rss
+
+The tech giant just landed another AI infrastructure win.
+Shares of Amazon ( AMZN +3.47% ) just keep climbing.
+As of this writing, the e-commerce and cloud computing giant's stock is up more than 25% over the last 30 days. The latest catalyst? A new deal with Meta Platforms ( META +2.48% ) , in which the Facebook parent will use Amazon Web Services' Graviton5 central processing unit (CPU) chips to help power artificial intelligence (AI) workloads. This has Amazon investors upbeat, as it's becoming increasingly clear that the company's custom silicon strategy is a winning one. And this builds on a much bigger theme investors have been warming up to lately: Amazon's massive investments look likely to pay off handsomely -- and maybe even sooner than investors had originally thought.
+Image source: Getty Images.
+Meta and Amazon announced on Friday that Meta will use AWS' Graviton5 CPU chips in a massive multiyear deal. Meta will use "tens of millions of cores" worth of Graviton chips, said Amazon engineering executive Nafea Bshara in a press release Friday morning.
+"The deal marks a significant expansion of a long-standing partnership between the two companies as Meta builds its next generation of AI," Amazon said in the press release.
+This is notable because the AI story has largely centered on graphics processing units (GPUs) , especially those made by Nvidia . GPUs, of course, remain crucial for training large AI models. But as AI applications move deeper into real-world usage, CPUs can play an important role in inference and agentic workloads -- the part where trained models are actually deployed and used.
+Ultimately, the Meta deal is a timely validation point for Amazon's custom-chip strategy.
+The Meta announcement comes just days after Amazon and Anthropic announced an expanded partnership that may be even more important.
+Anthropic said it is committing more than $100 billion over the next 10 years to AWS technologies, securing up to 5 gigawatts of new capacity to train and run its AI model, Claude. The commitment spans Graviton and Trainium2 through Trainium4 chips, with an option to purchase future generations of Amazon's custom silicon as well.
+Amazon is also investing $5 billion in Anthropic now, with up to $20 billion more possible in the future, building on the $8 billion Amazon had already invested.
+"Our custom AI silicon offers high performance at significantly lower cost for customers, which is why it's in such hot demand," said Amazon CEO Andy Jassy in Anthropic's announcement.
+Taken together, the Meta and Anthropic news helps answer one of the key questions investors have been asking about Amazon's aggressive AI spending: Is there enough customer demand to justify it?
+The answer increasingly seems to be yes.
+In an update earlier this month, Amazon revealed just how impressive its momentum in its chips business is. Jassy said AWS' AI revenue run rate was over $15 billion in Q1 2026 and "ascending rapidly." He also said Amazon's chip business -- including Graviton, Trainium, and Nitro -- had an annual revenue run rate of more than $20 billion and was growing at triple-digit year-over-year rates.
+All of this comes as Amazon has been laser-focused on price performance.
+"Customers are starving for better price performance," Jassy said during the company's fourth-quarter earnings call earlier this year when discussing its fast-growing chips business.
+With all of this said, the stock's recent momentum may already be pricing in this exceptional business growth.
+Shares now trade at a price-to-earnings ratio of 37, even as the company expects its capital expenditures to soar this year. When the company reported its fourth-quarter results, Amazon said it expects to invest about $200 billion in capital expenditures across the company in 2026.
+That may prove to be money well spent. But it also raises the stakes if the economics of Amazon's major investments don't pan out as expected.
+I've been consistently bullish on Amazon stock this year, and the Meta and Anthropic announcements strengthen the long-term story. But after the stock's recent surge, I'm growing more wary of the valuation. Anyone buying today may want to consider keeping their position small -- especially given the company's big capital expenditure expectations in 2026.
+Overall, I'd call Amazon stock a hold over a buy today.
+Daniel Sparks and his clients have no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Amazon, Meta Platforms, and Nvidia. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
