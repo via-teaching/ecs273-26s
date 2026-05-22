@@ -1,0 +1,41 @@
+Title: AI Compute Demand is Running Way Ahead of Supply — A Stock I’d Buy on That Signal
+Date: 2026-04-15 18:36
+URL: https://247wallst.com/investing/2026/04/15/ai-compute-demand-is-running-way-ahead-of-supply-a-stock-id-buy-on-that-signal/?.tsrc=rss
+
+Investing
+Vistra is positioned as a nuclear power winner, down 23% from highs, while Meta and other hyperscalers pursue their own sustainable energy solutions.
+Advanced AI agents are moving beyond chatbots into applications like cybersecurity, creating a widening power bottleneck that energy producers and hyperscalers must solve as AI adoption accelerates across market verticals.
+The analyst who called NVIDIA in 2010 just named his top 10 AI stocks. Get them here FREE.
+
+					Sending You to Google News in 3
+
+© Salem and Hope Creek Nuclear Reactors (BY-SA 2.0) by peretzp
+
+
+Morgan Stanley (NYSE:MS | MS Price Prediction) recently provided more insight into the state of the AI boom and the infrastructure deficit that could define it in the near future. As a part of their annual thematic outlook, they cited AI-driven power demand growing significantly faster than the supply. The energy shortfall was to be expected, but the scale is really quite jarring. And I think the market might not be pricing in the power deficit when it comes to the top energy producers.
+While the AI trade has certainly been sleepier in recent months, with the Nasdaq 100 coming back rapidly from a brief dip into correction territory, it certainly feels like the ingredients are in place for another leg higher in the names that are helping power the revolutionary technology as it moves into a more advanced phase. Agentic AI and robotics seem too sci-fi to be realistic, especially over a medium-term time horizon, but the technologies are already evolving and transforming industries behind the scenes.
+Any way you look at it, I think it’s becoming more apparent just how big a bottleneck that AI innovators face as the gap between AI’s hunger for compute and the power that’s available stays wide.
+Anthropic’s Claude Mythos has been the talk of the town for good reason. The tech seems to be writing the cybersecurity playbook. In essence, it’s a genuine game changer that might warrant the amplified volatility in the cybersecurity names or anything remotely touching that corner of software.
+As AI moves from chatbots to “always-on” inference, it’s difficult to envision how the power producers can catch up. Perhaps it’s no mystery as to why the hyperscalers are rolling up their sleeves to provide their own sustainable power.
+Of course, there’s a lot more to the cybersecurity firms than just software, but the real question is whether the domain expertise of the cyber players has created a wide enough economic moat to prevent the AI frontier players from taking share.
+It’s quite jarring to think of what the latest and greatest AI and agents can do as they become laser-focused on specific market verticals. Cybersecurity may just be the start.
+READ: The analyst who called NVIDIA in 2010 just named his top 10 AI stocks
+In any case, I think the case for an AI bubble is getting weaker with every new Anthropic innovation. And the case for Wall Street heavily underestimating demand compared to supply, I think, gets that much stronger. For a user of consumer-facing models, like Gemini 3.1 Pro, it’s difficult to even begin to fathom the potential behind something like a Claude Mythos or other models that may only see increased usage as they become more power efficient (that’s Jevons Paradox in a nutshell).
+You can read about what it’s up to and what a model like Mythos is capable of, but I do think that investors shouldn’t jump to extremes by dismissing the tech as overhyped just because one can’t get their hands on it or adopting a doomsday mindset because of its potential to empower the next generation of cyberattackers.
+Whether it’s the potential to uncover 27-year-old bugs or the ability to make future releases of software absolutely bulletproof, I’d not look past Mythos and its inevitable power-hungry rivals to come.
+In light of the massive power shortfall, I think a firm like Vistra (NASDAQ:VST) looks like a winner while it’s still down 23% from its high. The Meta Platforms (NASDAQ:META) power deal may very well be just the start as the industry continues to go nuclear. With some big-name hedge funds buying shares in the fourth quarter, including Daniel Loeb of Third Point, I do think the seemingly high-priced stock (75.2 times trailing price-to-earnings) has what it takes to grow into its multiple.
+While Vistra is already a heavyweight champ in nuclear power, the big question is how much of the potential future projects are priced in.
+
+Wall Street is pouring billions into AI, but most investors are buying the wrong stocks. The analyst who first identified NVIDIA as a buy back in 2010 — before its 28,000% run — has just pinpointed 10 new AI companies he believes could deliver outsized returns from here. One dominates a $100 billion equipment market. Another is solving the single biggest bottleneck holding back AI data centers. A third is a pure-play on an optical networking market set to quadruple. Most investors haven't heard of half these names. Get the free list of all 10 stocks here.
+Joey is a 24/7 Wall St. contributor and seasoned investment writer whose work can also be found in publications such as The Motley Fool and TipRanks. Holding a B.A.Sc in Computer Engineering from the University of British Columbia (UBC), Joey has leveraged his technical background to provide insightful stock analyses to readers.
+Joey's investment philosophy is heavily influenced by Warren Buffett's value investing principles. As a dedicated Buffett disciple, Joey is committed to unearthing value in the tech sector and beyond.
+Our top personal finance-related articles today. Your wallet will thank you later.
+The software-as-a-service (SaaS) sell-off or SaaS-pocalypse, as it’s commonly referred to, has been a major story this year. Even as…
+The cybersecurity trade has been quite the stomach-churner in recent weeks, thanks in part to the rise of Anthropic’s Claude…
+Anthropic’s Claude Mythos might have cybersecurity investors on pause, but I think it’s far too early in the game to…
+Nvidia (NASDAQ:NVDA | NVDA Price Prediction) top boss, Jensen Huang, went ahead and answered the question that many investors are…
+If you’re like many investors who held software stocks at the core of the portfolio, you may have hesitated when…
+Goldman Sachs (NYSE:GS) has a pretty interesting strategy for investors who aren’t yet comfortable braving the dip in some of…
+Shares of Palantir (NASDAQ:PLTR | PLTR Price Prediction) took a major hit on Thursday, plunging by more than 7% alongside…
+Shares of Vistra (NYSE:VST) are going through a bit of a slump, now down around 24% from its peak. Undoubtedly,…
+There’s a lot of hype surrounding Anthropic’s Claude Code of late. It’s a powerful tool for coders and one that…

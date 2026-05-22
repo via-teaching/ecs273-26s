@@ -1,0 +1,88 @@
+Title: Bank of America Q1 Earnings Call Highlights
+Date: 2026-04-15 19:04
+URL: https://www.marketbeat.com/instant-alerts/bank-of-america-q1-earnings-call-highlights-2026-04-15/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+
+Bank of America NYSE: BAC reported first-quarter 2026 results that executives described as “strong,” citing revenue growth across all major segments, improved operating leverage, and stable-to-improving credit quality.
+
+
+On the call, CEO Brian Moynihan said revenue rose 7% year-over-year to $30.3 billion, while earnings per share increased 25% to $1.11. Return on tangible common equity (ROTCE) was 16%. He highlighted that “every segment grew revenue,” “every segment grew earnings,” and each segment also posted growth in average deposits and loans.
+
+
+Management emphasized net interest income (NII) as a key driver. Moynihan said NII performed “better than expected,” and CFO Alastair Borthwick reported first-quarter NII on a fully taxable equivalent basis of $15.9 billion, up 9% year-over-year. Borthwick attributed the increase to growth in average loans and deposits, fixed-rate asset repricing, and higher Global Markets client-related activity, partially offset by lower average rates during the quarter.
+
+
+Compared to the fourth quarter, Borthwick said NII was “materially flat,” noting that underlying benefits were nearly enough to offset the impact of “two fewer days of interest accrual in Q1.” Net interest yield was 2.07%, up eight basis points year-over-year, which management attributed to balance sheet discipline, funding optimization, and repricing dynamics.
+
+
+Based on the quarter’s performance and a shift in rate expectations (“from two rate cuts expected to having none currently”), Borthwick said the company is raising full-year 2026 NII growth guidance versus 2025 to 6% to 8%, assuming “moderate deposit and loan growth.” He also provided updated rate sensitivity: a 100-basis-point rate decline beyond the forward curve would reduce NII over the next 12 months by $2 billion, while a 100-basis-point increase would benefit NII by “a little less than $500 million.”
+
+
+Bank of America reported non-interest expense of $18.5 billion, up 4% year-over-year. Moynihan said expenses were in line with guidance from the prior quarter and reflected deliberate choices: continued investment in revenue-producing capabilities (including relationship managers, branches, and technology) while offsetting with productivity and simplification, including digitization and the application of artificial intelligence.
+
+
+Moynihan added that headcount declined by about 1,070 from year-end 2025 through attrition. In response to analyst questions on staffing and AI, he said the company has long been using technology to reduce manual work and that “AI gives us places to go we haven’t gone.” He said the bank has “90 installations working” and that “all 200,000 teammates have access to AI.”
+
+
+Borthwick said expense growth was driven largely by higher revenue-related incentives and transaction expenses tied to “double-digit revenue growth in investment banking, asset management fees, and sales and trading.” He reiterated the bank’s expectation of more than 200 basis points of positive operating leverage for the full year.
+
+
+Borthwick said total assets ended the quarter at approximately $3.5 trillion, up 2% linked-quarter, reflecting loan growth, deposit growth, and support for increased Global Markets client activity. Deposits rose to more than $2 trillion, and average deposits increased about $59 billion, or 3%, year-over-year. He noted both interest-bearing and non-interest-bearing deposits grew 3%.
+
+
+The bank’s total rate paid on deposits declined 16 basis points to 1.47%. Borthwick said the deposit mix and pricing discipline contributed to “one of the lowest cost funding profiles among the large U.S. banks.” On loans, average balances increased nearly 9% year-over-year, driven primarily by commercial demand, while consumer loan balances rose about 4%, including 3% credit card growth.
+
+
+The company returned significant capital to shareholders during the quarter. Borthwick reported $2 billion in common dividends and $7.2 billion of common share repurchases. Common shareholders’ equity was approximately $276 billion. The CET1 capital ratio declined 14 basis points to 11.2%, which he attributed mainly to capital return above earnings generation and balance sheet growth, while noting the ratio remains “well above regulatory requirements.”
+
+
+On regulatory changes, Borthwick said the bank had “no meaningful updates” on proposed Basel III endgame or G-SIB capital changes, but he argued that proposed G-SIB surcharge changes could more than offset Basel III impacts for U.S. G-SIBs. “Taken together,” he said, if adopted as proposed, Bank of America could see “some reduction in overall capital requirements relative to the current regime in future periods.”
+
+
+In Q&A, Moynihan said the bank has been “getting more and more clarity” and allowing capital ratios to “drift down” while awaiting final rules. He also said the company’s view of a management buffer has been informed by earnings stability in stress scenarios, adding that “50 basis points over the minimum is more what we’re shooting for” over the long term.
+
+
+Executives said asset quality was stable to improving. Moynihan noted net charge-offs, card delinquencies, reservable criticized assets, and non-performing loans all declined versus the first quarter of 2025, and provision expense fell to $1.3 billion from $1.5 billion a year earlier.
+
+
+Borthwick reported net charge-offs of approximately $1.4 billion and a net loss rate of 48 basis points, down from Q1 2025 and modestly up from Q4 due mainly to “normal seasonality” in card. Provision expense included “a modest net reserve release” driven by improvements in card and commercial real estate, partially offset by growth-related and targeted builds for corporate and commercial lending portfolios.
+
+
+Commercial reservable criticized exposure declined to roughly $24 billion, and non-performing loans were flat quarter-over-quarter. Borthwick also said the quarter marked “the first quarter in more than three years with no new inflows of non-performing assets into office exposures,” which he described as another sign of improvement.
+
+
+Addressing questions on private credit and Global Markets lending, Borthwick said the bank has not experienced “any material losses” in its Global Markets loan portfolio and emphasized secured positions and continuous collateral re-underwriting. He also said the firm’s exposure has “structural insulation” from first-loss positions, arguing that sponsor equity and fund investors would absorb losses before the bank would.
+
+
+Moynihan and Borthwick repeatedly pointed to broad-based performance across the company:
+
+
+Management also discussed the macro backdrop, with Moynihan saying Bank of America’s research team continues to see a “resilient” economy and U.S. GDP growth “in the 2% range.” He said consumer spending trends remained healthy based on internal data, including debit and credit card spending up 6% year-over-year in the quarter, while also pointing to risks including conflicts in the Middle East and broader financial conditions.
+
+
+Looking ahead, executives maintained that diversified businesses, balance sheet strength, and discipline on expenses and credit positioning the company for the remainder of the year. The company’s first-quarter effective tax rate was 17.5%, which Borthwick said was seasonally lower due to the annual vesting of employee share-based awards; for full-year 2026, he said the bank expects an effective tax rate “just a little more than 20%.”
+Bank of America Corporation is a multinational financial services company headquartered in Charlotte, North Carolina. It provides a broad array of banking, investment, asset management and related financial and risk management products and services to individual consumers, small- and middle-market businesses, large corporations, governments and institutional investors. The firm operates through consumer banking, global wealth and investment management, global banking and markets businesses, offering capabilities across lending, deposits, payments, advisory and capital markets.
+
+
+Its consumer-facing offerings include checking and savings accounts, mortgages, home equity lending, auto loans, credit cards and small business banking, supported by a nationwide branch network and digital channels.
+This instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.
+Before you consider Bank of America, you'll want to hear this.
+MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis. MarketBeat has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and Bank of America wasn't on the list.
+While Bank of America currently has a Moderate Buy rating among analysts, top-rated analysts believe these five stocks are better buys.
+View The Five Stocks Here 
+Wondering where to start (or end) with AI stocks? These 10 simple stocks can help investors build long-term wealth as artificial intelligence continues to grow into the future.
+Sign up for MarketBeat All Access to gain access to MarketBeat's full suite of research tools.
+Featured By
+
+                                        345 N Reid Place, Suite 620, Sioux Falls, SD 57103
+                                        
+                                        contact@marketbeat.com
+                                        
+                                        (844) 978-6257
+                                    
+© MarketBeat Media, LLC 2010-2026. All rights reserved.
+
+                                © 2026   Fair market value prices are updated every minute and are provided by Massive. Other market data provided is at least 10-minutes delayed and hosted by Barchart Solutions.  Information is provided 'as-is' and solely for informational purposes, not for trading purposes or advice, and is delayed. To see all exchange delays and terms of use please see Barchart's disclaimer. 
+
+My Account - 
+
+We and our partners share information on your use of this website to help improve your experience. For more information, or to opt out click the Do Not Sell My Information button below.

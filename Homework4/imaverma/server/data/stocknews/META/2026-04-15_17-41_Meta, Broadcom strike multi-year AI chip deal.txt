@@ -1,0 +1,39 @@
+Title: Meta, Broadcom strike multi-year AI chip deal
+Date: 2026-04-15 17:41
+URL: https://www.proactiveinvestors.com/companies/news/1090629/meta-broadcom-strike-multi-year-ai-chip-deal-1090629.html?.tsrc=rss
+
+Pharma & Biotech
+Gold & Silver
+Crypto
+Battery Metals
+Artificial Intelligence
+The content on this Site is provided for information purposes only and does not constitute investment advice, a personal recommendation, an offer or solicitation to buy or sell securities, or any other regulated activity. It should not be relied upon as the basis for any investment decision.
+Before making any investment decision, you should:
+Past performance is not a reliable indicator of future results. The value of investments can fall as well as rise. You may not recover the amount you invest, and in some cases you may be required to pay more.
+Angela Harmantas is an Editor at Proactive. She has over 15 years of experience covering the equity markets in North America, with a particular focus on junior resource stocks. Angela has reported from numerous countries around the world, including Canada, the US, Australia, Brazil, Ghana, and South Africa for leading trade publications. Previously, she worked in investor relations and led the foreign direct investment program in Canada for the Swedish government. She earned a Bachelor of... Read more
+Proactive financial news and online broadcast teams provide fast, accessible, informative and actionable business and finance news content to a global investment audience. All our content is produced independently by our experienced and qualified teams of news journalists.
+Proactive news team spans the world’s key finance and investing hubs with bureaus and studios in London, New York, Toronto, Vancouver, Sydney and Perth. 
+We are experts in medium and small-cap markets, we also keep our community up to date with blue-chip companies, commodities and broader investment stories. This is content that excites and engages motivated private investors.
+The team delivers news and unique insights across the market including but not confined to: biotech and pharma, mining and natural resources, battery metals, oil and gas, crypto and emerging digital and EV technologies.
+Proactive has always been a forward looking and enthusiastic technology adopter.
+Our human content creators are equipped with many decades of valuable expertise and experience. The team also has access to and use technologies to assist and enhance workflows.
+Proactive will on occasion use automation and software tools, including generative AI. Nevertheless, all content published by Proactive is edited and authored by humans, in line with best practice in regard to content production and search engine optimisation.
+
+Published: 13:41 15 Apr 2026 EDT
+  
+Meta Platforms Inc (NASDAQ:META, XETRA:FB2A, SIX:FB) has expanded its partnership with Broadcom Inc (NASDAQ:AVGO, XETRA:1YD) in a multi-year agreement that will run through 2029 and include an initial commitment to deploy more than 1 gigawatt of custom silicon capacity, as the social media giant accelerates its artificial intelligence buildout.
+The deal covers both AI accelerators and networking infrastructure, marking a significant step in Meta’s push to develop in-house silicon and reduce reliance on third-party suppliers.
+Broadcom said the collaboration will feature what it described as the industry’s first 2-nanometer AI accelerator, which it expects to serve as the foundation for a multi-year rollout of advanced computing systems.
+Analysts at Wedbush said the transition to 2-nanometer technology is likely tied to Meta’s next-generation Meta Training and Inference Accelerator (MTIA) chips, including the MTIA 450 and MTIA 500, which are expected to begin shipping in the first half of next year.
+They added that a more meaningful revenue ramp for Broadcom could emerge in 2027 as those products scale.
+The initial 1 gigawatt deployment represents a sizable rollout for a new chip architecture, though Wedbush noted it remains modest relative to the broader AI infrastructure market dominated by companies such as Nvidia and internally developed systems like Google’s tensor processing units.
+As a result, the brokerage said the competitive impact of Meta’s custom chips will depend less on the scale of the initial agreement and more on how the underlying technology evolves over time.
+“(W)e continue to see AVGO's work with Meta as a potentially significant positive catalyst for Broadcom, but we also believe the magnitude of benefit will depend on how the technology develops and if indeed this deal is the beginning of GW's of deployments beyond the initial commitment,” analysts wrote.
+Shares of Broadcom were up 3% on Wednesday afternoon while Meta shares gained 1.7%.
+Sign up to receive alerts and news direct to your inbox
+Poolbeg Pharma PLC (AIM:POLB, OTC:POLBF, FRA:POLBF) CEO Jeremy Skillington and principal scientist Liam Tremble joined Proactive's Stephen Gunnion to discuss a pivotal moment for the company's lead asset, POLB 001.
+
+Full MHRA clearance has been secured, clearing the final regulatory hurdle...
+Copyright © Proactive Group Holdings Inc, 2026
+All Rights Reserved - Proactive North America Inc., Proactive Investors LLC.
+Market Indices, Commodities and Regulatory News Headlines copyright © Morningstar. Data delayed 15 minutes unless otherwise indicated. Terms of use.

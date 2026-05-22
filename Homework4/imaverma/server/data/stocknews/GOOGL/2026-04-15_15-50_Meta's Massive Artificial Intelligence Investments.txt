@@ -1,0 +1,53 @@
+Title: Meta's Massive Artificial Intelligence Investments May Be About to Pay Off for Investors
+Date: 2026-04-15 15:50
+URL: https://www.fool.com/investing/2026/04/15/metas-massive-artificial-intelligence-investments/?.tsrc=rss
+
+Can the newest artificial intelligence (AI) model from Meta Platforms beat the competition? Does it have to?
+Meta Platforms (META +1.41%) established its new artificial intelligence (AI) lab last year, the Meta Superintelligence Lab, spending billions of dollars on personnel and compute capacity to rebuild its artificial intelligence models from the ground up. That includes the $14 billion acquisition of Alexandr Wang, who heads up the lab. Nearly a year later, it finally has something to show for it.
+Meta's new Muse Spark model is the first new model from Wang's team. It's competitive with leading models from OpenAI, Anthropic, and Alphabet's (GOOG +1.21%) (GOOGL +1.28%) Google on most benchmarks, but it's far from blowing the competition away. In fact, it lags competing models in most regards.
+But Meta could still see a huge boost in profits thanks to its new model.
+Image source: Getty Images.
+Meta is perhaps the company best positioned to benefit from continued advances in artificial intelligence. Advances in AI can improve Meta's advertising business, its content recommendations, its ability to attract new advertisers, its users' ability to create new and interesting content, its messaging business, and more.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+The positive impact of Meta's AI efforts is already substantial, as seen in its 2025 earnings results. Meta's ad impressions across its family of apps increased 12% last year. At the same time, the price per ad increased 9%. Those two numbers historically move in opposite directions. The rising engagement on its platform and the ease of optimizing ad campaigns have led to improvements in both numbers so far.
+If Meta wants to continue improving those numbers, though, it needs to use better models. Licensing a model from a leading AI lab, however, would be cost-prohibitive at Meta's scale. It's far more efficient in the long run for it to build out its own AI models tailored specifically for its needs.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name. 
+That's certainly capital intensive; Meta spent $72 billion on capital expenditures last year with plans to spend as much as $135 billion this year. But the release of its new Muse model could mean those investments are about to pay off.
+One of the most important details from Meta's Muse Spark release is how much it costs to run compared to Meta's latest Llama model. "We can reach the same capabilities with over an order of magnitude less compute than our previous model, Llama 4 Maverick," the company said in a press release.
+That means Meta could spend just 10% of what it currently spends on compute for generative AI without any degradation in its capabilities. In practical terms, Meta will likely spend more than that, but see improved capabilities that lead to higher engagement and ad targeting, resulting in a further increase in ad revenue.
+Additionally, Muse Spark may enable it to more efficiently scale AI features like business AIs and chatbots it's testing in Mexico and the Philippines with great success. That could lead to further increases in advertising through click-to-message ads and additional monetization potential for WhatsApp and Messenger.
+Muse Spark could help Meta deliver on its goal of offering a fully fledged advertising agent that can develop and manage ad campaigns for small businesses with AI-generated creatives, copy, and targeting. That could attract more advertisers, further boosting ad revenue.
+It's worth looking at Alphabet's Google Search results to see the potential of AI improvements on large existing advertising businesses. Alphabet produced incremental improvements in its AI models throughout 2025, ultimately releasing Gemini 3.0 in November. It increased the rollout of AI Overviews as the cost of providing AI-generated responses decreased with improved model efficiency.
+Google also saw a bump in engagement as users found its search engine could answer more questions, and it saw improved ad targeting as its model could better understand search intent. The result was an acceleration in ad revenue throughout the year, including a 17% increase in the fourth quarter.
+Meta could experience similar results as introducing new AI features and scaling them become less cost-prohibitive with its new models. An acceleration in revenue could offset the spike in operating costs it's seen from its AI hiring spree while leading to better-than-expected earnings. That makes the stock's current valuation of just 21.5 times analysts' earnings expectations look like a bargain.
+
+ 
+
+
+Before you buy stock in Meta Platforms, consider this:
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Meta Platforms wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $573,160!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,204,712!*
+Now, it’s worth noting Stock Advisor’s total average return is 1,002% — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 15, 2026. 
+
+Adam Levy has positions in Alphabet and Meta Platforms. The Motley Fool has positions in and recommends Alphabet and Meta Platforms. The Motley Fool has a disclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over 35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+*Returns as of April 15, 2026. **$149 for 2 years is a promotional price for new members only. Renews at current list price of $199 after 2nd year.
