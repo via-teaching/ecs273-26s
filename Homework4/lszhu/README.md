@@ -23,6 +23,8 @@ A full-stack stock analysis web application built with FastAPI, MongoDB, and Rea
 >
 > Then open `http://localhost:5173` in your browser.
 > The frontend will not load data if the backend is not running.
+>
+> **Note:** On first load, some charts may appear empty. If that happens, refresh the page 1–2 times — this is a known timing issue where the frontend renders before the first API response completes.
 
 ---
 
