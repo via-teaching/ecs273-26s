@@ -1,51 +1,103 @@
-import RenderOptions from "./component/options";
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from "react";
+import StockSelector from "./component/StockSelector";
+import LineChart from "./component/LineChart";
+import TSNEScatter from "./component/TSNEScatter";
+import NewsList from "./component/NewsList";
+
+const API_BASE = "http://127.0.0.1:8000";
 
 export default function App() {
-  const [stockList, setStockList] = useState<string[]>([]);
+  const [stocks, setStocks] = useState<string[]>([]);
+  const [selectedStock, setSelectedStock] = useState<string>("");
 
   useEffect(() => {
-    fetch('http://localhost:8000/stock_list')
-      .then(res => res.json())
-      .then(data => setStockList(data.tickers));
-  }, []);
-  
-  return (
-    <div className="flex flex-col h-full w-full">
-      <header className="bg-zinc-400 text-white p-2 flex flex-row align-center">
-        <h2 className="text-left text-2xl">Homework 4</h2>
-        <label htmlFor="bar-select" className="mx-2">Select a category:
-          <select id = 'bar-select' className="bg-white text-black p-2 rounded mx-2">
-              <RenderOptions stockList = {stockList} />
-          </select>
-        </label>
-      </header>
-      <div className="flex flex-row h-full w-full">
-        <div className="flex flex-col w-2/3">
+    fetch(`${API_BASE}/stock_list`)
+      .then((res) => res.json())
+      .then((data) => {
+        const tickers = data.tickers ?? [];
+        setStocks(tickers);
 
-          <div className="h-1/4 p-2">
-            <h3 className="text-left text-xl">View 1 to be replaced by the view title</h3>
-            <div className="border-2 border-gray-300 rounded-xl">
-              <p className="text-center text-gray-500 mt-20">Empty View 1</p>
-            </div>
-          </div>
-          <div className="h-3/4 p-2">
-            <h3 className="text-left text-xl h-[2rem]">View 2 to be replaced by the view title</h3>
-            <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <p className="text-center text-gray-500 mt-20">Empty View 2</p>
-            </div>
-          </div>
-          
+        if (tickers.length > 0) {
+          setSelectedStock(tickers[0]);
+        }
+      })
+      .catch(() => {
+        setStocks([]);
+      });
+  }, []);
+
+  return (
+    <div className="min-h-screen bg-white text-black font-mono flex flex-col">
+      <header className="border-b border-gray-300 px-6 py-3 flex items-center gap-6 bg-gray-100">
+        <span className="text-emerald-600 font-bold text-lg tracking-widest uppercase">
+          Homework 4
+        </span>
+
+        <StockSelector
+          stocks={stocks}
+          selected={selectedStock}
+          onChange={setSelectedStock}
+        />
+      </header>
+
+      {!selectedStock ? (
+        <div className="flex-1 flex items-center justify-center text-gray-600">
+          Loading stocks from backend...
         </div>
-        <div className="w-1/3 h-full p-2">
-            <h3 className="text-left text-xl h-[2rem]">View 3 to be replaced by the view title</h3>
-            <div className="border-2 border-gray-300 rounded-xl h-[calc(100%_-_2rem)]">
-              <p className="text-center text-gray-500 mt-20">Empty View 3</p>
+      ) : (
+        <main
+          className="flex-1 grid grid-cols-3 grid-rows-2 gap-px bg-gray-300 overflow-hidden"
+          style={{ height: "calc(100vh - 52px)" }}
+        >
+          <div className="col-span-2 bg-white overflow-hidden flex flex-col">
+            <div className="px-4 pt-3 pb-1 border-b border-gray-300">
+              <h2 className="text-xs uppercase tracking-widest text-emerald-600">
+                View 1 · Stock Overview
+              </h2>
+              <p className="text-gray-600 text-xs">
+                {selectedStock} — Open / High / Low / Close
+              </p>
+            </div>
+
+            <div className="flex-1 overflow-hidden">
+              <LineChart stock={selectedStock} />
             </div>
           </div>
-        
-      </div>
+
+          <div className="col-start-3 row-span-2 bg-white overflow-hidden flex flex-col">
+            <div className="px-4 pt-3 pb-1 border-b border-gray-300">
+              <h2 className="text-xs uppercase tracking-widest text-emerald-600">
+                View 3 · News Feed
+              </h2>
+              <p className="text-gray-600 text-xs">
+                {selectedStock} — latest articles
+              </p>
+            </div>
+
+            <div className="flex-1 overflow-y-auto">
+              <NewsList stock={selectedStock} />
+            </div>
+          </div>
+
+          <div className="col-span-2 row-start-2 bg-white overflow-hidden flex flex-col">
+            <div className="px-4 pt-3 pb-1 border-b border-gray-300">
+              <h2 className="text-xs uppercase tracking-widest text-emerald-600">
+                View 2 · t-SNE Scatter
+              </h2>
+              <p className="text-gray-600 text-xs">
+                Stocks by sector · selected: {selectedStock}
+              </p>
+            </div>
+
+            <div className="flex-1 overflow-hidden">
+              <TSNEScatter
+                selectedStock={selectedStock}
+                onSelectStock={setSelectedStock}
+              />
+            </div>
+          </div>
+        </main>
+      )}
     </div>
-    
   );
 }

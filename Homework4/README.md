@@ -1,55 +1,89 @@
-# Homework 4 Templates
+# Homework 4
 
-This folder contains two parts, client and server.
+## Client Dependencies Installation
 
-## Server
-
-For the server part, make sure you have the respective packages installed.
-
-```
-pip install -r requirements.txt
-```
-
-Secondly, make sure you have already installed and started your mongoDB local server.
-For example, for mongodb managed with homebrew, run:
-
-```
-brew services start mongodb-community
-```
-
-Then, put your data into database with:
-
-```
-python import_data.py
-```
-
-Finally, start your api server by,
-
-```
-uvicorn main:app --reload --port 8000
-```
-
-## Client
-
-There are now two client templates:
-
-- `client`: TypeScript / TSX version
-- `client-jsx`: JavaScript / JSX version
-
-Both clients include the Homework 4 stock list fetch example for the dropdown menu.
-
-TypeScript client:
+Navigate to client folder:
 
 ```bash
 cd client
 npm install
-npm run dev
 ```
 
-JavaScript client:
+Run frontend:
 
 ```bash
-cd client-jsx
-npm install
 npm run dev
 ```
+
+---
+
+## Server Dependencies Installation
+
+Navigate to server folder:
+
+```bash
+cd server
+pip install -r requirements.txt
+```
+
+---
+
+## Start MongoDB
+
+```bash
+brew services start mongodb-community
+```
+
+---
+
+## Import Data
+
+Navigate to server folder:
+
+```bash
+cd server
+python import_data.py
+```
+
+---
+
+## Run FastAPI Backend
+
+```bash
+uvicorn main:app --reload --port 8000
+```
+
+Backend API:
+
+```
+http://127.0.0.1:8000
+```
+
+---
+
+## Run React Frontend
+
+Navigate to client folder:
+
+```bash
+cd client
+npm run dev
+```
+
+Frontend:
+
+```
+http://localhost:5173
+```
+
+---
+
+## Assumptions / Known Issues
+
+- MongoDB must be running before importing data.
+- MongoDB uses default local connection:
+  ```
+  mongodb://localhost:27017
+  ```
+- Backend runs on port 8000.
+- Frontend runs on port 5173.

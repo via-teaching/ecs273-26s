@@ -1,66 +1,83 @@
-from typing import Optional, List, Annotated
-from pydantic import BaseModel
+from typing import Annotated, Optional
+from pydantic import BaseModel, Field, ConfigDict
 from pydantic.functional_validators import BeforeValidator
-from bson import ObjectId
-
-# Represents an ObjectId field in the database.
-# It will be represented as a `str` on the model so that it can be serialized to JSON.
 
 PyObjectId = Annotated[str, BeforeValidator(str)]
 
+
 class StockListModel(BaseModel):
     """
-    Model for stock list
+    Model for ticker list.
     """
-    _id: PyObjectId
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     tickers: list[str]
 
-class StockModelV1(BaseModel):
-    """
-    Model for stock data values
-    """
-    _id: PyObjectId
-    name: str
-    date: list[str]
-    Open: list[float]
-    High: list[float]
-    Low: list[float]
-    Close: list[float]
-    
+    model_config = ConfigDict(
+        populate_by_name=True,
+        arbitrary_types_allowed=True,
+    )
+
+
 class StockModelUnit(BaseModel):
     """
-    Model for stock data values
+    One row of stock price data.
     """
     date: str
     Open: float
     High: float
     Low: float
     Close: float
-    
+
+
 class StockModelV2(BaseModel):
     """
-    Model for stock data values
+    Model for one stock's full time-series data.
     """
-    _id: PyObjectId
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     name: str
     stock_series: list[StockModelUnit]
-    
+
+    model_config = ConfigDict(
+        populate_by_name=True,
+        arbitrary_types_allowed=True,
+    )
+
+
 class StockNewsModel(BaseModel):
-    _id: PyObjectId
+    """
+    Model for one stock news article.
+    """
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     Stock: str
     Title: str
-    Date: str  
+    Date: str
     content: str
-    
+
+    model_config = ConfigDict(
+        populate_by_name=True,
+        arbitrary_types_allowed=True,
+    )
+
+
 class StockNewsModelList(BaseModel):
+    """
+    Model for list of news articles for one stock.
+    """
     Stock: str
     News: list[StockNewsModel]
 
-class tsneDataModel(BaseModel):
+
+class TsneDataModel(BaseModel):
     """
-    Model for t-SNE data
+    Model for one t-SNE point.
     """
-    _id: PyObjectId
+    id: Optional[PyObjectId] = Field(alias="_id", default=None)
     Stock: str
     x: float
     y: float
+    sector: Optional[str] = None
+
+    model_config = ConfigDict(
+        populate_by_name=True,
+        arbitrary_types_allowed=True,
+    )

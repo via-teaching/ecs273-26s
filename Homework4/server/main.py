@@ -1,21 +1,22 @@
-from fastapi import FastAPI
-from pydantic.functional_validators import BeforeValidator
+from fastapi import FastAPI, HTTPException
 from motor.motor_asyncio import AsyncIOMotorClient
-
 from fastapi.middleware.cors import CORSMiddleware
 
-from data_scheme import StockListModel, StockModelV1, StockModelV2, StockNewsModel, tsneDataModel
-
-# MongoDB connection (localhost, default port)
-client = AsyncIOMotorClient("mongodb://localhost:27017")
-db = client.stock_madhu # please replace the database name with stock_[your name] to avoid collision at TA's side
-            
-app = FastAPI(
-    title="Stock tracking API",
-    summary="An aplication tracking stock prices and respective news"
+from data_scheme import (
+    StockListModel,
+    StockModelV2,
+    StockNewsModelList,
+    TsneDataModel,
 )
 
-# Enables CORS to allow frontend apps to make requests to this backend
+client = AsyncIOMotorClient("mongodb://localhost:27017")
+db = client.stock_hb
+
+app = FastAPI(
+    title="Stock tracking API",
+    summary="An application tracking stock prices and respective news"
+)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -24,43 +25,81 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/stock_list", 
-         response_model=StockListModel
-    )
+
+@app.get("/")
+async def root():
+    return {"message": "Stock API is running"}
+
+
+
+
+
+@app.get("/stock_list",
+         response_model=StockListModel)
 async def get_stock_list():
-    """
-    Get the list of stocks from the database
-    """
+
     stock_name_collection = db.get_collection("stock_list")
-    stock_list = await stock_name_collection.find_one()
+
+    stock_list = await stock_name_collection.find_one({})
+
+    if stock_list is None:
+        raise HTTPException(
+            status_code=404,
+            detail="No stock list found"
+        )
+
+    stock_list["_id"] = str(stock_list["_id"])
+
     return stock_list
 
-@app.get("/stocknews/", 
-        response_model=StockNewsModel
-    )
-async def get_stock_news(stock_name: str = 'XOM') -> StockNewsModel:
-    """
-    Get the list of news for a specific stock from the database
-    The news is sorted by date in ascending order
-    """
-    return [] # replace with your code to get the news from the database
+@app.get("/stocknews/", response_model=StockNewsModelList)
+async def get_stock_news(stock_name: str = "XOM"):
+    stock_name = stock_name.upper()
 
-@app.get("/stock/{stock_name}", 
-        response_model=StockModelV2
-    )
-async def get_stock() -> StockModelV2:
-    """
-    Get the stock data for a specific stock
-    Parameters:
-    - stock_name: The name of the stock
-    """
-    return [] # replace with your code to get the news from the database
+    news_collection = db.get_collection("stock_news")
+    cursor = news_collection.find({"Stock": stock_name})
 
-@app.get("/tsne/",
-        response_model=tsneDataModel
-    )
-async def get_tsne(stock_name: str = 'XOM') -> tsneDataModel:
-    """
-    Get the t-SNE data for a specific stock
-    """
-    return [] # replace with your code to get the news from the database
+    news_list = []
+    async for news in cursor:
+        news_list.append(news)
+
+    if len(news_list) == 0:
+        raise HTTPException(
+            status_code=404,
+            detail=f"No news found for stock {stock_name}"
+        )
+
+    return {
+        "Stock": stock_name,
+        "News": news_list
+    }
+
+
+@app.get("/stock/{stock_name}", response_model=StockModelV2)
+async def get_stock(stock_name: str):
+    stock_name = stock_name.upper()
+
+    stock_collection = db.get_collection("stock_data")
+    stock_data = await stock_collection.find_one({"name": stock_name})
+
+    if stock_data is None:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Stock {stock_name} not found"
+        )
+
+    return stock_data
+
+
+@app.get("/tsne/")
+async def get_all_tsne():
+    tsne_collection = db.get_collection("tsne_data")
+    cursor = tsne_collection.find({})
+
+    data = []
+
+    async for item in cursor:
+        item["_id"] = str(item["_id"])
+        data.append(item)
+
+    return {"data": data}
