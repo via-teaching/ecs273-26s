@@ -30,6 +30,7 @@ export function LineChart({ stock }) {
           Low:   d.Low,
           Close: d.Close,
         }));
+        console.log("Parsed data:", parsed[0]); 
         setData(parsed);
       })
       .catch(err => console.error("Failed to load stock:", err));

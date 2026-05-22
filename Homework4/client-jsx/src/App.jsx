@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="flex flex-col h-full w-full">
       <header className="bg-zinc-400 text-white p-2 flex flex-row align-center">
-        <h2 className="text-left text-2xl">Homework 3</h2>
+        <h2 className="text-left text-2xl">Homework 4</h2>
         <label htmlFor="stock-select" className="mx-2">
           Select a stock:
           <select
@@ -26,7 +26,7 @@ function App() {
             value={selectedStock}
             onChange={(e) => setSelectedStock(e.target.value)}
           >
-            <RenderOptions />
+            <RenderOptions stocks={stockList} />
           </select>
         </label>
       </header>
