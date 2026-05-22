@@ -193,6 +193,5 @@ Client runs at `http://localhost:5173`.
 - **`python import_data.py` must be run once** before the frontend will display any data. Skipping this step means all four collections are empty and the app will show nothing.
 - **`uvicorn` must be invoked as `python -m uvicorn`** on Windows if the `uvicorn` command is not on the PATH after pip install.
 - **Both terminals must stay open** while using the app. Closing the backend terminal will cause all API calls from the frontend to fail (ERR_CONNECTION_REFUSED).
-- **CORS is open (`allow_origins=["*"]`)** for local development convenience. This should be restricted to the frontend origin in any production deployment.
 - **Perplexity range is 3–19.** The t-SNE CSV files only cover these 17 values. Requesting any other perplexity value returns a 404.
 - **Data is pre-computed.** The t-SNE coordinates are stored in CSV files and imported as-is; the server does not compute t-SNE on the fly.
