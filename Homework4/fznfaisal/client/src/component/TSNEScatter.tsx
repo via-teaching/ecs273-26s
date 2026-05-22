@@ -1,6 +1,6 @@
 import * as d3 from "d3";
 import { debounce } from "lodash";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useId, useRef, useState } from "react";
 
 import { Margin, TSNEPoint } from "../types";
 
@@ -14,6 +14,7 @@ const margin: Margin = { top: 24, right: 180, bottom: 56, left: 68 };
 export function TSNEScatter({ selectedTicker, points }: TSNEScatterProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const svgRef = useRef<SVGSVGElement>(null);
+  const clipPathId = useId().replace(/:/g, "");
   const [size, setSize] = useState({ width: 0, height: 0 });
 
   useEffect(() => {
@@ -50,8 +51,8 @@ export function TSNEScatter({ selectedTicker, points }: TSNEScatterProps) {
       return;
     }
 
-    drawScatterPlot(svgRef.current, points, selectedTicker, size.width, size.height);
-  }, [points, selectedTicker, size.height, size.width]);
+    drawScatterPlot(svgRef.current, points, selectedTicker, size.width, size.height, clipPathId);
+  }, [clipPathId, points, selectedTicker, size.height, size.width]);
 
   return (
     <div ref={containerRef} className="h-full w-full">
@@ -66,6 +67,7 @@ function drawScatterPlot(
   selectedTicker: string,
   width: number,
   height: number,
+  clipPathId: string,
 ) {
   const innerWidth = width - margin.left - margin.right;
   const innerHeight = height - margin.top - margin.bottom;
@@ -96,8 +98,18 @@ function drawScatterPlot(
 
   const xAxisGroup = svg.append("g").attr("transform", `translate(0, ${height - margin.bottom})`);
   const yAxisGroup = svg.append("g").attr("transform", `translate(${margin.left}, 0)`);
-  const pointsGroup = svg.append("g");
-  const labelsGroup = svg.append("g");
+
+  svg
+    .append("clipPath")
+    .attr("id", clipPathId)
+    .append("rect")
+    .attr("x", margin.left)
+    .attr("y", margin.top)
+    .attr("width", innerWidth)
+    .attr("height", innerHeight);
+
+  const pointsGroup = svg.append("g").attr("clip-path", `url(#${clipPathId})`);
+  const labelsGroup = svg.append("g").attr("clip-path", `url(#${clipPathId})`);
 
   const circles = pointsGroup
     .selectAll("circle")
@@ -128,9 +140,9 @@ function drawScatterPlot(
 
   svg
     .append("text")
-    .attr("x", width - margin.right)
+    .attr("x", margin.left + innerWidth / 2)
     .attr("y", margin.top - 8)
-    .attr("text-anchor", "end")
+    .attr("text-anchor", "middle")
     .style("font-size", "0.95rem")
     .style("font-weight", "600")
     .text("Sector-colored t-SNE embedding");
