@@ -1,0 +1,47 @@
+Title: Qualcomm Stock To $340_
+Date: 2026-05-04 14:52
+URL: https://www.trefis.com/articles/598161/qualcomm-stock-to-340/2026-05-04?.tsrc=rss
+Content: Qualcomm (QCOM) has largely been left behind in the AI-driven semiconductor rally.
+The bear case is well understood. Apple (AAPL) is gradually moving away from Qualcomm modems, putting roughly $7 billion of revenue at risk over time. At the same time, AI-driven demand for memory is tightening supply, raising component costs and slowing smartphone upgrade cycles. These are real pressures, but they are also visible, widely debated, and increasingly reflected in the stock.
+The focus now shifts from what’s at risk to what’s emerging. The stock has already begun to respond, rising roughly 40% over the past month, but the more important shift is beneath the surface. Qualcomm is positioning for the next phase of AI, one that moves beyond centralized compute and into billions of connected devices. If that transition plays out, the stock has a credible path to doubling toward levels of about $340.
+Shift Towards Edge AI
+Today’s AI ecosystem is dominated by centralized compute, with workloads concentrated in data centers powered by companies like Nvidia (NVDA). That model does not scale efficiently to billions of devices. Routing every inference through the cloud is costly, latency-heavy, and power-intensive. The next phase is local inference, running AI directly on-device. It is faster, more private, and does not depend on constant connectivity.
+This shift plays directly into Qualcomm’s strengths.
+For decades, Qualcomm has optimized for power-efficient compute and connectivity, precisely the constraints that define edge AI. Its Snapdragon platforms already sit inside smartphones, PCs, and increasingly vehicles. Qualcomm’s automotive business alone represents a $45 billion design-win pipeline. Meanwhile, newer platforms like Dragonwing and partnerships across ecosystems such as Arduino extend Qualcomm’s reach into robotics and industrial AI. In effect, Qualcomm is evolving from a handset component supplier into a broader compute platform for connected, intelligent devices.
+Even through a softer cycle, Qualcomm remains highly cash generative, with operating cash flow margins above 30% and a licensing business that continues to fund buybacks and reinvestment.
+How Qualcomm Stock Doubles
+Let’s run the numbers. Qualcomm generated about $44 billion in revenue in FY’25, and consensus points to about $42.5 billion in sales for FY’26 due to the memory shortage and Apple’s pivot away from Qualcomm modems. However, if revenue actually picks up at a rate of about 15% annually, led by AI, CPU chips, and automotive, sales could reach $65 billion by 2029. Even if we hold net margins at about 25% (just a notch above trailing 12-month levels), that’s about $16 billion in annual net income. With share repurchases likely to continue, we assume that share count could trend down from around 1.07 billion over the last quarter to levels of about 950 million by 2029.
+That would translate into an EPS of about $17 per share. Now let’s consider valuation. The broader semiconductor sector trades at more than 35x forward earnings, while Qualcomm is trading at just about 17x forward earnings. [1] Even a modest 20x multiple – which would reflect the potential AI growth story but still discount the stock relative to high-flyers – implies a $340 share price. That’s almost double today’s levels. See how Qualcomm margins compare with peers
+The setup is straightforward. Near-term pressures are weighing on sentiment, but the core business remains cash generative, and the next growth cycle, driven by edge AI, automotive, and on-device compute, is starting to take shape.
+We have seen a version of this before. Marvell Technology (MRVL) spent much of the early AI cycle overlooked before its role in data center infrastructure drove a sharp rerating. The stock has since doubled over the last two months. Qualcomm’s opportunity is similar but positioned at the edge rather than the cloud.
+Opportunities like Qualcomm highlight how individual stocks can rerate sharply, but they also come with concentrated risk tied to cycles and execution. A disciplined portfolio approach helps smooth these risks while still participating in long-term growth themes. The Trefis High Quality (HQ) Portfolio has consistently outperformed its market benchmark since inception, delivering total returns of 105%.
+
+Casey’s General Stores Stock 8-Day Winning Spree: Stock Climbs 9.2%
+
+
+RTX Stock Plummets -12% With 6-Day Losing Streak
+
+
+IES Stock Rockets 26% With 7-Day Winning Streak
+
+
+S&P 500 Stocks Trading At 52-Week Low
+
+
+Stocks Trading At 52-Week Low
+
+
+Mid Cap Stocks Trading At 52-Week High
+
+
+S&P 500 Stocks Trading At 52-Week High
+
+
+Large Cap Stocks Trading At 52-Week High
+
+
+Small Cap Stocks Trading At 52-Week High
+
+
+Get Paid 14% to Buy APH at a 30% Discount – Here’s How
+

@@ -1,0 +1,31 @@
+Title: OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI
+Date: 2026-05-04 15:03
+URL: https://finance.yahoo.com/sectors/technology/articles/openai-finalizes-10-billion-joint-123100557.html?.tsrc=rss
+Content: The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+(Bloomberg) -- OpenAI and Anthropic PBC are both forming joint ventures with some of world’s most recognizable financial institutions in a race to drive more adoption of their artificial intelligence tools.
+Most Read from Bloomberg
+China’s Unprecedented Defiance of US Sanctions Triggers Showdown
+Former NYC Mayor Giuliani in Critical Condition, Trump Says
+Beijing Tells China Firms to Ignore US Sanctions on Refiners
+Supertanker Appears to Have Crossed the Strait of Hormuz
+US Denies Iran Report That Naval Ship Was Hit by Missiles
+OpenAI has raised more than $4 billion from investors including TPG Inc., Brookfield Asset Management, Advent and Bain Capital for a firm focused on helping businesses leverage its AI software, Bloomberg reported on Monday. Within minutes of that news, rival Anthropic announced it’s partnering with Blackstone Inc., Hellman & Friedman and Goldman Sachs Group Inc. to form a similar company.
+Both efforts coincide with the rise of “forward-deployed engineers” — people being aggressively recruited by seemingly every AI model developer to explain to businesses how AI software can improve their operations. Their goal is to accelerate more adoption of the technology that AI companies have spent billions of dollars to create, and are still trying to turn a profit from.
+Boosting adoption rates has become an ever more critical task for OpenAI and Anthropic as both are targeting initial public offerings as soon as this year.
+OpenAI’s new venture is called The Deployment Company, according to a person with knowledge of the venture who asked not to be identified because the information isn’t yet public. The fundraising values OpenAI’s new company at $10 billion, not including the money, the person said, adding that the firm will be majority-owned and controlled by OpenAI.
+Other partners include Dragoneer Investment Group and SoftBank Group Corp., among others, the person said, as well as a mix of consulting firms. Bloomberg News previously reported OpenAI was in discussions for the joint venture.
+Spokespeople for OpenAI, TPG and Brookfield declined to comment. Representatives for the other partner companies didn’t respond to requests for comment.
+With its own venture, Anthropic said it’s aiming to deploy its flagship Claude AI system into the core operations of a broad group of midsize companies. That venture also received backing from Apollo Global Management Inc., General Atlantic, Leonard Green & Partners, GIC and Sequoia Capital.
+Anthropic’s new firm will help integrate AI tools into companies owned by the asset managers backing it, as well as firms not owned by those asset managers.
+Both OpenAI and Anthropic have seen particularly strong demand for their AI-powered coding tools, which have sped up programming for software developers. But they’re increasing pushing into other sectors such as financial services and healthcare to bolster their sales.
+The partners for OpenAI’s new joint venture have access to more than 2,000 portfolio companies and clients, according to the person familiar with that business. The aim is to use those relationships to enable more businesses to adopt AI, the person said.
+Last month, OpenAI said Chief Operating Officer Brad Lightcap would shift into a new role leading special projects, including overseeing the company’s push to sell software to businesses through the joint venture.
+--With assistance from Allison McNeely and Shirin Ghaffary.
+(Updates with details on Anthropic’s deal starting in first paragraph)
+Most Read from Bloomberg Businessweek
+America’s Go-To Autism Therapy Is Also the Most Controversial
+Whatnot Has Americans Hooked on Livestream Shopping
+It’s Boating Season, But Only If You Can Afford Fuel
+The NBA Draft Is Bad for Business
+Ready or Not, the AI Phones Are Coming
+©2026 Bloomberg L.P.

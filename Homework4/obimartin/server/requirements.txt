@@ -1,0 +1,7 @@
+fastapi
+motor
+uvicorn
+pydantic
+pandas
+asyncio
+pymango
