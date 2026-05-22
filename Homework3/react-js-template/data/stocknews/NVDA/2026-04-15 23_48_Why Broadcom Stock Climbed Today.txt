@@ -1,0 +1,50 @@
+Title: Why Broadcom Stock Climbed Today
+Date: 2026-04-15 23:48
+URL: https://www.fool.com/investing/2026/04/15/why-broadcom-stock-is-up-today/?.tsrc=rss
+Content:
+A blockbuster partnership should fuel the tech leader's growth.
+Shares ofBroadcom(AVGO+4.19%)rose on Wednesday after the semiconductor colossus struck a deal to supplyMeta Platforms(META+1.41%)with artificial intelligence (AI) technology.
+Image source: The Motley Fool.
+Broadcom and Meta are working together to create the infrastructure needed to bring advanced generative AI capabilities to the social media titan's 3.6 billion customers. The two companies will co-design customAIaccelerator chips to help power Meta's herculean AI model training and inference efforts.
+The chips that will underpin Meta's cutting-edge AI data centers will be built on Broadcom's XPU platform. Their custom design aims to blend performance with a lower total cost of ownership compared to less specialized chips.
+Broadcom's optical connectivity products and other networking solutions will also help to provide efficient, low-latency performance for AI workloads.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+The agreement includes an initial one gigawatt (GW) of capacity, as part of a multiyear, multi-gigawatt rollout.
+"Meta is partnering with Broadcom across chip design, packaging, and networking to build out the massive computing foundation we need to deliver personal superintelligence to billions of people," Meta CEO Mark Zuckerberg said in a press release.
+One little-known company, called an "Indispensable Monopoly" owns the technology Nvidia, AMD, and Intel cannot function without. And it is still just a fraction of Nvidia’s size.
+We just released a brand-new report with the full story and the company’s name.
+By partnering with Broadcom to develop its own custom AI chips, Meta is diversifying its supply chain and reducing its reliance on chipmakers likeNvidiaandAdvanced Micro Devices. That should moderate some of these chip suppliers' pricing power -- and enable Meta to optimize its own chips for its specific needs.
+Broadcom, in turn, is serving as an increasingly valuable partner for Meta and other cloud computing giants. That should allow Broadcom to claim a growing share of the AI boom in the coming years.
+
+
+
+
+Before you buy stock inBroadcom, consider this:
+The Motley FoolStock Advisoranalyst team just identified what they believe are the10 best stocksfor investors to buy now… andBroadcomwasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider whenNetflixmade this list on December 17, 2004... if you invested $1,000 at the time of our recommendation,you’d have $573,160!*Or whenNvidiamade this list on April 15, 2005... if you invested $1,000 at the time of our recommendation,you’d have $1,204,712!*
+Now, it’s worth notingStock Advisor’s total average return is1,002% — a market-crushing outperformance compared to195%for the S&P 500. Don't miss the latest top 10 list, available withStock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 16, 2026.
+
+Joe Tenebrusohas no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices, Broadcom, Meta Platforms, and Nvidia. The Motley Fool has adisclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over35 Amazons.
+What in the world could be worth 35 Amazons? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+©1995-2026The Motley Fool. All rights reserved.
+Market data powered byXigniteandPolygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Get our brand-new Epic Portfolio for
+Most investors have a portfolio built for a market that no longer exists. Our CEO, Tom Gardner, challenged our best teams to build a"plan, not just a list"—a complete, ready-to-invest portfolio designed for this chaotic market.
+We believe in these stocks so much that The Motley Fool is investing$100,000of our own cash right alongside you.
+*50% discount based on the current list price of Epic of $499/year. Promotional price is for new members only. Membership will renew annually at the then-current list price. Offer expires on April 18, 2026, at 11:59 pm PDT.

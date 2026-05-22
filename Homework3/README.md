@@ -10,7 +10,7 @@ This repository contains multiple templates:
 Each template is self-contained. Navigate into a folder and install dependencies:
 
 ```bash
-cd react-example
+cd jxrzhao
 npm install
 npm run dev
 ```

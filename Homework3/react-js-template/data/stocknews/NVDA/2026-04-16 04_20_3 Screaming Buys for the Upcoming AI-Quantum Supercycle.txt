@@ -1,0 +1,51 @@
+Title: 3 Screaming Buys for the Upcoming AI-Quantum Supercycle
+Date: 2026-04-16 04:20
+URL: https://www.fool.com/investing/2026/04/16/3-screaming-buys-for-the-upcoming-ai-quantum-super/?.tsrc=rss
+Content:
+AI could see a huge boost from quantum computing in a few years.
+All eyes are currently on the artificial intelligence (AI) buildout, and for good reason. AI is gradually becoming more and more mainstream, and several businesses are already adopting an AI-first approach to developing new products and optimizing business practices. However, there may be a new technology on the horizon that could revolutionize AI as we know it: quantum computing.
+Quantum computing may seem like a far-fetched technology, but it's rapidly becoming closer to reality. Its effects could be felt by 2030, and it has the potential to propel AI into its next phase of usefulness. I've got three stocks that are well positioned to take advantage of this upcoming supercycle, and they also look like complementary stock picks right now.
+Image source: Getty Images.
+My first pick for this upcoming cycle isAlphabet(GOOG+1.18%)(GOOGL+1.28%). Few companies are positioned as strongly as Alphabet to take advantage of both revolutions. Alphabet has become a leader in the generative AI arena after stumbling out of the gate. It has now seamlessly integrated AI into itsGoogle Search platformand has become a top way that the average person interacts with AI daily.
+It's also a quantum computing leader. Alphabet has made several huge breakthroughs, including announcing that it believes that quantum computing will have the ability to break through cryptocurrency wallet passwords in minutes by 2029. Those are supposed to be some of the most secure passwords out there, and with quantum computing progressing to that point in just four years, it showcases how close relevant quantum computing is.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+One of the primary ways Alphabet will benefit from this technology is by renting quantum computing out through the cloud. If Alphabet's in-house quantum computing device becomes mainstream, this would provide a massive boost to Alphabet's cloud computing wing, and also allow AI developers access to computing power they can only dream of.
+Alphabet is a leader in both quantum and AI, making it astrong stock pick to thrive over the next decade.
+When our analyst team has a stock tip, it can pay to listen. After all,Stock Advisor’stotal average return is1,002%*— a market-crushing outperformance compared to195%for the S&P 500.
+They just revealed what they believe are the10 best stocksfor investors to buy right now,available when you joinStock Advisor.
+*Stock Advisor returns as of April 16, 2026.
+You can nearly copy and paste everything I said about Alphabet into theMicrosoft(MSFT+4.64%)section. Microsoft is developing its own, in-house quantum capabilities like Alphabet. The goal would be to rent out this newfound technology via its cloud computing division, Azure. This would keep Microsoft at the center of where AI developers go to build AI applications, serving its future.
+However, unlike the other two stocks on this list, Microsoft is trading like its future is in jeopardy. Its stock is down over 30% from its all-time high, making it one of the worst-performing big tech stocks over the past few months. This makes Microsoft a solid investment right now, but also a smart one due to its neutral positioning in the AI and quantum fields.
+Last isNvidia(NVDA+1.31%). At first glance, it may seem odd to include Nvidia on this list. If quantum computing takes over and becomes the rage in AI and other high-demand computing areas, won't that eliminate the need for GPUs? Nvidia's entire revenue base is built around these computing units, so quantum seems like a huge threat, especially because Nvidia isn't pursuing a quantum processing unit (QPU) like Microsoft and Alphabet.
+However, Nvidia sees this trend going in a different direction. It believes useful quantum computing is coming, but its best use case will be in a hybrid environment where a quantum computer is deployed in conjunction with thousands of GPUs in existing computing infrastructure. To support this, Nvidia has developed the NVQLink, which allows various quantum computers to plug into existing computing networks. This will bridge the gap between traditional and quantum computing and keep Nvidia's product ecosystem at the center of all computing applications, even if they are assisted by a quantum computer.
+With Nvidia set to benefit from a huge traditional computing AI buildout, then potentially from a quantum buildout afterward,it's a smart stock to invest in now.
+
+
+
+
+Before you buy stock inAlphabet, consider this:
+The Motley FoolStock Advisoranalyst team just identified what they believe are the10 best stocksfor investors to buy now… andAlphabetwasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+Consider whenNetflixmade this list on December 17, 2004... if you invested $1,000 at the time of our recommendation,you’d have $573,160!*Or whenNvidiamade this list on April 15, 2005... if you invested $1,000 at the time of our recommendation,you’d have $1,204,712!*
+Now, it’s worth notingStock Advisor’s total average return is1,002% — a market-crushing outperformance compared to195%for the S&P 500. Don't miss the latest top 10 list, available withStock Advisor, and join an investing community built by individual investors for individual investors.
+See the 10 stocks ›
+*Stock Advisor returns as of April 16, 2026.
+
+Keithen Druryhas positions in Alphabet, Microsoft, and Nvidia. The Motley Fool has positions in and recommends Alphabet, Microsoft, and Nvidia. The Motley Fool has adisclosure policy.
+This tech could reach $80 trillion. Imagine a technology worth over18 Nvidias.
+What in the world could be worth 18 Nvidias? The answer is a radical tech breakthrough that our experts think is transforming every walk of life. And this giant leap forward has many on Wall Street very excited.
+Continue ›
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+Don't wait — this offer ends soon.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+©1995-2026The Motley Fool. All rights reserved.
+Market data powered byXigniteandPolygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+*$249 for one year is a promotional price for new members only. 50% discount based on the current list price of Epic of $499/year. Membership will renew annually at the then-current list price. Offer expires on April 18, 2026, at 11:59 pm PDT.

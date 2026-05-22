@@ -1,0 +1,21 @@
+stock,tsne_coord1,tsne_coord2,sector
+AAPL,-16.741102,58.4404,Information Tech / Comm. Svc
+BAC,9.955566,103.427216,Financials
+CAT,56.609394,40.035847,Industrials
+CVX,7.621617,-25.067272,Energy
+DAL,42.63511,-72.19362,Industrials
+GOOGL,-24.283388,33.56858,Information Tech / Comm. Svc
+GS,69.12115,32.786232,Financials
+HAL,61.972706,-72.77425,Energy
+JNJ,-7.916056,-16.906218,Healthcare
+JPM,-17.092892,1.0652518,Financials
+KO,51.275448,-53.58035,Consumer Discretionary/Staples
+MCD,-41.412582,-29.570347,Consumer Discretionary/Staples
+META,13.903047,22.183472,Information Tech / Comm. Svc
+MMM,-42.326538,-46.817783,Industrials
+MSFT,-40.60411,34.164165,Information Tech / Comm. Svc
+NKE,31.746511,-55.24632,Consumer Discretionary/Staples
+NVDA,-13.611438,107.529,Information Tech / Comm. Svc
+PFE,12.714514,117.80906,Healthcare
+UNH,-34.917004,-6.73031,Healthcare
+XOM,29.082308,-31.062223,Energy
