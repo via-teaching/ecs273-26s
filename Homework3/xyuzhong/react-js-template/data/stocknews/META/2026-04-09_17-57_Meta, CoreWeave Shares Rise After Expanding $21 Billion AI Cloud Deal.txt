@@ -1,0 +1,279 @@
+Title: Meta, CoreWeave Shares Rise After Expanding $21 Billion AI Cloud Deal
+Date: 2026-04-09 17:57
+URL: https://decrypt.co/363838/meta-coreweave-shares-rise-expanding-21-billion-ai-cloud-deal?.tsrc=rss
+Content:
+Meta, CoreWeave Shares Rise After Expanding $21 Billion AI Cloud Deal
+$71,967.00
+$2,208.50
+$1.35
+$606.92
+$0.999934
+$84.27
+$0.3192
+$1.034
+$0.093301
+$0.999842
+$53.22
+$39.84
+$0.254887
+$10.12
+$443.84
+$8.96
+$342.72
+$0.999828
+$0.147212
+$334.94
+$0.155054
+$2.65
+$0.999126
+$54.55
+$9.30
+$0.999839
+$0.089832
+$0.00801683
+$0.934582
+$0.00000598
+$332.07
+$1.29
+$0.094264
+$0.069829
+$1.12
+$4,757.79
+$4,770.97
+$1.00
+$0.665217
+$1.28
+$1.00
+$3.13
+$0.077575
+$0.997928
+$83.80
+$1.35
+$0.168824
+$0.669822
+$0.00000176
+$1.00
+$0.00000351
+$91.24
+$2.51
+$0.999956
+$1.93
+$1.10
+$0.9996
+$8.41
+$1.12
+$0.25574
+$6.50
+$8.41
+$74.69
+$2.05
+$0.00179734
+$1.85
+$0.112833
+$1.23
+$0.086375
+$1.80
+$0.886894
+$0.03213519
+$0.267438
+$1.00
+$11.05
+$0.090849
+$83.06
+$2.96
+$0.895511
+$0.04092054
+$0.846061
+$114.85
+$0.00748
+$0.03197299
+$0.102811
+$0.080206
+$0.00720157
+$0.999947
+$0.06939
+$0.01035031
+$0.999619
+$0.162933
+$0.246816
+$0.998773
+$0.02579757
+$0.764519
+$0.00000591
+$1.97
+$0.99967
+$1.50
+$0.01252696
+$0.672096
+$0.006592
+$1.17
+$32.72
+$0.223387
+$0.03909154
+$1.029
+$1.00
+$8.37
+$0.355167
+$0.055806
+$21.47
+$153.90
+$0.999634
+$1.03
+$4.43
+$7.59
+$0.441565
+$0.03123258
+$0.01764152
+$0.962386
+$0.221637
+$0.067881
+$123.52
+$0.351013
+$0.00000033
+$0.00000032
+$15.91
+$2.97
+$0.122073
+$76.48
+$0.303103
+$0.081179
+$0.0474764
+$0.236026
+$0.993727
+$0.302266
+$1.00
+$0.00002828
+$0.319717
+$0.00000129
+$0.051744
+$0.00267245
+$0.266211
+$0.04617561
+$0.00531506
+$0.02425881
+$1.03
+$0.996383
+$16.05
+$0.057144
+$0.112901
+$0.128329
+$5.80
+$1.77
+$0.984361
+$0.99996
+$0.058649
+$10.79
+$0.00221348
+$0.06554
+$0.078069
+$0.00003709
+$0.02474711
+$1.24
+$0.198768
+$2.80
+$0.03355484
+$1.12
+$1.00
+$1.026
+$19.28
+$0.182029
+$2.19
+$0.18401
+$0.507484
+$1.071
+$0.00473189
+$1.071
+$0.311092
+$0.091655
+$0.999735
+$0.172173
+$0.17083
+$0.63432
+$1.08
+$0.072918
+$1.00
+$0.400329
+$0.071145
+$1.79
+$48.01
+$0.04234395
+$1.77
+$0.08692
+$0.995102
+$0.00152531
+$1.21
+$0.999466
+$0.099816
+$9.72
+$0.293484
+$0.01511501
+$0.00305125
+$3,827.14
+$0.398852
+$0.00000692
+$0.00136296
+$0.00000068
+$86.89
+$28.16
+$1.00
+$1.092
+$0.29765
+$1,094.97
+$1.016
+$0.28782
+$0.093019
+$0.129749
+$0.079056
+$0.999747
+$0.409675
+$1.63
+$0.083639
+$0.130298
+$0.145009
+$0.464835
+$1.17
+$0.999125
+$0.216098
+$0.994671
+$0.297004
+$0.294479
+$0.998594
+$0.485784
+$0.01592292
+$0.00000083
+$1.00
+$3.85
+$1.75
+$0.999697
+$0.112636
+$0.163305
+$0.244198
+$1.41
+$0.528638
+$0.194801
+Meta and CoreWeave have expanded a long-term artificial intelligence infrastructure agreement worth about $21 billion, extending their partnership through December 2032. Both companies have seen their shares rise Thursday following the announcement.
+CoreWeave announced the expanded deal Thursday, describing it as an extension of the companies’ existing relationship and an increase in infrastructure supporting Meta’s AI operations.
+“This is another example that leading companies are choosing CoreWeave’s AI cloud to run their most demanding workloads,” CoreWeave co-founder, CEO, and Chairman Michael Intrator said in a statement.
+The agreement gives Meta access to AI cloud capacity from CoreWeave to support the development and deployment of its AI systems, including inference workloads that run trained models at scale.
+The infrastructure will be deployed across multiple locations and will include some of the first deployments of Nvidia’s Vera Rubin platform. CoreWeave said the distributed deployment is intended to optimize performance, resilience, and scalability for Meta’s AI systems, and reflects rising demand for infrastructure capable of supporting large-scale AI workloads.
+Meta and CoreWeave previously struck a $14 billion AI infrastructure deal in 2025, under which the cloud provider agreed to supply computing power to Meta through 2031.
+The news comes as Meta accelerates its push into advanced AI systems. On Wednesday, the company introduced Muse Spark, a natively multimodal model capable of processing text, images, and voice and designed to tackle complex reasoning tasks using multiple AI agents.
+Bitcoin and broader financial markets climbed in early Asian and London trading Monday after reports emerged of potential ceasefire talks between the U.S. and Iran.
+The leading crypto hit a weekly high of $69,350 Monday morning, and is currently trading at $69,245, up 3.5% on the day according to CoinGecko data. Oil dropped 1.4% from Friday's close, while the Nikkei gained 0.85% and S&P 500 futures rose 0.64%. Safe-haven gold, on the other hand, hovered near breakeven.
+
+The moves come on the hee...
+Meta has also outlined a new Advanced AI Scaling Framework that expands how it evaluates risks and tests its most capable models before deployment.
+“As we build more capable and more personalized AI, reliability, security, and user protections are more important than ever,” Meta said in a statement. “Advanced models require an advanced approach to safety—one that scales with the technology.”
+Shares of Meta and CoreWeave rose after the companies announced their expanded AI infrastructure deal. Currently, Meta (META) is trading above $630 per share, up about 3% on the day, while CoreWeave (CRWV) has jumped 5.5% to a recent price of $93.70.
+Researchers from the Google Cloud AI team have introduced PaperOrchestra, an AI framework that autonomously transforms messy lab notes and scattered research data into submission-ready academic manuscripts.
+Unlike existing AI writing tools that focus on text generation, the system aims to tackle the full intellectual workflow of academic paper creation—from organizing raw materials to generating figures and conducting literature reviews.
+
+The system employs five specialized agents working in par...
+OpenAI has paused its planned Stargate artificial intelligence infrastructure project in the United Kingdom, citing high energy costs and regulatory uncertainty, according to a report by CNBC that was confirmed by a company spokesperson.
+The ChatGPT giant first announced the Stargate UK infrastructure project in mid-September 2025, in partnership with chipmaker Nvidia and infrastructure provider Nscale. The plan called for deploying up to 8,000 GPUs beginning in the first quarter of 2026, with...
+Tether, the company behind the world's largest stablecoin, USDT, announced the launch of QVAC SDK—a fully open-source software development kit designed to run artificial intelligence applications directly on any device without requiring cloud servers.
+The cross-platform toolkit works unchanged across iOS, Android, Windows, macOS, and Linux environments, the company said. The SDK is built on QVAC Fabric, a fork of llama.cpp, providing compatibility with the llama.cpp model ecosystem for text gen...
+Your gateway into the world of Web3
+The latest news, articles, and resources, sent to your inbox weekly.
+© A next-generation media company. 2026 Decrypt Media, Inc.
+

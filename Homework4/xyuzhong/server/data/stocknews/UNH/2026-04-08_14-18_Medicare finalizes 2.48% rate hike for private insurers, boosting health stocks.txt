@@ -1,0 +1,18 @@
+Title: Medicare finalizes 2.48% rate hike for private insurers, boosting health stocks
+Date: 2026-04-08 14:18
+URL: https://qz.com/medicare-advantage-2027-rate-hike-finalized-040726?.tsrc=rss
+Content:
+Oliver Contreras / Getty Images
+The Centers for Medicare & Medicaid Services on Monday finalized a 2.48% average payment rate increase for Medicare Advantage plans in 2027, translating to more than $13 billion in additional payments to private insurers.
+In January, the agency had floated a near-flat 0.09% hike — a proposal that rattled markets and drew an outcry from the industry. When accounting for estimated risk score trends driven by factors such as population changes and coding practices, the effective increase amounts to 4.98%, according to CMS.
+After-hours trading Monday saw shares of UnitedHealth $UNH and CVS Health $CVS each gain more than 9%, while Humana $HUM climbed roughly 12%. By Tuesday premarket, gains continued across the sector, with UnitedHealth stock adding 6.6%, Humana up 11%, and CVS Health advancing 5.8%.
+"Medicare Advantage and Part D should work for the people who rely on them," CMS administrator Dr. Mehmet Oz said in a statement. "These updates keep coverage affordable and ensure patients get real value from their plans."
+At stake in the payment rate is considerable leverage: The figure shapes what private insurers can collect in monthly premiums and what benefits they can offer, with direct consequences for their bottom lines. More than half of Medicare beneficiaries are enrolled in such privately run plans, according to CNBC.
+CMS did not implement a proposed update to the risk adjustment model that would have used more recent underlying data. Instead, the agency will continue using the 2024 MA risk adjustment model for 2027, giving the MA market more time to adjust to the recently completed phase-in of that model. CMS said it will evaluate public feedback as it considers future updates.
+The agency did finalize one risk adjustment change: Beginning in 2027, diagnosis information from unlinked chart review records — those not associated with a specific patient encounter — will be excluded from risk score calculations, with an exception for beneficiaries who switch between MA organizations.
+"We're ensuring that the money we spend on Medicare flows directly to better care and more access for our seniors, not to administrative waste or gaming of the system," Chris Klomp, director of Medicare and a senior adviser at the Department of Health and Human Services, said in remarks reported by Bloomberg.
+Insurers had pushed back hard after January's near-flat proposal, contending it fell well short of what was needed to absorb climbing medical costs. The market's reaction at the time erased close to $100 billion in combined stock value, Bloomberg reported.
+Do Not Sell or Share My Personal Information
+We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared previously.
+Dismiss
+Opt out
