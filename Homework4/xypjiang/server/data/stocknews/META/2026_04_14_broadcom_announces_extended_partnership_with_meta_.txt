@@ -1,0 +1,82 @@
+Title: Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta’s Custom Silicon, MTIA
+Date: 2026-04-14 21:05
+URL: https://finance.yahoo.com/sectors/technology/articles/broadcom-announces-extended-partnership-meta-210500785.html?.tsrc=rss
+Content: Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+The S&P 500 and Nasdaq rallied toward record highs on hopes of an Iran deal while oil tumbled
+Bitcoin bounced above $74,000, but Wall Street warns it could go lower before it goes higher
+US stocks rise amid Iran deal hopes, earnings rush, cooler-than-expected PPI
+JPMorgan profits rise 13%, Dimon warns of 'increasingly complex set of risks'
+US stocks sink after Trump orders Hormuz blockade against Iran
+Goldman Sachs Q1 profits climb thanks to jumps in M&A dealmaking and record equity trading
+The stock market's latest rally is reviving a familiar trade — but not all of the Magnificent Seven are coming along for the ride.
+Gen Z is driving IRA contributions to record highs. Here's how to get started.
+Wall Street strategists say it's time to 'jump in' with tech stocks
+Trump says US will blockade Strait of Hormuz after Iran talks fail (Bloomberg)
+Bank earnings, US-Iran talks, and signs of stability for stocks: What to watch this week
+Shaq, in NYC discussing his new investment with retailer tm:rw, said the NBA dunk contest isn't what it used to be.
+Used car prices hit highest levels since 2023 and could push higher
+Why Starlink is so important to SpaceX's IPO
+What to know about X Money, Elon Musk's fintech app that claims to pay 6% on savings
+The housing market is shifting toward buyers. Just not in New Jersey.
+Wall Street's biggest banks are riding into the first quarter earnings season on far less certain ground than where they began 2026.
+Watch: OpenAI CEO Sam Altman's house was reportedly the target of a Molotov cocktail attack on Friday. Yahoo Finance's Dan Howley explains.
+Stocks post second straight winning week amid fragile US-Iran ceasefire
+US tariff revenue dropped by over $4 billion in March. It's down almost 30% since October.
+US stocks open higher after March CPI inflation data shows energy surge
+Inflation soars by most since 2022 as gas prices bite
+Americans close to retirement are saving for later, but they're worried about getting by right now
+Government data out Friday will show how much consumer prices rose in March — and forecasts point to soaring inflation.
+Palantir plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch
+Stocks rebounded to extend their winning streak, while oil rose ahead of US-Iran talks
+Stocks turned positive after Israel agreed to talks with Lebanon, reviving optimism for the US-Iran ceasefire
+US stocks pull back, oil surges as US-Iran ceasefire looks increasingly shaky
+Sticky reading on inflation pre-war will keep Fed on hold
+The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.
+Fed officials saw risks of the Iran war increasing inflation and delaying rate cuts in a March meeting
+The Strait of Hormuz has immediately become the first major flash point of Trump's 'fragile' ceasefire
+US stocks surged while oil prices plunged as relief from a fragile US-Iran ceasefire rippled through markets
+US stocks soar, with Dow surging nearly 1,400 points as Iran truce restarts Hormuz traffic
+Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds
+Investors are turning to social media and following 'finfluencers' to inform their investment decisions
+High new car prices, rising gas costs, and rising interest rates brought buyers to used car lots
+Dow, S&P 500, Nasdaq futures soar after Trump calls for two-week ceasefire
+Markets weigh the chances of economic fallout from an attack on Iran against previous threats from Trump
+The S&P 500 and Nasdaq ended the day slightly higher on hopes of an Iran deadline extension
+Anthropic launches cybersecurity partnership with Amazon, Apple, Google, Microsoft, Nvidia, and others
+Tech is doing everything right and getting left behind. Here's what could turn that around.
+US stocks drift lower as Trump's deadline for Iran ultimatum looms
+US gas prices risk topping $5 per gallon if the Strait of Hormuz stays closed, JPMorgan says
+Netflix stands to get richer after losing Warner Bros. bidding war. Here's why.
+Goldman Sachs delivered a warning to laid-off tech workers that it will take more time to find a new job than expected
+The Dow, S&P 500, and Nasdaq gained ahead of Trump's deadline for an Iran deal
+US stocks open muted, oil dips as Wall Street eyes push for Iran truce talks
+JPMorgan CEO flags Iran war-fueled inflation, private credit, and AI-linked job losses as risks to the economy
+'Wouldn't be shocked' if bull market continues: Wall Street aims to look past Iran conflict
+Meta is partnering with Broadcom to rollout industry’s first 2nm AI compute accelerator; foundation for sustained multi-year infrastructure rollout.
+Over the next three years, the companies are collaborating on next generations of AI accelerator chips to meet Meta’s escalating compute demands for next-generation AI models.
+Partnership built on Broadcom’s industry-leading XPU platform to deeply co-develop and optimize Meta’s AI infrastructure across multiple silicon generations.
+Deployment utilizes Broadcom’s advanced Ethernet technologies to enable seamless, high-bandwidth scale-up, scale-out, scale-across networking, eliminating bottlenecks throughout Meta’s rapidly expanding AI compute clusters.
+PALO ALTO, Calif. and MENLO PARK, Calif., April 14, 2026 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) and Meta (NASDAQ: META) today announced a multi-year, multi-generation strategic partnership to support Meta’s rapidly scaling artificial intelligence compute infrastructure. Building on their existing partnership, Broadcom will deliver technology supporting Meta Training and Inference Accelerator (MTIA) chips, with plans to extend through 2029. This technology will serve as the foundational backbone for Meta’s deployment of state-of-the-art AI data centers.
+The initial commitment exceeds 1GW and is the first phase of a sustained, multi-gigawatt rollout. This reinforces a shared roadmap to co-design and scale the hardware required to bring real-time generative AI features and “personal superintelligence” to billions of people globally across apps like WhatsApp, Instagram, and Threads.
+Central to this expanding infrastructure footprint is the rapid deployment of Meta’s MTIA silicon, made possible by deep engineering co-design through Broadcom's foundational XPU (Custom Accelerator) platform. This platform approach allows Broadcom and Meta to tightly couple logic, memory, and high-speed I/O for current deployments, while establishing a highly adaptable, multi-generation blueprint to co-develop future iterations of the MTIA portfolio over the coming years. MTIA is a key pillar of Meta's broader silicon strategy, which deploys different accelerators for different workloads — the MTIA portfolio matches purpose-built hardware to optimize both performance and total cost of ownership at scale.
+“We are pleased to expand our strategic collaboration with Meta as they pioneer the next frontier of artificial intelligence,” said Hock Tan, President and CEO, Broadcom. “This initial MTIA deployment is just the beginning of a sustained, multi-generation roadmap to serve the trajectory of massive growth over the next few years highlighting Broadcom’s unmatched leadership in AI networking and the power of our foundational XPU custom accelerator platform.”
+“Meta is partnering with Broadcom across chip design, packaging, and networking to build out the massive computing foundation we need to deliver personal superintelligence to billions of people,” said Meta founder and CEO Mark Zuckerberg. “As we roll out more than 1GW of our custom silicon to start and then multiple gigawatts over time, this partnership will give us greater performance and efficiency for everything we’re building.”
+To support the massive compute density of MTIA clusters and future expansions, Broadcom is delivering its industry-leading Ethernet networking solutions to address scale-up, scale-out, and scale-across requirements. Broadcom’s high-radix Ethernet switches, Optical Connectivity products, PCIe switches, and high-speed SerDes capabilities provide a standards-based, low-latency fabric. This future-proof Ethernet backbone is critical for scaling-up compute bandwidth within individual MTIA racks, and scaling-out and scaling-across network capacity over tens of thousands of nodes, eliminating congestion during the most intensive AI workloads.
+This comprehensive, multi-generational suite of MTIA and networking solutions will be instrumental in scaling the latest and future generations of MTIA clusters.
+The partnership extends well beyond hardware supply, focusing heavily on continuous system-level optimization and forward-looking R&D. Because MTIA prioritizes inference and low-precision processing for maximum efficiency, the supporting infrastructure must offer near-zero latency. Broadcom’s Ethernet-based rack-scale interconnects will ensure that current and future MTIA grids remain constantly utilized, gracefully handling evolving memory hierarchies while drastically reducing the Total Cost of Ownership (TCO) across the lifespan of Meta's multi-generation infrastructure.
+As Meta continues to invest in the infrastructure required to bring AI to billions of people, the Broadcom partnership and MTIA program will remain a critical piece of that strategy — delivering the custom, workload-optimized silicon that underpins Meta's AI future.
+Given the scale of this expanded partnership, Hock Tan will transition off of Meta’s Board of Directors and into an advisor role for Meta, where he'll provide guidance on Meta’s custom silicon roadmap and help shape the future of their infrastructure investments.
+About Broadcom
+Broadcom Inc. (NASDAQ: AVGO) is a technology leader that designs, develops, and supplies semiconductors and infrastructure software for global organizations’ complex, mission-critical needs. Broadcom combines long-term R&D investment with superb execution to deliver the best technology, at scale. Broadcom is a Delaware corporation headquartered in Palo Alto, CA. For more information, visit www.broadcom.com.
+About Meta
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.
+Broadcom Contacts:Press.relations@broadcom.com
+Ji YooInvestor Relations650-427-6000investor.relations@broadcom.com
+Meta Media Contact:Press@Meta.com
+Cautionary Note Regarding Forward-Looking StatementsThis announcement contains forward-looking statements (including within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended) concerning Broadcom. These statements include, but are not limited to, statements regarding Broadcom’s extended partnership with Meta to deliver technology supporting MTIA chips and program and Broadcom’s Ethernet-based rack-scale interconnects for the utilization of MTIA grids. These forward-looking statements are based on current expectations and beliefs of Broadcom’s management, current information available to Broadcom’s management, and current market trends and market conditions, and involve risks and uncertainties that may cause actual results to differ materially from those contained in the forward-looking statements. Accordingly, undue reliance should not be placed on such statements.
+Particular uncertainties that could materially affect future results include risks associated with: global political and economic conditions and uncertainty; government regulations, trade restrictions and trade tensions; fluctuations in the timing and volume of significant customer demand; ability to make successful investments in research and development and successfully expand Broadcom’s business strategy or adopt Broadcom’s new business models; ability to continue winning business and the timing of such wins; dependence on contract manufacturing and outsourced supply chain; dependency on a limited number of suppliers; dependence on senior management and the ability to attract and retain qualified personnel; ability to protect against cybersecurity threats and a breach of security systems; ability to accurately estimate customers’ demand and adjust the manufacturing and supply chain accordingly; ability to improve manufacturing capacity and quality; involvement in legal proceedings; quarterly and annual fluctuations in operating results; Broadcom’s competitive performance; ability to maintain or improve gross margin; ability to protect Broadcom’s intellectual property and the unpredictability of any associated litigation expenses; significant indebtedness and the need to generate sufficient cash flows to service and repay such debt; and other events and trends on a national, regional, industry-specific and global scale, including those of a political, economic, business, competitive and regulatory nature.
+Broadcom’s filings with the Securities and Exchange Commission (SEC) are available without charge at the SEC’s website at https://www.sec.gov and include some important risk factors that may affect future results. Broadcom undertakes no intent or obligation to publicly update or revise the forward-looking statements made in this announcement, except as required by law.
+
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

@@ -1,0 +1,31 @@
+Title: Coinbase Reportedly Courts Anthropic to Bolster Exchange Security Infrastructure
+Date: 2026-04-14 19:45
+URL: https://beincrypto.com/coinbase-claude-mythos-anthropic-request/?.tsrc=rss
+Content: Coinbase is reportedly in talks with Anthropic to gain access to Claude Mythos Preview, the AI company’s restricted frontier model with advanced cybersecurity capabilities.
+The outreach, first reported by The Information, reflects growing urgency among crypto exchanges to defend against increasingly sophisticated AI-driven threats.
+Anthropic launched Project Glasswing in early April 2026, a defensive cybersecurity initiative giving select partners limited access to Mythos. 
+The model identified thousands of previously unknown zero-day vulnerabilities during testing, including a 27-year-old flaw in OpenBSD and a 16-year-old bug in FFmpeg.
+Founding partners include Amazon Web Services, Apple, Google, JPMorgan Chase, Microsoft, and Palo Alto Networks. Over 40 additional organizations maintaining critical software also received access. 
+Anthropic committed $100 million in compute credits and $4 million to open-source security groups for the program.
+For Coinbase, the largest US crypto exchange, the timing is significant. The platform dealt with a major insider breach in 2025 that exposed personal data of roughly 70,000 users after overseas support agents were bribed by criminals. 
+Coinbase refused a $20 million ransom demand and instead posted a matching bounty for information leading to arrests.
+Anthropic’s own research has shown that AI agents can autonomously exploit smart contract vulnerabilities, generating millions in simulated stolen funds. 
+That finding indicates why exchanges may view Mythos access as essential rather than optional.
+Mythos will not reach general availability. Anthropic plans to integrate its capabilities into future Claude releases with strengthened safeguards. 
+Post-preview pricing sits at $25 per million input tokens and $125 per million output tokens.
+Whether Coinbase secures formal partnership status or broader Glasswing access remains unclear. 
+The exchange already uses Claude for customer support operations across more than 100 regions.
+Daily Crypto Insights
+Insights, news and analysis of the crypto market straight to your inbox
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+BEINCRYPTO
+INSTITUTIONAL
+AWARDS 2026
+Recognizing leaders in digital finance
+Nominate your choice for excellence in governance, compliance, digital asset integration and innovation
+
+
+Trade without KYC & get bonus up to $2888
+Explore BYDFi
+
