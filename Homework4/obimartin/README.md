@@ -1,5 +1,7 @@
 # Homework 4
-Note: Open three terminals before starting. All three must remain open while running the app — one for MongoDB, one for the API server, and one for the React frontend.
+
+A stock market dashboard that displays stock price time-series data, related news articles, and t-SNE cluster projections for 20 stocks. Data is stored in a local MongoDB database and served through a FastAPI backend to a React frontend built with D3.js visualizations.
+> **Note:** Open three terminals before starting. All three must remain open while running the app — one for MongoDB, one for the API server, and one for the React frontend.
 
 ## 1. Install Client Dependencies
 
@@ -52,7 +54,7 @@ In **Terminal 1**, run:
 npm run dev
 ```
 
-## 7. Test Database
+## 7. Test Database (Optional)
 
 To verify that data was imported correctly into MongoDB, run in **Terminal 2**:
 
@@ -68,3 +70,4 @@ This script pulls one sample document from each collection (`stock_list`, `stock
 - The database is named `stock_obimartin`.
 - News articles with blank lines after the `Content:` label are handled correctly.
 - Some article content may contain encoding artifacts from the original source files.
+- Fixed known issue with HW3's x-axis zoomed labels. 
