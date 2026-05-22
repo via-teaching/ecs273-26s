@@ -1,0 +1,65 @@
+{
+    "stocks":[
+        {
+            "ticker": "AAPL"
+        },
+        {
+            "ticker": "BAC"
+        },
+        {
+            "ticker": "CAT"
+        },
+        {
+            "ticker": "CVX"
+        },
+        {
+            "ticker": "DAL"
+        },
+        {
+            "ticker": "GOOGL"
+        },
+        {
+            "ticker": "GS"
+        },
+        {
+            "ticker": "HAL"
+        },
+        {
+            "ticker": "JNJ"
+        },
+        {
+            "ticker": "JPM"
+        },
+        {
+            "ticker": "KO"
+        },
+        {
+            "ticker": "MCD"
+        },
+        {
+            "ticker": "META"
+        },
+        {
+            "ticker": "MMM"
+        },
+        {
+            "ticker": "MSFT"
+        },
+        {
+            "ticker": "NKE"
+        },
+        {
+            "ticker": "NVDA"
+        },
+        {
+            "ticker": "PFE"
+        },
+        {
+            "ticker": "UNH"
+        },
+        {
+            "ticker": "XOM"
+        }
+    ]
+
+}

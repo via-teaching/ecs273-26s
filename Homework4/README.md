@@ -7,23 +7,27 @@ This folder contains two parts, client and server.
 For the server part, make sure you have the respective packages installed.
 
 ```
+cd server
 pip install -r requirements.txt
 ```
 
-Secondly, make sure you have already installed and started your mongoDB local server.
-For example, for mongodb managed with homebrew, run:
-
+To start MongoDB, run: 
+#### Linux / WSL
+```bash
+sudo systemctl start mongo
 ```
+#### Mac
+```bash
 brew services start mongodb-community
 ```
 
-Then, put your data into database with:
+After you have started MongoDB, you can import data by runing:
 
 ```
-python import_data.py
+python3 import_data.py
 ```
 
-Finally, start your api server by,
+Finally, start your API server by:
 
 ```
 uvicorn main:app --reload --port 8000
@@ -31,25 +35,24 @@ uvicorn main:app --reload --port 8000
 
 ## Client
 
-There are now two client templates:
 
-- `client`: TypeScript / TSX version
-- `client-jsx`: JavaScript / JSX version
-
-Both clients include the Homework 4 stock list fetch example for the dropdown menu.
-
-TypeScript client:
-
-```bash
-cd client
-npm install
-npm run dev
-```
-
-JavaScript client:
+To run the React frontend, run:
 
 ```bash
 cd client-jsx
 npm install
 npm run dev
 ```
+
+## Assumptions:
+This project assumes the following are already installed on the system:
+
+- Node.js and npm
+- Python 3.10+
+- MongoDB (running locally on default port 27017)
+
+Note:
+This project was ran within a WSL system. 
+
+## AI Usage:
+AI was used to help set up the FastAPI logic, and to lightly refactor the dashboard components to retrieve data from API calls intead of from json files. 

@@ -1,7 +1,8 @@
 export default function RenderOptions({ stockList }) {
-  return stockList.map((name, index) => (
-    <option key={index} value={name}>
-      {name}
+
+  return stockList.map((ticker, index) => (
+    <option key={index} value={ticker}>
+      {ticker}
     </option>
   ));
 }
