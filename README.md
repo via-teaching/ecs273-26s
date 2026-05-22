@@ -1,12 +1,37 @@
-# ECS273 Homework templates
+# ECS 273 Homework 4 — Full-Stack Stock Visual Analytics Dashboard
 
-In this repository, you will find the templates for your homework assignments.
-Please refer to the instructions provided on Canvas and the linked Google Docs for detailed requirements and submission guidelines.
+## Introduction
 
-To clone this repository, please run:
+This project extends the Homework 3 interactive D3 stock dashboard into a full-stack web application.
 
-```
-git clone git@github.com:via-teaching/ecs273-26s.git
-```
+The application uses:
 
-Switch to the respective Homework directory for more information.
+- MongoDB for storing stock data
+- FastAPI for backend API endpoints
+- React + TypeScript for the frontend
+- D3.js for interactive visualizations
+
+The dashboard includes:
+
+- Stock price line chart
+- t-SNE scatter plot
+- Stock news list
+- Linked interactions between views
+
+---
+
+## Project Structure
+
+```txt
+Homework4/
+└── akandya/
+    ├── client/
+    └── server/
+        ├── data/
+        │   ├── stockdata/
+        │   ├── stocknews/
+        │   └── tsne.csv
+        ├── data_scheme.py
+        ├── import_data.py
+        ├── main.py
+        └── requirements.txt
