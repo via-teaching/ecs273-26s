@@ -14,3 +14,8 @@ build/
 Thumbs.db
 
 package-lock.json
+
+.venv
+__pycache__/
+data_old/
+typeScriptVersion/
