@@ -15,36 +15,46 @@ export default function NewsList({ selectedStock }: Props) {
   const [expanded, setExpanded] = useState<number | null>(null);
 
   useEffect(() => {
- fetch(`http://127.0.0.1:8000/news/${selectedStock}`)
-  .then((res) => res.json())
-  .then((data) => setNews(data.news))
-  .catch((err) => {
-    console.error("Error fetching news:", err);
-    setNews([]);
-  });
+    setExpanded(null);
+    let cancelled = false;
+    fetch(`http://127.0.0.1:8000/news/${selectedStock}`)
+      .then((res) => res.json())
+      .then((data) => {
+        if (!cancelled) setNews(data.news);
+      })
+      .catch((err) => {
+        console.error("Error fetching news:", err);
+        if (!cancelled) setNews([]);
+      });
+
+    return () => {
+      cancelled = true;
+    };
   }, [selectedStock]);
 
   return (
-    <div>
-      <h2>{selectedStock} News</h2>
+    <div className="news-scroll">
       {news.map((item, index) => (
         <div
           key={index}
-          style={{
-            border: "1px solid gray",
-            marginBottom: "10px",
-            padding: "10px",
-            cursor: "pointer",
-          }}
-          onClick={() =>
-            setExpanded(expanded === index ? null : index)
-          }
+          className={`news-item${expanded === index ? " expanded" : ""}`}
+          onClick={() => setExpanded(expanded === index ? null : index)}
         >
-          <h3>{item.title}</h3>
-          <p>{item.date}</p>
-
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 6 }}>
+            <h3 style={{ margin: "0 0 3px 0", fontSize: 15, fontWeight: 600, lineHeight: 1.4, color: "#1e293b", flex: 1 }}>
+              {item.title}
+            </h3>
+            <span style={{ fontSize: 9, color: "#94a3b8", flexShrink: 0, paddingTop: 2 }}>
+              {expanded === index ? "▲" : "▼"}
+            </span>
+          </div>
+          <p style={{ margin: 0, fontSize: 13, color: "#94a3b8", fontWeight: 500 }}>
+            {item.date}
+          </p>
           {expanded === index && (
-            <p>{item.content}</p>
+            <p style={{ margin: "8px 0 0 0", fontSize: 14, color: "#475569", lineHeight: 1.6, borderTop: "1px solid #e5e7eb", paddingTop: 8 }}>
+              {item.content}
+            </p>
           )}
         </div>
       ))}
