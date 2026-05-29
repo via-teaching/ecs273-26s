@@ -1,4 +1,4 @@
-# ECS 273 Homework 4 — Full-Stack Stock Visual Analytics Dashboard
+# ECS 273 Homework 4 - Full-Stack Stock Visual Analytics Dashboard
 
 ## Overview
 
