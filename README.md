@@ -1,4 +1,4 @@
-# ECS 273 Homework 4 — Full-Stack Stock Visual Analytics Dashboard
+﻿# ECS 273 Homework 4 - Full-Stack Stock Visual Analytics Dashboard
 
 ## Overview
 
@@ -13,67 +13,58 @@ The dashboard includes a stock price line chart, t-SNE scatter plot, stock news 
 ## Project Structure
 
 ```txt
-Homework4/
-└── akandya/
-    ├── client/
-    └── server/
-        ├── data/
-        │   ├── stockdata/
-        │   ├── stocknews/
-        │   └── tsne.csv
-        ├── data_scheme.py
-        ├── import_data.py
-        ├── main.py
-        └── requirements.txt
+ecs273-26s/
+|- akandya/
+|  |- client/
+|  \- server/
+|     |- data/
+|     |  |- stockdata/
+|     |  |- stocknews/
+|     |  \- tsne.csv
+|     |- data_scheme.py
+|     |- import_data.py
+|     |- main.py
+|     \- requirements.txt
+\- README.md
 ```
 
 ---
 
-## How to Install Dependencies for the Client
+## Install Client Dependencies
 
-Navigate to the client folder:
-
-```bash
-cd Homework4/akandya/client
-```
-
-Install dependencies:
+From the repository root:
 
 ```bash
+cd akandya/client
 npm install
 ```
 
 ---
 
-## How to Install Dependencies for the Server
+## Install Server Dependencies
 
-Navigate to the server folder:
-
-```bash
-cd Homework4/akandya/server
-```
-
-Create a Python virtual environment:
+From the repository root:
 
 ```bash
+cd akandya/server
 python -m venv venv
 ```
 
 Activate the virtual environment.
 
-For Windows PowerShell:
+Windows PowerShell:
 
 ```bash
 .\venv\Scripts\activate
 ```
 
-For Git Bash:
+Git Bash:
 
 ```bash
 source venv/Scripts/activate
 ```
 
-Install server dependencies:
+Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -81,7 +72,7 @@ pip install -r requirements.txt
 
 ---
 
-## How to Start MongoDB
+## Start MongoDB
 
 Install MongoDB Community Server if it is not already installed.
 
@@ -94,10 +85,10 @@ Install MongoDB as a Service
 Start MongoDB using Windows Services:
 
 ```txt
-Windows Search → Services → MongoDB → Start
+Windows Search -> Services -> MongoDB -> Start
 ```
 
-You can verify MongoDB is running by opening:
+Verify MongoDB is running:
 
 ```txt
 http://localhost:27017
@@ -109,7 +100,7 @@ Expected message:
 It looks like you are trying to access MongoDB over HTTP...
 ```
 
-MongoDB Compass can also connect using:
+MongoDB Compass connection string:
 
 ```txt
 mongodb://localhost:27017
@@ -117,79 +108,47 @@ mongodb://localhost:27017
 
 ---
 
-## How to Import the Data
+## Import Data into MongoDB
 
-Make sure MongoDB is running first.
+Make sure MongoDB is running.
 
-Navigate to the server folder:
-
-```bash
-cd Homework4/akandya/server
-```
-
-Activate the virtual environment.
-
-For Windows PowerShell:
+From the repository root:
 
 ```bash
-.\venv\Scripts\activate
+cd akandya/server
 ```
 
-For Git Bash:
-
-```bash
-source venv/Scripts/activate
-```
-
-Run the import script:
+Activate the virtual environment, then run:
 
 ```bash
 python import_data.py
 ```
 
-This imports stock price time-series data, stock news articles, and t-SNE projection data into the MongoDB database:
-
-```txt
-stock_ak
-```
+This imports stock price time-series data, stock news articles, and t-SNE projection data into the `stock_ak` database.
 
 ---
 
-## How to Run the FastAPI Backend
+## Run the FastAPI Backend
 
-Navigate to the server folder:
-
-```bash
-cd Homework4/akandya/server
-```
-
-Activate the virtual environment.
-
-For Windows PowerShell:
+From the repository root:
 
 ```bash
-.\venv\Scripts\activate
+cd akandya/server
 ```
 
-For Git Bash:
-
-```bash
-source venv/Scripts/activate
-```
-
-Run the FastAPI server:
+Activate the virtual environment, then run:
 
 ```bash
 uvicorn main:app --reload
 ```
 
-The backend runs at:
+Backend URL:
 
 ```txt
 http://127.0.0.1:8000
 ```
 
-Useful backend endpoints:
+Useful endpoints:
 
 ```txt
 http://127.0.0.1:8000/
@@ -201,29 +160,29 @@ http://127.0.0.1:8000/tsne
 
 ---
 
-## How to Run the React Frontend
+## Run the React Frontend
 
 Open a second terminal.
 
-Navigate to the client folder:
+From the repository root:
 
 ```bash
-cd Homework4/akandya/client
+cd akandya/client
 ```
 
-Install dependencies if they are not already installed:
+Install dependencies if needed:
 
 ```bash
 npm install
 ```
 
-Run the frontend:
+Start the frontend:
 
 ```bash
 npm run dev
 ```
 
-The frontend usually runs at:
+Frontend URL (default):
 
 ```txt
 http://localhost:5173
@@ -239,15 +198,15 @@ Keep the FastAPI backend running while using the frontend.
 - The backend assumes MongoDB is available at `mongodb://localhost:27017`.
 - The database name is `stock_ak`.
 - The frontend assumes the FastAPI backend is running at `http://127.0.0.1:8000`.
-- Data files must be located inside `server/data/`.
-- Stock data should be placed in `server/data/stockdata/`.
-- News JSON files should be placed in `server/data/stocknews/{ticker}/news.json`.
-- The t-SNE file should be placed at `server/data/tsne.csv`.
+- Data files must be located inside `akandya/server/data/`.
+- Stock data should be placed in `akandya/server/data/stockdata/`.
+- News JSON files should be placed in `akandya/server/data/stocknews/{ticker}/news.json`.
+- The t-SNE file should be placed at `akandya/server/data/tsne.csv`.
 - News article formatting depends on the scraped text from Homework 1.
 - If the frontend does not load data, check that MongoDB and FastAPI are both running.
 - If MongoDB connection fails, verify that the MongoDB service is started.
 - If a Python module is missing, make sure the server virtual environment is activated before running `pip install -r requirements.txt`.
-- If a frontend package is missing, run `npm install` inside the `client` folder.
+- If a frontend package is missing, run `npm install` inside `akandya/client`.
 
 ---
 
