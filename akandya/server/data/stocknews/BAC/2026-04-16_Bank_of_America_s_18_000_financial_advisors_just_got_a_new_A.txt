@@ -1,0 +1,20 @@
+Title: Bank of America’s 18,000 financial advisors just got a new AI tool as the company posts a record quarter
+Ticker: BAC
+Published: 2026-04-16T12:58:14
+URL: https://finance.yahoo.com/markets/stocks/articles/bank-america-18-000-financial-115814862.html?.tsrc=rss
+
+Good morning. Bank of America posted its strongest earnings in nearly two decades, and CFO Alastair Borthwick says AI is becoming key to the bank’s performance.
+The bank reported on Wednesday that Q1 2026 net income was $8.6 billion, with earnings per share up 25% to $1.11, which is the highest level in almost 20 years. On a media call, Borthwick pointed to AI as an increasingly important driver, highlighting a new internal tool for financial advisors.
+How much does Bank of America invest in technology?
+What AI tools is BofA using to boost productivity?
+What factors are driving BofA's operating leverage improvements?
+How did Bank of America achieve record Q1 earnings?
+The Meeting Journey tool helps advisors prepare for client meetings by pulling together key information. BofA has about 18,000 financial advisors across its wealth management platform, serving millions of clients, he said. Before meeting with a client, advisors regularly need to update themselves with a wide range of information such as client history, recent activity, and CIO guidance, he explained.
+The tool searches and consolidates client relationship insights and recent activity into ready-to-use prep materials and, with client consent, acts as an AI notetaker during virtual meetings. It also summarizes meeting decisions and next steps based on those notes. The goal is to cut down hours of manual prep and free advisors to focus on client relationships.
+“Efforts like this translate into results,” Borthwick said, pointing to record first-quarter revenue and improved cost control.
+Preparing for meetings once meant pulling data from multiple systems; now much of that work is automated, he said. “Not necessarily the judgment—that can be human,” Borthwick added. The bank invests around $13.5 billion annually in technology, including approximately $4 billion on new initiatives like AI.
+More broadly, BofA’s strong quarter was driven by several factors: —Net interest income rose 9% to $15.9 billion as loan and deposit growth accelerated.—Trading revenue hit $6.3 billion—its best in roughly 15 years—boosted by a record high 30% jump in equities.—Investment banking fees climbed 21% to $1.8 billion on a solid M&A market.—Asset management fees grew 15% to $4.2 billion.—Productivity gains, including from AI, helped the company maintain cost discipline and improve its efficiency ratio by 170 basis points to 61%.
+With revenues outpacing expenses, BofA achieved its third consecutive quarter of operating leverage at 2.9%. This week, Morningstar raised its fair value estimate for BofA to $65 per share, up from $58.
+Amid ongoing uncertainty around geopolitics, rates, and credit, Borthwick said the bank’s data shows a resilient U.S. consumer. Unemployment remains at around 4.3%, supporting spending, while a recent rise in gas outlays hasn’t materially changed the broader picture, he said. “You can see that in our asset quality,” he added.
+Sheryl Estradasheryl.estrada@fortune.com
+This story was originally featured on Fortune.com

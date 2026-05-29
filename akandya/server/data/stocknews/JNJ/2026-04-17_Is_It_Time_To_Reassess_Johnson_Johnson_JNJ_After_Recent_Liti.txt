@@ -1,0 +1,49 @@
+Title: Is It Time To Reassess Johnson & Johnson (JNJ) After Recent Litigation Headlines?
+Ticker: JNJ
+Published: 2026-04-17T01:17:25
+URL: https://finance.yahoo.com/markets/stocks/articles/time-reassess-johnson-johnson-jnj-001725493.html?.tsrc=rss
+
+Track your investments for FREE with Simply Wall St, the portfolio command center trusted by over 7 million individual investors worldwide.
+If you have been wondering whether Johnson & Johnson's current share price reflects its true value, this breakdown is designed to help you make sense of where the stock stands today.
+The stock currently trades at US$234.54, with returns of 13.1% year to date and 53.1% over the past year, while the last 7 days and 30 days show 2.8% and 1.5% declines respectively.
+Recent headlines have focused on Johnson & Johnson's ongoing product portfolio developments and legal matters, which continue to shape sentiment around the stock. These factors help explain why shorter term moves can look different to the stronger 1 year and multi year returns.
+On Simply Wall St's valuation checks, Johnson & Johnson scores 3 out of 6. The rest of this article will compare the main valuation methods you are likely to see, before finishing with a more complete framework for thinking about what the stock might be worth.
+Johnson & Johnson delivered 53.1% returns over the last year. See how this stacks up to the rest of the Pharmaceuticals industry.
+A Discounted Cash Flow, or DCF, model estimates what a company might be worth by projecting its future cash flows and discounting them back to today using a required rate of return. It is a way of translating long term cash generation into a single present value per share.
+For Johnson & Johnson, the model used is a 2 Stage Free Cash Flow to Equity approach based on cash flow projections. The latest twelve month free cash flow stands at about $19.8b. Analysts provide explicit estimates out to several years, and Simply Wall St extrapolates beyond that, with projected free cash flow of $35.9b in 2030 and a series of annual figures in between. These future amounts are then discounted back to today to reflect risk and the time value of money.
+On this basis, the DCF model points to an estimated intrinsic value of about $376.34 per share, compared with the current share price of $234.54. That implies the shares trade at a 37.7% discount to this intrinsic value, which indicates the stock appears undervalued on this metric.
+Result: UNDERVALUED
+Our Discounted Cash Flow (DCF) analysis suggests Johnson & Johnson is undervalued by 37.7%. Track this in your watchlist or portfolio, or discover 59 more high quality undervalued stocks.
+Head to the Valuation section of our Company Report for more details on how we arrive at this Fair Value for Johnson & Johnson.
+For profitable businesses, the P/E ratio is a useful shorthand for what investors are currently willing to pay for each dollar of earnings. It helps you compare companies of different sizes using a single, earnings based yardstick.
+What counts as a "normal" P/E usually reflects how the market views a company’s growth potential and risk. A higher P/E can reflect expectations of higher growth or lower perceived risk, while a lower P/E can reflect expectations of slower growth or higher risk.
+Johnson & Johnson currently trades on a P/E of 26.85x. This is above the Pharmaceuticals industry average of 16.76x and also above the peer group average of 22.97x. On the surface, that indicates investors are paying a higher price for its earnings compared with many sector peers.
+Simply Wall St’s Fair Ratio for Johnson & Johnson is 29.77x. This is a proprietary estimate of what the P/E might be given factors such as earnings growth, industry, profit margins, market cap and company specific risks. Because it blends these elements, it can be more tailored than a simple comparison with peers or the industry average.
+With the current P/E of 26.85x below the Fair Ratio of 29.77x, the shares appear undervalued on this earnings based measure.
+Result: UNDERVALUED
+P/E ratios tell one story, but what if the real opportunity lies elsewhere? Start investing in legacies, not executives. Discover our 19 top founder-led companies.
+Earlier it was mentioned that there is an even better way to understand valuation. Narratives are Simply Wall St's way for you to attach a clear story and set of assumptions to Johnson & Johnson, linking your view on its pipeline, MedTech expansion, legal risks and margins to specific revenue and earnings forecasts. These then flow through to a Fair Value you can compare with the current price to judge whether the stock looks cheap or expensive to you at any point in time.
+On the Community page, you can pick or create a Narrative that matches your view. The platform keeps that view live by refreshing forecasts and Fair Value automatically when new earnings, news or guidance arrive, so you always see how fresh information affects your thesis without rebuilding a model from scratch.
+For example, one Johnson & Johnson Narrative on the platform currently pins Fair Value near US$265, another sits closer to US$182, and a third is around US$149. This shows how different investors can look at the same company, make different calls on future growth, margins, litigation outcomes and P/E, and end up with very different Fair Values that they then compare to today’s US$234.54 share price to guide their own buy or sell decisions.
+For Johnson & Johnson however we'll make it really easy for you with previews of two leading Johnson & Johnson Narratives:
+These sit on opposite sides of the debate, so you can quickly see what assumptions need to be true for each view to make sense, then decide which is closer to your own expectations.
+🐂 Johnson & Johnson Bull Case
+Fair Value: US$241.71 per share
+Gap to Fair Value vs current US$234.54 price: about 3.0% below this narrative fair value
+Revenue growth used in the narrative model: 6.24%
+Analysts describe revenue growth as steady, with forecasts tied to healthcare demand across immunology, oncology and MedTech rather than a single product story.
+Large planned spending on U.S. manufacturing, R&D and technology, plus recent acquisitions, is described as supporting operational efficiency and future earnings power.
+The narrative flags risks, including loss of exclusivity for key drugs, tariff exposure and ongoing talc litigation, yet still lands close to today’s share price, suggesting Johnson & Johnson is broadly in line with this view of fair value.
+🐻 Johnson & Johnson Bear Case
+Fair Value: US$173.55 per share
+Gap to Fair Value vs current US$234.54 price: about 35.2% above this narrative fair value
+Revenue growth used in the narrative model: 6.3%
+This view highlights that, even with a large late stage drug pipeline and a focus on higher margin MedTech and pharmaceuticals after the Kenvue spin off, the current share price sits above the analyst’s value estimate.
+Assumptions include revenue growth in the mid single digits, a 20% profit margin and ongoing buybacks, but apply a more conservative P/E multiple to those future earnings.
+The narrative places heavier weight on risks around litigation, patent expiries and drug pipeline uncertainty, which together keep its fair value below where the stock trades today.
+Stepping back, Community Narratives show that reasonable investors can look at the same Johnson & Johnson facts and reach different conclusions about fair value. The key is to decide which set of assumptions about growth, margins, risk and future valuation multiples you find more realistic for your own process.
+To see how these results tie into long-term growth, risks, and valuation, check out the full range of community narratives for Johnson & Johnson on Simply Wall St. Add the company to your watchlist or portfolio so you'll be alerted when the story evolves.
+Do you think there's more to the story for Johnson & Johnson? Head over to our Community to see what others are saying!
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include JNJ.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com

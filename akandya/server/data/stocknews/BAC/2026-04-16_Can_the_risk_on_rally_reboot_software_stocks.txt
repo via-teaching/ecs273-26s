@@ -1,0 +1,23 @@
+Title: Can the risk-on rally reboot software stocks?
+Ticker: BAC
+Published: 2026-04-16T13:23:45
+URL: https://finance.yahoo.com/markets/stocks/articles/risk-rally-reboot-software-stocks-122345142.html?.tsrc=rss
+
+Investing.com -- The latest rebound in risk assets has lifted the Nasdaq 100 toward all-time highs, and the improving macro and index backdrop has the potential to also lift the oversold software sector, according to Paul Ciana, Bank of America’s technical strategist.
+The Nasdaq 100 has rallied sharply in recent days as geopolitical tensions eased, reclaiming key moving averages and pushing back toward its all-time high of 26,182. The index is also outperforming the S&P 500, with the NDX/SPX ratio breaking higher from a multi-month downtrend channel.
+BofA’s Ciana sees a plausible case that the correction running from October 2025 through April 2026 was a wave four pullback, "opening the door to a meaningful fifth-wave advance through the summer months," with upside objectives stretching to the 27,000–28,000 range and potentially as high as 29,500.
+"That said, caution is warranted because the speed of the recovery is reminiscent of a bull trap or “X” wave that connects two corrective periods," he noted, adding that a sharp reversal from current levels would raise the risk of an extended correction rather than a new leg higher.
+Software has been one of the hardest-hit corners of the equity market. The iShares Expanded Tech-Software ETF, known as IGV, fell as much as 37% from its September peak to a recent low near $74, before beginning to stabilize.
+Momentum indicators including RSI and MACD are starting to turn higher, and the ETF is attempting to reclaim its 200-week moving average at around $82.
+"No bottom pattern yet, but some potential for a head-and-shoulders base to form as part of a three-wave summer rally to ~$95. Risk is a deeper fifth wave to the $66-63," Ciana said.
+He assessed five key software stocks on whether recent rebounds represent durable bottoms.
+Among the ETF’s top holdings, Oracle stands out as having the clearest technical setup, the analyst highlighted. After a roughly 60% decline from its 2025 peak, the stock has held long-term support near $135 and is showing a potential double bottom, with RSI and MACD both turning constructive.
+A sustained close above $171.76 would confirm the pattern and open the door to a move toward $207–$215, according to Ciana.
+Microsoft, down about 35% from its highs, is showing early signs of an oversold recovery toward $413–$430, though a confirmed bottom has yet to emerge.
+Palantir, meanwhile, is testing a speculative double bottom in the low $120s, with an initial rally to $160–$163 needed to confirm the pattern, though bearish signals from MACD and relative performance linger, Ciana noted.
+Salesforce remains the most challenged of the group, with trend and relative signals still broadly unfavorable despite some early RSI divergence near support at $160.
+Palo Alto Networks is consolidating at key support in the $140s with momentum beginning to improve, pointing to potential upside of $191 if a bottom is confirmed, the analyst said.
+Related articles
+Can the risk-on rally reboot software stocks?
+JPMorgan outlines ten strategic themes that could shape the outlook for 2026
+This sector is 'poised for a big, beautiful year': Truist

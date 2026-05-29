@@ -1,0 +1,31 @@
+Title: D-Wave CEO Warns Nvidia: Quantum Computers Are Coming For You
+Ticker: NVDA
+Published: 2026-04-17T01:31:46
+URL: https://finance.yahoo.com/sectors/technology/articles/d-wave-ceo-warns-nvidia-003146541.html?.tsrc=rss
+
+D-Wave Quantum Inc. CEO Alan Baratz is turning up the heat on Nvidia Corp., arguing that quantum computing is poised to challenge the GPU giant's dominance in artificial intelligence.
+Speaking to Yahoo Finance at the Semafor World Economy Summit, Baratz said: "If I was Nvidia, I'd be shaking in my boots," framing quantum as the next wave of compute power that could eventually undercut traditional AI accelerators.
+His comments come as both companies court investors eager to bet on what comes after today's GPU-driven AI boom.
+Baratz has long argued that D-Wave is moving quantum beyond lab experiments and into commercial use cases, where complex problems can be reframed for its annealing-based systems.
+Don't Miss:
+A single bad hire can set a startup back years. Here are the 5 hires founders most often misjudge — and why
+Still Learning the Market? These 50 Must-Know Terms Can Help You Catch Up Fast
+At the Semafor event, he is positioning quantum computing not as a distant science project, but as a tool that enterprises can begin integrating alongside classical AI today.
+"Those that act now will define the next era of advantage in business and society. We're not waiting for the future—we're building it," Baratz wrote in a social media post on Tuesday.
+I'm honored to join global CEOs and government leaders tomorrow at @semafor World Economy, as we chart the future of the global economy. Quantum computing is now firmly on that agenda. D-Wave brings a unique perspective to the conversation, given we're delivering commercial…
+— Alan Baratz (@Alan_Baratz) April 13, 2026
+That message plays directly to investors in D-Wave, who are betting that early real-world traction can translate into revenue growth and a viable path to profitability.
+Trending: Avoid the #1 Investing Mistake: How Your ‘Safe' Holdings Could Be Costing You Big Time
+Nvidia, for its part, is not building its own quantum processors but is increasingly embedding itself in the quantum stack through software, simulation and error-correction research.
+On Tuesday, also World Quantum Day (4/14), unveiled an Ising family of open-source quantum AI models aimed at accelerating quantum error correction, highlighting how its CUDA and GPU platforms can be used to simulate and stabilize future quantum systems.
+By making these tools freely available, Nvidia is positioning its hardware as the default backbone for quantum researchers and startups, even if it never ships a quantum chip itself.
+See Also: Skip the Regrets: The Essential Retirement Tips Experts Wish Everyone Knew Earlier.
+The split highlights a striking matchup: D-Wave is a pure-play quantum vendor offering direct access to working quantum systems, while Nvidia remains the entrenched giant pushing quantum forward with its classical AI software and GPU firepower.
+Baratz's jab underscores how high the stakes have become, as quantum advocates argue their technology could solve certain optimization and simulation tasks far more efficiently than any GPU cluster.
+For now, the market is still firmly in Nvidia's corner—but if Baratz is right, quantum computers may eventually force even the GPU king to rethink what "accelerated computing" really means.
+Read Next: Thinking about ETFs? See what investment risks you should be aware of before you buy.
+Photo courtesy of D-Wave Quantum, Inc.
+UNLOCKED: 5 NEW TRADES EVERY WEEK. Click now to get top trade ideas daily, plus unlimited access to cutting-edge tools and strategies to gain an edge in the markets.
+Get the latest stock analysis from Benzinga:
+APPLE (AAPL): Free Stock Analysis Report
+TESLA (TSLA): Free Stock Analysis Report

@@ -1,0 +1,20 @@
+Title: Monarch Tractor’s collapse ends with an acquisition by Caterpillar
+Ticker: CAT
+Published: 2026-04-15T22:05:21
+URL: https://finance.yahoo.com/markets/stocks/articles/monarch-tractor-collapse-ends-acquisition-210521230.html?.tsrc=rss
+
+Monarch Tractor’s assets have been acquired by construction giant Caterpillar, after struggling to pivot to a software services business, according to filings with the United States Patent and Trademark Office.
+The acquisition, first reported by Bloomberg, caps a few tough years for Monarch as it went through multiple rounds of layoffs, was sued by three different dealers, and lost a major contract manufacturing partner in Foxconn. It also comes just a few weeks after co-founder and wine scion Carlo Mondavi said he was “pushed out” after disagreeing with CEO Praveen Penmetsa’s software-forward approach.
+What were the main issues with Monarch's autonomous tractors?
+What led to Caterpillar's acquisition of Monarch Tractor?
+How did internal disagreements affect Monarch's leadership team?
+Why did Monarch Tractor struggle with its business model?
+Mondavi couldn’t be immediately reached for comment. Penmetsa declined to comment beyond a statement Monarch issued last week, which said its technology had been acquired by an unspecified “large global equipment manufacturer.” Caterpillar didn’t immediately respond to a request for comment.
+Monarch raised more than $200 million over the last eight years. It was founded in 2018 by Mondavi, Penmetsa, and former Tesla executive Mark Schwager. The goal was to build “driver optional” electric tractors that were also capable of autonomously navigating wineries, fruit farms, and dairy farms.
+While Monarch initially set out to build the small tractors at its own facility in Livermore, California, it eventually became one of four companies that partnered up with Taiwanese electronics giant Foxconn to occupy a former General Motors factory in Lordstown, Ohio.
+Foxconn planned to build vehicles for EV startups Fisker, Lordstown Motors, and IndiEV, as well as the tractors for Monarch. But Foxconn only ever made a few electric trucks for Lordstown Motors (which it bought the factory from) before that company went bankrupt. Fisker and IndiEV also went bankrupt before Foxconn could ever make those companies’ future vehicles at the factory. Foxconn did make a few hundred Monarch tractors at the factory, but the electronics giant sold the plant in August 2025 to SoftBank, leaving Monarch without a manufacturer.
+By that point, Monarch was already struggling. It laid off staff in early 2024 before closing a $133 million funding round. Just a few months later it laid off even more employees and said it was restructuring to focus on software and licensing its autonomous tech.
+Dealers who purchased Monarch tractors have claimed the company’s autonomous tech never worked well in the first place. One dealer who sued Monarch in September 2025 said the tractors were “defective” and “unable to operate autonomously.” (Monarch denied the claims in a court filing.) Two other dealers have since filed similar federal lawsuits against Monarch. In one case, a former defense lawyer for Monarch wrote in a January filing that Monarch entered into an assignment for the benefit of creditors — an alternative to Chapter 7 bankruptcy.
+Mondavi spoke up about his departure last month in a comment on an Instagram post from a farmer who complained about Monarch’s tractors. The wine-maker wrote he “left over a year ago due to fundamental differences in approach” after seeing “reliability issues” with Monarch’s tractors on his farm, and on friends’ farms.
+“I wanted to address them through hardware changes, while the CEO believed they could be solved more through software. I believed strongly in a different path but was ultimately blocked and pushed out alongside another co-founder,” he wrote.
+The company auctioned off most of its remaining tractors earlier this year.

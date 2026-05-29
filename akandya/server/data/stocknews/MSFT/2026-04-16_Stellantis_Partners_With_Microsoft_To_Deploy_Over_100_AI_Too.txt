@@ -1,0 +1,11 @@
+Title: Stellantis Partners With Microsoft To Deploy Over 100 AI Tools
+Ticker: MSFT
+Published: 2026-04-16T20:10:32
+URL: https://finance.yahoo.com/sectors/technology/articles/stellantis-partners-microsoft-deploy-over-191032461.html?.tsrc=rss
+
+This article first appeared on GuruFocus.
+Stellantis (NYSE:STLA) is leaning deeper into artificial intelligence as part of its broader operational reset, announcing a new partnership with Microsoft (MSFT) aimed at embedding AI across both its vehicles and internal systems. The collaboration is expected to span more than 100 tools, targeting areas such as customer support and predictive maintenance, in a move that could reshape how the automaker interacts with drivers while potentially improving reliability across its lineup.
+Warning! GuruFocus has detected 7 Warning Signs with STLA.
+Is STLA fairly valued? Test your thesis with our free DCF calculator.
+A key focus of the initiative is enhancing the in-car experience, where AI-powered systems could deliver more tailored insights to drivers. For example, Peugeot models may begin offering recommendations designed to improve energy efficiency in urban environments, reflecting a push toward smarter, more responsive vehicles. At the same time, Stellantis is also applying AI to strengthen cybersecurity protections, an area that could become increasingly critical as vehicles become more connected and software-driven.
+The effort comes alongside a broader turnaround strategy led by Chairman John Elkann and Chief Executive Officer Antonio Filosa, who have been investing in engineering talent across the US and France to address persistent software-related issues that had previously contributed to delays. In parallel, the company is working to upgrade its customer support capabilities, with Citroen CEO Xavier Chardon signaling earlier this month that service improvements remain a priority as Stellantis looks to stabilize operations and potentially rebuild confidence among customers and investors.

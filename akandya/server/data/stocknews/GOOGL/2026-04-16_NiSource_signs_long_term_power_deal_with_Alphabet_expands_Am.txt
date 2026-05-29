@@ -1,0 +1,19 @@
+Title: NiSource signs long-term power deal with Alphabet, expands Amazon agreement
+Ticker: GOOGL
+Published: 2026-04-16T22:46:13
+URL: https://finance.yahoo.com/sectors/energy/articles/nisource-signs-long-term-power-214613779.html?.tsrc=rss
+
+April 16 (Reuters) - U.S. utility NiSource said on Thursday it had signed a long-term energy supply agreement with a unit ‌of Alphabet to support a large data center in northern ‌Indiana.
+The company also said it had expanded an agreement with Amazon to speed up ​power delivery to its sites and bring forward bill credits for households.
+How will existing customers benefit from these agreements?
+What are the power requirements for these deals?
+Why are lawmakers concerned about data center expansion?
+What is NiSource's GenCo model for data centers?
+• Big Tech firms have been scouring for new, reliable and cleaner energy sources to power their rapidly expanding data centers, which are being driven ‌by the increasing use of ⁠artificial-intelligence applications.
+• GenCo is NiSource's model that supplies power to large customers using dedicated generation and market resources, ⁠while shielding existing customers from added costs and delivering system-wide savings.
+• The GenCo model aims to ensure existing customers benefit from new large users, ​with savings ​estimated at about $1.25 billion, or $90 to $115 ​a year per household.
+• NIPSCO ‌and GenCo will provide generation and transmission infrastructure to serve data centers, with about 340 megawatts from a GenCo-owned portfolio supplemented by up to 175 megawatts of seasonal market purchases.
+• Lawmakers in Maine voted earlier this week for a bill that would halt new large data ‌center approvals as concerns mount that the ​rapid buildout of power-guzzling facilities could strain ​local grids and push ​up household energy bills.
+• "The cost savings announced today expand ‌on the previously announced $1 billion in ​customer savings with ​Amazon as we continue to work closely with a broad coalition of stakeholders to bring this GenCo vision to life," said ​NiSource President and CEO ‌Lloyd Yates.
+• The power supply for Alphabet was expected to ​begin in summer 2026, the company said.
+(Reporting by Varun Sahay ​in Bengaluru; Editing by Pooja Desai)

@@ -1,0 +1,18 @@
+Title: A Shoe Company Rebranded as an AI Firm and the Stock Jumped 630%. One Analyst Says That’s a Bubble Warning
+Ticker: GOOGL
+Published: 2026-04-16T17:59:25
+URL: https://247wallst.com/investing/2026/04/16/a-shoe-company-rebranded-as-an-ai-firm-and-the-stock-jumped-630-one-analyst-says-thats-a-bubble-warning/?.tsrc=rss
+
+A shoe company just announced it was transforming to an AI firm and the stock jumped 630%. If that sentence makes you uneasy, you’re paying attention.
+Allbirds, the struggling footwear brand, rebranded itself “New Bird AI” and announced plans to acquire “high-performance, low-latency AI compute hardware.” The company had no existing AI operations when it made the announcement.
+No AI products. No AI revenue. Just a new name and a press release.
+On the Prof G Markets podcast, analyst Ed Elson called it “quite possibly the dumbest headline we will read all year” and argued it signals that AI expectations have become “untethered from reality.”
+Elson pointed to a comparable situation: Fermi (NASDAQ: FRMI), an AI data center firm that had no real business model, just a PowerPoint and a sales pitch. That stock has since fallen more than 80% and now faces securities fraud lawsuits. The pattern is not new. It rhymes with the dot-com era, when companies added “.com” to their names and watched valuations balloon before collapsing.
+His core argument: “You cannot become something else by simply saying that you’re something else.” A rebrand lacks a business model. A press release is not infrastructure, and a 630% stock move built on neither is a setup for a painful unwind.
+READ: The analyst who called NVIDIA in 2010 just named his top 10 AI stocks
+Elson was deliberate in separating these fraudulent pivots from companies actually building AI businesses. That distinction is worth understanding concretely.
+NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) reported Q4 FY2026 revenue of $68.13 billion, up 73% year over year, with Data Center revenue of $62.31 billion powering the results. Alphabet (NASDAQ:GOOGL) generated $402.84 billion in full-year revenue and is committing $175 to $185 billion in 2026 capital expenditures toward AI infrastructure. Amazon.com (NASDAQ:AMZN) CEO Andy Jassy outlined plans to invest “about $200 billion in capital expenditures across Amazon in 2026,” with AWS posting 24% year-over-year growth in its most recent quarter.
+These are companies with real revenue, real infrastructure, and real AI deployment at scale. A footwear company that announces a name change belongs in a different category entirely.
+The practical question Elson posed is the right one: can you distinguish what is real from what is hype? With the VIX sitting at 18.17 and markets recovering from a spike to 31.05 in late March, investor confidence is rebuilding. That environment tends to reward optimism, including misplaced optimism.
+The filter is simple: find the revenue. Find the product. Find the customers. If those don’t exist, a new name is just a press release.
+Wall Street is pouring billions into AI, but most investors are buying the wrong stocks. The analyst who first identified NVIDIA as a buy back in 2010 — before its 28,000% run — has just pinpointed 10 new AI companies he believes could deliver outsized returns from here. One dominates a $100 billion equipment market. Another is solving the single biggest bottleneck holding back AI data centers. A third is a pure-play on an optical networking market set to quadruple. Most investors haven't heard of half these names. Get the free list of all 10 stocks here.

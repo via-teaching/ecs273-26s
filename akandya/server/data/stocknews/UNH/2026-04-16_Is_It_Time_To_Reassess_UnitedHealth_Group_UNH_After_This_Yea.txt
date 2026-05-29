@@ -1,0 +1,49 @@
+Title: Is It Time To Reassess UnitedHealth Group (UNH) After This Year’s Sharp Share Price Slide
+Ticker: UNH
+Published: 2026-04-16T22:07:34
+URL: https://finance.yahoo.com/markets/stocks/articles/time-reassess-unitedhealth-group-unh-210734123.html?.tsrc=rss
+
+The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St.
+If you are wondering whether UnitedHealth Group at around US$314 per share is attractively priced or still carrying a premium, you are not alone.
+The stock has returned 2.6% over the last 7 days and 10.0% over the last 30 days, although the year to date return is a 6.6% decline and the 1 year return is a 44.8% decline.
+Recent headlines have focused on UnitedHealth Group's role in the wider US healthcare system and ongoing attention on health insurance, cost management and regulatory oversight. This backdrop has kept investors focused on how resilient the business model is and what that might mean for the share price.
+Simply Wall St currently gives UnitedHealth Group a valuation score of 3 out of 6, which sets up a closer look at how different methods such as multiples and discounted cash flow compare, and how a broader view of valuation at the end of this article can provide an even clearer picture.
+Find out why UnitedHealth Group's -44.8% return over the last year is lagging behind its peers.
+A Discounted Cash Flow, or DCF, model projects a company’s future cash flows and then discounts them back to today’s value using a required return, giving an estimate of what the business might be worth per share.
+For UnitedHealth Group, the model used is a 2 stage Free Cash Flow to Equity approach, based on cash flow projections in $. The latest twelve month free cash flow is about $15.8b. Analyst estimates and subsequent extrapolations point to projected free cash flow of $27.8b in 2030, with a series of annual projections between 2026 and 2035 that Simply Wall St discounts back to today using its own assumptions.
+Bringing all those discounted cash flows together produces an estimated intrinsic value of about $816.74 per share. Compared with a current share price around $314, the DCF output suggests the stock trades at a 61.5% discount to this intrinsic value, which indicates that UnitedHealth Group is screened as materially undervalued on this model alone.
+Result: UNDERVALUED
+Our Discounted Cash Flow (DCF) analysis suggests UnitedHealth Group is undervalued by 61.5%. Track this in your watchlist or portfolio, or discover 60 more high quality undervalued stocks.
+Head to the Valuation section of our Company Report for more details on how we arrive at this Fair Value for UnitedHealth Group.
+For profitable companies, the P/E ratio is a useful yardstick because it ties what you pay per share directly to the earnings that support that price. Investors usually look for a P/E that lines up with the company’s growth outlook and perceived risk, with higher growth or lower risk often justifying a higher multiple.
+UnitedHealth Group currently trades on a P/E of 23.6x. That sits above the Healthcare industry average of 22.8x and above the peer average of 20.3x. On these simple comparisons, the shares are priced at a higher earnings multiple than many peers.
+Simply Wall St’s “Fair Ratio” for UnitedHealth Group is 36.3x. This is a proprietary estimate of what the P/E might reasonably be, given factors such as earnings growth profile, profit margins, industry, market capitalization and company specific risks. Because it pulls these elements together in one metric, the Fair Ratio can be more informative than a straight comparison with peer or industry averages, which do not fully reflect differences in growth or risk. With the Fair Ratio above the current 23.6x P/E, this approach suggests the shares are trading below what that earnings based framework would indicate.
+Result: UNDERVALUED
+P/E ratios tell one story, but what if the real opportunity lies elsewhere? Start investing in legacies, not executives. Discover our 19 top founder-led companies.
+Earlier it was mentioned that there is an even better way to understand valuation, so here is Narratives, a way for you to put a clear story behind the numbers you see for UnitedHealth Group.
+A Narrative is simply your view of how a company works, written into the assumptions behind fair value, revenue, earnings and margin estimates, so that the story and the spreadsheet line up instead of sitting apart.
+On Simply Wall St, Narratives are available on the Community page and used by millions of investors as an accessible tool that links a company’s story to a forecast and then to an implied fair value. You can then compare that implied fair value with the current share price to decide whether you see a potential opportunity or risk.
+These Narratives update automatically when new earnings, news or guidance are fed in, so your story and valuation stay current rather than frozen at the time you first ran the numbers.
+For UnitedHealth Group, one investor Narrative might anchor on a fair value around US$198 with more conservative assumptions about Medicare pressure. Another might point to a fair value near US$626 with a more optimistic view on margins and long term earnings. Seeing those side by side helps you decide which story, numbers and risk trade off feel more realistic for you.
+For UnitedHealth Group however we will make it really easy for you with previews of two leading UnitedHealth Group Narratives:
+Start by comparing these against your own view of the business, then decide which set of assumptions feels closer to how you think things play out.
+🐂 UnitedHealth Group Bull Case
+Fair value in this Narrative: US$364.63 per share.
+Current price vs this fair value: around 13.8% below that estimate of fair value.
+Revenue growth assumption: 2.78% a year.
+Analysts building this Narrative see UnitedHealth Group working through Medicare and CMS related challenges over time, with technology investment and value based care programs intended to support a gradual earnings recovery.
+The view assumes revenue growing to an expected US$501.1b and earnings of US$20.0b by around 2028, with a P/E of 17.0x on those earnings and slightly lower profit margins than today.
+This Narrative aligns with a consensus price target of US$327.29, with a wide range of views between US$198.00 and US$626.00 that reflects disagreement on how quickly earnings and margins might settle.
+🐻 UnitedHealth Group Bear Case
+Fair value in this Narrative: US$308.35 per share.
+Current price vs this fair value: around 1.9% above that estimate of fair value.
+Revenue growth assumption: 4.23% a year.
+This Narrative focuses on UnitedHealth Group as a large, integrated healthcare platform where scale, data and Optum integration matter, but where the share price can be sensitive to regulatory pressure and questions over how that integration affects competition.
+The author highlights that while diversification across insurance, pharmacy, analytics and care delivery provides resilience, it also attracts regulatory and political attention that could weigh on valuation if sentiment or policy turns less friendly.
+Here the emphasis is on the risk of valuation multiples compressing if growth at Optum slows or if investors become more cautious about margins, even if the underlying business model remains embedded in the US healthcare system.
+If you want to go deeper than these snapshots, you can review the full community narratives, compare the assumptions behind each storyline and test them against your own expectations for regulation, margins and earnings over the next few years. To see how these results tie into long-term growth, risks, and valuation, check out the full range of community narratives for UnitedHealth Group on Simply Wall St. Add the company to your watchlist or portfolio so you'll be alerted when the story evolves.
+Do you think there's more to the story for UnitedHealth Group? Head over to our Community to see what others are saying!
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include UNH.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com

@@ -1,0 +1,27 @@
+Title: Broadcom (AVGO) Is Up 13.1% After Expanded Meta AI Chip Partnership - What's Changed
+Ticker: META
+Published: 2026-04-16T20:03:47
+URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-13-1-expanded-190347442.html?.tsrc=rss
+
+Earlier this week, Meta Platforms announced an expanded multi-year, multi-generation partnership with Broadcom to co-develop custom MTIA AI accelerator chips and Ethernet networking that will underpin Meta’s rapidly growing AI data centers through at least 2029.
+The scale of the agreement, including an initial commitment of over one gigawatt of custom compute capacity, underscores how deeply Broadcom is embedding itself in the AI infrastructure roadmaps of the largest platforms.
+We’ll now examine how Broadcom’s expanded role in Meta’s custom MTIA roadmap could reshape the company’s AI-led investment narrative.
+Capitalize on the AI infrastructure supercycle with our selection of the 38 best 'picks and shovels' of the AI gold rush converting record-breaking demand into massive cash flow.
+To own Broadcom, you need to believe its AI-centric model, anchored in custom XPUs and Ethernet for hyperscalers, can offset cyclicality and customer concentration. The expanded Meta deal reinforces the AI backlog story in the near term, but it also heightens the key risk that a small group of customers drives a very large share of AI revenue, leaving Broadcom more exposed if any of them change course.
+The Meta MTIA partnership through 2029 stands out because it directly touches Broadcom’s most important catalyst: multi-year AI infrastructure buildouts across a handful of hyperscalers. Together with the long-term TPU and networking agreement with Google and Anthropic, it illustrates how Broadcom’s AI chips and Ethernet increasingly sit at the center of very large, multi-gigawatt data center projects that underpin its record US$110,000,000,000 backlog.
+Yet while the AI story looks powerful, investors should be aware that customer concentration and shifting hyperscaler roadmaps could...
+Read the full narrative on Broadcom (it's free!)
+Broadcom's narrative projects $119.6 billion revenue and $50.8 billion earnings by 2028. This requires 25.9% yearly revenue growth and a $32.0 billion earnings increase from $18.8 billion today.
+Uncover how Broadcom's forecasts yield a $472.01 fair value, a 19% upside to its current price.
+Some of the most optimistic analysts already projected Broadcom’s earnings could reach about US$137.6 billion by 2029, and the Meta news may either reinforce that bullish AI thesis or highlight how dependent that upside is on a few hyperscale customers, so it is worth comparing these views against more cautious scenarios before deciding what you believe.
+Explore 34 other fair value estimates on Broadcom - why the stock might be worth as much as 38% more than the current price!
+Disagree with existing narratives? Extraordinary investment returns rarely come from following the herd, so go with your instincts.
+A great starting point for your Broadcom research is our analysis highlighting 2 key rewards and 2 important warning signs that could impact your investment decision.
+Our free Broadcom research report provides a comprehensive fundamental analysis summarized in a single visual - the Snowflake - making it easy to evaluate Broadcom's overall financial health at a glance.
+These stocks are moving-our analysis flagged them today. Act fast before the price catches up:
+Explore 25 top quantum computing companies leading the revolution in next-gen technology and shaping the future with breakthroughs in quantum algorithms, superconducting qubits, and cutting-edge research.
+The future of work is here. Discover the 34 top robotics and automation stocks leading the charge in AI-driven automation and industrial transformation.
+We've uncovered the 11 dividend fortresses yielding 5%+ that don't just survive market storms, but thrive in them.
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.
+Companies discussed in this article include AVGO.
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com

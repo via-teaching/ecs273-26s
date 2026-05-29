@@ -1,0 +1,18 @@
+Title: Ciena stock gains as BofA sees a ’significant cloud growth opportunity ahead’
+Ticker: BAC
+Published: 2026-04-16T16:14:46
+URL: https://finance.yahoo.com/markets/stocks/articles/ciena-stock-gains-bofa-sees-151446696.html?.tsrc=rss
+
+Investing.com -- Ciena Corporation shares are trading around 1.1% higher on Thursday after Bank of America raised its price target on the stock to $550 from $355, reiterating a Buy rating on the optical networking specialist.
+The bank sees the company at the center of a structural boom in AI-driven infrastructure spending.
+Analyst Tal Liani describes Ciena as sitting at "the heart of an optical super-cycle that is expected to continue well into 2027," driven by surging bandwidth demands across both AI and non-AI data centers.
+The bank sees "no signs of slowdown in the demand environment," pointing to a $2 billion backlog increase last quarter to $7 billion in total, alongside hyperscaler capital expenditure forecast to grow 65% year-on-year in 2026, following a record 70% expansion in 2025.
+BofA has lifted its revenue growth estimates for Ciena to 28.5%, 21%, and 20% over the next three years, up from prior projections of 27.9%, 18%, and 16.5%, respectively.
+The raised price target is now based on a 62x CY27 price-to-earnings multiple, reflecting what the bank calls Ciena's "strong position for scale-across interconnect networks" and longer-term optical deployment opportunities.
+Within AI networking, BofA ranks Ciena among "the more attractive growth prospects," forecasting its share of 800G ZR pluggables will rise from roughly 30% in 2025 to at least 50% in 2026, even as that market grows tenfold.
+The stock has already surged almost 100% year-to-date, though BofA notes it is currently trading on growth momentum rather than a traditional profit multiple.
+Overall, the bank sees a “significant cloud growth opportunity ahead” for the company.
+Related articles
+Ciena stock gains as BofA sees a ’significant cloud growth opportunity ahead’
+Nvidia's new Alpamayo project: What it means for Tesla?
+This sector is 'poised for a big, beautiful year': Truist

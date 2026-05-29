@@ -1,0 +1,23 @@
+Title: Google, CoreWeave Fuel AI Funding Frenzy With $6.7 Billion Bonds
+Ticker: GOOGL
+Published: 2026-04-16T22:38:54
+URL: https://finance.yahoo.com/sectors/technology/articles/google-coreweave-fuel-ai-funding-213854813.html?.tsrc=rss
+
+(Bloomberg) -- There’s no stopping the artificial intelligence financing boom, with a record deal involving Google-backed data centers and an add-on sale by cloud infrastructure firm CoreWeave Inc. raising a combined $6.7 billion in new junk debt.
+The Google-linked deal — a $5.7 billion offering led by Morgan Stanley — priced on Thursday after receiving $19 billion of investor orders, according to people with knowledge of the matter.
+The transaction will fund the construction of two data centers on a campus in Sullivan County, Indiana, that will be leased to cloud-computer startup Fluidstack Ltd. and backstopped by Alphabet Inc.’s Google, the people said, asking not to be named because they’re not authorized to speak publicly.
+Meanwhile, cloud infrastructure firm CoreWeave sold an additional $1 billion of 2031 bonds only a week after the original offering — seizing on strong investor demand that’s largely held up for AI deals as the Middle East war derailed borrowing plans by other companies.
+CoreWeave Taps US Junk-Debt Market Again With Bond Reopening (1)
+The rapid expansion of AI has created an unprecedented shortage of data-center space, graphics-processing unit chips and quick access to electricity to power it all. To fund all of that, companies are tapping every corner of the debt markets from junk bonds to project finance.
+Wall Street successfully secured tens of billions of dollars in funding in recent weeks, even as the war led some borrowers to pause debt sales. As optimism about a longer-term peace deal rises, borrowing costs have eased broadly for companies of all types — bringing with it a revival in issuance.
+A joint venture known as Meridian Arc HoldCo LLC, created by entities owned by Next Frontier LLC and Fluidstack, sold the new five-year notes for the Indiana data centers. The $5.7 billion bond is the largest US dollar high-yield bond sale tied to AI as well as the biggest to be led by just one Wall Street institution, according to Bloomberg-compiled data.
+It wrapped up just one day after official marketing began. It priced at par to yield 6.25%, at the tight end of price talk, one of the people said.
+The size beat Morgan Stanley’s own record for the biggest ever sole-led high-yield bond offering, which it nabbed last year for cryptocurrency miner TeraWulf Inc.’s $3.2 billion bond sale. That deal that was also backstopped by Google.
+A representative for Morgan Stanley declined to comment on the deal, while Google and Fluidstack didn’t respond to requests for comment.
+Click here for Bloomberg’s AI Infrastructure Debt Monitor
+Fluidstack helps develop data centers through building and operating high-performance computing infrastructure, an area of business that is booming amid the rise of artificial intelligence. The firm recently announced a $50 billion deal with Anthropic to build custom data centers for the large language model maker.
+In August, Fluidstack chose to expand its use of a TeraWulf-operated data center in New York. Around the same time Google increased its backstop for Terawulf to $3.2 billion to support debt financing. The technology giant also boosted its pro-forma equity stake in TeraWulf to around 14%.
+--With assistance from Kevin Kingsbury.
+(Updates with pricing details throughout)
+More stories like this are available on bloomberg.com
+©2026 Bloomberg L.P.

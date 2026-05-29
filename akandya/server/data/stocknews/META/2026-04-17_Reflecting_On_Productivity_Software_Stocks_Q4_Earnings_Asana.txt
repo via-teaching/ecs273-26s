@@ -1,0 +1,38 @@
+Title: Reflecting On Productivity Software Stocks’ Q4 Earnings: Asana (NYSE:ASAN)
+Ticker: META
+Published: 2026-04-17T02:06:27
+URL: https://finance.yahoo.com/markets/stocks/articles/reflecting-productivity-software-stocks-q4-010627965.html?.tsrc=rss
+
+Looking back on productivity software stocks’ Q4 earnings, we examine this quarter’s best and worst performers, including Asana (NYSE:ASAN) and its peers.
+Rising employee costs and the shift to more remote work has increased the ever-present pressure to improve corporate productivity, which in turn has driven rising demand for productivity software that enables remote work, streamline project management and automate business tasks.
+What drove the strong Q4 results for productivity software companies?
+How did Asana perform compared to other productivity software stocks?
+What factors are influencing the productivity software market outlook?
+Why are productivity software stock prices declining despite earnings beats?
+The 16 productivity software stocks we track reported a strong Q4. As a group, revenues beat analysts’ consensus estimates by 1.9% while next quarter’s revenue guidance was in line.
+Amidst this news, share prices of the companies have had a rough stretch. On average, they are down 7.9% since the latest earnings results.
+Born from the founders' frustration with the inefficiencies of email-based collaboration at Facebook, Asana (NYSE:ASAN) provides a work management platform that helps organizations track projects, set goals, and manage workflows in a centralized digital workspace.
+Asana reported revenues of $205.6 million, up 9.2% year on year. This print was in line with analysts’ expectations, and overall, it was a strong quarter for the company with a solid beat of analysts’ EBITDA estimates and EPS guidance for next quarter exceeding analysts’ expectations.
+“FY26 was a year of meaningful progress as we advanced Asana into a multi-product platform and strengthened our position as the foundational system of action layer for the Agentic Enterprise,” said Dan Rogers, Chief Executive Officer of Asana.
+Asana delivered the weakest performance against analyst estimates of the whole group. The company added 515 enterprise customers paying more than $5,000 annually to reach a total of 25,928. Unsurprisingly, the stock is down 16.1% since reporting and currently trades at $6.12.
+Is now the time to buy Asana? Access our full analysis of the earnings results here, it’s free.
+Powering billions of transactions daily since its founding in 1999, Appian (NASDAQ:APPN) provides a low-code platform that helps businesses automate complex processes and operationalize artificial intelligence without extensive programming knowledge.
+Appian reported revenues of $202.9 million, up 21.7% year on year, outperforming analysts’ expectations by 7.2%. The business had an exceptional quarter with an impressive beat of analysts’ billings estimates and EBITDA guidance for next quarter exceeding analysts’ expectations.
+Appian scored the biggest analyst estimates beat among its peers. Although it had a fine quarter compared its peers, the market seems unhappy with the results as the stock is down 11.1% since reporting. It currently trades at $21.39.
+Is now the time to buy Appian? Access our full analysis of the earnings results here, it’s free.
+With its colorful interface of boards, columns, and automation that replaced the chaos of spreadsheets, monday.com (NASDAQ:MNDY) is a cloud-based work operating system that helps teams manage projects, track tasks, and streamline workflows through customizable interfaces.
+monday.com reported revenues of $333.9 million, up 24.6% year on year, exceeding analysts’ expectations by 1.3%. Still, it was a slower quarter as it posted full-year revenue guidance slightly missing analysts’ expectations and revenue guidance for next quarter slightly missing analysts’ expectations.
+As expected, the stock is down 32.3% since the results and currently trades at $66.37.
+Read our full analysis of monday.com’s results here.
+Built on a single code base that processes more than 80 billion workflows and 6.5 trillion transactions annually, ServiceNow (NYSE:NOW) provides a cloud-based platform that helps organizations automate and digitize workflows across departments, from IT and HR to customer service and security.
+ServiceNow reported revenues of $3.57 billion, up 20.7% year on year. This result beat analysts’ expectations by 1%. Overall, it was a very strong quarter as it also logged an impressive beat of analysts’ EBITDA estimates and a narrow beat of analysts’ annual recurring revenue estimates.
+The stock is down 26.4% since reporting and currently trades at $95.40.
+Read our full, actionable report on ServiceNow here, it’s free.
+Originally named after the founders' tendency to "drop" files into a shared folder, Dropbox (NASDAQ:DBX) provides a content collaboration platform that helps individuals and teams store, organize, share, and work on files from anywhere.
+Dropbox reported revenues of $636.2 million, down 1.1% year on year. This print topped analysts’ expectations by 1.1%. It was a strong quarter as it also produced accelerating customer growth and a solid beat of analysts’ EBITDA estimates.
+Dropbox had the slowest revenue growth among its peers. The company added 10,000 customers to reach a total of 18.08 million. The stock is down 3.7% since reporting and currently trades at $23.82.
+Read our full, actionable report on Dropbox here, it’s free.
+Late in 2025 into early 2026, there was hand wringing around artificial intelligence. For software companies, the fear was that AI would erode pricing power and compress margins as new tools made it easier to replicate what once required expensive enterprise platforms. Crypto investors had their own version of the same anxiety: if AI agents could trade, allocate capital, and manage wallets autonomously, what exactly was the long-term value of today’s crypto infrastructure?
+These concerns triggered a noticeable rotation away from these sectors and into safer havens. But markets rarely dwell on one narrative for long. Spring 2026 came, and the focus shifted abruptly from technological disruption to geopolitical risk. The US’ conflict with Iran became the dominant driver of market psychology, and when geopolitics takes center stage, the script changes quickly. Investors stop debating growth rates and start worrying about oil supply, inflation, and global stability.
+Want to invest in winners with rock-solid fundamentals? Check out our Top 5 Growth Stocks and add them to your watchlist. These companies are poised for growth regardless of the political or macroeconomic climate.
+StockStory’s analyst team — all seasoned professional investors — uses quantitative analysis and automation to deliver market-beating insights faster and with higher quality.
