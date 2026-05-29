@@ -13,8 +13,7 @@ The dashboard includes a stock price line chart, t-SNE scatter plot, stock news 
 ## Project Structure
 
 ```txt
-Homework4/
-└── akandya/
+akandya/
     ├── client/
     └── server/
         ├── data/
