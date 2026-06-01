@@ -1,66 +1,64 @@
-from typing import Optional, List, Annotated
+from typing import Optional
 from pydantic import BaseModel
-from pydantic.functional_validators import BeforeValidator
-from bson import ObjectId
 
-# Represents an ObjectId field in the database.
-# It will be represented as a `str` on the model so that it can be serialized to JSON.
+# Represents MongoDB ObjectId as a string for JSON serialization.
+PyObjectId = str
 
-PyObjectId = Annotated[str, BeforeValidator(str)]
 
 class StockListModel(BaseModel):
     """
-    Model for stock list
+    Model for a list of available stock tickers.
     """
-    _id: PyObjectId
+    _id: Optional[PyObjectId] = None
     tickers: list[str]
 
-class StockModelV1(BaseModel):
-    """
-    Model for stock data values
-    """
-    _id: PyObjectId
-    name: str
-    date: list[str]
-    Open: list[float]
-    High: list[float]
-    Low: list[float]
-    Close: list[float]
-    
+
 class StockModelUnit(BaseModel):
     """
-    Model for stock data values
+    Model for one stock price record.
     """
-    date: str
+    Date: str
     Open: float
     High: float
     Low: float
     Close: float
-    
+
+
 class StockModelV2(BaseModel):
     """
-    Model for stock data values
+    Model for stock time-series data stored as an array of records.
     """
-    _id: PyObjectId
+    _id: Optional[PyObjectId] = None
     name: str
     stock_series: list[StockModelUnit]
-    
+
+
 class StockNewsModel(BaseModel):
-    _id: PyObjectId
+    """
+    Model for one stock news article.
+    """
+    _id: Optional[PyObjectId] = None
     Stock: str
     Title: str
-    Date: str  
+    Date: str
     content: str
-    
+
+
 class StockNewsModelList(BaseModel):
+    """
+    Model for all news articles associated with one stock.
+    """
     Stock: str
     News: list[StockNewsModel]
 
-class tsneDataModel(BaseModel):
+
+class TsneDataModel(BaseModel):
     """
-    Model for t-SNE data
+    Model for one t-SNE point.
+    Each row represents one stock.
     """
-    _id: PyObjectId
+    _id: Optional[PyObjectId] = None
     Stock: str
     x: float
     y: float
+    sector: str
