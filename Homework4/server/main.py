@@ -1,21 +1,24 @@
-from fastapi import FastAPI
-from pydantic.functional_validators import BeforeValidator
+from fastapi import FastAPI, HTTPException
 from motor.motor_asyncio import AsyncIOMotorClient
-
 from fastapi.middleware.cors import CORSMiddleware
 
-from data_scheme import StockListModel, StockModelV1, StockModelV2, StockNewsModel, tsneDataModel
-
-# MongoDB connection (localhost, default port)
-client = AsyncIOMotorClient("mongodb://localhost:27017")
-db = client.stock_madhu # please replace the database name with stock_[your name] to avoid collision at TA's side
-            
-app = FastAPI(
-    title="Stock tracking API",
-    summary="An aplication tracking stock prices and respective news"
+from data_scheme import (
+    StockListModel,
+    StockModelV2,
+    StockNewsModel,
+    TsneDataModel,
 )
 
-# Enables CORS to allow frontend apps to make requests to this backend
+client = AsyncIOMotorClient("mongodb://localhost:27017")
+
+# IMPORTANT: match this with import_data.py
+db = client.stock_msreza
+
+app = FastAPI(
+    title="Stock Tracking API",
+    summary="An application tracking stock prices, stock news, and t-SNE projections",
+)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -24,43 +27,88 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/stock_list", 
-         response_model=StockListModel
-    )
+
+@app.get("/stock_list", response_model=StockListModel)
 async def get_stock_list():
     """
-    Get the list of stocks from the database
+    Get the list of available stock tickers.
     """
-    stock_name_collection = db.get_collection("stock_list")
-    stock_list = await stock_name_collection.find_one()
+    collection = db.get_collection("stock_list")
+    stock_list = await collection.find_one({}, {"_id": 0})
+
+    if stock_list is None:
+        raise HTTPException(status_code=404, detail="Stock list not found")
+
     return stock_list
 
-@app.get("/stocknews/", 
-        response_model=StockNewsModel
-    )
-async def get_stock_news(stock_name: str = 'XOM') -> StockNewsModel:
-    """
-    Get the list of news for a specific stock from the database
-    The news is sorted by date in ascending order
-    """
-    return [] # replace with your code to get the news from the database
 
-@app.get("/stock/{stock_name}", 
-        response_model=StockModelV2
-    )
-async def get_stock() -> StockModelV2:
+@app.get("/stock/{stock_name}", response_model=StockModelV2)
+async def get_stock(stock_name: str):
     """
-    Get the stock data for a specific stock
-    Parameters:
-    - stock_name: The name of the stock
+    Get time-series price data for one stock.
     """
-    return [] # replace with your code to get the news from the database
+    collection = db.get_collection("stock_prices")
 
-@app.get("/tsne/",
-        response_model=tsneDataModel
+    stock = await collection.find_one(
+        {"name": stock_name.upper()},
+        {"_id": 0}
     )
-async def get_tsne(stock_name: str = 'XOM') -> tsneDataModel:
+
+    if stock is None:
+        raise HTTPException(status_code=404, detail="Stock not found")
+
+    return stock
+
+
+@app.get("/stocknews/{stock_name}", response_model=list[StockNewsModel])
+async def get_stock_news(stock_name: str):
     """
-    Get the t-SNE data for a specific stock
+    Get all news articles for one stock.
     """
-    return [] # replace with your code to get the news from the database
+    collection = db.get_collection("stock_news")
+
+    cursor = collection.find(
+        {"Stock": stock_name.upper()},
+        {"_id": 0}
+    ).sort("Date", -1)
+
+    news = await cursor.to_list(length=None)
+
+    if len(news) == 0:
+        raise HTTPException(status_code=404, detail="No news found for this stock")
+
+    return news
+
+
+@app.get("/tsne", response_model=list[TsneDataModel])
+async def get_all_tsne():
+    """
+    Get all t-SNE projection data.
+    """
+    collection = db.get_collection("tsne_data")
+
+    cursor = collection.find({}, {"_id": 0})
+    tsne_data = await cursor.to_list(length=None)
+
+    if len(tsne_data) == 0:
+        raise HTTPException(status_code=404, detail="No t-SNE data found")
+
+    return tsne_data
+
+
+@app.get("/tsne/{stock_name}", response_model=TsneDataModel)
+async def get_tsne_for_stock(stock_name: str):
+    """
+    Get t-SNE projection data for one stock.
+    """
+    collection = db.get_collection("tsne_data")
+
+    point = await collection.find_one(
+        {"Stock": stock_name.upper()},
+        {"_id": 0}
+    )
+
+    if point is None:
+        raise HTTPException(status_code=404, detail="t-SNE point not found")
+
+    return point
