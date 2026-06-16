@@ -1,0 +1,76 @@
+Title: Akamai Technologies Q1 Earnings Call Highlights
+Date: 2026-05-07 22:39
+URL: https://www.marketbeat.com/instant-alerts/akamai-technologies-q1-earnings-call-highlights-2026-05-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+
+Akamai Technologies NASDAQ: AKAM opened 2026 with first-quarter results that highlighted faster growth in cloud infrastructure services and continued demand for its security portfolio, alongside a major new long-term customer commitment tied to AI infrastructure.
+
+
+Chief Executive Officer Tom Leighton said the company has reached “a definitive turning point” in its cloud computing strategy, positioning Akamai’s distributed platform as infrastructure for the “AI-driven economy.” Leighton highlighted milestones announced at NVIDIA’s GTC event in March, including what he described as the “industry’s first global scale implementation of NVIDIA’s AI Grid” and the planned rollout of “thousands of NVIDIA RTX PRO 6000 GPUs.”
+
+Leighton said Akamai aims to move AI infrastructure “beyond isolated AI factories toward a unified distributed grid for AI inference,” pushing inference closer to end users to reduce latency and cost.
+
+The company also announced what Leighton called a “landmark seven-year, $1.8 billion commitment” for Cloud Infrastructure Services (CIS) from a “leading frontier model company.” Leighton said the agreement is the largest customer deal in Akamai’s history and follows a $200 million CIS deal announced in February with a major U.S. tech company. He declined to provide additional specifics about the new $1.8 billion deal during Q&A, citing confidentiality.
+
+
+Chief Financial Officer Ed McGowan reported first-quarter revenue of $1.074 billion, up 6% year-over-year as reported and 4% in constant currency.
+
+McGowan said the delivery decline was “in line with expectations,” driven by the “wraparound impact of the Edgio transaction in 2025,” and he expects the rate of decline to moderate through the rest of the year.
+
+International revenue was $530 million, up 9% year-over-year as reported (up 5% constant currency), representing 49% of total revenue. McGowan said foreign exchange provided a $19 million year-over-year benefit to revenue.
+
+
+Leighton said security performance in the quarter was driven by demand for Web Application Firewall (WAF), API Security, and Guardicore Segmentation. He argued that frontier models are changing vulnerability management and that attackers will increasingly use advanced AI to find vulnerabilities, launch zero-day attacks, and create “enormous bot armies.”
+
+As one example, Leighton said Akamai neutralized a series of application-layer attacks “with millions of malicious requests per second from millions of widely distributed IPs.” He said Akamai’s platform scale provides an advantage, noting that its WAF runs in “4,300 locations across 700 cities” to intercept attack traffic close to where it enters the internet.
+
+On the call, Leighton said he has not “ever seen the CISOs more agitated and feeling more of a sense of urgency than they are now,” adding that many organizations are “scrambling” to ensure applications, agents, and APIs are protected.
+
+Management also cited several security customer expansions and renewals during the quarter, including a $24 million contract expansion with a major U.S. retailer after bot protection during the holiday season, an $80 million expansion over two years with a large video game company, and an expansion of more than $20 million with a consumer electronics company in Korea.
+
+
+McGowan reported non-GAAP net income of $239 million, or $1.61 per diluted share, down 5% year-over-year. He attributed the year-over-year decline to “expanded colocation investments, higher depreciation, and increased headcount costs,” tied to CIS investment. Non-GAAP operating margin was 26%.
+
+Capital expenditures were $206 million, or 19% of revenue, coming in slightly below guidance due to timing and favorable pricing. McGowan said some spending shifted into Q2 and component costs were lower than expected.
+
+On capital returns, McGowan said Akamai repurchased about 2 million shares for approximately $206 million in Q1 and ended the quarter with about $975 million remaining under its repurchase authorization. The company had $1.7 billion of cash, equivalents, and marketable securities as of March 31.
+
+
+For Q2, McGowan guided revenue to $1.075 billion to $1.1 billion, representing 3% to 5% growth year-over-year as reported and in constant currency. He projected cash gross margin of 70% to 71%, noting margin pressure from “the significant increase in co-location” as CIS accelerates.
+
+For Q2, the company guided non-GAAP EPS of $1.45 to $1.65, with non-GAAP operating margin of about 25% to 26%. CapEx is expected to rise sharply to $433 million to $453 million (40% to 41% of revenue), driven by GPU deliveries and catch-up spending from Q1.
+
+For the full year 2026, Akamai forecast revenue of $4.445 billion to $4.55 billion, up 6% to 8% as reported (up 5% to 8% constant currency). McGowan raised the CIS outlook to “at least 50% year-over-year growth in constant currency,” while reiterating expectations for security growth in the high single digits (constant currency) and delivery/other cloud apps declining in the mid-single digits.
+
+The company guided full-year non-GAAP EPS of $6.40 to $7.15, with a non-GAAP operating margin of approximately 26%.
+
+McGowan said revenue from the $1.8 billion customer commitment is expected to begin ramping in Q4, contributing about $20 million to $25 million in Q4 revenue. To support the deal, Akamai expects to spend approximately $800 million to $825 million of CapEx over the next 12 months, with about $700 million deployed in the second half of 2026 and the remainder in the first half of 2027. He also said the company has prepared its supply chain and expects to receive the goods needed to deliver the service over seven years “within the next 12 months,” with contractual mechanisms addressing potential pricing changes.
+
+McGowan added that the company’s GPU pipeline “significantly exceeds” current and projected inventory, and Akamai may place additional GPU orders in the second half of the year—potential incremental spending not included in the current annual CapEx outlook.
+
+Looking further out, McGowan said the company now expects “total company annual top-line revenue growth to reach double digits in 2027,” citing the $1.8 billion commitment, the previously announced $200 million CIS deal, and what he described as a rapidly accelerating pipeline.
+Akamai Technologies, Inc is a leading provider of content delivery network (CDN) services and cloud security solutions designed to optimize and safeguard digital experiences. Leveraging a globally distributed platform, the company accelerates web and mobile content delivery for enterprises, media companies, e-commerce platforms and government agencies. Its edge computing architecture brings processing power closer to end users, reducing latency and improving application performance across geographies.
+
+
+The company's core offerings include content acceleration, web and mobile performance optimization, media delivery, and a suite of cybersecurity solutions that protect against DDoS attacks, application-layer threats and bot-driven fraud.
+This instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.
+Before you consider Akamai Technologies, you'll want to hear this.
+MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis. MarketBeat has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and Akamai Technologies wasn't on the list.
+While Akamai Technologies currently has a Hold rating among analysts, top-rated analysts believe these five stocks are better buys.
+View The Five Stocks Here 
+The space race is growing fast, and you don’t have to wait for SpaceX to go public to invest. This report shows seven space stocks you can buy today that may grow as rockets, satellites, defense, space internet, and new space technology become more important.
+Sign up for MarketBeat All Access to gain access to MarketBeat's full suite of research tools.
+Featured By
+
+                                        345 N Reid Place, Suite 620, Sioux Falls, SD 57103
+                                        
+                                        contact@marketbeat.com
+                                        
+                                        (844) 978-6257
+                                    
+© MarketBeat Media, LLC 2010-2026. All rights reserved.
+
+                                © 2026   Fair market value prices are updated every minute and are provided by Massive. Other market data provided is at least 10-minutes delayed and hosted by Barchart Solutions.  Information is provided 'as-is' and solely for informational purposes, not for trading purposes or advice, and is delayed. To see all exchange delays and terms of use please see Barchart's disclaimer. 
+
+My Account - 
+
+We and our partners share information on your use of this website to help improve your experience. For more information, or to opt out click the Do Not Sell My Information button below.

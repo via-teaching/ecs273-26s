@@ -1,12 +1,11 @@
-# ECS273 Homework templates
+# About the Project
+This repository holds code for two different projects. One project is called "Homework 3", and the other project is called "Homework 4". Homework 4 builds off of the work done in Homework 3, but has its own copy of all relevant files.
 
-In this repository, you will find the templates for your homework assignments.
-Please refer to the instructions provided on Canvas and the linked Google Docs for detailed requirements and submission guidelines.
+Information about the purpose of each project, as well as setup and startup guides, are in the README files located in the top level of each folder (`Homework3/README.md` and `Homework4/README.md`).
 
-To clone this repository, please run:
+# Original Repository
+This repository was created as a homework assignment for UC Davis Spring 2026 ECS 273 class. It is a fork of [this repository](https://github.com/via-teaching/ecs273-26s/tree/main) that can be cloned below:
 
 ```
 git clone git@github.com:via-teaching/ecs273-26s.git
 ```
-
-Switch to the respective Homework directory for more information.

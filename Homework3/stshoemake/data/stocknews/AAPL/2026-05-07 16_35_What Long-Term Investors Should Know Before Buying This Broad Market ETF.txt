@@ -1,0 +1,22 @@
+Title: What Long-Term Investors Should Know Before Buying This Broad Market ETF
+Date: 2026-05-07 16:35
+URL: https://www.fool.com/investing/2026/05/07/what-investors-should-know-buying-vti-etf/?.tsrc=rss
+
+Just because a fund holds hundreds or even thousands of stocks doesn't mean it's diversified.
+The Vanguard Total Stock Market ETF (VTI 0.48%) owns roughly 3,500 U.S. stocks. That sounds like strong diversification for a single fund. It isn't.
+The problem exists with the top-heavy concentration at the top of the portfolio. The fund's top three holdings are Nvidia, Apple, and Microsoft. Combined, they account for 17% of the fund's assets. Top-10 holdings account for 32%. That's a lot of influence from just a handful of stocks. 
+Image source: Getty Images.
+This is a consistent problem that occurs in almost any exchange-traded fund (ETF) that weights its holdings by market cap. In any S&P 500 fund, such as the Vanguard S&P 500 ETF, between 30% and 40% of the portfolio is in less than a dozen stocks.
+It gets worse in sector funds. The VanEck Semiconductor ETF has nearly 50% of its portfolio in just five stocks: Nvidia, Taiwan Semiconductor Manufacturing, Broadcom, Intel, and Advanced Micro Devices.  The State Street Energy Select SPDR ETF has 39% of its portfolio in just two stocks: ExxonMobil and Chevron. 
+True diversification doesn't come from the number of stocks in a portfolio. It depends on the weights of those components and how much idiosyncratic risk a fund exposes its shareholders to. If you're investing in a total market fund, odds are you're making a larger bet on fewer stocks. It's best to understand this before you dive in.
+David Dierking has positions in Apple and Vanguard Total Stock Market ETF. The Motley Fool has positions in and recommends Advanced Micro Devices, Apple, Broadcom, Chevron, Intel, Microsoft, Nvidia, Taiwan Semiconductor Manufacturing, and Vanguard S&P 500 ETF. The Motley Fool has a disclosure policy.
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

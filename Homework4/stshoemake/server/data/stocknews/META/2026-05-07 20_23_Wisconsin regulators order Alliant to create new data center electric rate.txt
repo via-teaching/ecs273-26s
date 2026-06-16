@@ -1,0 +1,34 @@
+Title: Wisconsin regulators order Alliant to create new data center electric rate
+Date: 2026-05-07 20:23
+URL: https://www.jsonline.com/story/money/business/energy/2026/05/07/wisconsin-orders-alliant-to-create-new-data-center-electric-rate/89976243007/?.tsrc=rss
+
+State regulators approved Alliant Energy's proposal to power a hyperscale data center in Beaver Dam, but the utility must set a standard electric rate for all large data center customers.
+The three-member Public Service Commission approved a modified private contract agreement between the Madison-based utility and Meta to power the tech giant's 220-megawatt data center campus in Beaver Dam. Commissioners made changes to protect existing Alliant customers from energy costs related to the project.
+"Alliant Energy appreciates the Public Service Commission of Wisconsin’s review and decision regarding our contract with the Beaver Dam data center, which is structured to ensure large load customers pay the full cost of the infrastructure and energy required to serve them, not existing customers," the utility said in a statement following the decision.
+In April, the commission approved a heavily modified proposal by We Energies to create a standard electric rate for large data centers within its service territory. Unlike We Energies' plan, Alliant's agreement applies only to the Beaver Dam project. Future data centers would require their own rate agreements.
+The utility is in talks to bring a dozen additional data center projects in its service territory, commissioners noted during the May 7 meeting. That includes the Dane County suburbs, southwest Wisconsin and much of Iowa.
+The commission ordered Alliant to create a standard rate for all large data centers before another one seeks service. The rate would apply to projects that use at least 100 megawatts of power.
+"A clear public tariff would create consistent, transparent rates and rules for future data centers, instead of handling each one through separate confidential negotiations," said Commissioner Kristy Nieto.
+The Citizens Utility Board of Wisconsin, an intervenor in the case on behalf of consumers, lauded the commission's decision as a "big step forward."
+"This sends a real signal to utilities and tech companies that if you're coming to Wisconsin, you have to be under the same framework," said CUB executive director Tom Content.
+Meta's Beaver Dam project totals around $1 billion and spans 700,000 square feet. It is currently under construction and is expected to come online in 2027.
+Under the contract approved by the Public Service Commission, Meta's service agreement for the Beaver Dam data center will last a minimum of 10 years. Meta has the option to extend the contract through two additional five-year terms.
+Commissioners elected not to extend the minimum required term to 15 years, like they had for We Energies' service agreement. Instead, they tweaked other provisions in the contract to ensure Meta covers the full cost of its energy use.
+“Existing Wisconsin customers should not pay a single cent to subsidize the service of data centers or very large customers, not now and not decades from now,” Commissioner Kristy Nieto emphasized again during the meeting.
+Changes include bolstering the contract's termination charges and cost recovery in the event of financial problems. The commission also required Alliant report energy costs related to the data center.
+"It was just as big for Alliant customers that the commission made some of these changes," Content said. "They didn't want customers to go unprotected with this contract."
+Commissioners also expressed frustration with Alliant and Meta's lack of transparency in the case. Alliant's initial filing withheld basic details about the agreement from the public, including the project's energy load and the length of the service contract.
+The utility has said the redactions were necessary to protect tech companies' information and attract future data center customers.
+"If we have another deal like this in the future, we want to make sure that we get our customers the best deal and we also want to make sure that we’re protecting the customer’s information,” David Zoppo, an attorney representing Alliant, said during a party hearing in February.
+In December, nonprofit law firm Midwest Environmental Advocates sued the Public Service Commission for the release of projected electrical loads for Meta's Beaver Dam data center as well as Vantage's $15 billion campus in Port Washington. The lawsuit, filed in Dane County Circuit Court, is still ongoing.
+Earlier this year, the commission twice ordered Alliant release more details about the agreement. Commissioners acknowledged during the May 7 meeting that secrecy has helped fuel significant public backlash against data centers in Wisconsin.
+"When communities and residents feel like information is being hidden or withheld, and that they're only getting half-truths or patted on the head and told contracts are a product of negotiation that no one else has a stake in – that dismissive distain and opacity breed skepticism, opposition and the rampant spread of misinformation," said Commission Chairperson Summer Strand.
+The contract included a transmission service charge to protect existing Alliant customers from transmission costs related to the Beaver Dam project.
+The American Transmission Company is building $191 million in new facilities for the data center. Construction is expected to complete in 2027.
+Commissioner Marcus Hawkins warned the charge puts ATC customers outside Alliant's territory at risk of higher costs. The contract's protections are "only possible because 75% of the costs of this project are going to other ATC customers," Hawkins said.
+"We have to be vigilant that we're seeing a significant amount of costs that will end up on somebody's bill somewhere," he added.
+ATC's service territory includes eastern Wisconsin and Michigan's Upper Peninsula. The company bills construction costs to utilities, who then pass them along to their customers.
+We Energies says it's working with ATC on a plan to directly assign transmission costs to data centers across ATC's service area. The commission directed Alliant to do the same.
+ATC's rates are set by the Federal Energy Regulatory Commission.
+This article has been updated to add new information.
+Francesca Pica can be reached at fpica@usatodayco.com.

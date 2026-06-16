@@ -1,0 +1,30 @@
+Title: My Top 2 Semiconductor Stocks Benefiting From the AI Boom to Buy in May 2026
+Date: 2026-05-07 22:02
+URL: https://www.fool.com/investing/2026/05/07/my-top-semiconductor-stocks-benefiting-ai-boom/?.tsrc=rss
+
+These leaders have helped power impressive gains for the chip industry.
+Chips are the building blocks of artificial intelligence (AI), and the growing demand has sent the PHLX Semiconductor Sector up 258% over the past three years. The bull market may not be over, as Statista estimates the industry will increase from $891 billion in 2026 to nearly $1.3 trillion by 2030.
+Those estimates won't hold up without growth from Taiwan Semiconductor Manufacturing (TSM 1.26%) and Broadcom (AVGO 2.94%). These are two of the largest companies in the industry, with combined annual revenues of roughly $200 billion. They serve crucial roles in the AI supply chain that could drive attractive shareholder returns for years to come.
+Image source: Getty Images.
+Intel and Micron Technology recently saw a surge in data center demand, sending their share prices higher. But overall, no chip company has benefited more over the last few years than Taiwan Semiconductor Manufacturing (TSMC). It controls 72% of the chip foundry market, according to Counterpoint Research, making it indispensable for the AI infrastructure build-out.
+This dominant position is based on two things: TSMC's technological leadership and massive manufacturing capacity. It takes several years and significant capital to build a new chip-making facility, which reinforces TSMC's competitive moat and explains why it continues to win business from leading chip designers.
+The company's latest results show how AI is driving demand. TSMC posted a 40% year-over-year increase in revenue in the first quarter. This is primarily AI-driven, as smartphone and automotive revenue declined in the quarter. The more advanced, higher-value AI chips are also boosting its profitability, with the company reporting a 50% profit margin.
+Looking ahead, management expects full-year revenue to grow by more than 30%. It is seeing the adoption of agentic AI driving another wave of demand. As adoption of AI agents spreads, where software can plan and complete tasks without human interaction, it will lead to significant increases in token generation, or units of data. Processing all that data will require more computing horsepower, which should benefit TSMC.
+It's prudent for investors to monitor geopolitical risks, since this is a Taiwan-based business. Investors should also expect semiconductors to remain cyclical, as they have historically. Even so, TSMC's competitive position, chipmaking capacity, and proven execution make it one of the clearest long-term beneficiaries of the AI boom.
+While TSMC benefits from broad demand for all kinds of chips, including central processing units (CPUs) and graphics processing units (GPUs), Broadcom offers exposure to the custom chip market (XPUs and ASICs) and high-performance networking components.
+Custom chips are gaining traction as hyperscalers seek to reduce costs and optimize performance for specific workloads. These chips can be more optimal for certain AI tasks over general-purpose GPUs. Broadcom is benefiting from this demand, with revenue up 29% year over year in the fiscal first quarter. Even better, management expects revenue growth to accelerate to 47% year over year in fiscal Q2.
+Broadcom expects demand to remain robust through next year. Its customers, including Google, Anthropic, Meta Platforms, OpenAI, and two undisclosed others, are planning to add about 10 gigawatts worth of data center capacity through 2027. If that build-out proceeds as planned, it would represent a substantial increase in chip demand.
+The other half of the growth story is networking. These components are required to enable chips to transmit data at lightning-fast speeds. Hyperscalers have been buying Broadcom's Tomahawk 6 Ethernet switch to connect massive chip clusters, and the Tomahawk 7 is scheduled to launch next year, doubling networking speed.
+Broadcom ties all of its hardware together with a high-margin software platform that generates recurring revenue. The company's VMware Cloud Foundation serves as an operating system for modern data centers. The result is a company generating growing free cash flow that represented 41% of revenue last quarter.
+There are risks. Broadcom depends on six key customers and faces competition in networking, including from Nvidia. But Broadcom has been a leader in these markets for years, and it's delivering strong growth with attractive margins. In my view, this makes it a compelling chip stock that should continue to reward investors.
+John Ballard has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Broadcom, Intel, Meta Platforms, Micron Technology, and Taiwan Semiconductor Manufacturing. The Motley Fool has a disclosure policy.
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

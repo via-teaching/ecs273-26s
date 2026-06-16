@@ -1,0 +1,72 @@
+Title: Novavax Q1 Earnings Call Highlights
+Date: 2026-05-06 20:42
+URL: https://www.marketbeat.com/instant-alerts/novavax-q1-earnings-call-highlights-2026-05-06/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+
+Novavax NASDAQ: NVAX executives used the company’s first-quarter 2026 earnings call to highlight continued progress in reshaping the business around partner-driven revenue, a leaner operating model, and selective internal R&D designed to seed additional collaborations.
+
+
+President and CEO John Jacobs said the company’s growth strategy is built on three “strategic pillars: partnering our technology, capital-efficient R&D innovation, and a lean and efficient operating model.” He said Novavax’s ambition is to work with “multiple partners, both large global pharmaceutical companies and smaller, highly innovative biotechs,” using its technology platform across infectious disease and oncology.
+
+Jacobs pointed to near-term milestone and royalty opportunities tied to existing partners, including Sanofi and Takeda, as well as “potential milestones from our new partnership with Pfizer.” He also said the company is targeting a combined infectious disease and oncology vaccines and immunotherapeutics market “projected to grow to over $100 billion by the early 2030s.”
+
+On business development, Jacobs said Novavax signed four new material transfer agreements (MTAs) for Matrix-M during the quarter, including one with “another top 10 pharma company who is also a global leader in oncology.” He added that two relationships with existing Matrix-M licensees were expanded, including one new MTA that provides access for “preclinical testing in up to nine additional identified infectious disease areas,” and an expanded MTA to explore an additional field. A separate MTA was also signed with a smaller oncology company.
+
+Chief Strategy Officer Elaine O’Hara said the company now has “either licensing partnerships or MTA collaborations with four of the top 10 global pharma companies” and that partners collectively have rights to explore “over 30 unique indications or fields across both infectious diseases and oncology.” O’Hara described increasing interest from oncology companies, noting MTAs that could address “colorectal, pancreatic, and head and neck cancers.”
+
+
+O’Hara provided additional detail on the Pfizer agreement announced in January, describing it as a non-exclusive license for Matrix-M in two infectious disease areas. She said Novavax received “a $30 million upfront payment,” is eligible for “up to $250 million in future development and sales milestones,” and can receive royalties for “up to 20 years from first launch in a given country.” O’Hara offered an illustrative example that for each $1 billion in average annual sales per asset over the royalty term, Novavax “would be eligible to receive over $1 billion in cumulative royalty payments,” emphasizing that this would come “with no incremental investment in clinical or commercial development.”
+
+Regarding Sanofi, Jacobs said the partnership has delivered “over $800 million in revenue” to date and helped Novavax avoid “the cost burden of maintaining a global commercial infrastructure.” O’Hara said she was encouraged by Sanofi’s investment in a head-to-head Phase IV tolerability study (COMPARE) comparing Novavax’s COVID-19 vaccine with Moderna’s next-generation mNEXSPIKE.
+
+During Q&A, Chief Financial Officer Jim Kelly referenced milestones discussed on the call, stating Novavax is eligible for “$425 million in milestones” from Sanofi, including “the $75 million for the completion of tech transfer.” While not providing timing guidance, Kelly said Novavax manufacturing for Sanofi “ends with the 2026, 2027 season,” and that Sanofi must be ready for “the 2027, 2028” season, adding, “We have every confidence they will.”
+
+
+Bob Walker, newly named Head of R&D, said one of his first decisions was to prioritize a Clostridioides difficile (C. diff) bacterial vaccine candidate as Novavax’s next asset to advance, targeting entry into the clinic “as early as 2027.” Walker cited the lack of a currently available vaccine and said the company’s multivalent approach is designed to “go beyond toxin neutralization alone” and target the “vast majority of circulating clades and ribotypes.”
+
+Walker said Novavax is seeing “positive early data in terms of anti-toxin IgG responses,” which he said supported prioritizing the program. He added that the candidate “consistently outperformed an inactivated two toxin alone comparator” in preclinical work and has progressed into an “IND-enabling repeat dose toxicity study.” In response to analyst questions, Walker said mucosal IgA is “one of the most important readouts” being evaluated, alongside gut histopathology.
+
+O’Hara said Novavax views C. diff as a sizable opportunity and stated the company expects the commercial opportunity to be “at least between one and a half to two and a half billion dollars,” assuming other competitors enter the market. She also said Pfizer is one of the competitors developing a C. diff vaccine.
+
+Executives also discussed early-stage RSV and varicella-zoster virus (VZV) assets. Walker said preclinical data are “positive and extremely instructive,” describing the use of AI and machine learning to help “rapidly advance” antigen design for RSV and related viruses, as well as VZV. Jacobs and O’Hara indicated Novavax does not intend to advance every preclinical candidate into human trials, positioning some programs as “learning” and “testing” platforms for new adjuvants and partner discussions. O’Hara said Novavax may pursue partner discussions around its RSV candidate, while continuing to learn from VZV data.
+
+Walker also said Novavax is working to expand the utility of Matrix-M and potentially develop additional matrix-based adjuvants, with early research suggesting tailored modifications could drive specific immune responses, including “highly antigen-specific T cell responses in targeted T cell subpopulations.”
+
+
+Walker highlighted Sanofi’s Phase IV COMPARE study, which he said showed NUVAXOVID had “statistically fewer side effects compared to mNEXSPIKE across all pre-specified endpoints.” He also cited real-world evidence from the SHIELD study conducted with the University of Utah, stating participants who received NUVAXOVID reported “fewer side effects and half as many hours of lost work two days after vaccination compared to those who received an mRNA vaccine.” Walker said the data support the vaccine’s reactogenicity profile and could influence both vaccine preference and partner interest in Matrix-M.
+
+
+Kelly reported first-quarter 2026 total revenue of $140 million, down 79% year over year, while cautioning that the year-ago quarter included $603 million in non-cash revenue tied to the closeout of an advance purchase agreement (APA) for NUVAXOVID, which distorted comparisons. He said partner-related revenue grew, with Supply Sales and Licensing Royalties and Other Revenue both increasing more than 100% year over year.
+
+On expenses, Kelly said combined R&D and SG&A on a non-GAAP basis declined 23% year over year, with non-GAAP R&D down 13% and GAAP SG&A down 40%. He said the company expects higher combined expenses in the first half of 2026 due to support for Sanofi clinical studies and manufacturing activities for the 2026–2027 season, with costs expected to “materially decline” in the second half of 2026 and be “fully completed in early 2027.”
+
+Novavax reported a $9 million net loss for the quarter. Kelly said the company ended the quarter with $818 million in cash and accounts receivable and added $80 million of non-dilutive cash, including the Pfizer upfront payment and a $50 million draw from a new $330 million credit facility. He said that based on quarter-end cash and anticipated partner reimbursements, Novavax believes it can fund operations “into 2028” without assuming additional partner cash flows from upfront payments, milestones, or royalties.
+
+Kelly reiterated full-year 2026 guidance, including an adjusted total revenue framework of $230 million to $270 million and non-GAAP combined R&D and SG&A (net of partner reimbursements) of $310 million to $340 million. He also reiterated non-GAAP expense guidance midpoints of $325 million for 2026 and $225 million for 2027, and refined 2028 non-GAAP combined R&D and SG&A targets to a range of “$150 million-$200 million.”
+
+In closing remarks, Jacobs said the company has moved from a model concentrated on one product and market to one where “four of the top 10 global pharma companies are now working with our technology,” and emphasized that the strategy aims to scale through partners while maintaining core R&D capabilities.
+Novavax, Inc is a clinical-stage biotechnology company headquartered in Gaithersburg, Maryland, that specializes in the discovery, development and commercialization of next-generation vaccines to prevent serious infectious diseases. Founded in 1987, the company has built a platform based on recombinant nanoparticle technology and its proprietary Matrix-M™ adjuvant to enhance immune responses.
+
+
+The company's lead product is NVX-CoV2373, a protein-based vaccine designed to elicit a robust immune response against the SARS-CoV-2 virus.
+This instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.
+Before you consider Novavax, you'll want to hear this.
+MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis. MarketBeat has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and Novavax wasn't on the list.
+While Novavax currently has a Hold rating among analysts, top-rated analysts believe these five stocks are better buys.
+View The Five Stocks Here 
+Looking for the next FAANG stock before everyone has heard about it? Click the link to see which stocks MarketBeat analysts think might become the next trillion dollar tech company.
+Sign up for MarketBeat All Access to gain access to MarketBeat's full suite of research tools.
+Featured By
+
+                                        345 N Reid Place, Suite 620, Sioux Falls, SD 57103
+                                        
+                                        contact@marketbeat.com
+                                        
+                                        (844) 978-6257
+                                    
+© MarketBeat Media, LLC 2010-2026. All rights reserved.
+
+                                © 2026   Fair market value prices are updated every minute and are provided by Massive. Other market data provided is at least 10-minutes delayed and hosted by Barchart Solutions.  Information is provided 'as-is' and solely for informational purposes, not for trading purposes or advice, and is delayed. To see all exchange delays and terms of use please see Barchart's disclaimer. 
+
+My Account - 
+
+We and our partners share information on your use of this website to help improve your experience. For more information, or to opt out click the Do Not Sell My Information button below.

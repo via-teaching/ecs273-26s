@@ -1,0 +1,27 @@
+Title: Are Amazon and Alphabet's Custom Chips a Threat to Nvidia_
+Date: 2026-05-08 00:53
+URL: https://www.fool.com/investing/2026/05/07/are-amazon-and-alphabets-chips-a-threat-to-nvidia/?.tsrc=rss
+
+Nvidia is still the market leader by far.
+A few years ago, the primary argument in the AI computing space was whether Nvidia (NVDA +1.80%) could maintain its dominance or whether a competitor like AMD could rise to steal market share. For the most part, Nvidia has maintained its dominance and has grown to own a far larger corner of the market than AMD. That argument has faded a bit, and a new one has emerged: custom AI chips.
+This debate is very different from Nvidia versus AMD. While these two make graphics processing units (GPUs) that essentially function in the same way, these custom AI chips are built with one purpose in mind. This single-task focus leads to better cost-effectiveness when training and running AI models versus GPU-based training, which is a real advantage.
+While companies like Amazon (AMZN 1.40%) and Alphabet (GOOG +0.04%) (GOOGL 0.04%) are both major Nvidia customers, they also have their own chips that are starting to gain traction. So, is this business a major threat to Nvidia? Or is there more smoke than fire?
+Image source: Getty Images.
+Alphabet and Amazon both operate leading cloud computing platforms. Alphabet's is Google Cloud, and Amazon's is Amazon Web Services (AWS). Each is the fastest-growing division within their company, which makes sense as that's a major way each company expects to monetize all of the AI demand. While each uses Nvidia chips, they are also heavily pushing their own designs due to better performance.
+Amazon's custom chip business is now growing at a triple-digit percentage, helping boost AWS' overall growth rate to 28% -- the best quarter in nearly four years. The demand for these chips is so high that Amazon has already sold out a "significant chunk" of its Trainium4 chips, which are still 18 months away. Trainium3 chips, which were available at the start of 2026, are nearly sold out. 
+Amazon estimates that these chips offer about a 30% to 40% improvement in price performance over the previous Trainum2 generation, which itself had a 30% improvement over GPUs. Those are huge gains and showcase why more companies are choosing custom chips.
+Google Cloud's custom chip is known as the Tensor Processing Unit (TPU), a chip it designed in collaboration with Broadcom. It announced a new eighth-generation TPU this quarter, and it excels at inference, offering an 80% better performance per dollar versus the previous generation. Alphabet is also selling its TPUs directly to certain clients, which is helping boost its Google Cloud sales. During Q4, Google Cloud's revenue skyrocketed 63% year over year, and delivered a solid 33% operating margin. This financial growth showcases how strong a business Google Cloud is becoming, but does Nvidia need to worry?
+While each company touts its own products, they also still inform investors that they want to be the top Nvidia partner as well. Although there are advantages to custom AI chips in some applications, not every AI application is the same, and there are certain areas where GPUs outperform. Additionally, Nvidia GPUs are universal.
+If all of your workloads are on Google Cloud and all are being run through TPUs, then Google decides to increase your rate by an unreasonable amount or do something else that wants you to switch providers, you're out of luck. However, if you were on Google Cloud's servers and using Nvidia's chips, you could easily migrate your workload to any other cloud provider because Nvidia's chips are neutral.
+Performance isn't everything; flexibility must also be considered. Nvidia's GPUs provide the most flexible option available, so there will always be a place for Nvidia's GPUs in the AI world. However, don't be surprised to see custom AI chips eat more into Nvidia's market share, as the performance benefits are impossible to deny.
+Keithen Drury has positions in Alphabet, Amazon, Broadcom, and Nvidia. The Motley Fool has positions in and recommends Advanced Micro Devices, Alphabet, Amazon, Broadcom, and Nvidia. The Motley Fool has a disclosure policy.
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

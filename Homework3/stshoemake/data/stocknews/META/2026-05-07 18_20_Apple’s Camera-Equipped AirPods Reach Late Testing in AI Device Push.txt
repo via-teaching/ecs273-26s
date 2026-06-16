@@ -1,0 +1,94 @@
+Title: Apple’s Camera-Equipped AirPods Reach Late Testing in AI Device Push
+Date: 2026-05-07 18:20
+URL: https://finance.yahoo.com/sectors/technology/articles/apple-camera-equipped-airpods-reach-182031892.html?.tsrc=rss
+
+Oops, something went wrong
+Tip: Try a valid symbol or a specific company name for relevant results
+Trump’s latest tariff defeat could give businesses a 2-month reprieve before new duties are imposed
+Trade court strikes down Trump's 10% blanket tariffs
+The Dow slipped, while the S&P 500 and Nasdaq retreated from record highs as the AI trade took a breather
+US stocks tick up in wait for Iran-US deal update, as earnings roll in
+The hottest neighborhoods in the country are almost all in the Midwest or Florida. Here's why.
+A top Iranian official is in China. It's setting the tone for Trump’s meeting with Xi next week.
+The Dow jumped 600 points while the S&P 500 and Nasdaq hit records amid a tech-driven rally
+The Nasdaq gained 1.4% as strong tech earnings fueled the AI trade
+'Sell in May' has been a bad strategy this century
+Stocks rose at the open amid rising hopes for an Iran peace deal, upbeat tech earnings
+Anthropic's CEO says a big shift is coming for software companies — and some will 'completely go bust'
+AMD stock leaps on earnings beat, better-than-expected outlook
+The S&P 500 and Nasdaq notched fresh records as tech stocks rose and oil fell
+US stocks rise at the open as oil retreats, wave of solid earnings rolls in
+Spirit Airlines is gone. Here are the low-cost airlines filling the gap.
+Court documents show Musk warned OpenAI execs they would become 'the most hated men in America' days before the trial began
+Palantir beats earnings expectations, with revenue rising 85% on booming US business
+Dow, S&P 500, Nasdaq drop, oil surges as Middle East attacks escalate
+GameStop’s CEO dodged questions on funding the deal, leaving investors uneasy
+Dow sags while S&P 500, Nasdaq waver as Hormuz tensions rise
+Why trade deficits under Trump are so difficult to understand (and so easy to spin)
+Buying record highs looks riskier in the Nasdaq and Russell 2000 than in the broader market
+Would a gas tax holiday lower prices? What drivers should know.
+Wall Street sees more market gains as strong earnings fuel the AI trade
+The April jobs report and more major first quarter results await investors this week.
+April added roughly $1.2 trillion to Alphabet’s market value, or just over 50 times Google’s IPO valuation.
+Toto Wolff on Mercedes F1's dominant start, the 'outstanding' Kimi Antonelli, and why vulnerability is a leader's 'superpower'
+The average cost of college in 2026 (and how to pay for it)
+Network shakeups hit Medicare Advantage, forcing retirees to pay up or find new care
+Jerome Powell's Fed years were an everything rally
+The Iran War almost upended spring homebuying, but so far the market is showing 'surprising resilience'
+Berkshire Hathaway's profits double as shareholders gather for the annual meeting in Omaha (Associated Press)
+Bankrupt carrier Spirit Airlines ceased operations Saturday, the industry's first closure linked to the Iran war.
+If Spirit Airlines shuts down, travel chaos could ramp up. Here's how to protect your summer travel plans.
+The S&P 500 and Nasdaq jumped to record highs as the AI trade fueled a tech rally
+The Dow, S&P 500, and Nasdaq advanced after hitting record highs as earnings rolled in
+Apple's earnings beat is part of an amazing trend
+AI developers are snapping up Mac minis, sparking a shortage that could drag on for months
+Apple beats earnings estimates on strong iPhone and China sales
+Dow jumps 750 points, S&P 500 and Nasdaq notch record highs to end the best month for stocks since 2020
+The AI earnings bonanza is splitting investors
+Trump bets Hormuz blockade will break Iran before triggering a global crisis
+US stocks climb as economic updates, solid earnings roll in and Big Techs buoy AI hopes
+Nvidia has powered one third of the Mag 7's bull market gains
+Results from four Big Tech companies showed combined AI spending reaching an eye-popping $725 billion this year.
+Microsoft tops earnings estimates, says AI business up 123% year over year
+Meta stock falls despite earnings beat as AI spending plans spook investors
+Alphabet earnings top estimates on strong Google Cloud growth
+The Dow and S&P 500 slipped as oil surged, with Big Tech earnings on deck
+Powell will stay on as governor, says he has no choice amid legal attacks on Fed
+The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+(Bloomberg) -- Apple Inc. has reached the late stages of development for new AirPods with built-in cameras, a significant milestone for what will likely be its first wearable device designed for the artificial intelligence era.
+Most Read from Bloomberg
+Billionaire Duke of Westminster to Sell £700 Million of US Real Estate Assets
+US Has Opened a Passage Through Hormuz, Central Command Says
+DOJ Plans Intervention in Trump Supreme Court Carroll Appeal
+China Asks Banks to Pause New Loans to US-Sanctioned Refiner
+Sony to Pay Almost $4 Billion for Bieber, Neil Young Catalog
+The project has entered a phase where prototypes feature a near-final design and capabilities, according to people with knowledge of the matter. The earbuds, which rely on cameras to see the space surrounding a user and provide information, are in advanced testing, said the people, who asked not to be identified because the work is still under wraps.
+Apple is betting that the new device can capitalize on the success of AirPods while also vaulting it into AI-enhanced hardware — an area where it’s facing competition from OpenAI, Meta Platforms Inc. and others.
+The cameras essentially act as eyes for the Siri digital assistant and aren’t designed to take photos or video. These components — located in both the right and left earbuds — allow the device to capture visual information in low resolution. Other than longer stems to accommodate the cameras, the product will resemble the AirPods Pro 3.
+Apple had planned for the earbuds to go on sale as early as the first half of this year, but the launch was postponed after delays to a revamped version of Siri. The new Siri is now on track for September after Apple upgraded its underlying models using Alphabet Inc.’s Gemini technology.
+Testers inside Apple are actively using prototypes of the new AirPods that are at a stage known as DVT, or design validation testing. That’s the final major development stage before PVT, or production validation test, which involves making early mass-production units.
+While the hardware is nearly ready, concerns about the AI elements could further hold back a launch if Apple isn’t pleased with the quality of the visual intelligence features, the people said. A spokesperson for Cupertino, California-based Apple declined to comment.
+The idea is to let users ask questions about an item they might be looking at. For instance, they could be facing food ingredients and ask what they should cook for dinner. It’s a similar experience to what someone gets from uploading photos in AI services like OpenAI’s ChatGPT or the iPhone’s own Visual Intelligence function.
+Apple has also been working on other uses for the AI cameras. The device could give the wearer a reminder based on something the camera sees, or it might use external visuals to provide more advanced turn-by-turn directions. The AI could cite a specific landmark ahead when telling users when they should turn.
+Apple also aims to address privacy concerns from people who don’t want to be filmed by gadgets — an issue for smart glasses as well. The company has built a small LED light into the earbuds that will turn on when visual data is being fed into the cloud. Given the small size of earbuds, it’s unclear how visible the light actually will be.
+The new AirPods have been in development for around four years and will be part of a wave of AI products. The company has also been working on smart glasses and a pendant with cameras for as early as next year, but development of both of those products trails the AirPods.
+Apple is expecting strong demand for the new AirPods and has operations teams working to secure enough components for a launch. That’s a particularly challenging task at the moment due to industrywide shortages related to memory chips and other silicon.
+Unlike the Apple Vision Pro headset, another device with a slew of external sensors, the new AirPods aren’t designed to support hand-gesture control. The upcoming Apple glasses also aren’t currently slated to offer this capability, according to people familiar with the products.
+John Ternus, Apple’s incoming chief executive officer, has been touting a strong product pipeline during employee events in recent weeks, saying that the company is on track to upend the industry in a similar way to what happened with the iPhone, iPad and iPod.
+“We are about to change the world once again,” Ternus told employees after he was named as the next Apple CEO. “If you’re lucky, and I mean really lucky, you can have a moment or two in your career to be part of something profoundly important. Now we’re in a moment where we get to do it again.”
+Ternus is overseeing the development of roughly 10 major new products, a list that includes a touch-screen MacBook, foldable iPhone and AI-powered smart home devices. He replaces Tim Cook as CEO on Sept. 1 and will lead the company’s big annual launch event that month.
+Apple has been looking to upgrade the visual AI capabilities of the iPhone as well. It’s planning a new Siri camera mode in iOS 27 that will make the visual AI features more prominent in the iPhone’s operating system. The change should expose more users to the concept of feeding visual data into AI services.
+Apple is racing to compete with OpenAI, Meta and others in the burgeoning AI device space. OpenAI has been pillaging Apple’s hardware engineering ranks for talent to work on competitors to Apple’s smart home and mobile devices, while Meta is revamping its own AI wearables.
+Bloomberg News first reported in February 2024 that Apple was developing AirPods with built-in cameras. The company has also worked on an Apple Watch with a camera but canceled that project last year.
+The AirPods are a strong place for Apple to start implementing AI, given the pervasiveness of the earbuds. Customers frequently purchase them alongside iPhones, Apple’s flagship product.
+The AirPods have been a hit for Apple since first launching in 2016. The company last rolled out new earbuds at the end of last year, adding a heart-rate monitor akin to the one in the Apple Watch. It updated its over-ear headphones, the AirPods Max, in March.
+Most Read from Bloomberg Businessweek
+Raising Cane’s Grew From an Idea a College Professor Hated
+The Messy, Humiliating Courtroom Drama Between Elon Musk and OpenAI
+America’s Go-To Autism Therapy Is Also the Most Controversial
+How Trump Has Made the Doctor Shortage Worse
+A Fight Over Dirt in Utah Hints at the Future of America’s Public Lands
+©2026 Bloomberg L.P.
+Weʼre unable to load stories right now.
+Tip: Try a valid symbol or a specific company name for relevant results
+Sign in to access your portfolio

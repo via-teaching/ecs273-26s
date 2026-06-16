@@ -1,0 +1,37 @@
+Title: Microsoft Stock_ Buy, Sell, or Hold_
+Date: 2026-05-07 21:59
+URL: https://www.fool.com/investing/2026/05/07/microsoft-stock-buy-sell-or-hold/?.tsrc=rss
+
+The software giant impressed across the board in its latest quarter, but a closer look at how its underlying growth is comprised tells a more complicated story.
+Shares of Microsoft (MSFT +1.69%) have had a difficult year so far. Even after staging a recovery from late-March lows, the stock is still down about 15% year to date as of this writing -- meaningfully lagging the broader market. The slump comes despite a fiscal third-quarter report that exceeded expectations on both the top and bottom lines. 
+So why aren't investors rushing back in?
+A closer look at the latest quarter suggests the market may be looking past the headline numbers and sizing up a more nuanced picture in the software giant's cloud computing business and commercial backlog -- particularly as cloud rivals Alphabet and Amazon deliver a notably different story.
+So, is the stock a buy, sell, or hold?
+Image source: Getty Images.
+For the fiscal third quarter of 2026 (the period ended March 31, 2026), Microsoft posted total revenue of $82.9 billion, up 18% year over year, or up 15% on a constant-currency basis. Operating income rose 20% (or 16% in constant currency) to $38.4 billion. And earnings per share grew 23% to $4.27 on a generally accepted accounting principles (GAAP) basis.
+The headline cloud number looked strong on the surface. Microsoft's "Azure and other cloud services" line item climbed 40% year over year, or 39% in constant currency. And the company's artificial intelligence (AI) business now sits at an annual revenue run rate of $37 billion, up 123%.
+But on a constant-currency basis, Azure has been essentially flat for three straight quarters: 39% in fiscal Q1, 38% in fiscal Q2, and 39% in fiscal Q3.
+Microsoft's cloud platform isn't slowing. But it isn't accelerating, either.
+Alphabet's Google Cloud, by contrast, surged 63% year over year in the first quarter of 2026 -- a big acceleration from 48% growth in the fourth quarter of 2025 and 34% earlier in 2025. And Amazon's AWS climbed 28% in Q1 2026 -- its fastest pace in 15 quarters and up from 24% growth the prior period. 
+Microsoft did highlight one figure that, on the surface, looked enormous. The company's commercial remaining performance obligations (RPO) -- or the dollar value of contracted work that has not yet been recognized as revenue -- climbed 99% year over year to $627 billion. 
+But the makeup of that backlog matters quite a bit.
+About 45% of the figure ties back to OpenAI, the maker of ChatGPT. And on the company's fiscal third-quarter earnings call, Microsoft chief financial officer Amy Hood disclosed that, when excluding OpenAI, commercial RPO grew just 26%. 
+Further, commercial bookings, when excluding OpenAI, rose just 7% during the period.
+Translation: The backlog headline is being carried by a single (albeit massive) customer commitment rather than the kind of broad-based enterprise demand investors might want to see. Once OpenAI's contributions begin lapping into year-over-year comparisons, the headline backlog growth could compress sharply.
+Then there is the matter of what Microsoft plans to spend chasing all of this.
+During the same earnings call, Hood said the company expects calendar 2026 capital expenditures of roughly $190 billion -- about $25 billion of which she attributed to higher component pricing. That figure is roughly triple the company's $64.5 billion in capital outlays in fiscal 2025. And it isn't easing the bottleneck; management said it expects to remain capacity-constrained at least through 2026.
+"I just want to be transparent that when you have revenue that's sitting there that can be grown faster or efficiencies, the focus needs to be on doing that and landing this [capital expenditures] as quickly as we can, and converting it to revenue as quickly as we can," explained Hood during the company's fiscal third-quarter earnings call. 
+For investors trying to decide whether the stock is a buy, sell, or hold today, it's important to keep in mind that there is a lot of uncertainty around this decision -- more than usual, probably. As of this writing, shares trade at a price-to-earnings ratio of about 25 -- not particularly demanding for a business of this quality. So selling may be the wrong move -- especially if it results in capital gains. But for new money, I'd stay on the sidelines here. The customer concentration in the commercial backlog and Azure's inability to inflect higher the way Google Cloud and AWS have done are reasons enough to wait.
+I'd rather see Azure's growth meaningfully accelerate and the backlog broaden out beyond OpenAI (or wait for a much cheaper stock price) before getting more constructive on Microsoft stock.
+In short, I think Microsoft stock is a hold.
+Daniel Sparks and his clients have no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, and Microsoft. The Motley Fool has a disclosure policy.
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool. All rights reserved.
+Market data powered by Xignite and Polygon.io.
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends

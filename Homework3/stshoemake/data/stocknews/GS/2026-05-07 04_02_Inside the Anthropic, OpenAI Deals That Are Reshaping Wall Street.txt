@@ -1,0 +1,29 @@
+Title: Inside the Anthropic, OpenAI Deals That Are Reshaping Wall Street
+Date: 2026-05-07 04:02
+URL: https://www.thedailyupside.com/advisor/industry-news/inside-the-anthropic-openai-deals-that-are-reshaping-wall-street/?.tsrc=rss
+
+The makers of Claude and ChatGPT announced deals with Goldman Sachs, Brookfield Asset Management and others this week. 
+Griffin Kelly
+griffin@thedailyupside.com
+The lines between Silicon Valley and Wall Street are blurring fast.
+Both Anthropic and OpenAI, the makers of Claude and ChatGPT, made massive inroads with Wall Street and traditional financial systems this week.
+Anthropic announced a $1.5 billion joint venture Monday with Goldman Sachs, Blackstone and Hellman & Friedman to help enterprises adopt AI more effectively. The deal landed Anthropic direct access to hundreds of portfolio companies across PE firms, said Will Trout, Datos Insights’ director of securities and investments. “That’s a distribution moat most [software-as-a-service] vendors would kill for.”
+That same day, OpenAI announced raising more than $4 billion from firms including Brookfield Asset Management, Advent and Bain Capital to launch a similar enterprise-focused effort. The premise for both deals is that you can’t wait for enterprises to adopt AI, Trout added. “Goldman Sachs as an anchor investor [is] signaling Wall Street credibility, not just capital.” 
+During an Anthropic event Tuesday, CEO Dario Amodei argued that Wall Street’s AI buildout is essential and that SaaS companies that don’t embrace generative tech might not survive. He was accompanied on stage by none other than Jamie Dimon, a huge tell, Trout said. “When the CEO of JPMorgan is publicly excited about a tool, it signals confidence, not just in Claude’s capability, but in the business relationship,” he said. “That’s what these announcements telegraph.”
+Other tech companies like Microsoft and Google are also making noise, but they’re not anchoring ventures with PE firms at the same scale. “You need to embed engineers and deployment muscles inside their operations,” Trout said.  
+Anthropic also announced another partnership this week, alongside new tech rollouts, highlighting the firm’s growing influence on Wall Street:
+“Client meeting prep, financial planning, tax-aware rebalancing, tax-loss harvesting, investment proposals, client reports; that is the day-to-day reality of running a wealth practice,” said Jack Morgan, vice president at Rise Growth Partners. 
+Explain It Like I’m 5. Wealth.com co-founder Danny Lohrfink said AI is “moving from novelty to infrastructure,” noting the potential for more integrated planning. Those insights, however, will  need to be easy to explain, govern and use in client conversations. “Faster isn’t enough,” he told Advisor Upside.
+Both firms reported slight dips in their overall advisor headcounts for the first quarter. 
+The new advisory practice, dubbed Cetera Planning Partners, combines Avantax Planning Partners and the Retirement Planning Group to expand services.  
+It’s going to be a while before ETF share classes of mutual funds are commonplace, but many asset managers now have regulatory approval. 
+The collaboration reflects a broader trend of consolidating siloed investment processes into unified account frameworks. 
+The year’s mergers and acquisitions are off to the fastest start ever, and the size of firms being bought is trending upward.  
+Industry consultants view the deal as a win-win for both firms and advisors. 
+Higher income from trading and assets under management helped the big firms’ profits soar during the first quarter. 
+Limiting a couple’s benefit to $100,000 would plug up to a fifth of the solvency gap without affecting many current retirees. 
+Structured notes can help current and near-retirees that need ongoing growth, but they can’t afford high levels of risk. 
+The company filed Monday for the iShares Nasdaq 100 ETF, a result of the exchange broadening its US licensing for the index. 
+The crypto space is relatively small compared with other asset classes, but the hype train is barreling down the tracks. 
+Industry groups and asset managers are in favor, but advisors are weary, saying the expanded access can quickly spell trouble for clients. 
+© 2026 The Daily Upside

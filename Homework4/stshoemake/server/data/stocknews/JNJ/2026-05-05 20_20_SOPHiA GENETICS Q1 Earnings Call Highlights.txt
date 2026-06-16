@@ -1,0 +1,88 @@
+Title: SOPHiA GENETICS Q1 Earnings Call Highlights
+Date: 2026-05-05 20:20
+URL: https://www.marketbeat.com/instant-alerts/sophia-genetics-q1-earnings-call-highlights-2026-05-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+
+SOPHiA GENETICS NASDAQ: SOPH reported first-quarter 2026 revenue of $21.7 million, up 22% from $17.8 million in the prior-year period, as demand increased for its SOPHiA DDM analytics platform and the company expanded its installed base of clinical customers and applications.
+
+
+Co-founder and CEO Dr. Jurgi Camblong said the company “delivered revenue growth of 22% year-over-year” and completed a record 108,000 genomic analyses during the quarter. He said SOPHiA also set a monthly record in March with “more than 40,000 patients analyzed in a single month.”
+
+
+Chief Financial Officer George Cardoza said platform analysis volume was approximately 108,000 in Q1, up from 93,000 in the first quarter of 2025, representing 16% growth. Cardoza noted that year-over-year revenue growth “would have been slightly stronger” absent a one-time customer true-up benefit in the prior-year quarter.
+
+
+The company ended the quarter with 537 core genomic customers as of March 31, up from 490 a year earlier. Cardoza said annualized revenue churn remained “less than 1% in Q1,” while net dollar retention rose to 117% from 103% in the prior-year period.
+
+
+President Ross Muken described three themes for the quarter, starting with increased U.S. momentum tied to growing acceptance of decentralized testing. Muken said that over the last 12 months, demand for decentralized testing has “materially increased in the U.S.” as reimbursement rates become more established and denial rates improve.
+
+
+In the quarter, SOPHiA announced an expanded partnership with Mount Sinai, which Muken said is using SOPHiA DDM “to bring hemato-oncology and solid tumor testing to the New York market.” He added that Mount Sinai joins other New York-area SOPHiA partners, including NYU Langone Health and Memorial Sloan Kettering Cancer Center.
+
+
+The second theme was adoption of newer applications such as MSK-IMPACT and MSK-ACCESS. Muken said that less than two years after decentralizing and deploying those tests globally, SOPHiA has “already reached a total of 100 customers worldwide” signed to adopt the applications, with about half currently implementing the platform and expected to start generating revenue over the next 12 months. Among customers who have completed implementation, the company recorded 3,000 liquid biopsy analyses in Q1, which Muken said was up more than 100% year-over-year.
+
+
+Muken also pointed to an “expand engine” driven by existing customers adding new applications. He said SOPHiA signed “many notable expand deals” in the quarter, including three in Europe each valued at over $1 million in annual contract value.
+
+
+The third theme, according to Muken, was increased momentum with biopharma. He said biopharma revenue growth was positive and contributed modestly to overall growth as recent contracts began generating revenue. Muken said the company has signed contracts in the last six months with “major biopharmas such as AstraZeneca and Johnson & Johnson,” as well as “biotechs like Cartos and others.” He also said partnerships with Myriad Genetics in the U.S. and A.D.A.M. Innovations in Japan are progressing as SOPHiA builds infrastructure for a hybrid global companion diagnostics (CDx) offering.
+
+
+Camblong said SOPHiA achieved an adjusted gross margin of 75.4%, which he described as evidence of the scalability of its analytics platform. Cardoza reported gross margin of 68.0% compared to 68.7% a year ago, while adjusted gross margin was 75.4% compared to 75.7% in the prior-year period.
+
+
+In response to a question on margin durability, Muken said the company has spent “quite a lot of effort modernizing the platform” over the past 24 months, adding that he believes “there’s a lot more scalability left, even as we bring on more complex solutions that require a lot more compute.” Cardoza said the company’s full-year guidance still assumes “modest improvement in gross margins,” while noting that pharma revenue can be “lumpy” on the margin line.
+
+
+Total operating expenses were $32.0 million, up from $28.2 million in the prior-year period. Cardoza highlighted several items impacting expenses, including foreign exchange. He said the strengthening Swiss Franc created “a pure translation effect,” noting it strengthened about 14% against the U.S. dollar from Q1 2025 to Q1 2026, increasing dollar-translated costs for Swiss payroll and facilities.
+
+
+Cardoza also discussed legal expenses tied to Guardant Health patent litigation, which he said relates to allegations that SOPHiA’s MSK-ACCESS application infringes Guardant patents. He said SOPHiA incurred approximately $1.4 million in related legal expenses in Q1, while the Unified Patent Court rejected Guardant’s request for provisional measures and ordered Guardant to pay interim costs totaling $700,000. Cardoza said $500,000 was received in mid-March and another $200,000 in mid-April, resulting in a net litigation impact on Q1 operating expenses of about $700,000.
+
+
+Operating loss was $17.3 million compared with $16.0 million a year ago. Adjusted EBITDA loss was $9.2 million, compared with a $9.5 million loss in the prior-year period.
+
+
+Cardoza said cash burn was $19.5 million, up from $11.7 million in the prior-year quarter, driven primarily by higher annual bonus and commission payouts paid in March following a strong 2025, investment in a new lab at the company’s Swiss headquarters, and litigation-related payments for costs incurred in early 2025. SOPHiA ended Q1 with $65.4 million in cash and cash equivalents as of March 31, including $14.5 million in ATM proceeds received during the quarter. Cardoza also said the company expanded its credit facility with Perceptive Advisors in January, increasing total available liquidity by $25 million.
+
+
+Management reaffirmed full-year 2026 revenue guidance of $92 million to $94 million, representing 20% to 22% reported growth, and reiterated expectations that growth will be “mostly back-half weighted” as customers signed in 2025 come online and as MSK-ACCESS, MSK-IMPACT Flex, and enhanced exome ramp into routine usage. The company also reaffirmed full-year adjusted EBITDA loss guidance of $29 million to $32 million, compared to $41.5 million in 2025.
+
+
+Cardoza said SOPHiA expects to approach adjusted EBITDA breakeven by the end of 2026 and to reach positive adjusted EBITDA in the second half of 2027. He added that the company is monitoring the conflict in the Middle East for potential effects on shipping and customer activity, but said it has not materially impacted results so far and the company does not believe it will have a material impact this year.
+
+
+Camblong said the quarter was his final earnings call as CEO ahead of his planned transition to Executive Chair in June. He said the company took “a series of targeted cost actions” that “modestly reduced head count and non-labor spend,” largely in support and operations functions, and described early results from internal AI productivity tools as “overwhelmingly positive.”
+
+
+In the Q&A, Muken characterized the cost actions as “quite small” and said they were primarily in G&A functions where efficiency improved, with some redeployment toward commercial efforts in the U.S. He also said the company is focused on reducing time to revenue through implementation improvements, adding that the pacing of some large customer implementations has picked up.
+
+
+Closing the call, Camblong said SOPHiA’s platform has impacted “40,000 patients per month and 2.5 million patients since inception,” and reiterated confidence in the company’s long-term trajectory as it continues to scale its network and data-driven offerings.
+SOPHiA GENETICS SA is a data-driven medicine company founded in 2011 and headquartered in La Tène, Switzerland. The firm develops and operates a cloud-native software platform designed to standardize and analyze complex genomic and radiomic data. Its core offering, the SOPHiA DDM™ platform, leverages artificial intelligence and machine learning algorithms to help healthcare institutions, laboratories and biopharmaceutical partners derive actionable insights from next-generation sequencing and medical imaging datasets.
+
+
+The SOPHiA DDM™ platform supports a range of clinical applications, including oncology, hereditary diseases and rare genetic disorders.
+This instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.
+Before you consider SOPHiA GENETICS, you'll want to hear this.
+MarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis. MarketBeat has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and SOPHiA GENETICS wasn't on the list.
+While SOPHiA GENETICS currently has a Hold rating among analysts, top-rated analysts believe these five stocks are better buys.
+View The Five Stocks Here 
+Wondering where to start (or end) with AI stocks? These 10 simple stocks can help investors build long-term wealth as artificial intelligence continues to grow into the future.
+Sign up for MarketBeat All Access to gain access to MarketBeat's full suite of research tools.
+Featured By
+
+                                        345 N Reid Place, Suite 620, Sioux Falls, SD 57103
+                                        
+                                        contact@marketbeat.com
+                                        
+                                        (844) 978-6257
+                                    
+© MarketBeat Media, LLC 2010-2026. All rights reserved.
+
+                                © 2026   Fair market value prices are updated every minute and are provided by Massive. Other market data provided is at least 10-minutes delayed and hosted by Barchart Solutions.  Information is provided 'as-is' and solely for informational purposes, not for trading purposes or advice, and is delayed. To see all exchange delays and terms of use please see Barchart's disclaimer. 
+
+My Account - 
+
+We and our partners share information on your use of this website to help improve your experience. For more information, or to opt out click the Do Not Sell My Information button below.
