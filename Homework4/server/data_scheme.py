@@ -1,12 +1,9 @@
-from typing import Optional, List, Annotated
+from typing import Annotated
 from pydantic import BaseModel
 from pydantic.functional_validators import BeforeValidator
-from bson import ObjectId
-
-# Represents an ObjectId field in the database.
-# It will be represented as a `str` on the model so that it can be serialized to JSON.
 
 PyObjectId = Annotated[str, BeforeValidator(str)]
+#定義出data的架構
 
 class StockListModel(BaseModel):
     """
@@ -15,46 +12,42 @@ class StockListModel(BaseModel):
     _id: PyObjectId
     tickers: list[str]
 
-class StockModelV1(BaseModel):
-    """
-    Model for stock data values
-    """
-    _id: PyObjectId
-    name: str
-    date: list[str]
-    Open: list[float]
-    High: list[float]
-    Low: list[float]
-    Close: list[float]
-    
+
 class StockModelUnit(BaseModel):
     """
-    Model for stock data values
+    One daily stock price record
     """
     date: str
     Open: float
     High: float
     Low: float
     Close: float
-    
+
+
 class StockModelV2(BaseModel):
     """
-    Model for stock data values
+    Stock time-series data using array of records
     """
     _id: PyObjectId
     name: str
     stock_series: list[StockModelUnit]
-    
+
+
 class StockNewsModel(BaseModel):
+    """
+    One news article
+    """
     _id: PyObjectId
     Stock: str
     Title: str
-    Date: str  
+    Date: str
     content: str
-    
+
+
 class StockNewsModelList(BaseModel):
     Stock: str
     News: list[StockNewsModel]
+
 
 class tsneDataModel(BaseModel):
     """
@@ -64,3 +57,4 @@ class tsneDataModel(BaseModel):
     Stock: str
     x: float
     y: float
+    Sector: str
