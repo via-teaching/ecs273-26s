@@ -1,0 +1,276 @@
+Title:   Goldman Sachs Files to Launch Bitcoin Income ETF Tied to Options
+Date:    2026-04-14
+URL:     https://decrypt.co/364327/goldman-sachs-files-launch-bitcoin-income-etf-options?.tsrc=rss
+--Article Content--
+$74,367.00
+$2,332.08
+$615.11
+$1.36
+$0.999694
+$83.55
+$0.323907
+$1.028
+$0.093389
+$54.56
+$0.999676
+$43.76
+$10.06
+$0.239949
+$434.67
+$9.08
+$341.30
+$356.01
+$0.999988
+$0.150504
+$0.156194
+$2.83
+$17.88
+$54.17
+$0.999799
+$0.999251
+$9.39
+$0.940619
+$0.085368
+$0.00771134
+$0.00000587
+$1.38
+$0.068853
+$4,802.11
+$1.12
+$0.080637
+$1.00
+$4,818.08
+$245.77
+$0.999731
+$0.656752
+$3.15
+$1.17
+$85.19
+$0.99778
+$1.37
+$0.074611
+$0.166167
+$0.66903
+$0.00000178
+$1.00
+$100.78
+$0.00000359
+$0.999939
+$1.10
+$1.13
+$2.42
+$1.90
+$0.999516
+$8.34
+$0.25255
+$8.48
+$7.09
+$0.00185273
+$74.04
+$0.300978
+$1.88
+$0.109479
+$1.74
+$1.24
+$0.897441
+$1.76
+$0.083095
+$0.03198712
+$1.00
+$0.096707
+$11.05
+$82.76
+$0.867474
+$0.079089
+$0.899466
+$0.00801576
+$0.113045
+$2.80
+$0.01110289
+$0.080045
+$0.03006933
+$114.92
+$0.0360121
+$0.00694169
+$0.166471
+$0.999559
+$0.99988
+$0.02631721
+$12.22
+$0.998026
+$0.736519
+$0.00000594
+$1.58
+$0.22701
+$0.999661
+$0.01252114
+$1.94
+$38.42
+$0.676859
+$4.27
+$0.00701747
+$1.18
+$0.03489562
+$0.220741
+$0.999589
+$1.031
+$8.81
+$0.03688276
+$0.346368
+$21.33
+$0.999596
+$0.054476
+$149.92
+$1.02
+$1.031
+$0.0181056
+$0.368236
+$0.427467
+$0.00000034
+$0.218294
+$0.066867
+$0.00000032
+$0.134011
+$117.46
+$15.45
+$0.304378
+$3.00
+$0.352631
+$0.999729
+$0.320646
+$78.56
+$0.312197
+$0.999535
+$0.053687
+$0.04706587
+$0.994287
+$0.00002834
+$0.078773
+$0.00000128
+$0.263755
+$0.00529194
+$0.02409818
+$0.00259948
+$1.017
+$0.218796
+$0.04364994
+$16.02
+$0.139068
+$0.055172
+$0.112487
+$0.00004131
+$0.069937
+$5.80
+$0.02653592
+$0.984361
+$0.999832
+$1.70
+$21.55
+$0.077746
+$0.056507
+$0.00215862
+$0.609645
+$2.83
+$0.194959
+$0.194386
+$1.12
+$1.00
+$0.33461
+$9.48
+$1.007
+$0.03222836
+$0.078157
+$0.098827
+$0.183806
+$1.11
+$1.072
+$0.00468101
+$0.176674
+$0.499849
+$1.051
+$0.645898
+$106.65
+$2.08
+$1.08
+$0.087191
+$0.998893
+$0.394958
+$1.77
+$48.01
+$4,251.92
+$1.77
+$0.995225
+$0.068253
+$0.04126882
+$1.00
+$0.00153381
+$1.21
+$0.999743
+$0.999333
+$0.297926
+$0.01523088
+$0.096831
+$0.311855
+$9.37
+$0.00298789
+$0.400898
+$0.00000697
+$1.093
+$0.13683
+$1.021
+$0.999374
+$0.094714
+$1,092.79
+$0.294313
+$0.00000065
+$0.612223
+$0.0013039
+$0.078388
+$0.065925
+$0.999157
+$0.149649
+$0.125971
+$0.403262
+$0.308528
+$1.18
+$1.59
+$0.129581
+$0.999738
+$0.219496
+$0.997653
+$0.205836
+$0.00617406
+$0.450429
+$0.998372
+$0.067051
+$1.46
+$0.117194
+$1.77
+$1.47
+$0.284514
+$0.01591313
+$0.114059
+Reading
+Goldman Sachs filed an application for an exchange-traded fund on Tuesday that seeks to generate income for investors by selling options tied to Bitcoin’s price, underscoring the Wall Street giant’s incremental approach toward the digital assets space.
+The Goldman Sachs Bitcoin Premium ETF would allocate at least 80% of its assets to investments that provide exposure toBitcoin, including ETFs that track the digital asset’s spot price as well as derivatives tied to those products.
+To generate income for investors, the fund would sell options tied to Bitcoin ETFs, generating returns from the premium that investors pay to gain leveraged exposure to Bitcoin.
+With Goldman Sachs managing $3.65 trillion in assets (AUM), the filing represents a new entry into “the Bitcoin ETF game,” according to Bloomberg Senior ETF Analyst Eric Balchunas, whoexpresseda sense of shock on X at the investment bank’s latest filing.
+Interesting side note: this is a '40 Act filing so it has to use a Cayman Subsidiary to get around regulatory limitations re holding commodities. BlackRock meanwhile has a '33 Act product that is similar. Goldman may sense opp to leap frog them and/or is prob hearing from their…pic.twitter.com/KOoCK5sT6U
+— Eric Balchunas (@EricBalchunas)April 14, 2026
+The analyst noted that Goldman’s fund is based around a subsidiary located in the Cayman Islands, allowing it to manage regulatory limitations associated with holding commodities. That stands in contrast with a similar ETF that BlackRock has filed for, he said.
+“Goldman may sense [an opportunity] to leap frog them,” Balchunas added, suggesting that the ETF could debut first due to its regulatory structure. “Anyway, I can't say I saw this coming.”
+In January, BlackRock filed an SEC registration for an iShares Bitcoin Premium Income ETF that generates income through call options. The fund, if approved by the SEC, would compete with other Bitcoin covered-call ETFs like NEOS’ BTCI, which has $1 billion in AUM.
+The debut of Morgan Stanley’s spot Bitcoin ETF marked a major milestone on Wednesday for the investment bank with $9.3 trillion in client assets, but the financial powerhouse is already weighing what could be next when it comes to crypto.
+The firm filed applications in January for exchange-traded funds tracking Ethereum and Solana, but it’s doubtful that the company will stop there, Amy Oldenburg, head of digital-asset strategy at Morgan Stanley, told Decrypt in an interview this week.
+“We’re n...
+Because BlackRock’s Bitcoin premium income ETF is actively managed, the product is set to have a higher expense ratio than its flagship offering tracking Bitcoin’s spot price.
+Since BlackRock’s spot Bitcoin ETF debuted in 2024, the product has generated $63.8 billion worth of net inflows, according to crypto data providerCoinGlass. Meanwhile, Morgan Stanley last weekdebutedits own spot Bitcoin ETF, which has taken in roughly $68 million.
+In February, Goldman Sachs CEO David Solomonrevealedthat "very little, but some" Bitcoin, describing himself as less of an investor and more of an observer of the largest digital asset.
+Payments giant Visa said Tuesday that it has become an “anchor validator” for the Stripe-backed Tempo blockchain network, joining Stripe itself and Zodia Custody by Standard Chartered in supporting the layer-1 blockchain built for agentic commerce and real-time payments.
+The companies collectively process trillions of dollars in payment volume every year across nearly every country in the world, marking a significant institutional adoption milestone for blockchain payments infrastructure. Addit...
+Prediction markets are becoming an increasingly popular way for people to speculate on sports, but those wagers won’t drive platforms’ trading volumes to $1 trillion by the end of the decade on their own, analysts at investment bank Bernstein wrote in a note on Tuesday.
+Today, event contracts tied to sports account for 62% of trading volumes for firms like Polymarket and Kalshi, but their share will likely moderate to 31% by 2030 as institutions become familiar with wagering on other types of e...
+Senators negotiating the stablecoin yield issue stalling crypto's market structure bill say they could release draft compromise text as soon as this week, even as banking groups have privately signaled dissatisfaction with the latest proposal.
+The dispute centers on whether crypto exchanges should be allowed to pay yield to stablecoin holders through rewards programs, a key question that for months has stalled the Clarity Act.
+
+Sen. Thom Tillis (R-NC), who has been negotiating draft language alo...

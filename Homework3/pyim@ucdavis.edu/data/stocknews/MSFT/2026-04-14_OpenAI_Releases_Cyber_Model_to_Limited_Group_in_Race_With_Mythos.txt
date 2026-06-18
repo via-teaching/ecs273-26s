@@ -1,0 +1,14 @@
+Title:   OpenAI Releases Cyber Model to Limited Group in Race With Mythos
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/sectors/technology/articles/openai-releases-cyber-model-limited-200022590.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+(Bloomberg) -- OpenAI is letting a select group of users access a new artificial intelligence model that’s meant to be more adept at spotting software security vulnerabilities, one week after rival Anthropic PBC announced a limited release of an AI tool called Mythos.
+The ChatGPT maker said Tuesday that it’s beginning to roll out GPT-5.4-Cyber, which is aimed at finding issues in software so organizations can fix them. GPT-5.4-Cyber also places fewer constraints on the ways users can probe the model for that task, OpenAI said. The model will be offered to some participants of OpenAI’s Trusted Access for Cyber program, which the company rolled out in February to let certain customers and cybersecurity professionals try its most capable offerings.
+OpenAI plans to increase the number of participants in the early access program. Initially, it will let hundreds of users test out the new model, before expanding that to thousands in the coming weeks.
+OpenAI and Anthropic have been racing to develop more advanced AI models that can take on a wide range of capabilities, and to convince businesses to pay for them. But as their models have gotten better at coding, and detecting security issues in code, there have been growing concerns about the technology being misused by criminals and state-backed hackers. Already, AI technology is being used to help enable cyberattacks.
+Last week, Anthropic introduced an AI model called Mythos that it said specializes in identifying and exploiting vulnerabilities across operating systems and web browsers. The company decided to limit the release to a select group of trusted partners, including Amazon.com Inc., Apple Inc. and Microsoft Corp., with the goal of letting them use Mythos to spot issues and safeguard their systems.
+Mythos quickly sparked concerns among financial firms and government agencies. During a meeting last week with Wall Street leaders, summoned by US Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell, executives were warned that they should take the Mythos model seriously, Bloomberg News reported.
+The Treasury Department’s technology team is also seeking to gain access to Mythos so it can begin hunting for vulnerabilities.
+More stories like this are available onbloomberg.com
+©2026 Bloomberg L.P.

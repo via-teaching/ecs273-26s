@@ -1,0 +1,18 @@
+Title:   Meta extends custom chips deal with Broadcom to power AI ambitions
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/sectors/technology/articles/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions-211850406.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+April 14 (Reuters) - Meta (META) will work with chip designer Broadcom (AVGO) to produce several generations of customartificial intelligenceprocessors under an expanded deal ‌as the social media giant races to build out the computing ‌capacity needed to power AI features across its apps.
+Tuesday's announcement extends the tie-up until 2029 and ​includes an initial commitment of over one gigawatt ofcomputingcapacity, enough to power roughly 750,000 U.S. homes on average.
+This price reflects trading activity during the overnight session on the Blue Ocean ATS, available 8 PM to 4 AM ET, Sunday through Thursday, when regular markets are closed.
+As part of the deal, Broadcom CEO Hock Tan would leave Meta's board and move to an advisory role on its custom chip ‌strategy, the companies said ⁠in a joint statement.
+As AI drives a surge in computing demand, big technology companies such as Meta, Google and Amazon are ⁠designing their own chips to reduce reliance onNvidia's costly processors.
+That custom chip boom has made Broadcom one of the biggest winners of generative AI. The company works ​with clients ​to develop custom processors and supplies infrastructure ​software.
+Its shares were up 3.5% ‌in extended trading, while those of Meta were little changed.
+The tie-up helps "build out the massive computing foundation we need to deliver personal superintelligence to billions of people," Meta CEO Mark Zuckerberg said.
+The company, which last month unveiled a roadmap of four new chips, said the initial capacity commitment with Broadcom was "the first phase ‌of a sustained, multi-gigawatt rollout."
+Broadcom's Ethernet networking technology ​will also be used to connect Meta's rapidly ​growing clusters of AI computers.
+The ​first chip from Meta Training and Inference Accelerator (MTIA) program, called ‌the MTIA 300, already powers Meta's ranking ​and recommendation systems, ​with three more due through 2027. The later generations are designed for inference, the process by which AI models respond to user queries.
+Separately, Meta ​said on Tuesday Tracey Travis, ‌who has been on its board since 2020, would not stand ​for re-election at the company's annual shareholder meeting.
+(Reporting by Juby Babu ​in Mexico City; Editing by Maju Samuel)

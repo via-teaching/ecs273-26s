@@ -1,0 +1,20 @@
+Title:   OpenAI investors question valuation after questionable pivot
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/video/openai-investors-question-valuation-after-questionable-pivot-212000056.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+TECHnalysis Research, LLC, president Bob O'Donnell joins Josh Lipton on Market Domination Overtime to discuss OpenAI's (OPAI.PVT) big pivots ahead of its IPO that have investors scratching their heads.
+OpenAI's $86 billion valuation is under increasing scrutiny from its own backers as it switches focus to the enterprise.
+Investors telling the FT, Bob, this could leave it vulnerable to Anthropic and a resurgent Google. What do you make of that?
+Well, look, I've always thought that the enterprise was where the real opportunity was. Monetizing consumers who all want to use the service for free and are willing to, you know, accept ads in a lot of cases is a much tougher business model.
+So, I think it's important. Having said that, it is absolutely true that Anthropic has become a serious force in enterprise AI and of course Google's continues to be.
+So, I think they were going to face these challenges no matter what. Um, and just the fact that they're shifting to an enterprise focus to me isn't the real reason. I think the real reason is the fact that all of a sudden you've got other companies who are taking over the narrative around AI and it's no longer just a chat GPT world. And that really does change things and I think that's where the challenge lies.
+You think long-term it's not the consumer tools, it's going to be the enterprise subscriptions.
+I absolutely think so because businesses are using it to justify, you know, uh all kinds of new projects, creating new tools, cre you know, in some cases unfortunately reducing jobs, uh but the net net of it is it they're using it to translate into something that is tangible and measurable.
+With consumers, that's going to be a lot harder.
+Now, you know, they did, I did see OpenAI just bought that little personal finance company, so they're going to help people with their own investments. So that becomes interesting, but again, I you know, I'm not sure how big of a a deal that they can really turn that into.
+It's a nice offering to have, to be clear, but it's not the same thing as, you know, all these companies, uh, you know, investing just huge amounts of money in terms of how they can automate certain processes and all this other stuff that people are starting to do with tools, uh, like Claude.
+What do you think Sam Altman's biggest risks are?
+I think it's monetization and I think it's cost and I think frankly, it's going to be availability.
+Because one of the big concerns that we're starting to see is the fact that, you know, there's not enough compute resources. We were just talking about how all the infrastructure companies are selling out everything they they can, which is true, but we're also starting to run out of power on the grid, you know, there that's a concern that people have.
+We've got to build more data centers to enable this. We're starting to see some regulatory concerns happen there, but that's a different kind of regulatory concern than I think we've seen. Um there are, I mean, there are a lot of issues and a lot of concerns out there, but I think the biggest ones by far are just straight out competition with others who can do what they're doing in an equally good or or better way.

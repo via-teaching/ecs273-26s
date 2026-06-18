@@ -1,0 +1,28 @@
+Title:   CoreWeave Keeps Soaring: What's Going On?
+Date:    2026-04-14
+URL:     https://finance.yahoo.com/markets/stocks/articles/coreweave-keeps-soaring-whats-going-194500751.html?.tsrc=rss
+--Article Content--
+Oops, something went wrong
+Several stocks have been seeing increased interest lately, with CoreWeave CRWV nearly at the top of the list following a favorable multi-year deal with Anthropic and an extended agreement with Meta Platforms META. Shares have benefited significantly as a result, with the AI frenzy continuing to shape overall sentiment around the tech favorite’s outlook.
+CRWV shares have been scorching hot so far in April, up more than 50% after facing adverse action over the better part of the last two months. As a reminder, CRWV is a high-performance cloud provider that gives companies easy access to thousands of world-class chips, enabling them to train complex models faster and cheaper without having to buy and manage the expensive hardware themselves.
+A few days back, CoreWeave announced a multi-year agreement with Anthropic to support the development and deployment of its Claude family of AI models. The agreement has bullish implications for its overall top line growth for years to come, a primary driver behind the share surge over recent days. The company’s sales backlog totaled $66.8 billion at the end of its FY25, reflecting a record.
+CoreWeave’s sales growth has remained impressive, as shown below.
+Image Source: Zacks Investment Research
+And prior to the Anthropic positivity, CRWV also announced an expanded, long-term agreement with Meta Platforms META to provide AI cloud capacity through 2032 for approximately $21 billion. With this deal, the two companies are continuing their existing relationship, increasing support for Meta Platforms' development and deployment of AI.
+At the same time, the company’s near-term EPS outlook does remain highly pressured, though that’s a reflection of high capital expenditures aimed at building out the AI infrastructure to support the record backlog. It’s useful to see the current high CapEx as investments for the future, which weigh heavily on the near-term profitability picture.
+Strong sales revisions for its current and next fiscal years do help underpin the growing backlog nicely.
+Image Source: Zacks Investment Research
+Keep in mind that CoreWeave and fellow AI favorite NVIDIA NVDA are deeply intertwined through a strategic partnership and a significant ownership stake. The favorable relationship allows CRWV to get its hands on the magical NVIDIA chips before most, which is what CoreWeave’s AI infrastructure is built around.
+To little surprise, both sales and EPS revisions for NVIDIA concerning its current and next fiscal year continue to show a high level of bullishness, with the EPS picture shown below.
+Image Source: Zacks Investment Research
+Bottom Line
+Though CoreWeave CRWV shares showed some weak action over the cold months, the recent agreement with Anthropic and expanded deal with Meta Platforms META has helped thrust it into an extremely strong 2026 performer quickly, with shares now up more than 60% YTD.
+It’s an interesting reflection of just how quickly sentiment can change within these AI-focused stocks concerning their outlooks, and it’s reasonable to expect more of these types of moves across the market throughout the year as everything continues to play out.
+The EPS outlook for CRWV remains cloudy, reflecting the significant spending on AI infrastructure to support all the heavy computing needs.
+Of course, NVIDIA NVDA still remains the go-to for many seeking AI exposure for its leading role in the AI frenzy, with its growth over recent years likely something we won’t see from a company its size for a long time.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report
+NVIDIA Corporation (NVDA) : Free Stock Analysis Report
+Meta Platforms, Inc. (META) : Free Stock Analysis Report
+CoreWeave Inc. (CRWV) : Free Stock Analysis Report
+This article originally published on Zacks Investment Research (zacks.com).
+Zacks Investment Research

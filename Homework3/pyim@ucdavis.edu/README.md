@@ -11,7 +11,7 @@ The dashboard presents three coordinated views:
 | View | Description |
 |------|-------------|
 | **Stock Price Line Chart** | Multi-series line chart (Open, Close, High, Low) with horizontal zoom and pan |
-| **t-SNE Scatter Plot** | 2-D projection of stock embeddings colored by market sector; supports zoom and pan |
+| **t-SNE Scatter Plot** | 2-D projection of stock embeddings colored by market sector; supports zoom and click-to-select |
 | **Latest News** | Scrollable table of recent news headlines and summaries for the selected ticker |
 
 All three views are linked — selecting a stock from the dropdown or clicking a point on the scatter plot updates the other views in real time.
@@ -57,29 +57,29 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## Project Structure
 
 ```
-Homework3/
-├──pyim@ucdavis.edu/
-   ├── data/
-   │   ├── stockdata/          # Historical OHLCV CSVs for 20 tickers (AAPL, MSFT, …)
-   │   └── t-SNE/
-   │       └── tsne_latent.csv # t-SNE coordinates from latent/encoded features
-   ├── public/
-   │   └── vite.svg
-   ├── src/
-   │   ├── component/
-   │   │   ├── LineChart.tsx   # Zoomable multi-series line chart
-   │   │   ├── TSNEScatter.tsx # Interactive t-SNE scatter plot
-   │   │   ├── NewsList.tsx    # Expandable news table
-   │   │   ├── options.tsx     # Dropdown option renderer
-   │   ├── data/               # Data loaders (CSV parsers)
-   │   ├── types.ts            # Shared TypeScript interfaces
-   │   ├── App.tsx             # Root layout and shared state
-   │   ├── main.tsx            # React entry point
-   │   └── index.css           # Global styles (Tailwind)
-   ├── index.html
-   ├── package.json
-   ├── tsconfig.json
-   └── vite.config.ts
+pyim@ucdavis.edu/
+├── data/
+│   ├── stockdata/          # Historical OHLCV CSVs for 20 tickers (AAPL, MSFT, …)
+│   └── t-SNE/
+│       ├── tsne_raw.csv    # t-SNE coordinates from raw price features
+│       └── tsne_latent.csv # t-SNE coordinates from latent/encoded features
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── component/
+│   │   ├── LineChart.tsx   # Zoomable multi-series line chart
+│   │   ├── TSNEScatter.tsx # Interactive t-SNE scatter plot
+│   │   ├── NewsList.tsx    # Expandable news table
+│   │   ├── options.tsx     # Dropdown option renderer
+│   ├── data/               # Data loaders (CSV parsers)
+│   ├── types.ts            # Shared TypeScript interfaces
+│   ├── App.tsx             # Root layout and shared state
+│   ├── main.tsx            # React entry point
+│   └── index.css           # Global styles (Tailwind)
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
 ```
 
 ---
